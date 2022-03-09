@@ -1,0 +1,344 @@
+<html prefix="
+        dbp: http://dbpedia.org/property/
+        dbo: http://dbedia.org/ontology/
+        dct: http://purl.org/dc/terms/
+	og:  https://ogp.me/ns#
+	"><!-- header --><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>About: From G's to Gents (season 1)</title>
+
+    <!-- Links -->
+    <link rel="alternate" type="application/rdf+xml" href="https://live.dbpedia.org/data/From_G's_to_Gents_(season_1).rdf" title="Structured Descriptor Document (RDF/XML format)">
+    <link rel="alternate" type="text/n3" href="https://live.dbpedia.org/data/From_G's_to_Gents_(season_1).n3" title="Structured Descriptor Document (N3 format)">
+    <link rel="alternate" type="text/turtle" href="https://live.dbpedia.org/data/From_G's_to_Gents_(season_1).ttl" title="Structured Descriptor Document (Turtle format)">
+    <link rel="alternate" type="application/json+rdf" href="https://live.dbpedia.org/data/From_G's_to_Gents_(season_1).jrdf" title="Structured Descriptor Document (RDF/JSON format)">
+    <link rel="alternate" type="application/json" href="https://live.dbpedia.org/data/From_G's_to_Gents_(season_1).json" title="Structured Descriptor Document (RDF/JSON format)">
+    <link rel="alternate" type="application/atom+xml" href="https://live.dbpedia.org/data/From_G's_to_Gents_(season_1).atom" title="OData (Atom+Feed format)">
+    <link rel="alternate" type="text/plain" href="https://live.dbpedia.org/data/From_G's_to_Gents_(season_1).ntriples" title="Structured Descriptor Document (N-Triples format)">
+    <link rel="alternate" type="text/csv" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FFrom_G%27s_to_Gents_%28season_1%29%3E&amp;format=text%2Fcsv" title="Structured Descriptor Document (CSV format)">
+    
+    <link rel="alternate" type="text/cxml" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FFrom_G%27s_to_Gents_%28season_1%29%3E&amp;format=text%2Fcxml" title="Structured Descriptor Document (CXML format)">
+    
+    <link rel="alternate" type="application/microdata+json" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FFrom_G%27s_to_Gents_%28season_1%29%3E&amp;format=application%2Fmicrodata%2Bjson" title="Structured Descriptor Document (Microdata/JSON format)">
+    <link rel="alternate" type="text/html" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FFrom_G%27s_to_Gents_%28season_1%29%3E&amp;format=text%2Fhtml" title="Structured Descriptor Document (Microdata/HTML format)">
+    <link rel="alternate" type="application/ld+json" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FFrom_G%27s_to_Gents_%28season_1%29%3E&amp;format=application%2Fjson-ld" title="Structured Descriptor Document (JSON-LD format)">
+    <link rel="alternate" type="text/x-html-script-ld+json" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FFrom_G%27s_to_Gents_%28season_1%29%3E&amp;format=text%2Fx-html-script-ld%2Bjson" title="Structured Descriptor Document (HTML with embedded JSON-LD)">
+    <link rel="alternate" type="text/x-html-script-turtle" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FFrom_G%27s_to_Gents_%28season_1%29%3E&amp;format=text%2Fx-html-script-turtle" title="Structured Descriptor Document (HTML with embedded Turtle)">
+    <link rel="timegate" type="text/html" href="http://dbpedia.mementodepot.org/timegate/http://dbpedia.org/page/From_G's_to_Gents_(season_1)" title="Time Machine">
+    <link rel="foaf:primarytopic" href="http://dbpedia.org/resource/From_G's_to_Gents_(season_1)">
+    <link rev="describedby" href="http://dbpedia.org/resource/From_G's_to_Gents_(season_1)">
+    <!-- /Links -->
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
+    <!-- link rel="stylesheet" href="/statics/css/dbpedia.css" -->
+    <!-- /Stylesheets-->
+
+    <!-- OpenGraph -->
+    <meta property="og:title" content="From G's to Gents (season 1)">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="http://dbpedia.org/resource/From_G's_to_Gents_(season_1)">
+    <meta property="og:image" content="/statics/images/dbpedia_logo.png">
+    <meta property="og:description" content="">
+    <meta property="og:site_name" content="DBpedia">
+    <!-- /OpenGraph-->
+</head>
+<body about="http://dbpedia.org/resource/From_G's_to_Gents_(season_1)">
+
+<!-- navbar -->
+<nav class="navbar navbar-expand-md navbar-light bg-light fixed-top align-items-center">
+    <div class="container-xl">
+	<a class="navbar-brand" href="http://wiki.dbpedia.org/Imprint" title="About DBpedia" style="color: #2c5078">
+	    <img class="img-fluid" src="/statics/images/dbpedia_logo_land_120.png" alt="About DBpedia">
+	</a>
+	<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#dbp-navbar" aria-controls="dbp-navbar" aria-expanded="false" aria-label="Toggle navigation">
+	    <span class="navbar-toggler-icon"></span>
+	</button>
+
+	<div class="collapse navbar-collapse" id="dbp-navbar">
+	    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+		<li class="nav-item dropdown">
+		    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBrowse" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+		    <i class="bi-eye-fill"></i> Browse using<span class="caret"></span></a>
+
+		    <ul class="dropdown-menu" aria-labelledby="navbarDropdownBrowse">
+			<li class="dropdown-item"><a class="nav-link" href="/describe/?uri=http%3A%2F%2Fdbpedia.org%2Fresource%2FFrom_G%27s_to_Gents_%28season_1%29">OpenLink Faceted Browser</a></li>
+			<li class="dropdown-item"><a class="nav-link" href="http://osde.demo.openlinksw.com/#/editor?uri=https%3A%2F%2Flive.dbpedia.org%2Fdata%2FFrom_G%27s_to_Gents_%28season_1%29.ttl&amp;view=statements">OpenLink Structured Data Editor</a></li>
+			<li class="dropdown-item"><a class="nav-link" href="http://en.lodlive.it/?http%3A%2F%2Fdbpedia.org%2Fresource%2FFrom_G%27s_to_Gents_%28season_1%29">LodLive Browser</a></li>
+			<!-- li class="dropdown-item"><a class="nav-link" href="http://lodmilla.sztaki.hu/lodmilla/?url=http%3A%2F%2Fdbpedia.org%2Fresource%2FFrom_G%27s_to_Gents_%28season_1%29">LODmilla Browser</a></li -->
+		    </ul>
+		</li>
+
+		<li class="nav-item dropdown">
+		    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownFormats" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+		    <i class="bi-file-earmark-fill"></i> Formats<span class="caret"></span></a>
+
+		    <ul class="dropdown-menu" aria-labelledby="navbarDropdownFormats">
+			<li class="dropdown-item-text">RDF:</li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/data/From_G's_to_Gents_(season_1).ntriples">N-Triples</a></li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/data/From_G's_to_Gents_(season_1).n3">N3</a></li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/data/From_G's_to_Gents_(season_1).ttl">Turtle</a></li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/data/From_G's_to_Gents_(season_1).json">JSON</a></li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/data/From_G's_to_Gents_(season_1).rdf">XML</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">OData:</li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/data/From_G's_to_Gents_(season_1).atom">Atom</a></li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/data/From_G's_to_Gents_(season_1).jsod">JSON</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">Microdata:</li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FFrom_G%27s_to_Gents_%28season_1%29%3E&amp;format=application%2Fmicrodata%2Bjson">JSON</a></li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FFrom_G%27s_to_Gents_%28season_1%29%3E&amp;format=text%2Fhtml">HTML</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">Embedded:</li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FFrom_G%27s_to_Gents_%28season_1%29%3E&amp;format=text%2Fx-html-script-ld%2Bjson">JSON</a></li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FFrom_G%27s_to_Gents_%28season_1%29%3E&amp;format=text%2Fx-html-script-turtle">Turtle</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">Other:</li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FFrom_G%27s_to_Gents_%28season_1%29%3E&amp;format=text%2Fcsv">CSV</a></li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FFrom_G%27s_to_Gents_%28season_1%29%3E&amp;format=application%2Fjson-ld">JSON-LD</a></li>
+
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FFrom_G%27s_to_Gents_%28season_1%29%3E&amp;format=text%2Fcxml">CXML</a></li>
+
+		    </ul>
+		</li>
+	    </ul>
+
+	    <ul class="navbar-nav ms-auto">
+		<li class="nav-item">
+		    <a class="nav-link" href="/fct/" title="Switch to /fct endpoint"><i class="bi-box-arrow-up-right"></i> Faceted Browser </a>
+		</li>
+
+		<li class="nav-item">
+		    <a class="nav-link" href="/sparql/" title="Switch to /sparql endpoint"><i class="bi-box-arrow-up-right"></i> Sparql Endpoint </a>
+		</li>
+
+	    </ul>
+	</div>
+   </div>
+</nav>
+<div style="margin-bottom: 60px"></div>
+<!-- /navbar -->
+
+
+<!-- page-header -->
+<section>
+    <div class="container-xl">
+	<div class="row">
+	    <div class="col">
+		<h1 id="title" class="display-6"><b>About:</b>
+		    <a href="http://live.dbpedia.org/resource/From_G's_to_Gents_(season_1)">From G's to Gents (season 1)</a>
+		</h1>
+	    </div>
+	</div>
+	<div class="row">
+	    <div class="col">
+		<div class="text-muted">
+		    <span class="text-nowrap">An Entity of Type: <a href="http://live.dbpedia.org/ontology/TelevisionSeason">television season</a>, </span>
+		    <span class="text-nowrap">from Named Graph:  <a href="http://dbpedia.org">http://dbpedia.org</a>, </span>
+		    <span class="text-nowrap">within Data Space: <a href="http://live.dbpedia.org">live.dbpedia.org</a></span>
+		</div>
+	    </div>
+	</div>
+
+	<div class="row pt-2">
+	    <div class="col-xs-9 col-sm-10">
+		<p class="lead"></p>
+	    </div>
+
+	</div>
+    </div>
+</section>
+<!-- page-header -->
+
+<!-- property-table -->
+<section>
+    <div class="container-xl">
+	<div class="row">
+	    <div class="table-responsive">
+		<table class="table table-hover table-sm table-light">
+		    <thead>
+			<tr>
+			    <th class="col-xs-3 ">Property</th>
+			    <th class="col-xs-9 px-3">Value</th>
+			</tr>
+		    </thead>
+		    <tbody>
+<tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/abstract" title="http://dbpedia.org/ontology/abstract"><small>dbo:</small>abstract</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:abstract" lang="en">The first season of the MTV reality television series From G's to Gents featured 14 misdirected young men willing to change their lives and become gentlemen. The show is hosted by Fonzworth Bentley, and premiered on MTV on July 15, 2008. The objective of the show is to make the transformation from a roughneck to a sophisticated gentleman within the given time. In the end, Thaddeus aka Creepa was decided upon to be the most transformed and refined gentleman, winning the cash prize of $100,000 and membership in The Gentleman's Club.</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/firstAirDate" title="http://dbpedia.org/ontology/firstAirDate"><small>dbo:</small>firstAirDate</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:firstAirDate" datatype="xsd:date">2008-07-15</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/network" title="http://dbpedia.org/ontology/network"><small>dbo:</small>network</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:network" resource="http://dbpedia.org/resource/MTV" href="http://live.dbpedia.org/resource/MTV"><small>dbr</small>:MTV</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/numberOfEpisodes" title="http://dbpedia.org/ontology/numberOfEpisodes"><small>dbo:</small>numberOfEpisodes</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:numberOfEpisodes" datatype="xsd:nonNegativeInteger">11</span><small> (xsd:nonNegativeInteger)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/wikiPageExternalLink" title="http://dbpedia.org/ontology/wikiPageExternalLink"><small>dbo:</small>wikiPageExternalLink</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageExternalLink nofollow" resource="http://www.mtv.com/ontv/dyn/g_to_gents/series.jhtml" href="http://www.mtv.com/ontv/dyn/g_to_gents/series.jhtml">http://www.mtv.com/ontv/dyn/g_to_gents/series.jhtml</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageExternalLink nofollow" resource="http://www.mtv.com/ontv/dyn/g_to_gents/cast.jhtml" href="http://www.mtv.com/ontv/dyn/g_to_gents/cast.jhtml">http://www.mtv.com/ontv/dyn/g_to_gents/cast.jhtml</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/wikiPageID" title="http://dbpedia.org/ontology/wikiPageID"><small>dbo:</small>wikiPageID</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:wikiPageID" datatype="xsd:integer">15722401</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/wikiPageInterLanguageLink" title="http://dbpedia.org/ontology/wikiPageInterLanguageLink"><small>dbo:</small>wikiPageInterLanguageLink</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageInterLanguageLink" resource="http://nl.dbpedia.org/resource/From_G's_to_Gents" href="http://nl.dbpedia.org/resource/From_G's_to_Gents"><small>dbpedia-nl</small>:From_G's_to_Gents</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/wikiPageLength" title="http://dbpedia.org/ontology/wikiPageLength"><small>dbo:</small>wikiPageLength</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:wikiPageLength" datatype="xsd:nonNegativeInteger">23397</span><small> (xsd:nonNegativeInteger)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/wikiPageRevisionID" title="http://dbpedia.org/ontology/wikiPageRevisionID"><small>dbo:</small>wikiPageRevisionID</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:wikiPageRevisionID" datatype="xsd:integer">958858782</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/wikiPageWikiLink" title="http://dbpedia.org/ontology/wikiPageWikiLink"><small>dbo:</small>wikiPageWikiLink</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Markice_Moore" href="http://live.dbpedia.org/resource/Markice_Moore"><small>dbr</small>:Markice_Moore</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Blackballing" href="http://live.dbpedia.org/resource/Blackballing"><small>dbr</small>:Blackballing</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:2008_American_television_seasons" href="http://live.dbpedia.org/resource/Category:2008_American_television_seasons"><small>dbc</small>:2008_American_television_seasons</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Reality_television" href="http://live.dbpedia.org/resource/Reality_television"><small>dbr</small>:Reality_television</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Danity_Kane" href="http://live.dbpedia.org/resource/Danity_Kane"><small>dbr</small>:Danity_Kane</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Fonzworth_Bentley" href="http://live.dbpedia.org/resource/Fonzworth_Bentley"><small>dbr</small>:Fonzworth_Bentley</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/From_G's_to_Gents" href="http://live.dbpedia.org/resource/From_G's_to_Gents"><small>dbr</small>:From_G's_to_Gents</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/From_G's_to_Gents_(season_2)" href="http://live.dbpedia.org/resource/From_G's_to_Gents_(season_2)"><small>dbr</small>:From_G's_to_Gents_(season_2)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Barber" href="http://live.dbpedia.org/resource/Barber"><small>dbr</small>:Barber</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/MTV" href="http://live.dbpedia.org/resource/MTV"><small>dbr</small>:MTV</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Confidence_trick" href="http://live.dbpedia.org/resource/Confidence_trick"><small>dbr</small>:Confidence_trick</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Chivalry" href="http://live.dbpedia.org/resource/Chivalry"><small>dbr</small>:Chivalry</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Nyotaimori" href="http://live.dbpedia.org/resource/Nyotaimori"><small>dbr</small>:Nyotaimori</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Gentleman" href="http://live.dbpedia.org/resource/Gentleman"><small>dbr</small>:Gentleman</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/country" title="http://dbpedia.org/property/country"><small>dbp:</small>country</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:country" lang="en">United States</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/firstAired" title="http://dbpedia.org/property/firstAired"><small>dbp:</small>firstAired</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:firstAired" datatype="xsd:date">2008-07-15</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/lastAired" title="http://dbpedia.org/property/lastAired"><small>dbp:</small>lastAired</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:lastAired" datatype="xsd:date">2008-09-23</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/network" title="http://dbpedia.org/property/network"><small>dbp:</small>network</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:network" resource="http://dbpedia.org/resource/MTV" href="http://live.dbpedia.org/resource/MTV"><small>dbr</small>:MTV</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/nextSeason" title="http://dbpedia.org/property/nextSeason"><small>dbp:</small>nextSeason</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:nextSeason" resource="http://dbpedia.org/resource/From_G's_to_Gents_(season_2)" href="http://live.dbpedia.org/resource/From_G's_to_Gents_(season_2)"><small>dbr</small>:From_G's_to_Gents_(season_2)</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/numEpisodes" title="http://dbpedia.org/property/numEpisodes"><small>dbp:</small>numEpisodes</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:numEpisodes" datatype="xsd:integer">11</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/seasonNumber" title="http://dbpedia.org/property/seasonNumber"><small>dbp:</small>seasonNumber</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:seasonNumber" datatype="xsd:integer">1</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/starring" title="http://dbpedia.org/property/starring"><small>dbp:</small>starring</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:starring" resource="http://dbpedia.org/resource/Fonzworth_Bentley" href="http://live.dbpedia.org/resource/Fonzworth_Bentley"><small>dbr</small>:Fonzworth_Bentley</a></span></li>
+	<li><span class="literal"><span property="dbp:starring" lang="en">C. Frederick Secrease as Frederick</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/wikiPageUsesTemplate" title="http://dbpedia.org/property/wikiPageUsesTemplate"><small>dbp:</small>wikiPageUsesTemplate</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Color_box" href="http://live.dbpedia.org/resource/Template:Color_box"><small>dbt</small>:Color_box</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:End_date" href="http://live.dbpedia.org/resource/Template:End_date"><small>dbt</small>:End_date</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Infobox_television_season" href="http://live.dbpedia.org/resource/Template:Infobox_television_season"><small>dbt</small>:Infobox_television_season</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:More_citations_needed" href="http://live.dbpedia.org/resource/Template:More_citations_needed"><small>dbt</small>:More_citations_needed</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Multiple_issues" href="http://live.dbpedia.org/resource/Template:Multiple_issues"><small>dbt</small>:Multiple_issues</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Notability" href="http://live.dbpedia.org/resource/Template:Notability"><small>dbt</small>:Notability</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Reflist" href="http://live.dbpedia.org/resource/Template:Reflist"><small>dbt</small>:Reflist</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Start_date" href="http://live.dbpedia.org/resource/Template:Start_date"><small>dbt</small>:Start_date</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://purl.org/dc/terms/subject"><small>dct:</small>subject</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:2008_American_television_seasons" href="http://live.dbpedia.org/resource/Category:2008_American_television_seasons"><small>dbc</small>:2008_American_television_seasons</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://purl.org/linguistics/gold/hypernym"><small>gold:</small>hypernym</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="gold:hypernym" resource="http://dbpedia.org/resource/Season" prefix="gold: http://purl.org/linguistics/gold/" href="http://live.dbpedia.org/resource/Season"><small>dbr</small>:Season</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"><small>rdf:</small>type</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://www.w3.org/2002/07/owl#Thing" href="http://www.w3.org/2002/07/owl#Thing"><small>owl</small>:Thing</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://schema.org/CreativeWork" href="http://schema.org/CreativeWork"><small>schema</small>:CreativeWork</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/ontology/Work" href="http://live.dbpedia.org/ontology/Work"><small>dbo</small>:Work</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://www.wikidata.org/entity/Q386724" href="http://www.wikidata.org/entity/Q386724"><small>wikidata</small>:Q386724</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/ontology/FootballLeagueSeason" href="http://live.dbpedia.org/ontology/FootballLeagueSeason"><small>dbo</small>:FootballLeagueSeason</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/ontology/TelevisionSeason" href="http://live.dbpedia.org/ontology/TelevisionSeason"><small>dbo</small>:TelevisionSeason</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Artifact100021939" href="http://live.dbpedia.org/class/yago/Artifact100021939"><small>yago</small>:Artifact100021939</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Broadcasting106276697" href="http://live.dbpedia.org/class/yago/Broadcasting106276697"><small>yago</small>:Broadcasting106276697</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Instrumentality103575240" href="http://live.dbpedia.org/class/yago/Instrumentality103575240"><small>yago</small>:Instrumentality103575240</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Medium106254669" href="http://live.dbpedia.org/class/yago/Medium106254669"><small>yago</small>:Medium106254669</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Object100002684" href="http://live.dbpedia.org/class/yago/Object100002684"><small>yago</small>:Object100002684</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" href="http://live.dbpedia.org/class/yago/PhysicalEntity100001930"><small>yago</small>:PhysicalEntity100001930</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Telecommunication106271778" href="http://live.dbpedia.org/class/yago/Telecommunication106271778"><small>yago</small>:Telecommunication106271778</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Television106277280" href="http://live.dbpedia.org/class/yago/Television106277280"><small>yago</small>:Television106277280</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Whole100003553" href="http://live.dbpedia.org/class/yago/Whole100003553"><small>yago</small>:Whole100003553</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://umbel.org/umbel/rc/TVShow_IBT" href="http://umbel.org/umbel/rc/TVShow_IBT"><small>umbel-rc</small>:TVShow_IBT</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://www.w3.org/2000/01/rdf-schema#comment"><small>rdfs:</small>comment</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="rdfs:comment" lang="en">The first season of the MTV reality television series From G's to Gents featured 14 misdirected young men willing to change their lives and become gentlemen. The show is hosted by Fonzworth Bentley, and premiered on MTV on July 15, 2008. The objective of the show is to make the transformation from a roughneck to a sophisticated gentleman within the given time. In the end, Thaddeus aka Creepa was decided upon to be the most transformed and refined gentleman, winning the cash prize of $100,000 and membership in The Gentleman's Club.</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://www.w3.org/2000/01/rdf-schema#label"><small>rdfs:</small>label</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="rdfs:label" lang="en">From G's to Gents (season 1)</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://www.w3.org/2002/07/owl#sameAs"><small>owl:</small>sameAs</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://rdf.freebase.com/ns/m.0dkj8bp" href="http://rdf.freebase.com/ns/m.0dkj8bp"><small>freebase</small>:From G's to Gents (season 1)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="https://global.dbpedia.org/id/8CrrB" href="https://global.dbpedia.org/id/8CrrB">https://global.dbpedia.org/id/8CrrB</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://dbpedia.org/resource/From_G's_to_Gents_(season_1)" href="http://dbpedia.org/resource/From_G's_to_Gents_(season_1)"><small>dbr</small>:From G's to Gents (season 1)</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://www.w3.org/ns/prov#wasDerivedFrom"><small>prov:</small>wasDerivedFrom</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="prov:wasDerivedFrom" resource="http://en.wikipedia.org/wiki/From_G's_to_Gents_(season_1)?oldid=958858782&amp;ns=0" href="http://en.wikipedia.org/wiki/From_G's_to_Gents_(season_1)?oldid=958858782&amp;ns=0"><small>wikipedia-en</small>:From_G's_to_Gents_(season_1)?oldid=958858782&amp;ns=0</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://xmlns.com/foaf/0.1/homepage"><small>foaf:</small>homepage</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="foaf:homepage nofollow" resource="http://www.mtv.com/ontv/dyn/g_to_gents/series.jhtml" href="http://www.mtv.com/ontv/dyn/g_to_gents/series.jhtml">http://www.mtv.com/ontv/dyn/g_to_gents/series.jhtml</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://xmlns.com/foaf/0.1/isPrimaryTopicOf"><small>foaf:</small>isPrimaryTopicOf</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="foaf:isPrimaryTopicOf" resource="http://en.wikipedia.org/wiki/From_G's_to_Gents_(season_1)" href="http://en.wikipedia.org/wiki/From_G's_to_Gents_(season_1)"><small>wikipedia-en</small>:From_G's_to_Gents_(season_1)</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2">is <a class="uri" href="http://live.dbpedia.org/ontology/wikiPageRedirects" title="http://dbpedia.org/ontology/wikiPageRedirects"><small>dbo:</small>wikiPageRedirects</a>
+ of</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" resource="http://dbpedia.org/resource/From_G's_to_Gents_(Season_1)" href="http://live.dbpedia.org/resource/From_G's_to_Gents_(Season_1)"><small>dbr</small>:From_G's_to_Gents_(Season_1)</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2">is <a class="uri" href="http://live.dbpedia.org/ontology/wikiPageWikiLink" title="http://dbpedia.org/ontology/wikiPageWikiLink"><small>dbo:</small>wikiPageWikiLink</a>
+ of</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Markice_Moore" href="http://live.dbpedia.org/resource/Markice_Moore"><small>dbr</small>:Markice_Moore</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/From_G's_to_Gents" href="http://live.dbpedia.org/resource/From_G's_to_Gents"><small>dbr</small>:From_G's_to_Gents</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/From_G's_to_Gents_(season_2)" href="http://live.dbpedia.org/resource/From_G's_to_Gents_(season_2)"><small>dbr</small>:From_G's_to_Gents_(season_2)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/From_G's_to_Gents_(Season_1)" href="http://live.dbpedia.org/resource/From_G's_to_Gents_(Season_1)"><small>dbr</small>:From_G's_to_Gents_(Season_1)</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2">is <a class="uri" href="http://live.dbpedia.org/property/prevSeason" title="http://dbpedia.org/property/prevSeason"><small>dbp:</small>prevSeason</a>
+ of</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rev="dbp:prevSeason" resource="http://dbpedia.org/resource/From_G's_to_Gents_(season_2)" href="http://live.dbpedia.org/resource/From_G's_to_Gents_(season_2)"><small>dbr</small>:From_G's_to_Gents_(season_2)</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2">is <a class="uri" href="http://xmlns.com/foaf/0.1/primaryTopic"><small>foaf:</small>primaryTopic</a>
+ of</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rev="foaf:primaryTopic" resource="http://en.wikipedia.org/wiki/From_G's_to_Gents_(season_1)" href="http://en.wikipedia.org/wiki/From_G's_to_Gents_(season_1)"><small>wikipedia-en</small>:From_G's_to_Gents_(season_1)</a></span></li>
+</ul></td></tr>
+		    </tbody>
+		</table>
+	    </div>
+	</div>
+    </div>
+</section>
+<!-- property-table -->
+
+<!-- footer -->
+<section>
+    <div class="container-xl">
+	<div class="text-center p-4 bg-light">
+	    <a href="https://virtuoso.openlinksw.com/" title="OpenLink Virtuoso"><img class="powered_by" src="/statics/images/virt_power_no_border.png" alt="Powered by OpenLink Virtuoso"></a>&nbsp; &nbsp;
+	    <a href="http://linkeddata.org/"><img alt="This material is Open Knowledge" src="/statics/images/LoDLogo.gif"></a> &nbsp; &nbsp;
+	    <a href="https://live.dbpedia.org/sparql"><img alt="W3C Semantic Web Technology" src="/statics/images/sw-sparql-blue.png"></a> &nbsp;  &nbsp;
+	    <a href="https://opendefinition.org/"><img alt="This material is Open Knowledge" src="/statics/images/od_80x15_red_green.png"></a>&nbsp; &nbsp;
+	    <span style="display:none;" about="" resource="http://www.w3.org/TR/rdfa-syntax" rel="dc:conformsTo">
+		<a href="https://validator.w3.org/check?uri=referer">
+		    <img src="https://www.w3.org/Icons/valid-xhtml-rdfa" alt="Valid XHTML + RDFa">
+		</a>
+	    </span>
+	    <br>
+	    <small class="text-muted">
+		This content was extracted from <a href="http://en.wikipedia.org/wiki/From_G's_to_Gents_(season_1)">Wikipedia</a> and is licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>
+
+	    </small>
+	</div>
+    </div>
+</section>
+<!-- #footer -->
+
+<!-- scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous">
+    </script>
+
+
+</body></html>

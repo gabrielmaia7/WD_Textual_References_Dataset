@@ -1,0 +1,657 @@
+<html prefix="
+        dbp: http://dbpedia.org/property/
+        dbo: http://dbedia.org/ontology/
+        dct: http://purl.org/dc/terms/
+        dbd: http://dbpedia.org/datatype/
+	og:  https://ogp.me/ns#
+	"><!-- header --><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>About: The Brain (game show)</title>
+
+    <!-- Links -->
+    <link rel="alternate" type="application/rdf+xml" href="http://dbpedia.org/data/The_Brain_(game_show).rdf" title="Structured Descriptor Document (RDF/XML format)">
+    <link rel="alternate" type="text/n3" href="http://dbpedia.org/data/The_Brain_(game_show).n3" title="Structured Descriptor Document (N3 format)">
+    <link rel="alternate" type="text/turtle" href="http://dbpedia.org/data/The_Brain_(game_show).ttl" title="Structured Descriptor Document (Turtle format)">
+    <link rel="alternate" type="application/json+rdf" href="http://dbpedia.org/data/The_Brain_(game_show).jrdf" title="Structured Descriptor Document (RDF/JSON format)">
+    <link rel="alternate" type="application/json" href="http://dbpedia.org/data/The_Brain_(game_show).json" title="Structured Descriptor Document (RDF/JSON format)">
+    <link rel="alternate" type="application/atom+xml" href="http://dbpedia.org/data/The_Brain_(game_show).atom" title="OData (Atom+Feed format)">
+    <link rel="alternate" type="text/plain" href="http://dbpedia.org/data/The_Brain_(game_show).ntriples" title="Structured Descriptor Document (N-Triples format)">
+    <link rel="alternate" type="text/csv" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FThe_Brain_%28game_show%29%3E&amp;format=text%2Fcsv" title="Structured Descriptor Document (CSV format)">
+    
+    <link rel="alternate" type="application/microdata+json" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FThe_Brain_%28game_show%29%3E&amp;format=application%2Fmicrodata%2Bjson" title="Structured Descriptor Document (Microdata/JSON format)">
+    <link rel="alternate" type="text/html" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FThe_Brain_%28game_show%29%3E&amp;format=text%2Fhtml" title="Structured Descriptor Document (Microdata/HTML format)">
+    <link rel="alternate" type="application/ld+json" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FThe_Brain_%28game_show%29%3E&amp;format=application%2Fjson-ld" title="Structured Descriptor Document (JSON-LD format)">
+    <link rel="alternate" type="text/x-html-script-ld+json" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FThe_Brain_%28game_show%29%3E&amp;format=text%2Fx-html-script-ld%2Bjson" title="Structured Descriptor Document (HTML with embedded JSON-LD)">
+    <link rel="alternate" type="text/x-html-script-turtle" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FThe_Brain_%28game_show%29%3E&amp;format=text%2Fx-html-script-turtle" title="Structured Descriptor Document (HTML with embedded Turtle)">
+    <link rel="timegate" type="text/html" href="http://dbpedia.mementodepot.org/timegate/http://dbpedia.org/page/The_Brain_(game_show)" title="Time Machine">
+    <link rel="foaf:primarytopic" href="http://dbpedia.org/resource/The_Brain_(game_show)">
+    <link rev="describedby" href="http://dbpedia.org/resource/The_Brain_(game_show)">
+    <!-- /Links -->
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/css/bootstrap.min.css" integrity="sha512-GQGU0fMMi238uA+a/bdWJfpUGKUkBdgfFdgBm72SUQ6BeyWjoY/ton0tEjH+OSH9iP4Dfh+7HM0I9f5eR0L/4w==" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.8.1/font/bootstrap-icons.min.css" integrity="sha512-Oy+sz5W86PK0ZIkawrG0iv7XwWhYecM3exvUtMKNJMekGFJtVAhibhRPTpmyTj8+lJCkmWfnpxKgT2OopquBHA==" crossorigin="anonymous">
+    <!-- link rel="stylesheet" href="/statics/css/dbpedia.css" -->
+    <!-- /Stylesheets-->
+
+    <!-- OpenGraph -->
+    <meta property="og:title" content="The Brain (game show)">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="http://dbpedia.org/resource/The_Brain_(game_show)">
+    <meta property="og:image" content="/statics/images/dbpedia_logo.png">
+    <meta property="og:description" content="The Brain (Chinese: 最强大脑; pinyin: Zùiqiáng Dànǎo lit. &quot;The Most Powerful Brain&quot;) is a Chinese scientific reality and talent show originating in Germany. The show's aim is to find people with exceptional brainpower. This show is produced under Endemol and has been sold to multiple countries in Europe, China, Russia and United States to date.">
+    <meta property="og:site_name" content="DBpedia">
+    <!-- /OpenGraph-->
+</head>
+<body about="http://dbpedia.org/resource/The_Brain_(game_show)">
+
+<!-- navbar -->
+<nav class="navbar navbar-expand-md navbar-light bg-light fixed-top align-items-center">
+    <div class="container-xl">
+	<a class="navbar-brand" href="http://wiki.dbpedia.org/about" title="About DBpedia" style="color: #2c5078">
+	    <img class="img-fluid" src="/statics/images/dbpedia_logo_land_120.png" alt="About DBpedia">
+	</a>
+	<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#dbp-navbar" aria-controls="dbp-navbar" aria-expanded="false" aria-label="Toggle navigation">
+	    <span class="navbar-toggler-icon"></span>
+	</button>
+
+	<div class="collapse navbar-collapse" id="dbp-navbar">
+	    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+		<li class="nav-item dropdown">
+		    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBrowse" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+		    <i class="bi-eye-fill"></i> Browse using<span class="caret"></span></a>
+
+		    <ul class="dropdown-menu" aria-labelledby="navbarDropdownBrowse">
+			<li class="dropdown-item"><a class="nav-link" href="/describe/?uri=http%3A%2F%2Fdbpedia.org%2Fresource%2FThe_Brain_%28game_show%29">OpenLink Faceted Browser</a></li>
+			<li class="dropdown-item"><a class="nav-link" href="http://osde.demo.openlinksw.com/#/editor?uri=http%3A%2F%2Fdbpedia.org%2Fdata%2FThe_Brain_%28game_show%29.ttl&amp;view=statements">OpenLink Structured Data Editor</a></li>
+			<li class="dropdown-item"><a class="nav-link" href="http://en.lodlive.it/?http%3A%2F%2Fdbpedia.org%2Fresource%2FThe_Brain_%28game_show%29">LodLive Browser</a></li>
+			<!-- li class="dropdown-item"><a class="nav-link" href="http://lodmilla.sztaki.hu/lodmilla/?url=http%3A%2F%2Fdbpedia.org%2Fresource%2FThe_Brain_%28game_show%29">LODmilla Browser</a></li -->
+		    </ul>
+		</li>
+
+		<li class="nav-item dropdown">
+		    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownFormats" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+		    <i class="bi-file-earmark-fill"></i> Formats<span class="caret"></span></a>
+
+		    <ul class="dropdown-menu" aria-labelledby="navbarDropdownFormats">
+			<li class="dropdown-item-text">RDF:</li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/The_Brain_(game_show).ntriples">N-Triples</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/The_Brain_(game_show).n3">N3</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/The_Brain_(game_show).ttl">Turtle</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/The_Brain_(game_show).json">JSON</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/The_Brain_(game_show).rdf">XML</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">OData:</li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/The_Brain_(game_show).atom">Atom</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/The_Brain_(game_show).jsod">JSON</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">Microdata:</li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FThe_Brain_%28game_show%29%3E&amp;format=application%2Fmicrodata%2Bjson">JSON</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FThe_Brain_%28game_show%29%3E&amp;format=text%2Fhtml">HTML</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">Embedded:</li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FThe_Brain_%28game_show%29%3E&amp;format=text%2Fx-html-script-ld%2Bjson">JSON</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FThe_Brain_%28game_show%29%3E&amp;format=text%2Fx-html-script-turtle">Turtle</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">Other:</li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FThe_Brain_%28game_show%29%3E&amp;format=text%2Fcsv">CSV</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FThe_Brain_%28game_show%29%3E&amp;format=application%2Fjson-ld">JSON-LD</a></li>
+
+		    </ul>
+		</li>
+	    </ul>
+
+	    <ul class="navbar-nav ms-auto">
+		<li class="nav-item">
+		    <a class="nav-link" href="/fct/" title="Switch to /fct endpoint"><i class="bi-box-arrow-up-right"></i> Faceted Browser </a>
+		</li>
+
+		<li class="nav-item">
+		    <a class="nav-link" href="/sparql/" title="Switch to /sparql endpoint"><i class="bi-box-arrow-up-right"></i> Sparql Endpoint </a>
+		</li>
+
+	    </ul>
+	</div>
+   </div>
+</nav>
+<div style="margin-bottom: 60px"></div>
+<!-- /navbar -->
+
+
+<!-- page-header -->
+<section>
+    <div class="container-xl">
+	<div class="row">
+	    <div class="col">
+		<h1 id="title" class="display-6"><b>About:</b>
+		    <a href="http://dbpedia.org/resource/The_Brain_(game_show)">The Brain (game show)</a>
+		</h1>
+	    </div>
+	</div>
+	<div class="row">
+	    <div class="col">
+		<div class="text-muted">
+		    <span class="text-nowrap">An Entity of Type: <a href="http://dbpedia.org/ontology/TelevisionShow">television show</a>, </span>
+		    <span class="text-nowrap">from Named Graph:  <a href="http://dbpedia.org">http://dbpedia.org</a>, </span>
+		    <span class="text-nowrap">within Data Space: <a href="http://dbpedia.org">dbpedia.org</a></span>
+		</div>
+	    </div>
+	</div>
+	<div class="row pt-2">
+	    <div class="col-xs-9 col-sm-10">
+		<p class="lead">The Brain (Chinese: 最强大脑; pinyin: Zùiqiáng Dànǎo lit. "The Most Powerful Brain") is a Chinese scientific reality and talent show originating in Germany. The show's aim is to find people with exceptional brainpower. This show is produced under Endemol and has been sold to multiple countries in Europe, China, Russia and United States to date.</p>
+	    </div>
+
+	</div>
+    </div>
+</section>
+<!-- page-header -->
+
+<!-- property-table -->
+<section>
+    <div class="container-xl">
+	<div class="row">
+	    <div class="table-responsive">
+		<table class="table table-hover table-sm table-light">
+		    <thead>
+			<tr>
+			    <th class="col-xs-3 ">Property</th>
+			    <th class="col-xs-9 px-3">Value</th>
+			</tr>
+		    </thead>
+		    <tbody>
+<tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/Work/runtime"><small>dbo:</small>Work/runtime</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="ns0:runtime" prefix="ns0: http://dbpedia.org/ontology/Work/" datatype="dbd:minute">135.0</span></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/abstract"><small>dbo:</small>abstract</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:abstract" lang="en">The Brain (Chinese: 最强大脑; pinyin: Zùiqiáng Dànǎo lit. "The Most Powerful Brain") is a Chinese scientific reality and talent show originating in Germany. The show's aim is to find people with exceptional brainpower. This show is produced under Endemol and has been sold to multiple countries in Europe, China, Russia and United States to date. After four initial seasons, the series was rebooted as "最强大脑之燃烧吧大脑" ("The Brain: Burning Your Brain"), with a brand new concept and format, targeted at gathering teenage and young adult contestants, and introducing a series of new puzzle-based games throughout the series. The newly formatted show has run yearly since 2018. Unlike other game shows which emphasise high monetary prizes, no monetary prizes are awarded nor stressed in this program, as the show's sole aim is to find individuals who possess extraordinary mental skills. The Chinese version is the only weekly programme, unlike other one-off or annual format versions.</span><small> (en)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="zh">《最强大脑》是德国电视二台〈〉的中国版，由江苏卫视引进。节目专注于传播脑科学知识和脑力竞技， 于2014年1月3日正式开播。节目全程邀请科学家，从科学角度，探秘天才的世界，把科学带出实验室，“让科学流行起来”。不同于其他游戏节目，本节目并不以高额的奖金或物质奖励作为卖点，而重在发现脑力超乎常人的人类。节目由《非诚勿扰》团队制作，中国、德国、意大利、西班牙、美国、俄罗斯与Endemol Shine集团的国际团队合作。</span><small> (zh)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/completionDate"><small>dbo:</small>completionDate</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:completionDate" datatype="xsd:date">2017-04-07</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/creativeDirector"><small>dbo:</small>creativeDirector</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:creativeDirector" resource="http://dbpedia.org/resource/Meng_Fei_(host)" href="http://dbpedia.org/resource/Meng_Fei_(host)"><small>dbr</small>:Meng_Fei_(host)</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/creator"><small>dbo:</small>creator</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:creator" resource="http://dbpedia.org/resource/Endemol_Shine_Group" href="http://dbpedia.org/resource/Endemol_Shine_Group"><small>dbr</small>:Endemol_Shine_Group</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/developer"><small>dbo:</small>developer</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:developer" resource="http://dbpedia.org/resource/Jiangsu_Broadcasting_Corporation" href="http://dbpedia.org/resource/Jiangsu_Broadcasting_Corporation"><small>dbr</small>:Jiangsu_Broadcasting_Corporation</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/format"><small>dbo:</small>format</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:format" resource="http://dbpedia.org/resource/1080p" href="http://dbpedia.org/resource/1080p"><small>dbr</small>:1080p</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:format" resource="http://dbpedia.org/resource/576i" href="http://dbpedia.org/resource/576i"><small>dbr</small>:576i</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:format" resource="http://dbpedia.org/resource/5.1_surround_sound" href="http://dbpedia.org/resource/5.1_surround_sound"><small>dbr</small>:5.1_surround_sound</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/language"><small>dbo:</small>language</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:language" resource="http://dbpedia.org/resource/German_language" href="http://dbpedia.org/resource/German_language"><small>dbr</small>:German_language</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:language" resource="http://dbpedia.org/resource/Japanese_language" href="http://dbpedia.org/resource/Japanese_language"><small>dbr</small>:Japanese_language</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:language" resource="http://dbpedia.org/resource/Standard_Chinese" href="http://dbpedia.org/resource/Standard_Chinese"><small>dbr</small>:Standard_Chinese</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:language" resource="http://dbpedia.org/resource/English_language" href="http://dbpedia.org/resource/English_language"><small>dbr</small>:English_language</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/location"><small>dbo:</small>location</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:location" resource="http://dbpedia.org/resource/Nanjing" href="http://dbpedia.org/resource/Nanjing"><small>dbr</small>:Nanjing</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:location" resource="http://dbpedia.org/resource/Nanjing_International_Exhibition_Center" href="http://dbpedia.org/resource/Nanjing_International_Exhibition_Center"><small>dbr</small>:Nanjing_International_Exhibition_Center</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/network"><small>dbo:</small>network</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:network" resource="http://dbpedia.org/resource/Jiangsu_Broadcasting_Corporation" href="http://dbpedia.org/resource/Jiangsu_Broadcasting_Corporation"><small>dbr</small>:Jiangsu_Broadcasting_Corporation</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/numberOfEpisodes"><small>dbo:</small>numberOfEpisodes</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:numberOfEpisodes" datatype="xsd:nonNegativeInteger">25</span><small> (xsd:nonNegativeInteger)</small></span></li>
+	<li><span class="literal"><span property="dbo:numberOfEpisodes" datatype="xsd:nonNegativeInteger">50</span><small> (xsd:nonNegativeInteger)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/numberOfSeasons"><small>dbo:</small>numberOfSeasons</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:numberOfSeasons" datatype="xsd:nonNegativeInteger">2</span><small> (xsd:nonNegativeInteger)</small></span></li>
+	<li><span class="literal"><span property="dbo:numberOfSeasons" datatype="xsd:nonNegativeInteger">6</span><small> (xsd:nonNegativeInteger)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/producer"><small>dbo:</small>producer</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:producer" resource="http://dbpedia.org/resource/Endemol_Shine_Group" href="http://dbpedia.org/resource/Endemol_Shine_Group"><small>dbr</small>:Endemol_Shine_Group</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:producer" resource="http://dbpedia.org/resource/Jiangsu_Broadcasting_Corporation" href="http://dbpedia.org/resource/Jiangsu_Broadcasting_Corporation"><small>dbr</small>:Jiangsu_Broadcasting_Corporation</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/releaseDate"><small>dbo:</small>releaseDate</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:releaseDate" datatype="xsd:date">2014-01-03</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/runtime"><small>dbo:</small>runtime</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:runtime" datatype="xsd:double">8100.000000</span><small> (xsd:double)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/starring"><small>dbo:</small>starring</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/Matilda_Tao" href="http://dbpedia.org/resource/Matilda_Tao"><small>dbr</small>:Matilda_Tao</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/wikiPageExternalLink"><small>dbo:</small>wikiPageExternalLink</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageExternalLink nofollow" resource="http://www.izqdn.com" href="http://www.izqdn.com">http://www.izqdn.com</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/wikiPageID"><small>dbo:</small>wikiPageID</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:wikiPageID" datatype="xsd:integer">42007596</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/wikiPageLength"><small>dbo:</small>wikiPageLength</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:wikiPageLength" datatype="xsd:nonNegativeInteger">74600</span><small> (xsd:nonNegativeInteger)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/wikiPageRevisionID"><small>dbo:</small>wikiPageRevisionID</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:wikiPageRevisionID" datatype="xsd:integer">1053725648</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/wikiPageWikiLink"><small>dbo:</small>wikiPageWikiLink</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Li_Yongbo" href="http://dbpedia.org/resource/Li_Yongbo"><small>dbr</small>:Li_Yongbo</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Cecilia_Cheung" href="http://dbpedia.org/resource/Cecilia_Cheung"><small>dbr</small>:Cecilia_Cheung</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Feliks_Zemdegs" href="http://dbpedia.org/resource/Feliks_Zemdegs"><small>dbr</small>:Feliks_Zemdegs</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Thomas_C._Südhof" href="http://dbpedia.org/resource/Thomas_C._Südhof"><small>dbr</small>:Thomas_C._Südhof</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Tong_Dawei" href="http://dbpedia.org/resource/Tong_Dawei"><small>dbr</small>:Tong_Dawei</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Gao_Xiaosong" href="http://dbpedia.org/resource/Gao_Xiaosong"><small>dbr</small>:Gao_Xiaosong</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Endemol_Shine_Group" href="http://dbpedia.org/resource/Endemol_Shine_Group"><small>dbr</small>:Endemol_Shine_Group</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/If_You_Are_the_One_(game_show)" href="http://dbpedia.org/resource/If_You_Are_the_One_(game_show)"><small>dbr</small>:If_You_Are_the_One_(game_show)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Matilda_Tao" href="http://dbpedia.org/resource/Matilda_Tao"><small>dbr</small>:Matilda_Tao</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Paola_Perego" href="http://dbpedia.org/resource/Paola_Perego"><small>dbr</small>:Paola_Perego</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Steven_Gätjen" href="http://dbpedia.org/resource/Steven_Gätjen"><small>dbr</small>:Steven_Gätjen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/BBC_Two" href="http://dbpedia.org/resource/BBC_Two"><small>dbr</small>:BBC_Two</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Guizhou" href="http://dbpedia.org/resource/Guizhou"><small>dbr</small>:Guizhou</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Henan" href="http://dbpedia.org/resource/Henan"><small>dbr</small>:Henan</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jiangsu" href="http://dbpedia.org/resource/Jiangsu"><small>dbr</small>:Jiangsu</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Northwestern_University" href="http://dbpedia.org/resource/Northwestern_University"><small>dbr</small>:Northwestern_University</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Pound_sterling" href="http://dbpedia.org/resource/Pound_sterling"><small>dbr</small>:Pound_sterling</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/The_Chosun_Ilbo" href="http://dbpedia.org/resource/The_Chosun_Ilbo"><small>dbr</small>:The_Chosun_Ilbo</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/University_of_Connecticut" href="http://dbpedia.org/resource/University_of_Connecticut"><small>dbr</small>:University_of_Connecticut</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/ZDF" href="http://dbpedia.org/resource/ZDF"><small>dbr</small>:ZDF</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Endemol" href="http://dbpedia.org/resource/Endemol"><small>dbr</small>:Endemol</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Guiyang" href="http://dbpedia.org/resource/Guiyang"><small>dbr</small>:Guiyang</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Hong_Kong_dollar" href="http://dbpedia.org/resource/Hong_Kong_dollar"><small>dbr</small>:Hong_Kong_dollar</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Human_brain" href="http://dbpedia.org/resource/Human_brain"><small>dbr</small>:Human_brain</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Northeastern_University" href="http://dbpedia.org/resource/Northeastern_University"><small>dbr</small>:Northeastern_University</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/South_Korean_won" href="http://dbpedia.org/resource/South_Korean_won"><small>dbr</small>:South_Korean_won</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Binary_number" href="http://dbpedia.org/resource/Binary_number"><small>dbr</small>:Binary_number</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Ben_Pridmore" href="http://dbpedia.org/resource/Ben_Pridmore"><small>dbr</small>:Ben_Pridmore</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/UTC+08:00" href="http://dbpedia.org/resource/UTC+08:00"><small>dbr</small>:UTC+08:00</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Kim_Soo-hyun" href="http://dbpedia.org/resource/Kim_Soo-hyun"><small>dbr</small>:Kim_Soo-hyun</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/NMB48" href="http://dbpedia.org/resource/NMB48"><small>dbr</small>:NMB48</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Meng_Fei_(host)" href="http://dbpedia.org/resource/Meng_Fei_(host)"><small>dbr</small>:Meng_Fei_(host)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Tong_Liya" href="http://dbpedia.org/resource/Tong_Liya"><small>dbr</small>:Tong_Liya</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Zhang_Zhaozhong" href="http://dbpedia.org/resource/Zhang_Zhaozhong"><small>dbr</small>:Zhang_Zhaozhong</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Wang_Feng_(mnemonist)" href="http://dbpedia.org/resource/Wang_Feng_(mnemonist)"><small>dbr</small>:Wang_Feng_(mnemonist)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Antena_3_(Spanish_TV_channel)" href="http://dbpedia.org/resource/Antena_3_(Spanish_TV_channel)"><small>dbr</small>:Antena_3_(Spanish_TV_channel)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jay_Chou" href="http://dbpedia.org/resource/Jay_Chou"><small>dbr</small>:Jay_Chou</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/New_York_City" href="http://dbpedia.org/resource/New_York_City"><small>dbr</small>:New_York_City</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/TF1" href="http://dbpedia.org/resource/TF1"><small>dbr</small>:TF1</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Carina_Lau" href="http://dbpedia.org/resource/Carina_Lau"><small>dbr</small>:Carina_Lau</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Hong_Kong_Film_Award" href="http://dbpedia.org/resource/Hong_Kong_Film_Award"><small>dbr</small>:Hong_Kong_Film_Award</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Lang_Lang" href="http://dbpedia.org/resource/Lang_Lang"><small>dbr</small>:Lang_Lang</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Rai_1" href="http://dbpedia.org/resource/Rai_1"><small>dbr</small>:Rai_1</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Robert_Fountain_(mental_calculator)" href="http://dbpedia.org/resource/Robert_Fountain_(mental_calculator)"><small>dbr</small>:Robert_Fountain_(mental_calculator)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Brain" href="http://dbpedia.org/resource/Brain"><small>dbr</small>:Brain</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Chess" href="http://dbpedia.org/resource/Chess"><small>dbr</small>:Chess</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/China" href="http://dbpedia.org/resource/China"><small>dbr</small>:China</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Euro" href="http://dbpedia.org/resource/Euro"><small>dbr</small>:Euro</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/German_language" href="http://dbpedia.org/resource/German_language"><small>dbr</small>:German_language</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Germany" href="http://dbpedia.org/resource/Germany"><small>dbr</small>:Germany</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Hong_Kong" href="http://dbpedia.org/resource/Hong_Kong"><small>dbr</small>:Hong_Kong</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Italy" href="http://dbpedia.org/resource/Italy"><small>dbr</small>:Italy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Japan" href="http://dbpedia.org/resource/Japan"><small>dbr</small>:Japan</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Japanese_language" href="http://dbpedia.org/resource/Japanese_language"><small>dbr</small>:Japanese_language</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/London" href="http://dbpedia.org/resource/London"><small>dbr</small>:London</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Mahjong" href="http://dbpedia.org/resource/Mahjong"><small>dbr</small>:Mahjong</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Mandelbrot_set" href="http://dbpedia.org/resource/Mandelbrot_set"><small>dbr</small>:Mandelbrot_set</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Massachusetts_Institute_of_Technology" href="http://dbpedia.org/resource/Massachusetts_Institute_of_Technology"><small>dbr</small>:Massachusetts_Institute_of_Technology</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Neuroscience" href="http://dbpedia.org/resource/Neuroscience"><small>dbr</small>:Neuroscience</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Prime_number" href="http://dbpedia.org/resource/Prime_number"><small>dbr</small>:Prime_number</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Reality_television" href="http://dbpedia.org/resource/Reality_television"><small>dbr</small>:Reality_television</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Standard-definition_television" href="http://dbpedia.org/resource/Standard-definition_television"><small>dbr</small>:Standard-definition_television</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Australia" href="http://dbpedia.org/resource/Australia"><small>dbr</small>:Australia</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Barbie_Hsu" href="http://dbpedia.org/resource/Barbie_Hsu"><small>dbr</small>:Barbie_Hsu</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Daisuke_Ono" href="http://dbpedia.org/resource/Daisuke_Ono"><small>dbr</small>:Daisuke_Ono</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Robin_Li" href="http://dbpedia.org/resource/Robin_Li"><small>dbr</small>:Robin_Li</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/High-definition_television" href="http://dbpedia.org/resource/High-definition_television"><small>dbr</small>:High-definition_television</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Augmented_reality" href="http://dbpedia.org/resource/Augmented_reality"><small>dbr</small>:Augmented_reality</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/China_Central_Television" href="http://dbpedia.org/resource/China_Central_Television"><small>dbr</small>:China_Central_Television</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Discovery_Channel" href="http://dbpedia.org/resource/Discovery_Channel"><small>dbr</small>:Discovery_Channel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Guinness_World_Records" href="http://dbpedia.org/resource/Guinness_World_Records"><small>dbr</small>:Guinness_World_Records</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Fox_Broadcasting_Company" href="http://dbpedia.org/resource/Fox_Broadcasting_Company"><small>dbr</small>:Fox_Broadcasting_Company</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Fudan_University" href="http://dbpedia.org/resource/Fudan_University"><small>dbr</small>:Fudan_University</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Hexagon" href="http://dbpedia.org/resource/Hexagon"><small>dbr</small>:Hexagon</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Nanjing" href="http://dbpedia.org/resource/Nanjing"><small>dbr</small>:Nanjing</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Nanjing_Massacre" href="http://dbpedia.org/resource/Nanjing_Massacre"><small>dbr</small>:Nanjing_Massacre</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/National_Academy_of_Sciences" href="http://dbpedia.org/resource/National_Academy_of_Sciences"><small>dbr</small>:National_Academy_of_Sciences</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Peking_University" href="http://dbpedia.org/resource/Peking_University"><small>dbr</small>:Peking_University</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Piano" href="http://dbpedia.org/resource/Piano"><small>dbr</small>:Piano</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Playing_card" href="http://dbpedia.org/resource/Playing_card"><small>dbr</small>:Playing_card</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Renminbi" href="http://dbpedia.org/resource/Renminbi"><small>dbr</small>:Renminbi</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Rubik's_Cube" href="http://dbpedia.org/resource/Rubik's_Cube"><small>dbr</small>:Rubik's_Cube</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Singapore" href="http://dbpedia.org/resource/Singapore"><small>dbr</small>:Singapore</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/South_Korea" href="http://dbpedia.org/resource/South_Korea"><small>dbr</small>:South_Korea</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Spain" href="http://dbpedia.org/resource/Spain"><small>dbr</small>:Spain</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Standard_Chinese" href="http://dbpedia.org/resource/Standard_Chinese"><small>dbr</small>:Standard_Chinese</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/United_Kingdom" href="http://dbpedia.org/resource/United_Kingdom"><small>dbr</small>:United_Kingdom</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/University_of_Pennsylvania" href="http://dbpedia.org/resource/University_of_Pennsylvania"><small>dbr</small>:University_of_Pennsylvania</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/University_of_Sydney" href="http://dbpedia.org/resource/University_of_Sydney"><small>dbr</small>:University_of_Sydney</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Zhang_Ziyi" href="http://dbpedia.org/resource/Zhang_Ziyi"><small>dbr</small>:Zhang_Ziyi</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Barcode" href="http://dbpedia.org/resource/Barcode"><small>dbr</small>:Barcode</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Ai_Fukuhara" href="http://dbpedia.org/resource/Ai_Fukuhara"><small>dbr</small>:Ai_Fukuhara</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Baidu" href="http://dbpedia.org/resource/Baidu"><small>dbr</small>:Baidu</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Channel_U_(Singapore)" href="http://dbpedia.org/resource/Channel_U_(Singapore)"><small>dbr</small>:Channel_U_(Singapore)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Guo_Jingming" href="http://dbpedia.org/resource/Guo_Jingming"><small>dbr</small>:Guo_Jingming</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Lang_Ping" href="http://dbpedia.org/resource/Lang_Ping"><small>dbr</small>:Lang_Ping</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/NTV7" href="http://dbpedia.org/resource/NTV7"><small>dbr</small>:NTV7</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Experimental_psychology" href="http://dbpedia.org/resource/Experimental_psychology"><small>dbr</small>:Experimental_psychology</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Along_the_River_During_the_Qingming_Festival" href="http://dbpedia.org/resource/Along_the_River_During_the_Qingming_Festival"><small>dbr</small>:Along_the_River_During_the_Qingming_Festival</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Xu_Jinglei" href="http://dbpedia.org/resource/Xu_Jinglei"><small>dbr</small>:Xu_Jinglei</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/1080p" href="http://dbpedia.org/resource/1080p"><small>dbr</small>:1080p</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Beijing" href="http://dbpedia.org/resource/Beijing"><small>dbr</small>:Beijing</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Seoul" href="http://dbpedia.org/resource/Seoul"><small>dbr</small>:Seoul</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/United_States_dollar" href="http://dbpedia.org/resource/United_States_dollar"><small>dbr</small>:United_States_dollar</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Edvard_Moser" href="http://dbpedia.org/resource/Edvard_Moser"><small>dbr</small>:Edvard_Moser</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Beat_the_Brain" href="http://dbpedia.org/resource/Beat_the_Brain"><small>dbr</small>:Beat_the_Brain</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Sichuan_opera" href="http://dbpedia.org/resource/Sichuan_opera"><small>dbr</small>:Sichuan_opera</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:Chinese_game_shows" href="http://dbpedia.org/resource/Category:Chinese_game_shows"><small>dbc</small>:Chinese_game_shows</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Crossword" href="http://dbpedia.org/resource/Crossword"><small>dbr</small>:Crossword</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Li_Yuchun" href="http://dbpedia.org/resource/Li_Yuchun"><small>dbr</small>:Li_Yuchun</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/McGovern_Institute_for_Brain_Research" href="http://dbpedia.org/resource/McGovern_Institute_for_Brain_Research"><small>dbr</small>:McGovern_Institute_for_Brain_Research</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Michael_Gazzaniga" href="http://dbpedia.org/resource/Michael_Gazzaniga"><small>dbr</small>:Michael_Gazzaniga</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Polsat" href="http://dbpedia.org/resource/Polsat"><small>dbr</small>:Polsat</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/576i" href="http://dbpedia.org/resource/576i"><small>dbr</small>:576i</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Sudoku" href="http://dbpedia.org/resource/Sudoku"><small>dbr</small>:Sudoku</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Christophe_Dechavanne" href="http://dbpedia.org/resource/Christophe_Dechavanne"><small>dbr</small>:Christophe_Dechavanne</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Kal_Penn" href="http://dbpedia.org/resource/Kal_Penn"><small>dbr</small>:Kal_Penn</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Lin_Dan" href="http://dbpedia.org/resource/Lin_Dan"><small>dbr</small>:Lin_Dan</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Shu_Qi" href="http://dbpedia.org/resource/Shu_Qi"><small>dbr</small>:Shu_Qi</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Vietnamese_đồng" href="http://dbpedia.org/resource/Vietnamese_đồng"><small>dbr</small>:Vietnamese_đồng</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Wu_Minxia" href="http://dbpedia.org/resource/Wu_Minxia"><small>dbr</small>:Wu_Minxia</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Google_Finance" href="http://dbpedia.org/resource/Google_Finance"><small>dbr</small>:Google_Finance</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Sina_Weibo" href="http://dbpedia.org/resource/Sina_Weibo"><small>dbr</small>:Sina_Weibo</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Fan_Bingbing" href="http://dbpedia.org/resource/Fan_Bingbing"><small>dbr</small>:Fan_Bingbing</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Li_Xiaolu" href="http://dbpedia.org/resource/Li_Xiaolu"><small>dbr</small>:Li_Xiaolu</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Malaysia" href="http://dbpedia.org/resource/Malaysia"><small>dbr</small>:Malaysia</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/United_States" href="http://dbpedia.org/resource/United_States"><small>dbr</small>:United_States</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/5.1_surround_sound" href="http://dbpedia.org/resource/5.1_surround_sound"><small>dbr</small>:5.1_surround_sound</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/16:9_aspect_ratio" href="http://dbpedia.org/resource/16:9_aspect_ratio"><small>dbr</small>:16:9_aspect_ratio</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Mental_calculation" href="http://dbpedia.org/resource/Mental_calculation"><small>dbr</small>:Mental_calculation</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Time_in_China" href="http://dbpedia.org/resource/Time_in_China"><small>dbr</small>:Time_in_China</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Fu_Yuanhui" href="http://dbpedia.org/resource/Fu_Yuanhui"><small>dbr</small>:Fu_Yuanhui</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/SBS_Viceland" href="http://dbpedia.org/resource/SBS_Viceland"><small>dbr</small>:SBS_Viceland</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Ke_Jie" href="http://dbpedia.org/resource/Ke_Jie"><small>dbr</small>:Ke_Jie</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Ren_Zhiqiang" href="http://dbpedia.org/resource/Ren_Zhiqiang"><small>dbr</small>:Ren_Zhiqiang</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Alex_Mullen_(memory_athlete)" href="http://dbpedia.org/resource/Alex_Mullen_(memory_athlete)"><small>dbr</small>:Alex_Mullen_(memory_athlete)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Huang_Jianxiang" href="http://dbpedia.org/resource/Huang_Jianxiang"><small>dbr</small>:Huang_Jianxiang</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Trấn_Thành" href="http://dbpedia.org/resource/Trấn_Thành"><small>dbr</small>:Trấn_Thành</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Yanjaa" href="http://dbpedia.org/resource/Yanjaa"><small>dbr</small>:Yanjaa</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/T-ara" href="http://dbpedia.org/resource/T-ara"><small>dbr</small>:T-ara</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jörg_Pilawa" href="http://dbpedia.org/resource/Jörg_Pilawa"><small>dbr</small>:Jörg_Pilawa</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/USA_Memory_Championship" href="http://dbpedia.org/resource/USA_Memory_Championship"><small>dbr</small>:USA_Memory_Championship</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Speedcubing" href="http://dbpedia.org/resource/Speedcubing"><small>dbr</small>:Speedcubing</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Ho_Chi_Minh_City_Television" href="http://dbpedia.org/resource/Ho_Chi_Minh_City_Television"><small>dbr</small>:Ho_Chi_Minh_City_Television</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/SNH48" href="http://dbpedia.org/resource/SNH48"><small>dbr</small>:SNH48</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/The_Big_Brain_Theory" href="http://dbpedia.org/resource/The_Big_Brain_Theory"><small>dbr</small>:The_Big_Brain_Theory</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/English_language" href="http://dbpedia.org/resource/English_language"><small>dbr</small>:English_language</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Ukraine_(TV_channel)" href="http://dbpedia.org/resource/Ukraine_(TV_channel)"><small>dbr</small>:Ukraine_(TV_channel)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Liu_Guoliang" href="http://dbpedia.org/resource/Liu_Guoliang"><small>dbr</small>:Liu_Guoliang</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Dora_E._Angelaki" href="http://dbpedia.org/resource/Dora_E._Angelaki"><small>dbr</small>:Dora_E._Angelaki</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Akira_Haraguchi" href="http://dbpedia.org/resource/Akira_Haraguchi"><small>dbr</small>:Akira_Haraguchi</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Konrad_Körding" href="http://dbpedia.org/resource/Konrad_Körding"><small>dbr</small>:Konrad_Körding</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/TFBoys" href="http://dbpedia.org/resource/TFBoys"><small>dbr</small>:TFBoys</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Nanjing_International_Exhibition_Center" href="http://dbpedia.org/resource/Nanjing_International_Exhibition_Center"><small>dbr</small>:Nanjing_International_Exhibition_Center</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:2014_Chinese_television_series_debuts" href="http://dbpedia.org/resource/Category:2014_Chinese_television_series_debuts"><small>dbc</small>:2014_Chinese_television_series_debuts</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:2017_Chinese_television_series_endings" href="http://dbpedia.org/resource/Category:2017_Chinese_television_series_endings"><small>dbc</small>:2017_Chinese_television_series_endings</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:Jiangsu_Television_original_programming" href="http://dbpedia.org/resource/Category:Jiangsu_Television_original_programming"><small>dbc</small>:Jiangsu_Television_original_programming</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Carlos_Sobera" href="http://dbpedia.org/resource/Carlos_Sobera"><small>dbr</small>:Carlos_Sobera</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jiangsu_Broadcasting_Corporation" href="http://dbpedia.org/resource/Jiangsu_Broadcasting_Corporation"><small>dbr</small>:Jiangsu_Broadcasting_Corporation</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/My_Love_from_the_Star" href="http://dbpedia.org/resource/My_Love_from_the_Star"><small>dbr</small>:My_Love_from_the_Star</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Nelson_Dellis" href="http://dbpedia.org/resource/Nelson_Dellis"><small>dbr</small>:Nelson_Dellis</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Talent_show" href="http://dbpedia.org/resource/Talent_show"><small>dbr</small>:Talent_show</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/World_Memory_Championships" href="http://dbpedia.org/resource/World_Memory_Championships"><small>dbr</small>:World_Memory_Championships</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Russia-1" href="http://dbpedia.org/resource/Russia-1"><small>dbr</small>:Russia-1</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/World_Sudoku_Championship" href="http://dbpedia.org/resource/World_Sudoku_Championship"><small>dbr</small>:World_Sudoku_Championship</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Robert_Desimone" href="http://dbpedia.org/resource/Robert_Desimone"><small>dbr</small>:Robert_Desimone</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jerzy_Mielewski" href="http://dbpedia.org/resource/Jerzy_Mielewski"><small>dbr</small>:Jerzy_Mielewski</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/South_German_Memory_Championship" href="http://dbpedia.org/resource/South_German_Memory_Championship"><small>dbr</small>:South_German_Memory_Championship</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Swedish_Memory_Championship" href="http://dbpedia.org/resource/Swedish_Memory_Championship"><small>dbr</small>:Swedish_Memory_Championship</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Гуревич,_Александр_Витальевич" href="http://dbpedia.org/resource/Гуревич,_Александр_Витальевич"><small>dbr</small>:Гуревич,_Александр_Витальевич</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/altName"><small>dbp:</small>altName</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:altName" lang="en">Alternative name: Super Brain</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/audioFormat"><small>dbp:</small>audioFormat</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:audioFormat" datatype="xsd:double">5.100000</span><small> (xsd:double)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/country"><small>dbp:</small>country</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:country" lang="en">China</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/creativeDirector"><small>dbp:</small>creativeDirector</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:creativeDirector" resource="http://dbpedia.org/resource/Meng_Fei_(host)" href="http://dbpedia.org/resource/Meng_Fei_(host)"><small>dbr</small>:Meng_Fei_(host)</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/creator"><small>dbp:</small>creator</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:creator" lang="en">Endemol Shine Germany in association with Jiangsu Television</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/date"><small>dbp:</small>date</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:date" lang="en">August 2021</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/developer"><small>dbp:</small>developer</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:developer" resource="http://dbpedia.org/resource/Jiangsu_Broadcasting_Corporation" href="http://dbpedia.org/resource/Jiangsu_Broadcasting_Corporation"><small>dbr</small>:Jiangsu_Broadcasting_Corporation</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/endtheme"><small>dbp:</small>endtheme</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:endtheme" lang="en">We win as one</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/executiveProducer"><small>dbp:</small>executiveProducer</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:executiveProducer" lang="en">Sang Jie</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/firstAired"><small>dbp:</small>firstAired</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:firstAired" datatype="xsd:date">2014-01-03</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/inaccurate"><small>dbp:</small>inaccurate</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:inaccurate" lang="en">yes</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/language"><small>dbp:</small>language</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:language" resource="http://dbpedia.org/resource/German_language" href="http://dbpedia.org/resource/German_language"><small>dbr</small>:German_language</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:language" resource="http://dbpedia.org/resource/Japanese_language" href="http://dbpedia.org/resource/Japanese_language"><small>dbr</small>:Japanese_language</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:language" resource="http://dbpedia.org/resource/Standard_Chinese" href="http://dbpedia.org/resource/Standard_Chinese"><small>dbr</small>:Standard_Chinese</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:language" resource="http://dbpedia.org/resource/English_language" href="http://dbpedia.org/resource/English_language"><small>dbr</small>:English_language</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/lastAired"><small>dbp:</small>lastAired</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:lastAired" datatype="xsd:date">2017-04-07</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/location"><small>dbp:</small>location</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:location" lang="en">Headquarters of Jiangsu Television and Nanjing International Exhibition Center, Nanjing</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/name"><small>dbp:</small>name</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:name" lang="en">The Brain</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:name" lang="en">Zuiqiang Danao</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/network"><small>dbp:</small>network</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:network" resource="http://dbpedia.org/resource/Jiangsu_Broadcasting_Corporation" href="http://dbpedia.org/resource/Jiangsu_Broadcasting_Corporation"><small>dbr</small>:Jiangsu_Broadcasting_Corporation</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/numEpisodes"><small>dbp:</small>numEpisodes</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:numEpisodes" datatype="xsd:integer">25</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:numEpisodes" datatype="xsd:integer">50</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/numSeasons"><small>dbp:</small>numSeasons</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:numSeasons" datatype="xsd:integer">6</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:numSeasons" lang="en">including 2 reformatted seasons as "最强大脑之燃烧吧大脑 "</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/opentheme"><small>dbp:</small>opentheme</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:opentheme" lang="en">We win as one</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/p"><small>dbp:</small>p</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:p" lang="en">Zùiqiáng Dànǎo</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/pictureFormat"><small>dbp:</small>pictureFormat</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:pictureFormat" datatype="xsd:integer">576</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:pictureFormat" datatype="dbd:pond">1080.0</span></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/presenter"><small>dbp:</small>presenter</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:presenter" lang="en">Jiang Changjian</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/producer"><small>dbp:</small>producer</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:producer" lang="en">Endemol Shine Group, Jiangsu Television</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/runtime"><small>dbp:</small>runtime</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:runtime" datatype="dbd:second">8100.0</span></span></li>
+	<li><span class="literal"><span property="dbp:runtime" datatype="dbd:second">-7200.0</span></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/s"><small>dbp:</small>s</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:s" lang="en">最强大脑</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/starring"><small>dbp:</small>starring</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:starring" lang="en">Wei Kunlin , Tao Ching-Ying and guest panellists</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/website"><small>dbp:</small>website</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:website nofollow" resource="http://www.izqdn.com" href="http://www.izqdn.com">http://www.izqdn.com</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/wikiPageUsesTemplate"><small>dbp:</small>wikiPageUsesTemplate</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:CHN" href="http://dbpedia.org/resource/Template:CHN"><small>dbt</small>:CHN</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Cquote" href="http://dbpedia.org/resource/Template:Cquote"><small>dbt</small>:Cquote</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:End_date" href="http://dbpedia.org/resource/Template:End_date"><small>dbt</small>:End_date</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Flag" href="http://dbpedia.org/resource/Template:Flag"><small>dbt</small>:Flag</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Flagicon" href="http://dbpedia.org/resource/Template:Flagicon"><small>dbt</small>:Flagicon</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Infobox_television" href="http://dbpedia.org/resource/Template:Infobox_television"><small>dbt</small>:Infobox_television</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:N/a" href="http://dbpedia.org/resource/Template:N/a"><small>dbt</small>:N/a</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:No" href="http://dbpedia.org/resource/Template:No"><small>dbt</small>:No</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Nobold" href="http://dbpedia.org/resource/Template:Nobold"><small>dbt</small>:Nobold</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Official" href="http://dbpedia.org/resource/Template:Official"><small>dbt</small>:Official</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Reflist" href="http://dbpedia.org/resource/Template:Reflist"><small>dbt</small>:Reflist</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Start_date" href="http://dbpedia.org/resource/Template:Start_date"><small>dbt</small>:Start_date</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Update" href="http://dbpedia.org/resource/Template:Update"><small>dbt</small>:Update</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Yes" href="http://dbpedia.org/resource/Template:Yes"><small>dbt</small>:Yes</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Zh" href="http://dbpedia.org/resource/Template:Zh"><small>dbt</small>:Zh</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Noitalics" href="http://dbpedia.org/resource/Template:Noitalics"><small>dbt</small>:Noitalics</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Jiangsu_Broadcasting_Corporation" href="http://dbpedia.org/resource/Template:Jiangsu_Broadcasting_Corporation"><small>dbt</small>:Jiangsu_Broadcasting_Corporation</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://purl.org/dc/terms/subject"><small>dct:</small>subject</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:Chinese_game_shows" href="http://dbpedia.org/resource/Category:Chinese_game_shows"><small>dbc</small>:Chinese_game_shows</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:2014_Chinese_television_series_debuts" href="http://dbpedia.org/resource/Category:2014_Chinese_television_series_debuts"><small>dbc</small>:2014_Chinese_television_series_debuts</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:2017_Chinese_television_series_endings" href="http://dbpedia.org/resource/Category:2017_Chinese_television_series_endings"><small>dbc</small>:2017_Chinese_television_series_endings</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:Jiangsu_Television_original_programming" href="http://dbpedia.org/resource/Category:Jiangsu_Television_original_programming"><small>dbc</small>:Jiangsu_Television_original_programming</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://purl.org/linguistics/gold/hypernym"><small>gold:</small>hypernym</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="gold:hypernym" resource="http://dbpedia.org/resource/Reality" prefix="gold: http://purl.org/linguistics/gold/" href="http://dbpedia.org/resource/Reality"><small>dbr</small>:Reality</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"><small>rdf:</small>type</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://www.w3.org/2002/07/owl#Thing" href="http://www.w3.org/2002/07/owl#Thing"><small>owl</small>:Thing</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://schema.org/CreativeWork" href="http://schema.org/CreativeWork"><small>schema</small>:CreativeWork</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/ontology/Work" href="http://dbpedia.org/ontology/Work"><small>dbo</small>:Work</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://www.wikidata.org/entity/Q15416" href="http://www.wikidata.org/entity/Q15416"><small>wikidata</small>:Q15416</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://www.wikidata.org/entity/Q386724" href="http://www.wikidata.org/entity/Q386724"><small>wikidata</small>:Q386724</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/ontology/TelevisionShow" href="http://dbpedia.org/ontology/TelevisionShow"><small>dbo</small>:TelevisionShow</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/WikicatChineseGameShows" href="http://dbpedia.org/class/yago/WikicatChineseGameShows"><small>yago</small>:WikicatChineseGameShows</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" href="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"><small>yago</small>:YagoPermanentlyLocatedEntity</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Abstraction100002137" href="http://dbpedia.org/class/yago/Abstraction100002137"><small>yago</small>:Abstraction100002137</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Act100030358" href="http://dbpedia.org/class/yago/Act100030358"><small>yago</small>:Act100030358</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Action100037396" href="http://dbpedia.org/class/yago/Action100037396"><small>yago</small>:Action100037396</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Beginning100235435" href="http://dbpedia.org/class/yago/Beginning100235435"><small>yago</small>:Beginning100235435</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Broadcast106619428" href="http://dbpedia.org/class/yago/Broadcast106619428"><small>yago</small>:Broadcast106619428</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Change100191142" href="http://dbpedia.org/class/yago/Change100191142"><small>yago</small>:Change100191142</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/ChangeOfState100199130" href="http://dbpedia.org/class/yago/ChangeOfState100199130"><small>yago</small>:ChangeOfState100199130</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Ending106308765" href="http://dbpedia.org/class/yago/Ending106308765"><small>yago</small>:Ending106308765</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Event100029378" href="http://dbpedia.org/class/yago/Event100029378"><small>yago</small>:Event100029378</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/GameShow106621061" href="http://dbpedia.org/class/yago/GameShow106621061"><small>yago</small>:GameShow106621061</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Introduction100238022" href="http://dbpedia.org/class/yago/Introduction100238022"><small>yago</small>:Introduction100238022</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/LanguageUnit106284225" href="http://dbpedia.org/class/yago/LanguageUnit106284225"><small>yago</small>:LanguageUnit106284225</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Morpheme106306233" href="http://dbpedia.org/class/yago/Morpheme106306233"><small>yago</small>:Morpheme106306233</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Part113809207" href="http://dbpedia.org/class/yago/Part113809207"><small>yago</small>:Part113809207</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/PsychologicalFeature100023100" href="http://dbpedia.org/class/yago/PsychologicalFeature100023100"><small>yago</small>:PsychologicalFeature100023100</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Relation100031921" href="http://dbpedia.org/class/yago/Relation100031921"><small>yago</small>:Relation100031921</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Show106619065" href="http://dbpedia.org/class/yago/Show106619065"><small>yago</small>:Show106619065</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/SocialEvent107288639" href="http://dbpedia.org/class/yago/SocialEvent107288639"><small>yago</small>:SocialEvent107288639</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Wikicat2014ChineseTelevisionSeriesDebuts" href="http://dbpedia.org/class/yago/Wikicat2014ChineseTelevisionSeriesDebuts"><small>yago</small>:Wikicat2014ChineseTelevisionSeriesDebuts</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Wikicat2014ChineseTelevisionSeriesEndings" href="http://dbpedia.org/class/yago/Wikicat2014ChineseTelevisionSeriesEndings"><small>yago</small>:Wikicat2014ChineseTelevisionSeriesEndings</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://www.w3.org/2000/01/rdf-schema#comment"><small>rdfs:</small>comment</a>
+</td><td class="col-10 text-break"><ul>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="zh">《最强大脑》是德国电视二台〈〉的中国版，由江苏卫视引进。节目专注于传播脑科学知识和脑力竞技， 于2014年1月3日正式开播。节目全程邀请科学家，从科学角度，探秘天才的世界，把科学带出实验室，“让科学流行起来”。不同于其他游戏节目，本节目并不以高额的奖金或物质奖励作为卖点，而重在发现脑力超乎常人的人类。节目由《非诚勿扰》团队制作，中国、德国、意大利、西班牙、美国、俄罗斯与Endemol Shine集团的国际团队合作。</span><small> (zh)</small></span></li>
+	<li><span class="literal"><span property="rdfs:comment" lang="en">The Brain (Chinese: 最强大脑; pinyin: Zùiqiáng Dànǎo lit. "The Most Powerful Brain") is a Chinese scientific reality and talent show originating in Germany. The show's aim is to find people with exceptional brainpower. This show is produced under Endemol and has been sold to multiple countries in Europe, China, Russia and United States to date.</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://www.w3.org/2000/01/rdf-schema#label"><small>rdfs:</small>label</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="rdfs:label" lang="en">The Brain (game show)</span><small> (en)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="zh">最强大脑</span><small> (zh)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://www.w3.org/2002/07/owl#sameAs"><small>owl:</small>sameAs</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://rdf.freebase.com/ns/m.0_s43s6" href="http://rdf.freebase.com/ns/m.0_s43s6"><small>freebase</small>:The Brain (game show)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://yago-knowledge.org/resource/The_Brain_(game_show)" href="http://yago-knowledge.org/resource/The_Brain_(game_show)"><small>yago-res</small>:The Brain (game show)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://www.wikidata.org/entity/Q5915067" href="http://www.wikidata.org/entity/Q5915067"><small>wikidata</small>:The Brain (game show)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://vi.dbpedia.org/resource/Siêu_trí_tuệ_(Trung_Quốc)" href="http://vi.dbpedia.org/resource/Siêu_trí_tuệ_(Trung_Quốc)"><small>dbpedia-vi</small>:The Brain (game show)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://zh.dbpedia.org/resource/最强大脑" href="http://zh.dbpedia.org/resource/最强大脑"><small>dbpedia-zh</small>:The Brain (game show)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="https://global.dbpedia.org/id/4nJWo" href="https://global.dbpedia.org/id/4nJWo">https://global.dbpedia.org/id/4nJWo</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://www.w3.org/ns/prov#wasDerivedFrom"><small>prov:</small>wasDerivedFrom</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="prov:wasDerivedFrom" resource="http://en.wikipedia.org/wiki/The_Brain_(game_show)?oldid=1053725648&amp;ns=0" href="http://en.wikipedia.org/wiki/The_Brain_(game_show)?oldid=1053725648&amp;ns=0"><small>wikipedia-en</small>:The_Brain_(game_show)?oldid=1053725648&amp;ns=0</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://xmlns.com/foaf/0.1/homepage"><small>foaf:</small>homepage</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="foaf:homepage nofollow" resource="http://www.izqdn.com" href="http://www.izqdn.com">http://www.izqdn.com</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://xmlns.com/foaf/0.1/isPrimaryTopicOf"><small>foaf:</small>isPrimaryTopicOf</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="foaf:isPrimaryTopicOf" resource="http://en.wikipedia.org/wiki/The_Brain_(game_show)" href="http://en.wikipedia.org/wiki/The_Brain_(game_show)"><small>wikipedia-en</small>:The_Brain_(game_show)</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2">is <a class="uri" href="http://dbpedia.org/ontology/wikiPageDisambiguates"><small>dbo:</small>wikiPageDisambiguates</a>
+ of</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageDisambiguates" resource="http://dbpedia.org/resource/Brain_(disambiguation)" href="http://dbpedia.org/resource/Brain_(disambiguation)"><small>dbr</small>:Brain_(disambiguation)</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2">is <a class="uri" href="http://dbpedia.org/ontology/wikiPageRedirects"><small>dbo:</small>wikiPageRedirects</a>
+ of</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" resource="http://dbpedia.org/resource/The_Brain_(Chinese_Television_Series)" href="http://dbpedia.org/resource/The_Brain_(Chinese_Television_Series)"><small>dbr</small>:The_Brain_(Chinese_Television_Series)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" resource="http://dbpedia.org/resource/The_Brain_(TV_series)" href="http://dbpedia.org/resource/The_Brain_(TV_series)"><small>dbr</small>:The_Brain_(TV_series)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" resource="http://dbpedia.org/resource/Superhuman_(game_show)" href="http://dbpedia.org/resource/Superhuman_(game_show)"><small>dbr</small>:Superhuman_(game_show)</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2">is <a class="uri" href="http://dbpedia.org/ontology/wikiPageWikiLink"><small>dbo:</small>wikiPageWikiLink</a>
+ of</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Raquel_Sánchez-Silva" href="http://dbpedia.org/resource/Raquel_Sánchez-Silva"><small>dbr</small>:Raquel_Sánchez-Silva</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Feliks_Zemdegs" href="http://dbpedia.org/resource/Feliks_Zemdegs"><small>dbr</small>:Feliks_Zemdegs</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_international_game_shows" href="http://dbpedia.org/resource/List_of_international_game_shows"><small>dbr</small>:List_of_international_game_shows</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Christina_Milian" href="http://dbpedia.org/resource/Christina_Milian"><small>dbr</small>:Christina_Milian</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Pieter_Schlosser" href="http://dbpedia.org/resource/Pieter_Schlosser"><small>dbr</small>:Pieter_Schlosser</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Singer_(season_6)" href="http://dbpedia.org/resource/Singer_(season_6)"><small>dbr</small>:Singer_(season_6)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_television_programs:_B" href="http://dbpedia.org/resource/List_of_television_programs:_B"><small>dbr</small>:List_of_television_programs:_B</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Polsat" href="http://dbpedia.org/resource/Polsat"><small>dbr</small>:Polsat</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Kal_Penn" href="http://dbpedia.org/resource/Kal_Penn"><small>dbr</small>:Kal_Penn</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_programmes_broadcast_by_8TV_(Malaysian_TV_network)" href="http://dbpedia.org/resource/List_of_programmes_broadcast_by_8TV_(Malaysian_TV_network)"><small>dbr</small>:List_of_programmes_broadcast_by_8TV_(Malaysian_TV_network)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Brain_(disambiguation)" href="http://dbpedia.org/resource/Brain_(disambiguation)"><small>dbr</small>:Brain_(disambiguation)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Zeng_Yanfen" href="http://dbpedia.org/resource/Zeng_Yanfen"><small>dbr</small>:Zeng_Yanfen</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Alex_Mullen_(memory_athlete)" href="http://dbpedia.org/resource/Alex_Mullen_(memory_athlete)"><small>dbr</small>:Alex_Mullen_(memory_athlete)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Li_Yitong_(singer)" href="http://dbpedia.org/resource/Li_Yitong_(singer)"><small>dbr</small>:Li_Yitong_(singer)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Trấn_Thành" href="http://dbpedia.org/resource/Trấn_Thành"><small>dbr</small>:Trấn_Thành</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Yanjaa" href="http://dbpedia.org/resource/Yanjaa"><small>dbr</small>:Yanjaa</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jonas_von_Essen" href="http://dbpedia.org/resource/Jonas_von_Essen"><small>dbr</small>:Jonas_von_Essen</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Singer_(season_7)" href="http://dbpedia.org/resource/Singer_(season_7)"><small>dbr</small>:Singer_(season_7)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Gong_Jun" href="http://dbpedia.org/resource/Gong_Jun"><small>dbr</small>:Gong_Jun</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/T-ara" href="http://dbpedia.org/resource/T-ara"><small>dbr</small>:T-ara</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Tyler_Hinman" href="http://dbpedia.org/resource/Tyler_Hinman"><small>dbr</small>:Tyler_Hinman</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/The_Brain_(Chinese_Television_Series)" href="http://dbpedia.org/resource/The_Brain_(Chinese_Television_Series)"><small>dbr</small>:The_Brain_(Chinese_Television_Series)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/The_Brain_(TV_series)" href="http://dbpedia.org/resource/The_Brain_(TV_series)"><small>dbr</small>:The_Brain_(TV_series)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Superhuman_(disambiguation)" href="http://dbpedia.org/resource/Superhuman_(disambiguation)"><small>dbr</small>:Superhuman_(disambiguation)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jiangsu_Broadcasting_Corporation" href="http://dbpedia.org/resource/Jiangsu_Broadcasting_Corporation"><small>dbr</small>:Jiangsu_Broadcasting_Corporation</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Nelson_Dellis" href="http://dbpedia.org/resource/Nelson_Dellis"><small>dbr</small>:Nelson_Dellis</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Robert_Desimone" href="http://dbpedia.org/resource/Robert_Desimone"><small>dbr</small>:Robert_Desimone</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Superhuman_(game_show)" href="http://dbpedia.org/resource/Superhuman_(game_show)"><small>dbr</small>:Superhuman_(game_show)</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2">is <a class="uri" href="http://xmlns.com/foaf/0.1/primaryTopic"><small>foaf:</small>primaryTopic</a>
+ of</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rev="foaf:primaryTopic" resource="http://en.wikipedia.org/wiki/The_Brain_(game_show)" href="http://en.wikipedia.org/wiki/The_Brain_(game_show)"><small>wikipedia-en</small>:The_Brain_(game_show)</a></span></li>
+</ul></td></tr>
+		    </tbody>
+		</table>
+	    </div>
+	</div>
+    </div>
+</section>
+<!-- property-table -->
+
+<!-- footer -->
+<section>
+    <div class="container-xl">
+	<div class="text-center p-4 bg-light">
+	    <a href="https://virtuoso.openlinksw.com/" title="OpenLink Virtuoso"><img class="powered_by" src="/statics/images/virt_power_no_border.png" alt="Powered by OpenLink Virtuoso"></a>&nbsp; &nbsp;
+	    <a href="http://linkeddata.org/"><img alt="This material is Open Knowledge" src="/statics/images/LoDLogo.gif"></a> &nbsp; &nbsp;
+	    <a href="http://dbpedia.org/sparql"><img alt="W3C Semantic Web Technology" src="/statics/images/sw-sparql-blue.png"></a> &nbsp;  &nbsp;
+	    <a href="https://opendefinition.org/"><img alt="This material is Open Knowledge" src="/statics/images/od_80x15_red_green.png"></a>&nbsp; &nbsp;
+	    <span style="display:none;" about="" resource="http://www.w3.org/TR/rdfa-syntax" rel="dc:conformsTo">
+		<a href="https://validator.w3.org/check?uri=referer">
+		    <img src="https://www.w3.org/Icons/valid-xhtml-rdfa" alt="Valid XHTML + RDFa">
+		</a>
+	    </span>
+	    <br>
+	    <small class="text-muted">
+		This content was extracted from <a href="http://en.wikipedia.org/wiki/The_Brain_(game_show)">Wikipedia</a> and is licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>
+
+	    </small>
+	</div>
+    </div>
+</section>
+<!-- #footer -->
+
+<!-- scripts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/js/bootstrap.bundle.min.js" integrity="sha512-pax4MlgXjHEPfCwcJLQhigY7+N8rt6bVvWLFyUMuxShv170X53TRzGPmPkZmGBhk+jikR8WBM4yl7A9WMHHqvg==" crossorigin="anonymous">
+    </script>
+
+
+</body></html>

@@ -1,0 +1,389 @@
+<html lang="en-us"><head>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+<link rel="shortcut icon" href="http://www.isfdb.org/favicon.ico">
+<title>Summary Bibliography: Delilah S. Dawson</title>
+<link href="http://www.isfdb.org/biblio.css" rel="stylesheet" type="text/css" media="screen">
+</head>
+<body>
+<div id="wrap">
+<a class="topbanner" href="http://www.isfdb.org/cgi-bin/index.cgi">
+<span>
+<img src="http://www.isfdb.org/IsfdbBanner3.jpg" alt="ISFDB banner">
+</span>
+</a>
+<div id="statusbar">
+<h2>Summary Bibliography: Delilah S. Dawson</h2>
+<script type="text/javascript" src="http://www.isfdb.org/isfdb_main.js"></script>
+<h3>You are not logged in. If you
+ <a href="http://www.isfdb.org/wiki/index.php?title=Special:Userlogin&amp;type=signup">
+<span class="newuser">create a free account</span></a>
+ and sign in, you will be able to customize what is displayed.</h3>
+</div>
+<div id="nav">
+<div id="search">
+<a href="http://www.isfdb.org/cgi-bin/index.cgi">
+<img src="http://www.isfdb.org/isfdb.gif" width="130" height="77" alt="ISFDB logo">
+</a>
+Search the database
+<form method="get" action="http://www.isfdb.org/cgi-bin/se.cgi" name="searchform" id="searchform">
+<p>
+<input name="arg" id="searchform_arg" class="search" value="">
+<select name="type" class="search">
+<option>Name</option>
+<option>Fiction Titles</option>
+<option>All Titles</option>
+<option>Year of Title</option>
+<option>Month of Title</option>
+<option>Month of Publication</option>
+<option>Series</option>
+<option>Publication Series</option>
+<option>Magazine</option>
+<option>Publisher</option>
+<option>ISBN</option>
+<option>Tag</option>
+<option>Award</option>
+</select>
+<input value="Go" type="submit">
+</p></form>
+<p class="bottomlinks">
+<a class="inverted" href="http://www.isfdb.org/cgi-bin/adv_search_menu.cgi" dir="ltr">Advanced Search</a>
+</p></div>
+<div class="divider">
+Not Logged In
+</div>
+<ul class="navbar">
+<li><a href="http://www.isfdb.org/cgi-bin/dologin.cgi?ea.cgi+168217" dir="ltr">Log In</a>
+</li><li><a href="http://www.isfdb.org/wiki/index.php/Help:Navigation_Bar">Help Navigating</a>
+</li></ul>
+<div class="divider">
+Other Pages:
+</div>
+<ul class="navbar">
+<li><a href="http://www.isfdb.org/cgi-bin/index.cgi" dir="ltr">Home Page</a>
+</li><li><a href="http://www.isfdb.org/wiki/index.php/Main_Page">ISFDB Wiki</a>
+</li><li><a href="http://www.isfdb.org/wiki/index.php/ISFDB:FAQ">ISFDB FAQ</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/calendar_menu.cgi" dir="ltr">SF Calendar</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/directory.cgi?author" dir="ltr">Author Directory</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/award_directory.cgi" dir="ltr">Award Directory</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/directory.cgi?publisher" dir="ltr">Publisher Directory</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/directory.cgi?magazine" dir="ltr">Magazine Directory</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/stats-and-tops.cgi" dir="ltr">Statistics/Top Lists</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/recent_activity_menu.cgi" dir="ltr">Recent Activity</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/edit/cleanup.cgi" dir="ltr">Cleanup Reports</a>
+</li></ul>
+<div class="divider">
+Editing Tools:
+</div>
+<ul class="navbar">
+<li><a href="http://www.isfdb.org/cgi-bin/edit/editauth.cgi?168217" dir="ltr">Edit Author Data</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/edit/mkpseudo.cgi?168217" dir="ltr">Make/Remove Alternate Name</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/adv_search_results.cgi?START=0&amp;TYPE=Title&amp;USE_1=author_canonical&amp;O_1=exact&amp;TERM_1=Delilah%20S.%20Dawson&amp;ORDERBY=title_title&amp;C=AND">Show All Titles</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/edit/find_dups.cgi?168217" dir="ltr">Check for Duplicate Titles</a>
+</li></ul>
+<div class="divider">
+Add New Data:
+</div>
+<ul class="navbar">
+<li><a href="http://www.isfdb.org/cgi-bin/edit/newpub.cgi?Anthology" dir="ltr">Add New Anthology</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/edit/newpub.cgi?Chapbook" dir="ltr">Add New Chapbook</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/edit/newpub.cgi?Collection" dir="ltr">Add New Collection</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/edit/newpub.cgi?Fanzine" dir="ltr">Add New Fanzine</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/edit/newpub.cgi?Magazine" dir="ltr">Add New Magazine</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/edit/newpub.cgi?Nonfiction" dir="ltr">Add New Nonfiction</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/edit/newpub.cgi?Novel" dir="ltr">Add New Novel</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/edit/newpub.cgi?Omnibus" dir="ltr">Add New Omnibus</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/edit/select_award_type.cgi?0" dir="ltr">Add Untitled Award</a>
+</li></ul>
+<div class="divider">
+Policies:
+</div>
+<ul class="navbar">
+<li><a href="http://www.isfdb.org/wiki/index.php/ISFDB:General_disclaimer">Disclaimer</a>
+</li><li><a href="http://www.isfdb.org/wiki/index.php/ISFDB:Privacy_policy">Privacy Policy</a>
+</li><li><a href="http://www.isfdb.org/wiki/index.php/Banner_Art_Credits">Banner Art Credits</a>
+</li></ul>
+<div class="divider">
+License:
+</div>
+<div id="cclicense">
+<a rel="license" href="https://creativecommons.org/licenses/by/2.0/">
+<img alt="Creative Commons License" src="https://creativecommons.org/images/public/somerights20.gif"></a><br>
+This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/2.0/">Creative Commons License</a>.
+</div>
+</div>
+<div id="content">
+<div class="ContentBox">
+<table>
+<tbody><tr align="left">
+<td>
+<img src="https://images-na.ssl-images-amazon.com/images/I/51Hh-M2xWtL.jpg" width="150" alt="Author Picture">
+</td>
+<td class="authorimage">
+<ul>
+<li><b>Author:</b> Delilah S. Dawson
+<span class="recordID"><b>Author Record # </b>168217</span>
+</li><li><b>Birthplace:</b> Roswell, Georgia, USA
+</li><li><b>Birthdate:</b> 21 October 1977
+</li><li><b>Language:</b> English
+</li><li><b>Webpages:</b> <a href="http://delilahpaints.blogspot.com.au/" target="_blank">delilahpaints.blogspot.com.au</a>, <a href="http://www.goodreads.com/author/show/5135449.Delilah_S_Dawson" target="_blank">Goodreads</a>, <a href="http://www.whimsydark.com" target="_blank">whimsydark.com</a>, <a href="https://en.wikipedia.org/wiki/Delilah_S._Dawson" target="_blank">Wikipedia-EN</a>
+</li><li><b>Used These Alternate Names:</b>
+<a href="http://www.isfdb.org/cgi-bin/ea.cgi?218409" dir="ltr">Lila Bowen</a>
+</li><li> <div class="notes"><b>Note:</b> Also writes erotica as Ava Lovelace.</div>
+</li><li><b>Author Tags:</b>
+<a href="http://www.isfdb.org/cgi-bin/tag_author.cgi?51+168217" dir="ltr">fantasy</a> (7), <a href="http://www.isfdb.org/cgi-bin/tag_author.cgi?21+168217" dir="ltr">steampunk</a> (6), <a href="http://www.isfdb.org/cgi-bin/tag_author.cgi?161+168217" dir="ltr">paranormal romance</a> (4), <a href="http://www.isfdb.org/cgi-bin/tag_author.cgi?341+168217" dir="ltr">urban fantasy</a> (3), <a href="http://www.isfdb.org/cgi-bin/tag_author.cgi?221+168217" dir="ltr">vampires</a> (3), <a href="http://www.isfdb.org/cgi-bin/tag_author.cgi?1801+168217" dir="ltr">dystopia</a> (3), <a href="http://www.isfdb.org/cgi-bin/tag_author.cgi?1081+168217" dir="ltr">humorous</a> (3), <a href="http://www.isfdb.org/cgi-bin/tag_author.cgi?3295+168217" dir="ltr">juvenile sf</a> (3), <a href="http://www.isfdb.org/cgi-bin/tag_author.cgi?231+168217" dir="ltr">young-adult sf</a> (2), <a href="http://www.isfdb.org/cgi-bin/tag_author.cgi?2253+168217" dir="ltr">thriller</a> (2), <a href="http://www.isfdb.org/cgi-bin/tag_author.cgi?1411+168217" dir="ltr">assassin</a> (2), <a href="http://www.isfdb.org/cgi-bin/tag_author.cgi?121+168217" dir="ltr">space opera</a> (2), <a href="http://www.isfdb.org/cgi-bin/tag_author.cgi?31+168217" dir="ltr">science fiction</a> (2), <a href="http://www.isfdb.org/cgi-bin/tag_author.cgi?181+168217" dir="ltr">young-adult fantasy</a> (1), <a href="http://www.isfdb.org/cgi-bin/tag_author.cgi?3109+168217" dir="ltr">young-adult horror</a> (1), <a href="http://www.isfdb.org/cgi-bin/tag_author.cgi?361+168217" dir="ltr">shapechangers</a> (1), <a href="http://www.isfdb.org/cgi-bin/tag_author.cgi?5528+168217" dir="ltr">weird west</a> (1), <a href="http://www.isfdb.org/cgi-bin/tag_author.cgi?3270+168217" dir="ltr">juvenile horror</a> (1), <a href="http://www.isfdb.org/cgi-bin/tag_author.cgi?731+168217" dir="ltr">ghosts</a> (1)
+</li></ul>
+</td>
+</tr></tbody></table>
+Image supplied by <a href="https://www.amazon.com" target="_blank">Amazon.com</a>
+</div>
+<div class="ContentBox">
+<div class="translationmessage"><b>Showing all translations. <a href="http://www.isfdb.org/cgi-bin/ea.cgi?168217+None" dir="ltr"><button type="button">Never display translations</button></a> Registered users can choose which translations are shown.</b></div>
+<table class="bibliolinks">
+<tbody><tr>
+<td><b>Other views:</b></td>
+<td class="authorbiblios"><b> <a href="http://www.isfdb.org/cgi-bin/eaw.cgi?168217" dir="ltr">Awards</a> <a href="http://www.isfdb.org/cgi-bin/ae.cgi?168217" dir="ltr">Alphabetical</a> <a href="http://www.isfdb.org/cgi-bin/ch.cgi?168217" dir="ltr">Chronological</a></b></td>
+</tr>
+</tbody></table>
+<br>
+<b>Fiction Series</b>
+<ul>
+<li>  <a href="http://www.isfdb.org/cgi-bin/pe.cgi?31692" dir="ltr">Blud</a>
+<ul>
+<li> 1
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?1374093" dir="ltr"><i>Wicked As They Come</i></a> (<b>2012</b>)
+</li><li> 2
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?1563380" dir="ltr"><i>Wicked As She Wants</i></a> (<b>2013</b>)
+</li><li> 3
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?1663579" dir="ltr"><i>Wicked After Midnight</i></a> (<b>2014</b>)
+</li><li> 4
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2200411" dir="ltr"><i>Wicked Ever After</i></a> (<b>2015</b>)
+</li><li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?1507519" dir="ltr"><i>The Mysterious Madam Morpho</i></a> (<b>2012</b>) <b>[SF]</b> 
+</li><li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?1563383" dir="ltr"><i>The Peculiar Pets of Miss Pleasance</i></a> (<b>2013</b>) <b>[SF]</b> 
+</li><li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?1598952" dir="ltr"><i>The Three Lives of Lydia</i></a> (<b>2013</b>) <b>[SF]</b> 
+</li><li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2200413" dir="ltr"><i>The Damsel and the Daggerman</i></a> (<b>2014</b>) <b>[SF]</b> 
+</li><li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?1938582" dir="ltr"><i>Not My Circus, Not My Monkeys</i></a> (<b>2015</b>) <b>[SF]</b> 
+</li></ul>
+<br>
+</li><li>  <a href="http://www.isfdb.org/cgi-bin/pe.cgi?42077" dir="ltr">Hit</a>
+<ul>
+<li> 1
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?1830324" dir="ltr"><i>Hit</i></a> (<b>2015</b>)
+</li><li> 2
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2006685" dir="ltr"><i>Strike</i></a> (<b>2016</b>)
+</li></ul>
+<br>
+</li><li>  <a href="http://www.isfdb.org/cgi-bin/pe.cgi?38910" dir="ltr">Minecraft Universe</a>
+<ul>
+<li>  <a href="http://www.isfdb.org/cgi-bin/pe.cgi?45749" dir="ltr">Official Minecraft Fiction</a>
+<ul>
+<li>  <a href="http://www.isfdb.org/cgi-bin/pe.cgi?65649" dir="ltr">Mob Squad</a>
+<ul>
+<li> 1
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2905105" dir="ltr"><i>Mob Squad</i></a> (<b>2021</b>)
+</li><li> 2
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2978470" dir="ltr"><i>Never Say Nether</i></a> (<b>2022</b>)
+</li></ul>
+</li></ul>
+</li></ul>
+<br>
+</li><li>  <a href="http://www.isfdb.org/cgi-bin/pe.cgi?207" dir="ltr">Star Wars Universe</a>
+<ul>
+<li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2609022" dir="ltr"><i>The Skywalker Saga</i></a> (<b>2019</b>)
+</li><li>  <a href="http://www.isfdb.org/cgi-bin/pe.cgi?50855" dir="ltr">From a Certain Point of View</a>
+<ul>
+<li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2280165" dir="ltr"><i>The Secrets of Long Snoot</i></a> (<b>2017</b>) <b>[SF]</b> 
+</li><li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2858188" dir="ltr"><i>She Will Keep Them Warm</i></a> (<b>2020</b>) <b>[SF]</b> 
+</li></ul>
+</li><li>  <a href="http://www.isfdb.org/cgi-bin/pe.cgi?46377" dir="ltr">Journey to Star Wars: The Last Jedi</a>
+<ul>
+<li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2234617" dir="ltr"><i>Phasma</i></a> (<b>2017</b>)
+ also appeared as:
+<ul>
+<li>
+ <b>Translation:</b> <a href="http://www.isfdb.org/cgi-bin/title.cgi?2468411" dir="ltr"><i>Phasma</i></a> [German] (<b>2018</b>)
+</li></ul>
+</li></ul>
+</li><li>  <a href="http://www.isfdb.org/cgi-bin/pe.cgi?11" dir="ltr">Star Wars</a>
+<ul>
+<li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2080172" dir="ltr"><i>Star Wars: The Perfect Weapon</i></a> (<b>2015</b>) <b>[SF]</b> 
+</li><li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2156862" dir="ltr"><i>Scorched</i></a> (<b>2016</b>) <b>[SF]</b> 
+</li></ul>
+</li><li>  <a href="http://www.isfdb.org/cgi-bin/pe.cgi?54650" dir="ltr">Star Wars: Galaxy's Edge</a>
+<ul>
+<li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2574798" dir="ltr"><i>Black Spire</i></a> (<b>2019</b>)
+</li></ul>
+</li></ul>
+<br>
+</li><li>  <a href="http://www.isfdb.org/cgi-bin/pe.cgi?40064" dir="ltr">The Shadow (Lila Bowen)</a>
+<ul>
+<li> 1
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?1898611" dir="ltr"><i>Wake of Vultures</i></a> (<b>2015</b>)
+ [<b>only as by</b> <a href="http://www.isfdb.org/cgi-bin/ea.cgi?218409" dir="ltr">Lila Bowen</a>]
+</li><li> 2
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2051341" dir="ltr"><i>Conspiracy of Ravens</i></a> (<b>2016</b>)
+ [<b>only as by</b> <a href="http://www.isfdb.org/cgi-bin/ea.cgi?218409" dir="ltr">Lila Bowen</a>]
+</li><li> 3
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2243131" dir="ltr"><i>Malice of Crows</i></a> (<b>2017</b>)
+ [<b>only as by</b> <a href="http://www.isfdb.org/cgi-bin/ea.cgi?218409" dir="ltr">Lila Bowen</a>]
+</li><li> 4
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2421687" dir="ltr"><i>Treason of Hawks</i></a> (<b>2018</b>)
+ [<b>only as by</b> <a href="http://www.isfdb.org/cgi-bin/ea.cgi?218409" dir="ltr">Lila Bowen</a>]
+</li><li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2246594" dir="ltr"><i>A Pitying of Turtle Doves</i></a> (<b>2016</b>) <b>[SF]</b> 
+ [<b>only as by</b> <a href="http://www.isfdb.org/cgi-bin/ea.cgi?218409" dir="ltr">Lila Bowen</a>]
+</li><li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2313386" dir="ltr"><i>Asylum of Cuckoos</i></a> (<b>2018</b>) <b>[SF]</b> 
+ [<b>only as by</b> <a href="http://www.isfdb.org/cgi-bin/ea.cgi?218409" dir="ltr">Lila Bowen</a>]
+</li><li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2308538" dir="ltr"><i>Ostentation of Peacocks</i></a> (<b>2018</b>) <b>[SF]</b> 
+ [<b>only as by</b> <a href="http://www.isfdb.org/cgi-bin/ea.cgi?218409" dir="ltr">Lila Bowen</a>]
+</li><li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2486948" dir="ltr"><i>Grist of Bees</i></a> (<b>2019</b>) <b>[SF]</b> 
+ [<b>only as by</b> <a href="http://www.isfdb.org/cgi-bin/ea.cgi?218409" dir="ltr">Lila Bowen</a>]
+</li></ul>
+<br>
+</li><li>  <a href="http://www.isfdb.org/cgi-bin/pe.cgi?50157" dir="ltr">The Tales of Pell</a>
+<ul>
+<li> 1
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2370759" dir="ltr"><i>Kill the Farm Boy</i></a> (<b>2018</b>)
+ <b>with</b> 
+<a href="http://www.isfdb.org/cgi-bin/ea.cgi?151405" dir="ltr">Kevin Hearne</a>
+</li><li> 2
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2519979" dir="ltr"><i>No Country for Old Gnomes</i></a> (<b>2019</b>)
+ <b>with</b> 
+<a href="http://www.isfdb.org/cgi-bin/ea.cgi?151405" dir="ltr">Kevin Hearne</a>
+</li><li> 3
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2605562" dir="ltr"><i>The Princess Beard</i></a> (<b>2019</b>)
+ <b>with</b> 
+<a href="http://www.isfdb.org/cgi-bin/ea.cgi?151405" dir="ltr">Kevin Hearne</a>
+</li><li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2787127" dir="ltr"><i>Kill the Farm Boy (excerpt)</i></a> (<b>2018</b>) <b>[SF]</b> 
+ <b>with</b> 
+<a href="http://www.isfdb.org/cgi-bin/ea.cgi?151405" dir="ltr">Kevin Hearne</a>
+</li><li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2787122" dir="ltr"><i>Kill the Farm Boy (excerpt)</i></a> (<b>2018</b>) <b>[SF]</b> 
+ <b>with</b> 
+<a href="http://www.isfdb.org/cgi-bin/ea.cgi?151405" dir="ltr">Kevin Hearne</a>
+</li><li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2551938" dir="ltr"><i>Among a Throng of Bilious Octogenarians</i></a> (<b>2019</b>) <b>[SF]</b> 
+</li></ul>
+</li></ul>
+<b>Novels</b>
+<ul>
+<li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?1745538" dir="ltr"><i>Servants of the Storm</i></a> (<b>2014</b>)
+</li><li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2883038" dir="ltr"><i>Mine</i></a> (<b>2021</b>)
+</li><li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2976794" dir="ltr"><i>The Violence</i></a> (<b>2022</b>)
+</li></ul>
+<b>Anthologies</b>
+<ul>
+<li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?1938580" dir="ltr"><i>Three Slices</i></a> (<b>2015</b>)
+ <b>with</b> 
+<a href="http://www.isfdb.org/cgi-bin/ea.cgi?151405" dir="ltr">Kevin Hearne</a>
+ <b>and</b> 
+<a href="http://www.isfdb.org/cgi-bin/ea.cgi?29798" dir="ltr">Chuck Wendig</a>
+</li><li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2486949" dir="ltr"><i>Death &amp; Honey</i></a> (<b>2019</b>)
+ <b>with</b> 
+<a href="http://www.isfdb.org/cgi-bin/ea.cgi?151405" dir="ltr">Kevin Hearne</a>
+ <b>and</b> 
+<a href="http://www.isfdb.org/cgi-bin/ea.cgi?29798" dir="ltr">Chuck Wendig</a>
+ [<b>only as by</b> <a href="http://www.isfdb.org/cgi-bin/ea.cgi?218409" dir="ltr">Lila Bowen</a> <b>and</b> <a href="http://www.isfdb.org/cgi-bin/ea.cgi?151405" dir="ltr">Kevin Hearne</a> <b>and</b> <a href="http://www.isfdb.org/cgi-bin/ea.cgi?29798" dir="ltr">Chuck Wendig</a>]
+</li></ul>
+<b>Chapbooks</b>
+<ul>
+<li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?1507518" dir="ltr"><i>The Mysterious Madam Morpho</i></a> (<b>2012</b>)
+</li><li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?1563382" dir="ltr"><i>The Peculiar Pets of Miss Pleasance</i></a> (<b>2013</b>)
+</li><li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2200414" dir="ltr"><i>Follow Me Boy</i></a> (<b>2013</b>)
+</li><li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2200412" dir="ltr"><i>The Damsel and the Daggerman</i></a> (<b>2014</b>)
+</li><li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2387474" dir="ltr"><i>The Three Lives of Lydia</i></a> (<b>2014</b>)
+</li></ul>
+<b>Short Fiction Series</b>
+<ul>
+<li>  <a href="http://www.isfdb.org/cgi-bin/pe.cgi?11720" dir="ltr">Hellboy</a>
+<ul>
+<li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2248101" dir="ltr"><i>When Doves Cry</i></a> (<b>2017</b>)
+</li></ul>
+</li></ul>
+<b>Short Fiction</b>
+<ul>
+<li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2200415" dir="ltr"><i>Follow Me Boy</i></a> (<b>2013</b>)
+</li><li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2188458" dir="ltr"><i>Love Song of the Lizard Boy</i></a> (<b>2013</b>)
+</li><li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?1867564" dir="ltr"><i>Our Lady of Monsters</i></a> (<b>2013</b>)
+</li><li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2027746" dir="ltr"><i>Catcall</i></a> (<b>2015</b>)
+</li><li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?1975723" dir="ltr"><i>Uncharming</i></a> (<b>2015</b>)
+</li><li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2146778" dir="ltr"><i>Just Another Black Umbrella</i></a> (<b>2016</b>)
+</li><li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2103402" dir="ltr"><i>The First Blood of Poppy Dupree</i></a> (<b>2016</b>)
+</li><li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2465819" dir="ltr"><i>She Keeps Crawling Back</i></a> (<b>2018</b>)
+</li><li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2831687" dir="ltr"><i>Phasma (excerpt)</i></a> (<b>2019</b>)
+</li><li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2538426" dir="ltr"><i>The Willows</i></a> (<b>2019</b>)
+</li><li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2601967" dir="ltr"><i>I Hate to Leave This</i></a> (<b>2019</b>)
+</li><li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2246547" dir="ltr"><i>Wake of Vultures (excerpt)</i></a> (<b>unknown</b>)
+ only appeared as:
+<ul>
+<li>
+ <b>Variant:</b> <a href="http://www.isfdb.org/cgi-bin/title.cgi?2246400" dir="ltr"><i>Wake of Vultures (excerpt)</i></a> (<b>unknown</b>)
+ [<b>as by</b> <a href="http://www.isfdb.org/cgi-bin/ea.cgi?218409" dir="ltr">Lila Bowen</a>]
+</li><li>
+ <b>Variant:</b> <a href="http://www.isfdb.org/cgi-bin/title.cgi?2554234" dir="ltr"><i>Wake of Vultures (excerpt)</i></a> (<b>unknown</b>)
+ [<b>as by</b> <a href="http://www.isfdb.org/cgi-bin/ea.cgi?218409" dir="ltr">Lila Bowen</a>]
+</li></ul>
+</li></ul>
+<b>Essays</b>
+<ul>
+<li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2163377" dir="ltr"><i>I Have Never Not Been an Object</i></a> (<b>2017</b>)
+</li></ul>
+<b>Interviews with This Author</b>
+<ul>
+<li>  <a href="http://www.isfdb.org/cgi-bin/title.cgi?2027902" dir="ltr"><i>Interview: Delilah S. Dawson</i></a> (<b>2015</b>) 
+ <b>by</b> 
+<a href="http://www.isfdb.org/cgi-bin/ea.cgi?149325" dir="ltr">Deborah Stanish</a>
+</li><li>  <a href="http://www.isfdb.org/cgi-bin/title.cgi?2313385" dir="ltr"><i>Interview with Lila Bowen (Delilah S. Dawson)</i></a> (<b>2018</b>) 
+ <b>by</b> 
+<a href="http://www.isfdb.org/cgi-bin/ea.cgi?204527" dir="ltr">Andrea Johnson</a>
+</li></ul>
+</div>
+</div>
+<div id="bottom">
+Copyright © 1995-2022 Al von Ruff and the ISFDB team
+<br>
+<b>ISFDB Engine</b> - Version 4.00 (2006-04-24)
+</div>
+</div>
+
+
+</body></html>

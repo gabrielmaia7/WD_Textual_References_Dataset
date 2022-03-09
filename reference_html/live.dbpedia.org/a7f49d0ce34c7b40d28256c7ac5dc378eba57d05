@@ -1,0 +1,787 @@
+<html prefix="
+        dbp: http://dbpedia.org/property/
+        dbo: http://dbedia.org/ontology/
+        dct: http://purl.org/dc/terms/
+	og:  https://ogp.me/ns#
+	"><!-- header --><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>About: Teachers Only</title>
+
+    <!-- Links -->
+    <link rel="alternate" type="application/rdf+xml" href="https://live.dbpedia.org/data/Teachers_Only.rdf" title="Structured Descriptor Document (RDF/XML format)">
+    <link rel="alternate" type="text/n3" href="https://live.dbpedia.org/data/Teachers_Only.n3" title="Structured Descriptor Document (N3 format)">
+    <link rel="alternate" type="text/turtle" href="https://live.dbpedia.org/data/Teachers_Only.ttl" title="Structured Descriptor Document (Turtle format)">
+    <link rel="alternate" type="application/json+rdf" href="https://live.dbpedia.org/data/Teachers_Only.jrdf" title="Structured Descriptor Document (RDF/JSON format)">
+    <link rel="alternate" type="application/json" href="https://live.dbpedia.org/data/Teachers_Only.json" title="Structured Descriptor Document (RDF/JSON format)">
+    <link rel="alternate" type="application/atom+xml" href="https://live.dbpedia.org/data/Teachers_Only.atom" title="OData (Atom+Feed format)">
+    <link rel="alternate" type="text/plain" href="https://live.dbpedia.org/data/Teachers_Only.ntriples" title="Structured Descriptor Document (N-Triples format)">
+    <link rel="alternate" type="text/csv" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FTeachers_Only%3E&amp;format=text%2Fcsv" title="Structured Descriptor Document (CSV format)">
+    
+    <link rel="alternate" type="text/cxml" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FTeachers_Only%3E&amp;format=text%2Fcxml" title="Structured Descriptor Document (CXML format)">
+    
+    <link rel="alternate" type="application/microdata+json" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FTeachers_Only%3E&amp;format=application%2Fmicrodata%2Bjson" title="Structured Descriptor Document (Microdata/JSON format)">
+    <link rel="alternate" type="text/html" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FTeachers_Only%3E&amp;format=text%2Fhtml" title="Structured Descriptor Document (Microdata/HTML format)">
+    <link rel="alternate" type="application/ld+json" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FTeachers_Only%3E&amp;format=application%2Fjson-ld" title="Structured Descriptor Document (JSON-LD format)">
+    <link rel="alternate" type="text/x-html-script-ld+json" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FTeachers_Only%3E&amp;format=text%2Fx-html-script-ld%2Bjson" title="Structured Descriptor Document (HTML with embedded JSON-LD)">
+    <link rel="alternate" type="text/x-html-script-turtle" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FTeachers_Only%3E&amp;format=text%2Fx-html-script-turtle" title="Structured Descriptor Document (HTML with embedded Turtle)">
+    <link rel="timegate" type="text/html" href="http://dbpedia.mementodepot.org/timegate/http://dbpedia.org/page/Teachers_Only" title="Time Machine">
+    <link rel="foaf:primarytopic" href="http://dbpedia.org/resource/Teachers_Only">
+    <link rev="describedby" href="http://dbpedia.org/resource/Teachers_Only">
+    <!-- /Links -->
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
+    <!-- link rel="stylesheet" href="/statics/css/dbpedia.css" -->
+    <!-- /Stylesheets-->
+
+    <!-- OpenGraph -->
+    <meta property="og:title" content="Teachers Only">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="http://dbpedia.org/resource/Teachers_Only">
+    <meta property="og:image" content="http://commons.wikimedia.org/wiki/Special:FilePath/Teachers_Only_cast.jpg?width=300">
+    <meta property="og:description" content="Teachers Only is an American sitcom on NBC that centered on the faculty of a Los Angeles high school who spent a lot of time in the teacher's lounge, where the students were not allowed. Following a short first season, the show was completely overhauled, with only stars Lynn Redgrave and Norman Fell returning.">
+    <meta property="og:site_name" content="DBpedia">
+    <!-- /OpenGraph-->
+</head>
+<body about="http://dbpedia.org/resource/Teachers_Only">
+
+<!-- navbar -->
+<nav class="navbar navbar-expand-md navbar-light bg-light fixed-top align-items-center">
+    <div class="container-xl">
+	<a class="navbar-brand" href="http://wiki.dbpedia.org/Imprint" title="About DBpedia" style="color: #2c5078">
+	    <img class="img-fluid" src="/statics/images/dbpedia_logo_land_120.png" alt="About DBpedia">
+	</a>
+	<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#dbp-navbar" aria-controls="dbp-navbar" aria-expanded="false" aria-label="Toggle navigation">
+	    <span class="navbar-toggler-icon"></span>
+	</button>
+
+	<div class="collapse navbar-collapse" id="dbp-navbar">
+	    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+		<li class="nav-item dropdown">
+		    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBrowse" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+		    <i class="bi-eye-fill"></i> Browse using<span class="caret"></span></a>
+
+		    <ul class="dropdown-menu" aria-labelledby="navbarDropdownBrowse">
+			<li class="dropdown-item"><a class="nav-link" href="/describe/?uri=http%3A%2F%2Fdbpedia.org%2Fresource%2FTeachers_Only">OpenLink Faceted Browser</a></li>
+			<li class="dropdown-item"><a class="nav-link" href="http://osde.demo.openlinksw.com/#/editor?uri=https%3A%2F%2Flive.dbpedia.org%2Fdata%2FTeachers_Only.ttl&amp;view=statements">OpenLink Structured Data Editor</a></li>
+			<li class="dropdown-item"><a class="nav-link" href="http://en.lodlive.it/?http%3A%2F%2Fdbpedia.org%2Fresource%2FTeachers_Only">LodLive Browser</a></li>
+			<!-- li class="dropdown-item"><a class="nav-link" href="http://lodmilla.sztaki.hu/lodmilla/?url=http%3A%2F%2Fdbpedia.org%2Fresource%2FTeachers_Only">LODmilla Browser</a></li -->
+		    </ul>
+		</li>
+
+		<li class="nav-item dropdown">
+		    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownFormats" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+		    <i class="bi-file-earmark-fill"></i> Formats<span class="caret"></span></a>
+
+		    <ul class="dropdown-menu" aria-labelledby="navbarDropdownFormats">
+			<li class="dropdown-item-text">RDF:</li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/data/Teachers_Only.ntriples">N-Triples</a></li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/data/Teachers_Only.n3">N3</a></li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/data/Teachers_Only.ttl">Turtle</a></li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/data/Teachers_Only.json">JSON</a></li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/data/Teachers_Only.rdf">XML</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">OData:</li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/data/Teachers_Only.atom">Atom</a></li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/data/Teachers_Only.jsod">JSON</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">Microdata:</li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FTeachers_Only%3E&amp;format=application%2Fmicrodata%2Bjson">JSON</a></li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FTeachers_Only%3E&amp;format=text%2Fhtml">HTML</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">Embedded:</li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FTeachers_Only%3E&amp;format=text%2Fx-html-script-ld%2Bjson">JSON</a></li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FTeachers_Only%3E&amp;format=text%2Fx-html-script-turtle">Turtle</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">Other:</li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FTeachers_Only%3E&amp;format=text%2Fcsv">CSV</a></li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FTeachers_Only%3E&amp;format=application%2Fjson-ld">JSON-LD</a></li>
+
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FTeachers_Only%3E&amp;format=text%2Fcxml">CXML</a></li>
+
+		    </ul>
+		</li>
+	    </ul>
+
+	    <ul class="navbar-nav ms-auto">
+		<li class="nav-item">
+		    <a class="nav-link" href="/fct/" title="Switch to /fct endpoint"><i class="bi-box-arrow-up-right"></i> Faceted Browser </a>
+		</li>
+
+		<li class="nav-item">
+		    <a class="nav-link" href="/sparql/" title="Switch to /sparql endpoint"><i class="bi-box-arrow-up-right"></i> Sparql Endpoint </a>
+		</li>
+
+	    </ul>
+	</div>
+   </div>
+</nav>
+<div style="margin-bottom: 60px"></div>
+<!-- /navbar -->
+
+
+<!-- page-header -->
+<section>
+    <div class="container-xl">
+	<div class="row">
+	    <div class="col">
+		<h1 id="title" class="display-6"><b>About:</b>
+		    <a href="http://live.dbpedia.org/resource/Teachers_Only">Teachers Only</a>
+		</h1>
+	    </div>
+	</div>
+	<div class="row">
+	    <div class="col">
+		<div class="text-muted">
+		    <span class="text-nowrap">An Entity of Type: <a href="http://live.dbpedia.org/ontology/Work">work</a>, </span>
+		    <span class="text-nowrap">from Named Graph:  <a href="http://dbpedia.org">http://dbpedia.org</a>, </span>
+		    <span class="text-nowrap">within Data Space: <a href="http://live.dbpedia.org">live.dbpedia.org</a></span>
+		</div>
+	    </div>
+	</div>
+
+	<div class="row">
+	    <div class="col">
+		<div class="text-muted small">
+		    <span class="text-nowrap sm-auto">Last updated on: Mon, 04 Oct 2021 00:25:37 GMT</span>
+		</div>
+	    </div>
+	</div>
+
+	<div class="row pt-2">
+	    <div class="col-xs-9 col-sm-10">
+		<p class="lead">Teachers Only is an American sitcom on NBC that centered on the faculty of a Los Angeles high school who spent a lot of time in the teacher's lounge, where the students were not allowed. Following a short first season, the show was completely overhauled, with only stars Lynn Redgrave and Norman Fell returning.</p>
+	    </div>
+
+	    <div class="col-xs-3 col-sm-2">
+		<a href="#" class="thumbnail">
+		    <img src="http://commons.wikimedia.org/wiki/Special:FilePath/Teachers_Only_cast.jpg?width=300" alt="thumbnail" class="img-fluid">
+		</a>
+	    </div>
+
+	</div>
+    </div>
+</section>
+<!-- page-header -->
+
+<!-- property-table -->
+<section>
+    <div class="container-xl">
+	<div class="row">
+	    <div class="table-responsive">
+		<table class="table table-hover table-sm table-light">
+		    <thead>
+			<tr>
+			    <th class="col-xs-3 ">Property</th>
+			    <th class="col-xs-9 px-3">Value</th>
+			</tr>
+		    </thead>
+		    <tbody>
+<tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/Work/runtime" title="http://dbpedia.org/ontology/Work/runtime"><small>dbo:</small>Work/runtime</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="ns0:runtime" prefix="ns0: http://dbpedia.org/ontology/Work/">30.0</span></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/abstract" title="http://dbpedia.org/ontology/abstract"><small>dbo:</small>abstract</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:abstract" lang="en">Teachers Only is an American sitcom on NBC that centered on the faculty of a Los Angeles high school who spent a lot of time in the teacher's lounge, where the students were not allowed. Following a short first season, the show was completely overhauled, with only stars Lynn Redgrave and Norman Fell returning.</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/company" title="http://dbpedia.org/ontology/company"><small>dbo:</small>company</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:company" resource="http://dbpedia.org/resource/Carson_Productions" href="http://live.dbpedia.org/resource/Carson_Productions"><small>dbr</small>:Carson_Productions</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/completionDate" title="http://dbpedia.org/ontology/completionDate"><small>dbo:</small>completionDate</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:completionDate" datatype="xsd:date">1983-05-14</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/composer" title="http://dbpedia.org/ontology/composer"><small>dbo:</small>composer</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:composer" resource="http://dbpedia.org/resource/Thomas_McClary_(musician)" href="http://live.dbpedia.org/resource/Thomas_McClary_(musician)"><small>dbr</small>:Thomas_McClary_(musician)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:composer" resource="http://dbpedia.org/resource/William_King_(singer)" href="http://live.dbpedia.org/resource/William_King_(singer)"><small>dbr</small>:William_King_(singer)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:composer" resource="http://dbpedia.org/resource/Milan_Williams" href="http://live.dbpedia.org/resource/Milan_Williams"><small>dbr</small>:Milan_Williams</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:composer" resource="http://dbpedia.org/resource/Walter_Orange" href="http://live.dbpedia.org/resource/Walter_Orange"><small>dbr</small>:Walter_Orange</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:composer" resource="http://dbpedia.org/resource/Ronald_LaPread" href="http://live.dbpedia.org/resource/Ronald_LaPread"><small>dbr</small>:Ronald_LaPread</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/creator" title="http://dbpedia.org/ontology/creator"><small>dbo:</small>creator</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:creator" resource="http://dbpedia.org/resource/Aaron_Ruben" href="http://live.dbpedia.org/resource/Aaron_Ruben"><small>dbr</small>:Aaron_Ruben</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/distributor" title="http://dbpedia.org/ontology/distributor"><small>dbo:</small>distributor</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:distributor" resource="http://dbpedia.org/resource/NBCUniversal" href="http://live.dbpedia.org/resource/NBCUniversal"><small>dbr</small>:NBCUniversal</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/executiveProducer" title="http://dbpedia.org/ontology/executiveProducer"><small>dbo:</small>executiveProducer</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:executiveProducer" resource="http://dbpedia.org/resource/Aaron_Ruben" href="http://live.dbpedia.org/resource/Aaron_Ruben"><small>dbr</small>:Aaron_Ruben</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/genre" title="http://dbpedia.org/ontology/genre"><small>dbo:</small>genre</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:genre" resource="http://dbpedia.org/resource/Sitcom" href="http://live.dbpedia.org/resource/Sitcom"><small>dbr</small>:Sitcom</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/language" title="http://dbpedia.org/ontology/language"><small>dbo:</small>language</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:language" resource="http://dbpedia.org/resource/English_language" href="http://live.dbpedia.org/resource/English_language"><small>dbr</small>:English_language</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/network" title="http://dbpedia.org/ontology/network"><small>dbo:</small>network</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:network" resource="http://dbpedia.org/resource/NBC" href="http://live.dbpedia.org/resource/NBC"><small>dbr</small>:NBC</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/numberOfEpisodes" title="http://dbpedia.org/ontology/numberOfEpisodes"><small>dbo:</small>numberOfEpisodes</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:numberOfEpisodes" datatype="xsd:nonNegativeInteger">21</span><small> (xsd:nonNegativeInteger)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/numberOfSeasons" title="http://dbpedia.org/ontology/numberOfSeasons"><small>dbo:</small>numberOfSeasons</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:numberOfSeasons" datatype="xsd:nonNegativeInteger">2</span><small> (xsd:nonNegativeInteger)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/openingTheme" title="http://dbpedia.org/ontology/openingTheme"><small>dbo:</small>openingTheme</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:openingTheme" resource="http://dbpedia.org/resource/The_Commodores" href="http://live.dbpedia.org/resource/The_Commodores"><small>dbr</small>:The_Commodores</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/producer" title="http://dbpedia.org/ontology/producer"><small>dbo:</small>producer</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:producer" resource="http://dbpedia.org/resource/Larry_Rosen_(producer)" href="http://live.dbpedia.org/resource/Larry_Rosen_(producer)"><small>dbr</small>:Larry_Rosen_(producer)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:producer" resource="http://dbpedia.org/resource/Larry_Tucker_(screenwriter)" href="http://live.dbpedia.org/resource/Larry_Tucker_(screenwriter)"><small>dbr</small>:Larry_Tucker_(screenwriter)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:producer" resource="http://dbpedia.org/resource/George_Yanok" href="http://live.dbpedia.org/resource/George_Yanok"><small>dbr</small>:George_Yanok</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/releaseDate" title="http://dbpedia.org/ontology/releaseDate"><small>dbo:</small>releaseDate</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:releaseDate" datatype="xsd:date">1982-04-14</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/runtime" title="http://dbpedia.org/ontology/runtime"><small>dbo:</small>runtime</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:runtime" datatype="xsd:double">1800.000000</span><small> (xsd:double)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/starring" title="http://dbpedia.org/ontology/starring"><small>dbo:</small>starring</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/Tim_Reid" href="http://live.dbpedia.org/resource/Tim_Reid"><small>dbr</small>:Tim_Reid</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/Teresa_Ganzel" href="http://live.dbpedia.org/resource/Teresa_Ganzel"><small>dbr</small>:Teresa_Ganzel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/Jean_Smart" href="http://live.dbpedia.org/resource/Jean_Smart"><small>dbr</small>:Jean_Smart</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/Norman_Bartold" href="http://live.dbpedia.org/resource/Norman_Bartold"><small>dbr</small>:Norman_Bartold</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/Norman_Fell" href="http://live.dbpedia.org/resource/Norman_Fell"><small>dbr</small>:Norman_Fell</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/Adam_Arkin" href="http://live.dbpedia.org/resource/Adam_Arkin"><small>dbr</small>:Adam_Arkin</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/Richard_Karron" href="http://live.dbpedia.org/resource/Richard_Karron"><small>dbr</small>:Richard_Karron</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/Joel_Brooks" href="http://live.dbpedia.org/resource/Joel_Brooks"><small>dbr</small>:Joel_Brooks</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/Lynn_Redgrave" href="http://live.dbpedia.org/resource/Lynn_Redgrave"><small>dbr</small>:Lynn_Redgrave</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/Steve_Ryan_(actor)" href="http://live.dbpedia.org/resource/Steve_Ryan_(actor)"><small>dbr</small>:Steve_Ryan_(actor)</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/thumbnail" title="http://dbpedia.org/ontology/thumbnail"><small>dbo:</small>thumbnail</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:thumbnail" resource="http://commons.wikimedia.org/wiki/Special:FilePath/Teachers_Only_cast.jpg?width=300" href="http://commons.wikimedia.org/wiki/Special:FilePath/Teachers_Only_cast.jpg?width=300"><small>wiki-commons</small>:Special:FilePath/Teachers_Only_cast.jpg?width=300</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/wikiPageExternalLink" title="http://dbpedia.org/ontology/wikiPageExternalLink"><small>dbo:</small>wikiPageExternalLink</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageExternalLink nofollow" resource="https://books.google.com/books%3Fid=70szDAAAQBAJ&amp;q=Norman+Bartold+as+Assistant+Principal+Brody&amp;pg=PA223%7Ctitle=Single" href="https://books.google.com/books%3Fid=70szDAAAQBAJ&amp;q=Norman+Bartold+as+Assistant+Principal+Brody&amp;pg=PA223%7Ctitle=Single">https://books.google.com/books%3Fid=70szDAAAQBAJ&amp;q=Norman+Bartold+as+Assistant+Principal+Brody&amp;pg=PA223%7Ctitle=Single</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageExternalLink nofollow" resource="https://books.google.com/books%3Fid=70szDAAAQBAJ&amp;q=Norman+Bartold+as+Assistant+Principal+Brody&amp;pg=PA223%7Ctitle=Single" href="https://books.google.com/books%3Fid=70szDAAAQBAJ&amp;q=Norman+Bartold+as+Assistant+Principal+Brody&amp;pg=PA223%7Ctitle=Single">https://books.google.com/books%3Fid=70szDAAAQBAJ&amp;q=Norman+Bartold+as+Assistant+Principal+Brody&amp;pg=PA223%7Ctitle=Single</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageExternalLink nofollow" resource="https://books.google.com/books%3Fid=Rear3se4zLwC&amp;q=Norman+Bartold+as+Assistant+Principal+Brody&amp;pg=PA78%7Ctitle=Teacher" href="https://books.google.com/books%3Fid=Rear3se4zLwC&amp;q=Norman+Bartold+as+Assistant+Principal+Brody&amp;pg=PA78%7Ctitle=Teacher">https://books.google.com/books%3Fid=Rear3se4zLwC&amp;q=Norman+Bartold+as+Assistant+Principal+Brody&amp;pg=PA78%7Ctitle=Teacher</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageExternalLink nofollow" resource="https://books.google.com/books%3Fid=Rear3se4zLwC&amp;q=Norman+Bartold+as+Assistant+Principal+Brody&amp;pg=PA78%7Ctitle=Teacher" href="https://books.google.com/books%3Fid=Rear3se4zLwC&amp;q=Norman+Bartold+as+Assistant+Principal+Brody&amp;pg=PA78%7Ctitle=Teacher">https://books.google.com/books%3Fid=Rear3se4zLwC&amp;q=Norman+Bartold+as+Assistant+Principal+Brody&amp;pg=PA78%7Ctitle=Teacher</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageExternalLink nofollow" resource="https://books.google.com/books%3Fid=w8KztFy6QYwC&amp;q=Norman+Bartold+as+Assistant+Principal+Brody&amp;pg=PA1361%7Ctitle=The" href="https://books.google.com/books%3Fid=w8KztFy6QYwC&amp;q=Norman+Bartold+as+Assistant+Principal+Brody&amp;pg=PA1361%7Ctitle=The">https://books.google.com/books%3Fid=w8KztFy6QYwC&amp;q=Norman+Bartold+as+Assistant+Principal+Brody&amp;pg=PA1361%7Ctitle=The</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageExternalLink nofollow" resource="https://books.google.com/books%3Fid=w8KztFy6QYwC&amp;q=Norman+Bartold+as+Assistant+Principal+Brody&amp;pg=PA1361%7Ctitle=The" href="https://books.google.com/books%3Fid=w8KztFy6QYwC&amp;q=Norman+Bartold+as+Assistant+Principal+Brody&amp;pg=PA1361%7Ctitle=The">https://books.google.com/books%3Fid=w8KztFy6QYwC&amp;q=Norman+Bartold+as+Assistant+Principal+Brody&amp;pg=PA1361%7Ctitle=The</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/wikiPageID" title="http://dbpedia.org/ontology/wikiPageID"><small>dbo:</small>wikiPageID</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:wikiPageID" datatype="xsd:integer">31612760</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/wikiPageLength" title="http://dbpedia.org/ontology/wikiPageLength"><small>dbo:</small>wikiPageLength</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:wikiPageLength" datatype="xsd:nonNegativeInteger">31440</span><small> (xsd:nonNegativeInteger)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/wikiPageOutDegree" title="http://dbpedia.org/ontology/wikiPageOutDegree"><small>dbo:</small>wikiPageOutDegree</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:wikiPageOutDegree" datatype="xsd:nonNegativeInteger">141</span><small> (xsd:nonNegativeInteger)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/wikiPageRevisionID" title="http://dbpedia.org/ontology/wikiPageRevisionID"><small>dbo:</small>wikiPageRevisionID</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:wikiPageRevisionID" datatype="xsd:integer">1048051192</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/wikiPageWikiLink" title="http://dbpedia.org/ontology/wikiPageWikiLink"><small>dbo:</small>wikiPageWikiLink</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Mark_Metcalf" href="http://live.dbpedia.org/resource/Mark_Metcalf"><small>dbr</small>:Mark_Metcalf</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/The_Ropers" href="http://live.dbpedia.org/resource/The_Ropers"><small>dbr</small>:The_Ropers</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/The_Stockard_Channing_Show" href="http://live.dbpedia.org/resource/The_Stockard_Channing_Show"><small>dbr</small>:The_Stockard_Channing_Show</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/The_Tonight_Show_Starring_Johnny_Carson" href="http://live.dbpedia.org/resource/The_Tonight_Show_Starring_Johnny_Carson"><small>dbr</small>:The_Tonight_Show_Starring_Johnny_Carson</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/The_Toy_(1982_film)" href="http://live.dbpedia.org/resource/The_Toy_(1982_film)"><small>dbr</small>:The_Toy_(1982_film)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Thomas_McClary_(musician)" href="http://live.dbpedia.org/resource/Thomas_McClary_(musician)"><small>dbr</small>:Thomas_McClary_(musician)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Three's_Company" href="http://live.dbpedia.org/resource/Three's_Company"><small>dbr</small>:Three's_Company</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Tim_Reid" href="http://live.dbpedia.org/resource/Tim_Reid"><small>dbr</small>:Tim_Reid</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Timothy_Patrick_Murphy" href="http://live.dbpedia.org/resource/Timothy_Patrick_Murphy"><small>dbr</small>:Timothy_Patrick_Murphy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Carson_Entertainment" href="http://live.dbpedia.org/resource/Carson_Entertainment"><small>dbr</small>:Carson_Entertainment</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:English-language_television_shows" href="http://live.dbpedia.org/resource/Category:English-language_television_shows"><small>dbc</small>:English-language_television_shows</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:English_phrases" href="http://live.dbpedia.org/resource/Category:English_phrases"><small>dbc</small>:English_phrases</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:NBC_original_programming" href="http://live.dbpedia.org/resource/Category:NBC_original_programming"><small>dbc</small>:NBC_original_programming</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:Television_shows_set_in_Los_Angeles" href="http://live.dbpedia.org/resource/Category:Television_shows_set_in_Los_Angeles"><small>dbc</small>:Television_shows_set_in_Los_Angeles</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/William_King_(singer)" href="http://live.dbpedia.org/resource/William_King_(singer)"><small>dbr</small>:William_King_(singer)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Woodrow_Wilson" href="http://live.dbpedia.org/resource/Woodrow_Wilson"><small>dbr</small>:Woodrow_Wilson</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/World_War_II" href="http://live.dbpedia.org/resource/World_War_II"><small>dbr</small>:World_War_II</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Mike_Darnell" href="http://live.dbpedia.org/resource/Mike_Darnell"><small>dbr</small>:Mike_Darnell</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Milan_Williams" href="http://live.dbpedia.org/resource/Milan_Williams"><small>dbr</small>:Milan_Williams</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Teresa_Ganzel" href="http://live.dbpedia.org/resource/Teresa_Ganzel"><small>dbr</small>:Teresa_Ganzel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/School_counselor" href="http://live.dbpedia.org/resource/School_counselor"><small>dbr</small>:School_counselor</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Alan_Arkin" href="http://live.dbpedia.org/resource/Alan_Arkin"><small>dbr</small>:Alan_Arkin</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Amanda_Wyss" href="http://live.dbpedia.org/resource/Amanda_Wyss"><small>dbr</small>:Amanda_Wyss</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/American_Broadcasting_Company" href="http://live.dbpedia.org/resource/American_Broadcasting_Company"><small>dbr</small>:American_Broadcasting_Company</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Auguste_Rodin" href="http://live.dbpedia.org/resource/Auguste_Rodin"><small>dbr</small>:Auguste_Rodin</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Ballantine_Books" href="http://live.dbpedia.org/resource/Ballantine_Books"><small>dbr</small>:Ballantine_Books</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Heidi_Bohay" href="http://live.dbpedia.org/resource/Heidi_Bohay"><small>dbr</small>:Heidi_Bohay</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/House_Calls_(TV_series)" href="http://live.dbpedia.org/resource/House_Calls_(TV_series)"><small>dbr</small>:House_Calls_(TV_series)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Howard_Platt" href="http://live.dbpedia.org/resource/Howard_Platt"><small>dbr</small>:Howard_Platt</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Alan_Feinstein_(actor)" href="http://live.dbpedia.org/resource/Alan_Feinstein_(actor)"><small>dbr</small>:Alan_Feinstein_(actor)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jean_Smart" href="http://live.dbpedia.org/resource/Jean_Smart"><small>dbr</small>:Jean_Smart</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Karin_Argoud" href="http://live.dbpedia.org/resource/Karin_Argoud"><small>dbr</small>:Karin_Argoud</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Mel_Ferber" href="http://live.dbpedia.org/resource/Mel_Ferber"><small>dbr</small>:Mel_Ferber</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/New_York_City" href="http://live.dbpedia.org/resource/New_York_City"><small>dbr</small>:New_York_City</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Nicolas_Coster" href="http://live.dbpedia.org/resource/Nicolas_Coster"><small>dbr</small>:Nicolas_Coster</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Norman_Bartold" href="http://live.dbpedia.org/resource/Norman_Bartold"><small>dbr</small>:Norman_Bartold</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Norman_Fell" href="http://live.dbpedia.org/resource/Norman_Fell"><small>dbr</small>:Norman_Fell</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Parent–teacher_association" href="http://live.dbpedia.org/resource/Parent–teacher_association"><small>dbr</small>:Parent–teacher_association</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Racial_profiling" href="http://live.dbpedia.org/resource/Racial_profiling"><small>dbr</small>:Racial_profiling</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Rod_Daniel" href="http://live.dbpedia.org/resource/Rod_Daniel"><small>dbr</small>:Rod_Daniel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Rosanna_Huffman" href="http://live.dbpedia.org/resource/Rosanna_Huffman"><small>dbr</small>:Rosanna_Huffman</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/1981–82_United_States_network_television_schedule" href="http://live.dbpedia.org/resource/1981–82_United_States_network_television_schedule"><small>dbr</small>:1981–82_United_States_network_television_schedule</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/1982–83_United_States_network_television_schedule" href="http://live.dbpedia.org/resource/1982–83_United_States_network_television_schedule"><small>dbr</small>:1982–83_United_States_network_television_schedule</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Aaron_Ruben" href="http://live.dbpedia.org/resource/Aaron_Ruben"><small>dbr</small>:Aaron_Ruben</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Adam_Arkin" href="http://live.dbpedia.org/resource/Adam_Arkin"><small>dbr</small>:Adam_Arkin</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Commodores" href="http://live.dbpedia.org/resource/Commodores"><small>dbr</small>:Commodores</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/English_language" href="http://live.dbpedia.org/resource/English_language"><small>dbr</small>:English_language</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:1980s_American_high_school_television_series" href="http://live.dbpedia.org/resource/Category:1980s_American_high_school_television_series"><small>dbc</small>:1980s_American_high_school_television_series</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:1980s_American_sitcoms" href="http://live.dbpedia.org/resource/Category:1980s_American_sitcoms"><small>dbc</small>:1980s_American_sitcoms</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:1982_American_television_series_debuts" href="http://live.dbpedia.org/resource/Category:1982_American_television_series_debuts"><small>dbc</small>:1982_American_television_series_debuts</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:1983_American_television_series_endings" href="http://live.dbpedia.org/resource/Category:1983_American_television_series_endings"><small>dbc</small>:1983_American_television_series_endings</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/The_Thinker" href="http://live.dbpedia.org/resource/The_Thinker"><small>dbr</small>:The_Thinker</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/CBS" href="http://live.dbpedia.org/resource/CBS"><small>dbr</small>:CBS</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/CTV_Television_Network" href="http://live.dbpedia.org/resource/CTV_Television_Network"><small>dbr</small>:CTV_Television_Network</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Craig_Littler" href="http://live.dbpedia.org/resource/Craig_Littler"><small>dbr</small>:Craig_Littler</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Dana_Elcar" href="http://live.dbpedia.org/resource/Dana_Elcar"><small>dbr</small>:Dana_Elcar</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/David_Ackroyd" href="http://live.dbpedia.org/resource/David_Ackroyd"><small>dbr</small>:David_Ackroyd</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Cindy_Fisher_(actress)" href="http://live.dbpedia.org/resource/Cindy_Fisher_(actress)"><small>dbr</small>:Cindy_Fisher_(actress)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/April_Kelly" href="http://live.dbpedia.org/resource/April_Kelly"><small>dbr</small>:April_Kelly</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Arthur_Peterson_Jr." href="http://live.dbpedia.org/resource/Arthur_Peterson_Jr."><small>dbr</small>:Arthur_Peterson_Jr.</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Renae_Jacobs" href="http://live.dbpedia.org/resource/Renae_Jacobs"><small>dbr</small>:Renae_Jacobs</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Richard_Karron" href="http://live.dbpedia.org/resource/Richard_Karron"><small>dbr</small>:Richard_Karron</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Sharon_Gless" href="http://live.dbpedia.org/resource/Sharon_Gless"><small>dbr</small>:Sharon_Gless</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Bill_Zuckert" href="http://live.dbpedia.org/resource/Bill_Zuckert"><small>dbr</small>:Bill_Zuckert</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Sexual_predator" href="http://live.dbpedia.org/resource/Sexual_predator"><small>dbr</small>:Sexual_predator</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Tokenism" href="http://live.dbpedia.org/resource/Tokenism"><small>dbr</small>:Tokenism</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Bern" href="http://live.dbpedia.org/resource/Bern"><small>dbr</small>:Bern</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Bibi_Osterwald" href="http://live.dbpedia.org/resource/Bibi_Osterwald"><small>dbr</small>:Bibi_Osterwald</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Bill_Saluga" href="http://live.dbpedia.org/resource/Bill_Saluga"><small>dbr</small>:Bill_Saluga</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jo_Marie_Payton" href="http://live.dbpedia.org/resource/Jo_Marie_Payton"><small>dbr</small>:Jo_Marie_Payton</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Joel_Brooks" href="http://live.dbpedia.org/resource/Joel_Brooks"><small>dbr</small>:Joel_Brooks</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/John_Bennett_Perry" href="http://live.dbpedia.org/resource/John_Bennett_Perry"><small>dbr</small>:John_Bennett_Perry</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/John_Bowab" href="http://live.dbpedia.org/resource/John_Bowab"><small>dbr</small>:John_Bowab</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Love,_Sidney" href="http://live.dbpedia.org/resource/Love,_Sidney"><small>dbr</small>:Love,_Sidney</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Lynn_Redgrave" href="http://live.dbpedia.org/resource/Lynn_Redgrave"><small>dbr</small>:Lynn_Redgrave</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Michael_J._Fox" href="http://live.dbpedia.org/resource/Michael_J._Fox"><small>dbr</small>:Michael_J._Fox</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Michael_Spound" href="http://live.dbpedia.org/resource/Michael_Spound"><small>dbr</small>:Michael_Spound</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Millard_Fillmore" href="http://live.dbpedia.org/resource/Millard_Fillmore"><small>dbr</small>:Millard_Fillmore</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/NBC" href="http://live.dbpedia.org/resource/NBC"><small>dbr</small>:NBC</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/NBCUniversal" href="http://live.dbpedia.org/resource/NBCUniversal"><small>dbr</small>:NBCUniversal</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Peter_Baldwin_(director)" href="http://live.dbpedia.org/resource/Peter_Baldwin_(director)"><small>dbr</small>:Peter_Baldwin_(director)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Peter_Lang_(publisher)" href="http://live.dbpedia.org/resource/Peter_Lang_(publisher)"><small>dbr</small>:Peter_Lang_(publisher)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Pieterlen" href="http://live.dbpedia.org/resource/Pieterlen"><small>dbr</small>:Pieterlen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/McFarland_&amp;_Company" href="http://live.dbpedia.org/resource/McFarland_&amp;_Company"><small>dbr</small>:McFarland_&amp;_Company</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Donna_Wilkes" href="http://live.dbpedia.org/resource/Donna_Wilkes"><small>dbr</small>:Donna_Wilkes</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Edie_McClurg" href="http://live.dbpedia.org/resource/Edie_McClurg"><small>dbr</small>:Edie_McClurg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Just_Friends_(TV_series)" href="http://live.dbpedia.org/resource/Just_Friends_(TV_series)"><small>dbr</small>:Just_Friends_(TV_series)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Los_Angeles" href="http://live.dbpedia.org/resource/Los_Angeles"><small>dbr</small>:Los_Angeles</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:Television_series_by_Carson_Productions" href="http://live.dbpedia.org/resource/Category:Television_series_by_Carson_Productions"><small>dbc</small>:Television_series_by_Carson_Productions</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Frenemy" href="http://live.dbpedia.org/resource/Frenemy"><small>dbr</small>:Frenemy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Steve_Ryan_(actor)" href="http://live.dbpedia.org/resource/Steve_Ryan_(actor)"><small>dbr</small>:Steve_Ryan_(actor)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Tony_Singletary" href="http://live.dbpedia.org/resource/Tony_Singletary"><small>dbr</small>:Tony_Singletary</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Charles_S._Dubin" href="http://live.dbpedia.org/resource/Charles_S._Dubin"><small>dbr</small>:Charles_S._Dubin</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Larry_B._Scott" href="http://live.dbpedia.org/resource/Larry_B._Scott"><small>dbr</small>:Larry_B._Scott</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Larry_Rosen_(producer)" href="http://live.dbpedia.org/resource/Larry_Rosen_(producer)"><small>dbr</small>:Larry_Rosen_(producer)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Larry_Tucker_(screenwriter)" href="http://live.dbpedia.org/resource/Larry_Tucker_(screenwriter)"><small>dbr</small>:Larry_Tucker_(screenwriter)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Linda_Day" href="http://live.dbpedia.org/resource/Linda_Day"><small>dbr</small>:Linda_Day</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Taxi_(TV_series)" href="http://live.dbpedia.org/resource/Taxi_(TV_series)"><small>dbr</small>:Taxi_(TV_series)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Tony_Randall" href="http://live.dbpedia.org/resource/Tony_Randall"><small>dbr</small>:Tony_Randall</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/John_C._Becher" href="http://live.dbpedia.org/resource/John_C._Becher"><small>dbr</small>:John_C._Becher</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Pheromone" href="http://live.dbpedia.org/resource/Pheromone"><small>dbr</small>:Pheromone</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Sitcom" href="http://live.dbpedia.org/resource/Sitcom"><small>dbr</small>:Sitcom</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Very_special_episode" href="http://live.dbpedia.org/resource/Very_special_episode"><small>dbr</small>:Very_special_episode</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Brian_Robbins" href="http://live.dbpedia.org/resource/Brian_Robbins"><small>dbr</small>:Brian_Robbins</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/George_Wyner" href="http://live.dbpedia.org/resource/George_Wyner"><small>dbr</small>:George_Wyner</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/George_Yanok" href="http://live.dbpedia.org/resource/George_Yanok"><small>dbr</small>:George_Yanok</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/caption" title="http://dbpedia.org/property/caption"><small>dbp:</small>caption</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:caption" lang="en">Season 2 Cast</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/company" title="http://dbpedia.org/property/company"><small>dbp:</small>company</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:company" resource="http://dbpedia.org/resource/Carson_Productions" href="http://live.dbpedia.org/resource/Carson_Productions"><small>dbr</small>:Carson_Productions</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/country" title="http://dbpedia.org/property/country"><small>dbp:</small>country</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:country" lang="en">United States</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/creator" title="http://dbpedia.org/property/creator"><small>dbp:</small>creator</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:creator" resource="http://dbpedia.org/resource/Aaron_Ruben" href="http://live.dbpedia.org/resource/Aaron_Ruben"><small>dbr</small>:Aaron_Ruben</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/directedby" title="http://dbpedia.org/property/directedby"><small>dbp:</small>directedby</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:directedby" resource="http://dbpedia.org/resource/Mel_Ferber" href="http://live.dbpedia.org/resource/Mel_Ferber"><small>dbr</small>:Mel_Ferber</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:directedby" resource="http://dbpedia.org/resource/Rod_Daniel" href="http://live.dbpedia.org/resource/Rod_Daniel"><small>dbr</small>:Rod_Daniel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:directedby" resource="http://dbpedia.org/resource/John_Bowab" href="http://live.dbpedia.org/resource/John_Bowab"><small>dbr</small>:John_Bowab</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:directedby" resource="http://dbpedia.org/resource/Peter_Baldwin_(director)" href="http://live.dbpedia.org/resource/Peter_Baldwin_(director)"><small>dbr</small>:Peter_Baldwin_(director)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:directedby" resource="http://dbpedia.org/resource/Tony_Singletary" href="http://live.dbpedia.org/resource/Tony_Singletary"><small>dbr</small>:Tony_Singletary</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:directedby" resource="http://dbpedia.org/resource/Charles_S._Dubin" href="http://live.dbpedia.org/resource/Charles_S._Dubin"><small>dbr</small>:Charles_S._Dubin</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:directedby" resource="http://dbpedia.org/resource/Linda_Day" href="http://live.dbpedia.org/resource/Linda_Day"><small>dbr</small>:Linda_Day</a></span></li>
+	<li><span class="literal"><span property="dbp:directedby" lang="en">Peter Baldwin</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:directedby" lang="en">Charles S. Dubin</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:directedby" lang="en">John Bowab</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:directedby" lang="en">Linda Day</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:directedby" lang="en">Alan Bergman</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:directedby" lang="en">Tony Singletary</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:directedby" lang="en">Rod Daniel</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/distributor" title="http://dbpedia.org/property/distributor"><small>dbp:</small>distributor</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:distributor" resource="http://dbpedia.org/resource/NBCUniversal" href="http://live.dbpedia.org/resource/NBCUniversal"><small>dbr</small>:NBCUniversal</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/episodenumber" title="http://dbpedia.org/property/episodenumber"><small>dbp:</small>episodenumber</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:episodenumber" datatype="xsd:integer">1</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:episodenumber" datatype="xsd:integer">2</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:episodenumber" datatype="xsd:integer">3</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:episodenumber" datatype="xsd:integer">4</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:episodenumber" datatype="xsd:integer">5</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:episodenumber" datatype="xsd:integer">6</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:episodenumber" datatype="xsd:integer">7</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:episodenumber" datatype="xsd:integer">8</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:episodenumber" datatype="xsd:integer">9</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:episodenumber" datatype="xsd:integer">10</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:episodenumber" datatype="xsd:integer">11</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:episodenumber" datatype="xsd:integer">12</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:episodenumber" datatype="xsd:integer">13</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:episodenumber" datatype="xsd:integer">14</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:episodenumber" datatype="xsd:integer">15</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:episodenumber" datatype="xsd:integer">16</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:episodenumber" datatype="xsd:integer">17</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:episodenumber" datatype="xsd:integer">18</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:episodenumber" datatype="xsd:integer">19</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:episodenumber" datatype="xsd:integer">20</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:episodenumber" datatype="xsd:integer">21</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/executiveProducer" title="http://dbpedia.org/property/executiveProducer"><small>dbp:</small>executiveProducer</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:executiveProducer" resource="http://dbpedia.org/resource/Aaron_Ruben" href="http://live.dbpedia.org/resource/Aaron_Ruben"><small>dbr</small>:Aaron_Ruben</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/firstAired" title="http://dbpedia.org/property/firstAired"><small>dbp:</small>firstAired</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:firstAired" datatype="xsd:date">1982-04-14</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/firstRun" title="http://dbpedia.org/property/firstRun"><small>dbp:</small>firstRun</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:firstRun" lang="en">United States</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/genre" title="http://dbpedia.org/property/genre"><small>dbp:</small>genre</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:genre" resource="http://dbpedia.org/resource/Sitcom" href="http://live.dbpedia.org/resource/Sitcom"><small>dbr</small>:Sitcom</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/language" title="http://dbpedia.org/property/language"><small>dbp:</small>language</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:language" resource="http://dbpedia.org/resource/English_language" href="http://live.dbpedia.org/resource/English_language"><small>dbr</small>:English_language</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/lastAired" title="http://dbpedia.org/property/lastAired"><small>dbp:</small>lastAired</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:lastAired" datatype="xsd:date">1983-05-14</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/linecolor" title="http://dbpedia.org/property/linecolor"><small>dbp:</small>linecolor</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:linecolor" datatype="xsd:integer">1158</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:linecolor" lang="en">ED9121</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/name" title="http://dbpedia.org/property/name"><small>dbp:</small>name</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:name" lang="en">Teachers Only</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/network" title="http://dbpedia.org/property/network"><small>dbp:</small>network</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:network" resource="http://dbpedia.org/resource/NBC" href="http://live.dbpedia.org/resource/NBC"><small>dbr</small>:NBC</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/numEpisodes" title="http://dbpedia.org/property/numEpisodes"><small>dbp:</small>numEpisodes</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:numEpisodes" datatype="xsd:integer">21</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/numSeasons" title="http://dbpedia.org/property/numSeasons"><small>dbp:</small>numSeasons</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:numSeasons" datatype="xsd:integer">2</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/opentheme" title="http://dbpedia.org/property/opentheme"><small>dbp:</small>opentheme</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:opentheme" lang="en">"Reach High"  - Season 2</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/originalairdate" title="http://dbpedia.org/property/originalairdate"><small>dbp:</small>originalairdate</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:originalairdate" datatype="xsd:date">1982-04-14</span><small> (xsd:date)</small></span></li>
+	<li><span class="literal"><span property="dbp:originalairdate" datatype="xsd:date">1982-04-21</span><small> (xsd:date)</small></span></li>
+	<li><span class="literal"><span property="dbp:originalairdate" datatype="xsd:date">1982-04-28</span><small> (xsd:date)</small></span></li>
+	<li><span class="literal"><span property="dbp:originalairdate" datatype="xsd:date">1982-05-05</span><small> (xsd:date)</small></span></li>
+	<li><span class="literal"><span property="dbp:originalairdate" datatype="xsd:date">1982-05-12</span><small> (xsd:date)</small></span></li>
+	<li><span class="literal"><span property="dbp:originalairdate" datatype="xsd:date">1982-05-26</span><small> (xsd:date)</small></span></li>
+	<li><span class="literal"><span property="dbp:originalairdate" datatype="xsd:date">1982-06-02</span><small> (xsd:date)</small></span></li>
+	<li><span class="literal"><span property="dbp:originalairdate" datatype="xsd:date">1982-06-09</span><small> (xsd:date)</small></span></li>
+	<li><span class="literal"><span property="dbp:originalairdate" datatype="xsd:date">1983-02-12</span><small> (xsd:date)</small></span></li>
+	<li><span class="literal"><span property="dbp:originalairdate" datatype="xsd:date">1983-02-19</span><small> (xsd:date)</small></span></li>
+	<li><span class="literal"><span property="dbp:originalairdate" datatype="xsd:date">1983-02-26</span><small> (xsd:date)</small></span></li>
+	<li><span class="literal"><span property="dbp:originalairdate" datatype="xsd:date">1983-03-05</span><small> (xsd:date)</small></span></li>
+	<li><span class="literal"><span property="dbp:originalairdate" datatype="xsd:date">1983-03-12</span><small> (xsd:date)</small></span></li>
+	<li><span class="literal"><span property="dbp:originalairdate" datatype="xsd:date">1983-03-19</span><small> (xsd:date)</small></span></li>
+	<li><span class="literal"><span property="dbp:originalairdate" datatype="xsd:date">1983-04-02</span><small> (xsd:date)</small></span></li>
+	<li><span class="literal"><span property="dbp:originalairdate" datatype="xsd:date">1983-04-09</span><small> (xsd:date)</small></span></li>
+	<li><span class="literal"><span property="dbp:originalairdate" datatype="xsd:date">1983-04-16</span><small> (xsd:date)</small></span></li>
+	<li><span class="literal"><span property="dbp:originalairdate" datatype="xsd:date">1983-04-23</span><small> (xsd:date)</small></span></li>
+	<li><span class="literal"><span property="dbp:originalairdate" datatype="xsd:date">1983-04-30</span><small> (xsd:date)</small></span></li>
+	<li><span class="literal"><span property="dbp:originalairdate" datatype="xsd:date">1983-05-07</span><small> (xsd:date)</small></span></li>
+	<li><span class="literal"><span property="dbp:originalairdate" datatype="xsd:date">1983-05-14</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/producer" title="http://dbpedia.org/property/producer"><small>dbp:</small>producer</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:producer" lang="en"></span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:producer" lang="en">Larry Tucker</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:producer" lang="en">George Yanok</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:producer" lang="en">Larry Rosen</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/runtime" title="http://dbpedia.org/property/runtime"><small>dbp:</small>runtime</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:runtime">1800.0</span></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/shortsummary" title="http://dbpedia.org/property/shortsummary"><small>dbp:</small>shortsummary</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">The school mouse dies while in Diana's care, so Sam replaces it, unaware that Michael was monitoring the rodent's illness. Also, a grouchy repairman works on the school's heater.</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Mr. Batterman wins the $150,000 state lottery and promptly drops dead, leaving Diana in a moral dilemma over what to do with the ticket. Also, Diana realizes Liz is responsible for a rash of school thefts.</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Guest Stars: Arthur Peterson Jr. , Karin Argoud , Penina Segall , Clark Mitchell Long</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Michael has overwhelming chemistry with a new student, but the situation worsens after Diana learns she's an undercover narcotics agent. Also, Sam sells junky designer jewelry to earn money for a pair of alligator boots.</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Greg, the star football quarterback, falls for Diana during their tutoring sessions, and jealousy puts his future in jeopardy when Michael tries to intervene.</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">After Diana meddles in her relationship with the principal, Shari flaunts her sudden engagement to a handsome, wealthy, young man. Meanwhile, Sam diets in hopes of fitting into a bikini that she's had her eye on.</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Note: The passersby is the one-way hallway circle throughout the entire scene.</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Bogged down with paperwork and meetings, the retirement of an elder coworker prompts Diana to toy with the notion of leaving the teaching profession.</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Diana hosts a party for her coworkers under false pretenses, hiding the fact that the mayor is to present them an award. To get even with Mr. Cooper for his critique of her outfit, Shari convinces him that it's a costume party; a bloated version of Michael's high school crush comes to town; Spud and Scooter have their first fight on their 11th anniversary; and Sam finds love in the elevator when she's trapped with the school board man.</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">After Diana rejects the advances of David, she's overwhelmed by jealousy when he sends Sam a single red rose to ask her out. Also, Michael experiments with pheromones and electricity.</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Guest Star: Bill Saluga</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Guest Star: Bill Zuckert</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Guest Star: David Ackroyd</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Guest Star: George Wyner</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Guest Star: Michael Spound</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Guest Star: Roberto Roman</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Guest Stars: Bibi Osterwald , Arthur Rosenberg</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Guest Stars: Fay Hauser , Larry B. Scott</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Guest Stars: Heidi Bohay , Leslie King</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Guest Stars: Jesse Aragon , Steffen Zacharias</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Guest Stars: Michael Lemon , Steffen Zacharias</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">In a malicious attempt to get a passing grade, Victoria entraps Michael and accuses him of being sexual predator. Michael refuses to defend himself, so Diana gets to the bottom of things. Also, Mr. Brody pushes for a school dress code.</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Guest Stars:  John Bennett Perry , John C. Becher , Brian Robbins ,  Jennifer Richards , Greg Finley</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Note: Joel Brooks does not appear in this episode.</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Note: This was the first episode shot.</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Guest Stars: Brian Robbins , Donna Wilkes , Mike Darnell</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Guest Stars: Nicolas Coster , Edie McClurg , Larry B. Scott , Israel Juarbe</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">In a very special episode, Sam devolves into a shell of herself after being mugged.</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Diana comes to the realization that her star student is troubled, but the situation escalates when the girl becomes a runaway. Also, Diana gives into a flirtation with her neighbor and agrees to a date.</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Guest Stars: Alan Feinstein , Renae Jacobs , Craig Littler , Steffen Zacharias</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Diana's conman ex-husband rents out her apartment to Principal Cooper's brother-in-law. Also, Vinnie tests reactions to new school mascots by bringing in exotic animals.</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Guest Stars: Amanda Wyss , Timothy Patrick Murphy , Mary Betten , Fredric Cook , Layla Bias Galloway , Rosanna Huffman</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Shari is miffed when Diana and Principal Cooper swap jobs. Also, Michael tries to figure out how to deal with a child who's being abused, and delinquent student Ponch steals everything that's not nailed down.</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Diana refuses to give a makeup test to Jeff, an unrepentant slacker, so his rich father goes over her head. This infuriates Diana and leads Jeff to confess self-sabotage to his dad. Meanwhile, Michael's classroom is looted.</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Guest Stars: Mark Metcalf , Cindy Fisher , Sally Kemp</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Diana conspires with the rest of the faculty to find Mr. Cooper a date, but she discovers he's secretly in a relationship with Shari. Meanwhile, after delegating responsibility to the teachers to paint over graffiti, Shari becomes jealous when Michael is featured on TV.</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Following the death of a friend, Mr. Cooper worries about his own mortality. Also, Mr. Cooper tells Mr. Brody that he can have more responsibility, so Brody gets right to work implementing changes at school.</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Guest Stars: James O'Sullivan , Jo Marie Payton , Joel Kimmel</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Guest Stars: Michael J. Fox , Dana Elcar , Howard Platt</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">After the state funding committee cancels the auto shop and nursing classes, Diana goads the students to disassemble Mr. Cooper's car and reassemble it in the teacher's lounge. Unfortunately, they refuse to reverse the process. Also, Mrs. Darnell eagerly waits for her pregnancy to be over.</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Vinnie leads a student revolt which finds the cafeteria barricaded, and Diana locked in the kitchen with a quarreling Shari and Principal Cooper. On the other side of the door, Michael and Sam fight for control as teachers are instructed to carry on with business as usual.</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">The parent–teacher association accuses her of undermining the moral fiber of their children, and the media descends when the school's young literary journalists twist Diana's words to make it seem that she condones premarital sex.</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Diana has a whirlwind romance with a substitute, but the relationship sours when she learns he's the substitute janitor.</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Note: Miss Pritchard receives a replica of Rodin's famous statue The Thinker which is posed differently.</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">The school board is looking to make budget cuts, so they send in a humorless man who replaces Mr. Brody with a computer.</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/starring" title="http://dbpedia.org/property/starring"><small>dbp:</small>starring</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:starring" lang="en"></span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:starring" lang="en">Jean Smart</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:starring" lang="en">Teresa Ganzel</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:starring" lang="en">Adam Arkin</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:starring" lang="en">Lynn Redgrave</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:starring" lang="en">Richard Karron</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:starring" lang="en">Steve Ryan</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:starring" lang="en">Norman Fell</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:starring" lang="en">Tim Reid</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:starring" lang="en">Kit McDonough</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:starring" lang="en">Joel Brooks</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:starring" lang="en">Norman Bartold</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:starring" lang="en">Van Nessa Clarke</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/themeMusicComposer" title="http://dbpedia.org/property/themeMusicComposer"><small>dbp:</small>themeMusicComposer</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:themeMusicComposer" lang="en"></span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:themeMusicComposer" lang="en">William King</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:themeMusicComposer" lang="en">Milan Williams</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:themeMusicComposer" lang="en">Ronald LaPread</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:themeMusicComposer" lang="en">Walter Orange</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:themeMusicComposer" lang="en">Thomas McClary</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/title" title="http://dbpedia.org/property/title"><small>dbp:</small>title</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:title" lang="en">The Rose</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:title" lang="en">Take This Job and Shove It</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:title" lang="en">Leather and Lace</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:title" lang="en">Teacher's Pet</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:title" lang="en">I've Got a Crush on You</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:title" lang="en">Guns and Butter</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:title" lang="en">Beetlemania</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:title" lang="en">Loss of Innocence</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:title" lang="en">Otherwise Engaged</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:title" lang="en">Quote, Unquote</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:title" lang="en">Take the Money and Run</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:title" lang="en">The Dreyfuss Affair</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:title" lang="en">Cooper's Arrangement</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:title" lang="en">Cooper's Grab for Gusto</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:title" lang="en">Dead Mice Don't Wear Plaid</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:title" lang="en">Diana, Substitute Mother</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:title" lang="en">It's My Party and I'll Cry If I Want To</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:title" lang="en">Praise the Lord and Pasta Ammunition</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:title" lang="en">Rex, the Wonder Husband</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:title" lang="en">The Make Up Test</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:title" lang="en">The Once and Future Teacher</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/wikiPageUsesTemplate" title="http://dbpedia.org/property/wikiPageUsesTemplate"><small>dbp:</small>wikiPageUsesTemplate</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Cite_book" href="http://live.dbpedia.org/resource/Template:Cite_book"><small>dbt</small>:Cite_book</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:End_date" href="http://live.dbpedia.org/resource/Template:End_date"><small>dbt</small>:End_date</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Episode_list" href="http://live.dbpedia.org/resource/Template:Episode_list"><small>dbt</small>:Episode_list</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:IMDb_title" href="http://live.dbpedia.org/resource/Template:IMDb_title"><small>dbt</small>:IMDb_title</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Infobox_television" href="http://live.dbpedia.org/resource/Template:Infobox_television"><small>dbt</small>:Infobox_television</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Refbegin" href="http://live.dbpedia.org/resource/Template:Refbegin"><small>dbt</small>:Refbegin</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Refend" href="http://live.dbpedia.org/resource/Template:Refend"><small>dbt</small>:Refend</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Reflist" href="http://live.dbpedia.org/resource/Template:Reflist"><small>dbt</small>:Reflist</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:See_also" href="http://live.dbpedia.org/resource/Template:See_also"><small>dbt</small>:See_also</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Sfn" href="http://live.dbpedia.org/resource/Template:Sfn"><small>dbt</small>:Sfn</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Start_date" href="http://live.dbpedia.org/resource/Template:Start_date"><small>dbt</small>:Start_date</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:End__date" href="http://live.dbpedia.org/resource/Template:End__date"><small>dbt</small>:End__date</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/writtenby" title="http://dbpedia.org/property/writtenby"><small>dbp:</small>writtenby</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:writtenby" resource="http://dbpedia.org/resource/April_Kelly" href="http://live.dbpedia.org/resource/April_Kelly"><small>dbr</small>:April_Kelly</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:writtenby" resource="http://dbpedia.org/resource/Larry_Rosen_(producer)" href="http://live.dbpedia.org/resource/Larry_Rosen_(producer)"><small>dbr</small>:Larry_Rosen_(producer)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:writtenby" resource="http://dbpedia.org/resource/Larry_Tucker_(screenwriter)" href="http://live.dbpedia.org/resource/Larry_Tucker_(screenwriter)"><small>dbr</small>:Larry_Tucker_(screenwriter)</a></span></li>
+	<li><span class="literal"><span property="dbp:writtenby" lang="en">Aaron Ruben</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:writtenby" lang="en">Tom Chehak</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:writtenby" lang="en">George Yanok</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:writtenby" lang="en">April Kelly</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:writtenby" lang="en">Mike Weinberger</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:writtenby" lang="en">Larry Spencer</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:writtenby" lang="en">Aaron Ruben &amp; Mike Weinberger</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:writtenby" lang="en">Ann L. Gibbs &amp; Joel Kimmel</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:writtenby" lang="en">Diana Kirgo, Julie Kirgo</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:writtenby" lang="en">Larry Rosen, &amp; Larry Tucker</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:writtenby" lang="en">Story: Gene Marcione</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:writtenby" lang="en">Story: Wally Dalton</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:writtenby" lang="en">Teleplay: Ann Martin</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:writtenby" lang="en">Teleplay: George Yanok</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://purl.org/dc/terms/subject"><small>dct:</small>subject</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:English-language_television_shows" href="http://live.dbpedia.org/resource/Category:English-language_television_shows"><small>dbc</small>:English-language_television_shows</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:English_phrases" href="http://live.dbpedia.org/resource/Category:English_phrases"><small>dbc</small>:English_phrases</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:NBC_original_programming" href="http://live.dbpedia.org/resource/Category:NBC_original_programming"><small>dbc</small>:NBC_original_programming</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:Television_shows_set_in_Los_Angeles" href="http://live.dbpedia.org/resource/Category:Television_shows_set_in_Los_Angeles"><small>dbc</small>:Television_shows_set_in_Los_Angeles</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:1980s_American_high_school_television_series" href="http://live.dbpedia.org/resource/Category:1980s_American_high_school_television_series"><small>dbc</small>:1980s_American_high_school_television_series</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:1980s_American_sitcoms" href="http://live.dbpedia.org/resource/Category:1980s_American_sitcoms"><small>dbc</small>:1980s_American_sitcoms</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:1982_American_television_series_debuts" href="http://live.dbpedia.org/resource/Category:1982_American_television_series_debuts"><small>dbc</small>:1982_American_television_series_debuts</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:1983_American_television_series_endings" href="http://live.dbpedia.org/resource/Category:1983_American_television_series_endings"><small>dbc</small>:1983_American_television_series_endings</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:Television_series_by_Carson_Productions" href="http://live.dbpedia.org/resource/Category:Television_series_by_Carson_Productions"><small>dbc</small>:Television_series_by_Carson_Productions</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://purl.org/linguistics/gold/hypernym"><small>gold:</small>hypernym</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="gold:hypernym" resource="http://dbpedia.org/resource/Sitcom" prefix="gold: http://purl.org/linguistics/gold/" href="http://live.dbpedia.org/resource/Sitcom"><small>dbr</small>:Sitcom</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"><small>rdf:</small>type</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://www.w3.org/2002/07/owl#Thing" href="http://www.w3.org/2002/07/owl#Thing"><small>owl</small>:Thing</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://schema.org/CreativeWork" href="http://schema.org/CreativeWork"><small>schema</small>:CreativeWork</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/ontology/Work" href="http://live.dbpedia.org/ontology/Work"><small>dbo</small>:Work</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://www.wikidata.org/entity/Q15416" href="http://www.wikidata.org/entity/Q15416"><small>wikidata</small>:Q15416</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://www.wikidata.org/entity/Q386724" href="http://www.wikidata.org/entity/Q386724"><small>wikidata</small>:Q386724</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/ontology/TelevisionShow" href="http://live.dbpedia.org/ontology/TelevisionShow"><small>dbo</small>:TelevisionShow</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/ontology/TelevisionShow" href="http://live.dbpedia.org/ontology/TelevisionShow"><small>dbo</small>:TelevisionShow</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/WikicatSitcoms" href="http://live.dbpedia.org/class/yago/WikicatSitcoms"><small>yago</small>:WikicatSitcoms</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/WritingStyle107092158" href="http://live.dbpedia.org/class/yago/WritingStyle107092158"><small>yago</small>:WritingStyle107092158</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" href="http://live.dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"><small>yago</small>:YagoPermanentlyLocatedEntity</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Abstraction100002137" href="http://live.dbpedia.org/class/yago/Abstraction100002137"><small>yago</small>:Abstraction100002137</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Act100030358" href="http://live.dbpedia.org/class/yago/Act100030358"><small>yago</small>:Act100030358</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Action100037396" href="http://live.dbpedia.org/class/yago/Action100037396"><small>yago</small>:Action100037396</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Activity100407535" href="http://live.dbpedia.org/class/yago/Activity100407535"><small>yago</small>:Activity100407535</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Beginning100235435" href="http://live.dbpedia.org/class/yago/Beginning100235435"><small>yago</small>:Beginning100235435</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Change100191142" href="http://live.dbpedia.org/class/yago/Change100191142"><small>yago</small>:Change100191142</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/ChangeOfState100199130" href="http://live.dbpedia.org/class/yago/ChangeOfState100199130"><small>yago</small>:ChangeOfState100199130</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Comedy107015510" href="http://live.dbpedia.org/class/yago/Comedy107015510"><small>yago</small>:Comedy107015510</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Communication100033020" href="http://live.dbpedia.org/class/yago/Communication100033020"><small>yago</small>:Communication100033020</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Diversion100426928" href="http://live.dbpedia.org/class/yago/Diversion100426928"><small>yago</small>:Diversion100426928</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Drama106376154" href="http://live.dbpedia.org/class/yago/Drama106376154"><small>yago</small>:Drama106376154</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Ending106308765" href="http://live.dbpedia.org/class/yago/Ending106308765"><small>yago</small>:Ending106308765</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Entertainment100429048" href="http://live.dbpedia.org/class/yago/Entertainment100429048"><small>yago</small>:Entertainment100429048</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Event100029378" href="http://live.dbpedia.org/class/yago/Event100029378"><small>yago</small>:Event100029378</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/ExpressiveStyle107066659" href="http://live.dbpedia.org/class/yago/ExpressiveStyle107066659"><small>yago</small>:ExpressiveStyle107066659</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Introduction100238022" href="http://live.dbpedia.org/class/yago/Introduction100238022"><small>yago</small>:Introduction100238022</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/LanguageUnit106284225" href="http://live.dbpedia.org/class/yago/LanguageUnit106284225"><small>yago</small>:LanguageUnit106284225</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Morpheme106306233" href="http://live.dbpedia.org/class/yago/Morpheme106306233"><small>yago</small>:Morpheme106306233</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Part113809207" href="http://live.dbpedia.org/class/yago/Part113809207"><small>yago</small>:Part113809207</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/PsychologicalFeature100023100" href="http://live.dbpedia.org/class/yago/PsychologicalFeature100023100"><small>yago</small>:PsychologicalFeature100023100</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Relation100031921" href="http://live.dbpedia.org/class/yago/Relation100031921"><small>yago</small>:Relation100031921</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Show100520257" href="http://live.dbpedia.org/class/yago/Show100520257"><small>yago</small>:Show100520257</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/SituationComedy107017733" href="http://live.dbpedia.org/class/yago/SituationComedy107017733"><small>yago</small>:SituationComedy107017733</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Wikicat1982AmericanTelevisionSeriesDebuts" href="http://live.dbpedia.org/class/yago/Wikicat1982AmericanTelevisionSeriesDebuts"><small>yago</small>:Wikicat1982AmericanTelevisionSeriesDebuts</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Wikicat1983AmericanTelevisionSeriesEndings" href="http://live.dbpedia.org/class/yago/Wikicat1983AmericanTelevisionSeriesEndings"><small>yago</small>:Wikicat1983AmericanTelevisionSeriesEndings</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/WikicatAmericanTelevisionSitcoms" href="http://live.dbpedia.org/class/yago/WikicatAmericanTelevisionSitcoms"><small>yago</small>:WikicatAmericanTelevisionSitcoms</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/WikicatNBCNetworkShows" href="http://live.dbpedia.org/class/yago/WikicatNBCNetworkShows"><small>yago</small>:WikicatNBCNetworkShows</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://www.w3.org/2000/01/rdf-schema#comment"><small>rdfs:</small>comment</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="rdfs:comment" lang="en">Teachers Only is an American sitcom on NBC that centered on the faculty of a Los Angeles high school who spent a lot of time in the teacher's lounge, where the students were not allowed. Following a short first season, the show was completely overhauled, with only stars Lynn Redgrave and Norman Fell returning.</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://www.w3.org/2000/01/rdf-schema#label"><small>rdfs:</small>label</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="rdfs:label" lang="en">Teachers Only</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://www.w3.org/2000/01/rdf-schema#seeAlso"><small>rdfs:</small>seeAlso</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="rdfs:seeAlso" resource="http://dbpedia.org/resource/The_Faculty_(TV_series)" href="http://live.dbpedia.org/resource/The_Faculty_(TV_series)"><small>dbr</small>:The_Faculty_(TV_series)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdfs:seeAlso" resource="http://dbpedia.org/resource/Teachers_(2006_TV_series)" href="http://live.dbpedia.org/resource/Teachers_(2006_TV_series)"><small>dbr</small>:Teachers_(2006_TV_series)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdfs:seeAlso" resource="http://dbpedia.org/resource/Teachers_(British_TV_series)" href="http://live.dbpedia.org/resource/Teachers_(British_TV_series)"><small>dbr</small>:Teachers_(British_TV_series)</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://www.w3.org/2002/07/owl#sameAs"><small>owl:</small>sameAs</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://rdf.freebase.com/ns/m.07chmmw" href="http://rdf.freebase.com/ns/m.07chmmw"><small>freebase</small>:Teachers Only</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://yago-knowledge.org/resource/Teachers_Only" href="http://yago-knowledge.org/resource/Teachers_Only"><small>yago-res</small>:Teachers Only</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://www.wikidata.org/entity/Q3658578" href="http://www.wikidata.org/entity/Q3658578"><small>wikidata</small>:Teachers Only</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://it.dbpedia.org/resource/Cari_professori" href="http://it.dbpedia.org/resource/Cari_professori"><small>dbpedia-it</small>:Teachers Only</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="https://global.dbpedia.org/id/3PHCE" href="https://global.dbpedia.org/id/3PHCE">https://global.dbpedia.org/id/3PHCE</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://dbpedia.org/resource/Teachers_Only" href="http://dbpedia.org/resource/Teachers_Only"><small>dbr</small>:Teachers Only</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://www.w3.org/ns/prov#wasDerivedFrom"><small>prov:</small>wasDerivedFrom</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="prov:wasDerivedFrom" resource="http://en.wikipedia.org/wiki/Teachers_Only?oldid=1048051192&amp;ns=0" href="http://en.wikipedia.org/wiki/Teachers_Only?oldid=1048051192&amp;ns=0"><small>wikipedia-en</small>:Teachers_Only?oldid=1048051192&amp;ns=0</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://xmlns.com/foaf/0.1/depiction"><small>foaf:</small>depiction</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="foaf:depiction" resource="http://commons.wikimedia.org/wiki/Special:FilePath/Teachers_Only_cast.jpg" href="http://commons.wikimedia.org/wiki/Special:FilePath/Teachers_Only_cast.jpg"><small>wiki-commons</small>:Special:FilePath/Teachers_Only_cast.jpg</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://xmlns.com/foaf/0.1/isPrimaryTopicOf"><small>foaf:</small>isPrimaryTopicOf</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="foaf:isPrimaryTopicOf" resource="http://en.wikipedia.org/wiki/Teachers_Only" href="http://en.wikipedia.org/wiki/Teachers_Only"><small>wikipedia-en</small>:Teachers_Only</a></span></li>
+	<li><span class="literal"><a class="uri" rel="foaf:isPrimaryTopicOf" resource="http://en.wikipedia.org/wiki/Teachers_Only" href="http://en.wikipedia.org/wiki/Teachers_Only"><small>wikipedia-en</small>:Teachers_Only</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2">is <a class="uri" href="http://live.dbpedia.org/ontology/wikiPageWikiLink" title="http://dbpedia.org/ontology/wikiPageWikiLink"><small>dbo:</small>wikiPageWikiLink</a>
+ of</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Tim_Reid" href="http://live.dbpedia.org/resource/Tim_Reid"><small>dbr</small>:Tim_Reid</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Timothy_Patrick_Murphy" href="http://live.dbpedia.org/resource/Timothy_Patrick_Murphy"><small>dbr</small>:Timothy_Patrick_Murphy</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Carson_Entertainment" href="http://live.dbpedia.org/resource/Carson_Entertainment"><small>dbr</small>:Carson_Entertainment</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_programs_broadcast_by_Seven_Network" href="http://live.dbpedia.org/resource/List_of_programs_broadcast_by_Seven_Network"><small>dbr</small>:List_of_programs_broadcast_by_Seven_Network</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_situation_comedies" href="http://live.dbpedia.org/resource/List_of_situation_comedies"><small>dbr</small>:List_of_situation_comedies</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Amanda_Wyss" href="http://live.dbpedia.org/resource/Amanda_Wyss"><small>dbr</small>:Amanda_Wyss</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Heidi_Bohay" href="http://live.dbpedia.org/resource/Heidi_Bohay"><small>dbr</small>:Heidi_Bohay</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jean_Smart" href="http://live.dbpedia.org/resource/Jean_Smart"><small>dbr</small>:Jean_Smart</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Norman_Bartold" href="http://live.dbpedia.org/resource/Norman_Bartold"><small>dbr</small>:Norman_Bartold</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Norman_Fell" href="http://live.dbpedia.org/resource/Norman_Fell"><small>dbr</small>:Norman_Fell</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/1981–82_United_States_network_television_schedule" href="http://live.dbpedia.org/resource/1981–82_United_States_network_television_schedule"><small>dbr</small>:1981–82_United_States_network_television_schedule</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/1982_in_American_television" href="http://live.dbpedia.org/resource/1982_in_American_television"><small>dbr</small>:1982_in_American_television</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/1982–83_United_States_network_television_schedule" href="http://live.dbpedia.org/resource/1982–83_United_States_network_television_schedule"><small>dbr</small>:1982–83_United_States_network_television_schedule</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/1983_in_Australian_television" href="http://live.dbpedia.org/resource/1983_in_Australian_television"><small>dbr</small>:1983_in_Australian_television</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/1983–84_United_States_network_television_schedule" href="http://live.dbpedia.org/resource/1983–84_United_States_network_television_schedule"><small>dbr</small>:1983–84_United_States_network_television_schedule</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Aaron_Ruben" href="http://live.dbpedia.org/resource/Aaron_Ruben"><small>dbr</small>:Aaron_Ruben</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Adam_Arkin" href="http://live.dbpedia.org/resource/Adam_Arkin"><small>dbr</small>:Adam_Arkin</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Richard_Karron" href="http://live.dbpedia.org/resource/Richard_Karron"><small>dbr</small>:Richard_Karron</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jo_Marie_Payton" href="http://live.dbpedia.org/resource/Jo_Marie_Payton"><small>dbr</small>:Jo_Marie_Payton</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Joel_Brooks" href="http://live.dbpedia.org/resource/Joel_Brooks"><small>dbr</small>:Joel_Brooks</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/John_Bennett_Perry" href="http://live.dbpedia.org/resource/John_Bennett_Perry"><small>dbr</small>:John_Bennett_Perry</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Lynn_Redgrave" href="http://live.dbpedia.org/resource/Lynn_Redgrave"><small>dbr</small>:Lynn_Redgrave</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Michael_J._Fox" href="http://live.dbpedia.org/resource/Michael_J._Fox"><small>dbr</small>:Michael_J._Fox</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Michael_Spound" href="http://live.dbpedia.org/resource/Michael_Spound"><small>dbr</small>:Michael_Spound</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jean_Smart_filmography" href="http://live.dbpedia.org/resource/Jean_Smart_filmography"><small>dbr</small>:Jean_Smart_filmography</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Donna_Wilkes" href="http://live.dbpedia.org/resource/Donna_Wilkes"><small>dbr</small>:Donna_Wilkes</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Larry_Tucker_(screenwriter)" href="http://live.dbpedia.org/resource/Larry_Tucker_(screenwriter)"><small>dbr</small>:Larry_Tucker_(screenwriter)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_American_television_programs_by_debut_date" href="http://live.dbpedia.org/resource/List_of_American_television_programs_by_debut_date"><small>dbr</small>:List_of_American_television_programs_by_debut_date</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_television_series_about_school" href="http://live.dbpedia.org/resource/List_of_television_series_about_school"><small>dbr</small>:List_of_television_series_about_school</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Brian_Robbins" href="http://live.dbpedia.org/resource/Brian_Robbins"><small>dbr</small>:Brian_Robbins</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2">is <a class="uri" href="http://xmlns.com/foaf/0.1/primaryTopic"><small>foaf:</small>primaryTopic</a>
+ of</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rev="foaf:primaryTopic" resource="http://en.wikipedia.org/wiki/Teachers_Only" href="http://en.wikipedia.org/wiki/Teachers_Only"><small>wikipedia-en</small>:Teachers_Only</a></span></li>
+	<li><span class="literal"><a class="uri" rev="foaf:primaryTopic" resource="http://en.wikipedia.org/wiki/Teachers_Only" href="http://en.wikipedia.org/wiki/Teachers_Only"><small>wikipedia-en</small>:Teachers_Only</a></span></li>
+</ul></td></tr>
+		    </tbody>
+		</table>
+	    </div>
+	</div>
+    </div>
+</section>
+<!-- property-table -->
+
+<!-- footer -->
+<section>
+    <div class="container-xl">
+	<div class="text-center p-4 bg-light">
+	    <a href="https://virtuoso.openlinksw.com/" title="OpenLink Virtuoso"><img class="powered_by" src="/statics/images/virt_power_no_border.png" alt="Powered by OpenLink Virtuoso"></a>&nbsp; &nbsp;
+	    <a href="http://linkeddata.org/"><img alt="This material is Open Knowledge" src="/statics/images/LoDLogo.gif"></a> &nbsp; &nbsp;
+	    <a href="https://live.dbpedia.org/sparql"><img alt="W3C Semantic Web Technology" src="/statics/images/sw-sparql-blue.png"></a> &nbsp;  &nbsp;
+	    <a href="https://opendefinition.org/"><img alt="This material is Open Knowledge" src="/statics/images/od_80x15_red_green.png"></a>&nbsp; &nbsp;
+	    <span style="display:none;" about="" resource="http://www.w3.org/TR/rdfa-syntax" rel="dc:conformsTo">
+		<a href="https://validator.w3.org/check?uri=referer">
+		    <img src="https://www.w3.org/Icons/valid-xhtml-rdfa" alt="Valid XHTML + RDFa">
+		</a>
+	    </span>
+	    <br>
+	    <small class="text-muted">
+		This content was extracted from <a href="http://en.wikipedia.org/wiki/Teachers_Only">Wikipedia</a> and is licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>
+
+	    </small>
+	</div>
+    </div>
+</section>
+<!-- #footer -->
+
+<!-- scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous">
+    </script>
+
+
+</body></html>

@@ -1,0 +1,392 @@
+<html data-engine="webkit"><head>
+        <meta charset="UTF-8">
+        <title>
+            Markup, Václav
+        </title>
+        <meta content="width=device-width" name="viewport">
+        <link href="/favicon.ico" rel="icon" type="image/x-icon">
+        <link type="text/css" rel="stylesheet" href="/css/summer-MQovY3NzL2Jvb3RzdHJhcC5taW4uY3Nz.css">
+        <link type="text/css" rel="stylesheet" href="/css/forest-eNpVjEEOQFAMBffuUo0jSfMEUeW3jbi9HxZYvWReZrqGxZ0HK_CgPsPEdFsQaCv_nVLnhZIephQjFDzviXJSTvTgr7vW7AE3veULBP4pXw.css">
+        <link type="text/css" rel="stylesheet" href="/css/eNoz4NJPLi7WT08tKanUA7Ig3LT8otTiEl0gkV9alJwKkgAAJhQO1g.css">
+        <script type="text/javascript" src="/js/summer-eNplzEEKgDAMAMG7f2m0+qIoUVoao0kK+nsvFgSvs7Cx67P1+aykdxhhgAk47ZDt65w2RacQYYT474DVZRE+Cjm1ZJWZNGDGq9EqSubBZElYGs4ibq54vN8H2fAyXA.js"></script>
+        <script type="text/javascript" src="/js/forest-eNptzEESgjAMheG9d0mguvEgXiAtAVsLGZJ2we2p4zCjjNv_fYm7dMm6tFbWDWoEh3e83jBUKzLjHBdM9kWwPJmGptyfLZByAaVl4ib602pBJeeH_GYIIq_IRxyUpg8kn_n0wRN4vx5xFGUr7V7fbgeS+0VJ.js"></script>
+        <script type="text/javascript" src="/js/MAovanMvZm9yZXN0LXJlc291cmNlLmpz.js"></script>
+        <script>
+            $(function() {
+                $.extend(forest, {
+                    context: 'all',
+                    language: 'all',
+                    inference: 'explicit'
+                });            
+            });
+        </script>
+        <script>
+            forest = {
+                limit: 10000,
+                uri: 'http://localhost:8080'
+            }
+        </script>
+        <script>
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-47843412-1']);
+            _gaq.push(['_trackPageview']);
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+            })();
+        </script><script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script>
+        <script charset="utf-8" type="text/javascript">
+            $(function() {
+                    $('.dropdown-toggle').dropdown();
+                })
+            $(document).ready(function(){
+                var newattr = $('#queries-info').attr('title').replace('|', '\n');
+                $('#queries-info').attr('title', newattr);
+            });
+        </script>
+        <script>
+            summer = {
+                contextPath: ''
+            };
+        </script>
+        <script type="text/javascript" src="/js/eNoz4NLPKtZPyy9KLS7RTSwtyU_Ozy3ISS1J1csqBkulp5aUVAI5AC3aDtA.js"></script>
+    </head>
+    <body style="">
+        <header class="navbar navbar-inverse navbar-fixed-top">
+            <div class="navbar-inner">
+                <div class="container-fluid"><!-- 				<button type="button" class="btn btn-navbar" data-toggle="collapse" --><!-- 					data-target=".nav-collapse"> --><!-- 					<span class="icon-bar"></span> <span class="icon-bar"></span> <span --><!-- 						class="icon-bar"></span> --><!-- 				</button> --><a style="font-family: Verdana; font-size: 17px; " class="brand" href="/"><span>
+
+
+
+
+Getty Vocabularies: LOD</span></a>
+                    <div class="nav">
+                        <ul class="nav">
+                            <li class="dropdown">
+                                <a style="margin: 1px 0px 0px 0px; font-size: 17px; font-family: Verdana;" href="/sparql">SPARQL</a>
+                            </li>
+                            <li>
+                                <a style="margin: 1px 0px 0px 0px; font-size: 17px; font-family: Verdana;" href="/queries">Queries</a>
+                            </li>
+                            <li>
+                                <div style="margin: 0px 0px 0px 30px;">
+                                    <form action="/resource/getty/search" class="input-append" method="get">
+                                        <table><tbody><tr><td>
+                                                    <div id="btn-dataset" class="btn-group">
+                                                        <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button">
+                                                            <span id="data-selection" class="selection">Any &nbsp;</span><span class="caret"></span>
+                                                        </button>
+                                                        <ul id="menu-dataset" class="dropdown-menu" role="menu">
+                                                            <li>
+                                                                <a>Any&nbsp;</a>
+                                                            </li>
+                                                            <li>
+                                                                <a>AAT&nbsp;</a>
+                                                            </li>
+                                                            <li>
+                                                                <a>TGN&nbsp;</a>
+                                                            </li>
+                                                            <li>
+                                                                <a>ULAN&nbsp;</a>
+                                                            </li>
+                                                        </ul>
+                                                    </div></td><td>
+                                                    <input id="q" style="margin: 6px 0px 0px 0px; border-radius: 5px;" placeholder="Search..." name="q" class="q ac_input" type="text" size="40" autocomplete="off"></td><td>
+                                                    <button id="submit" style="border-radius: 5px; margin: 6px 0px 0px 3px;" class="btn" type="submit">
+                                                        Search
+                                                    </button></td><td>
+                                                    <div id="btn-index" class="btn-group">
+                                                        <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button">
+                                                            <span id="index-selection" class="selection">Brief &nbsp;</span><span class="caret"></span>
+                                                        </button>
+                                                        <ul id="menu-index" class="dropdown-menu" role="menu">
+                                                            <li>
+                                                                <a>Brief &nbsp;</a>
+                                                            </li>
+                                                            <li>
+                                                                <a>Full &nbsp;</a>
+                                                            </li>
+                                                        </ul>
+                                                    </div></td></tr></tbody></table>
+                                        <input name="luceneIndex" value="Brief" type="hidden">
+                                        <input name="indexDataset" value="Any" type="hidden">
+                                        <input type="hidden" name="_form" value="/ulan/500202582">
+                                    </form>
+                                </div>
+                            </li>
+                        </ul>
+                    </div><!--<div class="beta-version">BETA</div>-->
+                </div>
+            </div>
+        </header>
+        <div id="global-wrapper" class="container-fluid">
+            <div>
+                <div>
+                    <div class="resource-info">
+                        <h1><!-- 			<sup data-rendered="false"> --><!-- 				<img src="/img/rank.gif"  --><!-- 					alt="RDF Rank " title="RDF Rank " width="42" height="15" /> --><!-- 			</sup> -->                      
+                            Markup, Václav
+                        </h1>
+                        <p class="source">
+                            <span>Source:</span><a href="http://vocab.getty.edu/ulan/500202582">http://vocab.getty.edu/ulan/500202582</a>
+                        </p>
+                    </div>
+                </div>
+                <div>
+                    <div id="selection" class="selection">
+                        <ul class="resource-tabs">
+                            <li class="selected">
+                                <a href="/ulan/500202582">
+                    Subject
+                    <span>
+                        (<span id="count" class="count">39</span>)</span></a>
+                            </li>
+                            <li>
+                                <a href="/ulan/500202582?role=predicate">
+                    Predicate</a>
+                            </li>
+                            <li>
+                                <a href="/ulan/500202582?role=object">
+                    Object</a>
+                            </li>
+                            <li>
+                                <a href="/ulan/500202582?role=all">
+                    All</a>
+                            </li>
+                        </ul>
+                        <div>
+                            <div class="resource-formats">
+                                <div>
+                                    <div>
+                                        <ul>
+                                            <li>
+                                                <a title="      Website" target="_blank" class="format" href="/page/ulan/500202582">Website</a>
+                                            </li>
+                                            <li>
+                                                <a title="Hierarchy" target="_blank" class="format" href="/hier/ulan/500202582">Hierarchy</a>
+                                            </li>
+                                            <li>
+                                                <p>
+                                                    Download in:
+                                                </p>
+                                            </li>
+                                        </ul>
+                                        <ul>
+                                            <li>
+                                                <a id="jsonDownload" title="Download in JSON" class="format" href="/ulan/500202582.json">JSON</a>
+                                            </li>
+                                            <li>
+                                                <a title="Download in JSONLD" class="format" href="/ulan/500202582.jsonld">JSONLD</a>
+                                            </li>
+                                            <li>
+                                                <a title="Download in RDF" class="format" href="/ulan/500202582.rdf">RDF</a>
+                                            </li>
+                                            <li>
+                                                <a id="N3Turtle" title="Download in N3/Turtle" class="format" href="/ulan/500202582.ttl">N3/Turtle</a>
+                                            </li>
+                                            <li>
+                                                <a title="Download in NTriples" class="format" href="/ulan/500202582.nt">N-Triples</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="pull-right">
+                        <form action="/ulan/500202582" method="get">
+                            <label class="pull-left">
+                                Inference
+                                
+                                <select id="inference-select" name="inference-select">
+                                    <option value="all">
+                                        Explicit and implicit
+                                    </option>
+                                    <option selected="selected" value="explicit">
+                                        Explicit only
+                                    </option>
+                                    <option value="implicit">
+                                        Implicit only
+                                    </option>
+                                </select>
+                            </label>
+                            <input type="hidden" name="_form" value="/ulan/500202582">
+                        </form>
+                    </div>
+                    <div class="clearfix">
+                    </div>
+                    <div id="results" class="results">
+                        <div><table style="width: 100%" class="table table-striped table-bordered"><caption>
+        
+                    Statements in which the resource exists as a subject.</caption><thead><tr><th>Predicate</th><th>Object</th></tr></thead><tbody><tr class="even"><td><span>
+                                <a href="/resource?uri=http%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23type" title="http://www.w3.org/1999/02/22-rdf-syntax-ns#type">rdf:type</a></span></td><td>
+                                            <div>
+                                                <span><a href="/resource?uri=http%3A%2F%2Fvocab.getty.edu%2Fontology%23PersonConcept" title="http://vocab.getty.edu/ontology#PersonConcept" class="explicit">gvp:PersonConcept</a></span>
+                                            </div></td></tr><tr class="odd"><td><span>
+                            
+                                <a href="/resource?uri=http%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23seeAlso" title="http://www.w3.org/2000/01/rdf-schema#seeAlso">rdfs:seeAlso</a></span></td><td>
+                                            <div>
+                                                <span><a href="/resource?uri=http%3A%2F%2Fwww.getty.edu%2Fvow%2FULANFullDisplay%3Ffind%3D%26role%3D%26nation%3D%26subjectid%3D500202582" title="http://www.getty.edu/vow/ULANFullDisplay?find=&amp;role=&amp;nation=&amp;subjectid=500202582" class="explicit">http://www.getty.edu/vow/ULANFullDisplay?find=&amp;role=&amp;nation=&amp;subjectid=500202582</a></span>
+                                            </div></td></tr><tr class="even"><td><span>
+                            
+                                <a href="/resource?uri=http%3A%2F%2Fpurl.org%2Fdc%2Fterms%2Fcreated" title="http://purl.org/dc/terms/created">dcterms:created</a></span></td><td>
+                                            <div>
+                                                <span><span>2008-11-03T15:05:26</span></span>
+                                            </div></td></tr><tr class="odd"><td><span>
+                            
+                                <a href="/resource?uri=http%3A%2F%2Fpurl.org%2Fdc%2Fterms%2Fmodified" title="http://purl.org/dc/terms/modified">dcterms:modified</a></span></td><td>
+                                            <div>
+                                                <span><span>2008-11-03T15:05:26</span></span>,
+                                                <span><span>2008-11-04T14:01:35</span></span>,
+                                                <span><span>2008-11-04T14:04:22</span></span>
+                                            </div></td></tr><tr class="even"><td><span>
+                            
+                                <a href="/resource?uri=http%3A%2F%2Fwww.w3.org%2F2004%2F02%2Fskos%2Fcore%23changeNote" title="http://www.w3.org/2004/02/skos/core#changeNote">skos:changeNote</a></span></td><td>
+                                            <div>
+                                                <span><a href="/ulan/rev/5503720027" title="http://vocab.getty.edu/ulan/rev/5503720027" class="explicit">ulan_rev:5503720027</a></span>,
+                                                <span><a href="/ulan/rev/5503720028" title="http://vocab.getty.edu/ulan/rev/5503720028" class="explicit">ulan_rev:5503720028</a></span>,
+                                                <span><a href="/ulan/rev/5503720029" title="http://vocab.getty.edu/ulan/rev/5503720029" class="explicit">ulan_rev:5503720029</a></span>,
+                                                <span><a href="/ulan/rev/5503720030" title="http://vocab.getty.edu/ulan/rev/5503720030" class="explicit">ulan_rev:5503720030</a></span>,
+                                                <span><a href="/ulan/rev/5503720031" title="http://vocab.getty.edu/ulan/rev/5503720031" class="explicit">ulan_rev:5503720031</a></span>,
+                                                <span><a href="/ulan/rev/5503720585" title="http://vocab.getty.edu/ulan/rev/5503720585" class="explicit">ulan_rev:5503720585</a></span>,
+                                                <span><a href="/ulan/rev/5503720612" title="http://vocab.getty.edu/ulan/rev/5503720612" class="explicit">ulan_rev:5503720612</a></span>
+                                            </div></td></tr><tr class="odd"><td><span>
+                            
+                                <a href="/resource?uri=http%3A%2F%2Fvocab.getty.edu%2Fontology%23parentString" title="http://vocab.getty.edu/ontology#parentString">gvp:parentString</a></span></td><td>
+                                            <div>
+                                                <span><span>Persons, Artists</span></span>
+                                            </div></td></tr><tr class="even"><td><span>
+                            
+                                <a href="/resource?uri=http%3A%2F%2Fvocab.getty.edu%2Fontology%23parentStringAbbrev" title="http://vocab.getty.edu/ontology#parentStringAbbrev">gvp:parentStringAbbrev</a></span></td><td>
+                                            <div>
+                                                <span><span>Persons, Artists</span></span>
+                                            </div></td></tr><tr class="odd"><td><span>
+                            
+                                <a href="/resource?uri=http%3A%2F%2Fvocab.getty.edu%2Fontology%23displayOrder" title="http://vocab.getty.edu/ontology#displayOrder">gvp:displayOrder</a></span></td><td>
+                                            <div>
+                                                <span><span>141348</span></span>
+                                            </div></td></tr><tr class="even"><td><span>
+                            
+                                <a href="/resource?uri=http%3A%2F%2Fwww.w3.org%2F2008%2F05%2Fskos-xl%23prefLabel" title="http://www.w3.org/2008/05/skos-xl#prefLabel">xl:prefLabel</a></span></td><td>
+                                            <div>
+                                                <span><a href="/ulan/term/1500484711-cs" title="http://vocab.getty.edu/ulan/term/1500484711-cs" class="explicit">ulan_term:1500484711-cs</a></span>
+                                            </div></td></tr><tr class="odd"><td><span>
+                            
+                                <a href="/resource?uri=http%3A%2F%2Fwww.w3.org%2F2008%2F05%2Fskos-xl%23altLabel" title="http://www.w3.org/2008/05/skos-xl#altLabel">xl:altLabel</a></span></td><td>
+                                            <div>
+                                                <span><a href="/ulan/term/1500484710" title="http://vocab.getty.edu/ulan/term/1500484710" class="explicit">ulan_term:1500484710</a></span>,
+                                                <span><a href="/ulan/term/1500484712-cs" title="http://vocab.getty.edu/ulan/term/1500484712-cs" class="explicit">ulan_term:1500484712-cs</a></span>,
+                                                <span><a href="/ulan/term/1500484757" title="http://vocab.getty.edu/ulan/term/1500484757" class="explicit">ulan_term:1500484757</a></span>
+                                            </div></td></tr><tr class="even"><td><span>
+                            
+                                <a href="/resource?uri=http%3A%2F%2Fvocab.getty.edu%2Fontology%23broaderInstantial" title="http://vocab.getty.edu/ontology#broaderInstantial">gvp:broaderInstantial</a></span></td><td>
+                                            <div>
+                                                <span><a href="/ulan/500000002" title="http://vocab.getty.edu/ulan/500000002" class="explicit">ulan:500000002</a></span>
+                                            </div></td></tr><tr class="odd"><td><span>
+                            
+                                <a href="/resource?uri=http%3A%2F%2Fvocab.getty.edu%2Fontology%23broaderPreferred" title="http://vocab.getty.edu/ontology#broaderPreferred">gvp:broaderPreferred</a></span></td><td>
+                                            <div>
+                                                <span><a href="/ulan/500000002" title="http://vocab.getty.edu/ulan/500000002" class="explicit">ulan:500000002</a></span>
+                                            </div></td></tr><tr class="even"><td><span>
+                            
+                                <a href="/resource?uri=http%3A%2F%2Fvocab.getty.edu%2Fontology%23prefLabelGVP" title="http://vocab.getty.edu/ontology#prefLabelGVP">gvp:prefLabelGVP</a></span></td><td>
+                                            <div>
+                                                <span><a href="/ulan/term/1500484711-cs" title="http://vocab.getty.edu/ulan/term/1500484711-cs" class="explicit">ulan_term:1500484711-cs</a></span>
+                                            </div></td></tr><tr class="odd"><td><span>
+                            
+                                <a href="/resource?uri=http%3A%2F%2Fwww.w3.org%2F2004%2F02%2Fskos%2Fcore%23inScheme" title="http://www.w3.org/2004/02/skos/core#inScheme">skos:inScheme</a></span></td><td>
+                                            <div>
+                                                <span><a href="/ulan/" title="http://vocab.getty.edu/ulan/" class="explicit">ulan</a></span>
+                                            </div></td></tr><tr class="even"><td><span>
+                            
+                                <a href="/resource?uri=http%3A%2F%2Fpurl.org%2Fdc%2Fterms%2Fcontributor" title="http://purl.org/dc/terms/contributor">dcterms:contributor</a></span></td><td>
+                                            <div>
+                                                <span><a href="/ulan/contrib/2500000013" title="http://vocab.getty.edu/ulan/contrib/2500000013" class="explicit">ulan_contrib:2500000013</a></span>,
+                                                <span><a href="/ulan/contrib/2500000128" title="http://vocab.getty.edu/ulan/contrib/2500000128" class="explicit">ulan_contrib:2500000128</a></span>
+                                            </div></td></tr><tr class="odd"><td><span>
+                            
+                                <a href="/resource?uri=http%3A%2F%2Fpurl.org%2Fdc%2Fterms%2Fsource" title="http://purl.org/dc/terms/source">dcterms:source</a></span></td><td>
+                                            <div>
+                                                <span><a href="/ulan/source/2100039894" title="http://vocab.getty.edu/ulan/source/2100039894" class="explicit">ulan_source:2100039894</a></span>,
+                                                <span><a href="/ulan/source/2100047028" title="http://vocab.getty.edu/ulan/source/2100047028" class="explicit">ulan_source:2100047028</a></span>
+                                            </div></td></tr><tr class="even"><td><span>
+                            
+                                <a href="/resource?uri=http%3A%2F%2Fvocab.getty.edu%2Fontology%23agentTypePreferred" title="http://vocab.getty.edu/ontology#agentTypePreferred">gvp:agentTypePreferred</a></span></td><td>
+                                            <div>
+                                                <span><a href="/aat/300025103" title="http://vocab.getty.edu/aat/300025103" class="explicit">aat:300025103</a></span>
+                                            </div></td></tr><tr class="odd"><td><span>
+                            
+                                <a href="/resource?uri=http%3A%2F%2Fvocab.getty.edu%2Fontology%23agentTypeNonPreferred" title="http://vocab.getty.edu/ontology#agentTypeNonPreferred">gvp:agentTypeNonPreferred</a></span></td><td>
+                                            <div>
+                                                <span><a href="/aat/300025181" title="http://vocab.getty.edu/aat/300025181" class="explicit">aat:300025181</a></span>,
+                                                <span><a href="/aat/300025337" title="http://vocab.getty.edu/aat/300025337" class="explicit">aat:300025337</a></span>,
+                                                <span><a href="/aat/300025388" title="http://vocab.getty.edu/aat/300025388" class="explicit">aat:300025388</a></span>,
+                                                <span><a href="/aat/300112172" title="http://vocab.getty.edu/aat/300112172" class="explicit">aat:300112172</a></span>
+                                            </div></td></tr><tr class="even"><td><span>
+                            
+                                <a href="/resource?uri=http%3A%2F%2Fpurl.org%2Fdc%2Felements%2F1.1%2Fidentifier" title="http://purl.org/dc/elements/1.1/identifier">dc:identifier</a></span></td><td>
+                                            <div>
+                                                <span><span>500202582</span></span>
+                                            </div></td></tr><tr class="odd"><td><span>
+                            
+                                <a href="/resource?uri=http%3A%2F%2Fcreativecommons.org%2Fns%23license" title="http://creativecommons.org/ns#license">cc:license</a></span></td><td>
+                                            <div>
+                                                <span><a href="/resource?uri=http%3A%2F%2Fopendatacommons.org%2Flicenses%2Fby%2F1.0%2F" title="http://opendatacommons.org/licenses/by/1.0/" class="explicit">http://opendatacommons.org/licenses/by/1.0/</a></span>
+                                            </div></td></tr><tr class="even"><td><span>
+                            
+                                <a href="/resource?uri=http%3A%2F%2Fpurl.org%2Fdc%2Fterms%2Flicense" title="http://purl.org/dc/terms/license">dcterms:license</a></span></td><td>
+                                            <div>
+                                                <span><a href="/resource?uri=http%3A%2F%2Fopendatacommons.org%2Flicenses%2Fby%2F1.0%2F" title="http://opendatacommons.org/licenses/by/1.0/" class="explicit">http://opendatacommons.org/licenses/by/1.0/</a></span>
+                                            </div></td></tr><tr class="odd"><td><span>
+                            
+                                <a href="/resource?uri=http%3A%2F%2Frdfs.org%2Fns%2Fvoid%23inDataset" title="http://rdfs.org/ns/void#inDataset">void:inDataset</a></span></td><td>
+                                            <div>
+                                                <span><a href="/resource?uri=http%3A%2F%2Fvocab.getty.edu%2Fdataset%2Fulan" title="http://vocab.getty.edu/dataset/ulan" class="explicit">http://vocab.getty.edu/dataset/ulan</a></span>
+                                            </div></td></tr><tr class="even"><td><span>
+                            
+                                <a href="/resource?uri=http%3A%2F%2Fwww.w3.org%2Fns%2Fprov%23wasGeneratedBy" title="http://www.w3.org/ns/prov#wasGeneratedBy">prov:wasGeneratedBy</a></span></td><td>
+                                            <div>
+                                                <span><a href="/ulan/rev/5503720031" title="http://vocab.getty.edu/ulan/rev/5503720031" class="explicit">ulan_rev:5503720031</a></span>
+                                            </div></td></tr><tr class="odd"><td><span>
+                            
+                                <a href="/resource?uri=http%3A%2F%2Fxmlns.com%2Ffoaf%2F0.1%2Ffocus" title="http://xmlns.com/foaf/0.1/focus">foaf:focus</a></span></td><td>
+                                            <div>
+                                                <span><a href="/ulan/500202582-agent" title="http://vocab.getty.edu/ulan/500202582-agent" class="explicit">ulan:500202582-agent</a></span>
+                                            </div></td></tr></tbody></table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <footer class="footer">
+            <div class="container-fluid">
+                <p>
+                </p>
+                <p style="text-align: center" class="build">            
+                    Build 2018-04-10T07:44:32, Revision
+                 199
+                </p>
+            </div>
+        </footer><!-- 	AlertBox starts --><a id="alertsTrigger" style="display: none;" class="btn btn-primary btn-large" data-toggle="modal" href="#alertsContainers">
+Launch demo modal</a>
+        <div id="alertsContainers" aria-labelledby="myModalLabel" aria-hidden="true" tabindex="-1" class="modal hide fade" role="dialog">
+            <div class="modal-header">
+                <button aria-hidden="true" class="close" data-dismiss="modal" type="button">
+                    ×
+                </button>
+                <h3 id="alertsTitle">
+                    Warning
+                </h3>
+            </div>
+            <div class="modal-body">
+                <p id="alertsMessage">
+                </p>
+            </div>
+            <div class="modal-footer">
+                <button aria-hidden="true" class="btn" data-dismiss="modal">
+                    Close
+                </button>
+            </div>
+        </div><!-- 	AlertBox ends -->
+    
+</body></html>

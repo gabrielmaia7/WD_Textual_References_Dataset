@@ -1,3 +1,11 @@
 #big files
 
 all_url_df_*
+*_html.csv
+
+#exes
+
+*.exe
+
+#python
+.ipynb_checkpoints

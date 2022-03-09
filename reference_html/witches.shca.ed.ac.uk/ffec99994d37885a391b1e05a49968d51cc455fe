@@ -1,0 +1,206 @@
+<html lang="en"><head>
+
+
+
+<title>Survey Database, Survey of Scottish Witchcraft, Scottish History, School of History and Classics, The University of Edinburgh, Scotland</title>
+
+
+
+
+ <link rel="STYLESHEET" type="text/css" href="http://www.shc.ed.ac.uk/css/default.css"> 
+
+<link rel="stylesheet" type="text/css" href="styles/witches.css">
+
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+</head>
+<body>
+<table border="0" width="100%">
+<tbody><tr>
+<td align="left" valign="middle">
+
+<img src="http://www.shc.ed.ac.uk/Research/witches/images/university-of-edinburgh-logo.gif" alt="University of Edinburgh crest" width="100" height="103" border="0">  
+</td>
+<td align="center" bgcolor="#f5f5f5">
+<h1>Survey of Scottish Witchcraft Database</h1>
+<a href="http://www.shc.ed.ac.uk/witches/">Survey of Scottish Witchcraft</a><br>
+<span class="small"><a href="http://www.shc.ed.ac.uk/index.html">Scottish History</a>, 
+School of History and Classics, 
+The <a href="http://www.ed.ac.uk/">University of Edinburgh</a>, Scotland</span><br><br><p></p>
+
+</td>
+<td align="right" valign="middle">
+
+<img src="http://www.shc.ed.ac.uk/Research/witches/images/scottish-witches-survey-logo.jpg" width="150" height="114" border="0" alt="Woodcut of a witch trial"> 
+</td>
+</tr>
+</tbody></table>
+
+
+
+
+
+
+<a name="top"></a>
+
+	<h2>Stevenson,Bessie (22/3/1659)</h2>
+
+<p class="navbar">
+<a href="index.cfm?fuseaction=home.main">Database home</a>
+&nbsp;&nbsp;
+<a href="index.cfm?fuseaction=home.search">Search options</a>
+&nbsp;&nbsp;
+<a href="index.cfm?fuseaction=home.trialform">New trial search</a>
+&nbsp;&nbsp;
+<a href="index.cfm?fuseaction=home.searchtrial&amp;">Current search results</a>
+&nbsp;&nbsp;
+<a href="index.cfm?fuseaction=home.help&amp;helpfile=help_trial&amp;search_string=&amp;trialref=T%2FLA%2F1130">Help</a>
+&nbsp;&nbsp;
+<a href="index.cfm?fuseaction=home.glossary#glossary" target="glossary">Glossary</a>
+</p>
+
+
+<table class="trial" width="80%" border="1">
+<tbody><tr><td>
+<table>
+<tbody><tr><td colspan="2"><h2>Trial process details</h2></td></tr>
+
+	<tr><th align="left" scope="row">Associated case</th>
+	
+		<td><a href="index.cfm?fuseaction=home.caserecord&amp;caseref=C%2FEGD%2F317&amp;search_type=searchtrial&amp;search_string=">Stevenson,Bessie</a>
+			
+				&nbsp;(1659)
+			</td>
+	
+	</tr>
+
+	<tr><th align="left" scope="row">Trial process type</th>
+	<td>Mixed central/local</td></tr>
+
+</tbody></table>
+
+
+	<table>
+	<tbody><tr><td><h2>Linked trials</h2></td></tr>
+	
+	<tr>
+		<td><a href="index.cfm?fuseaction=home.trialrecord&amp;trialref=T/LA/1137&amp;search_type=searchtrial&amp;search_string=">Millar,Janet</a>
+		
+			&nbsp;(trial date 23/3/1659)
+		</td>
+	</tr>
+	
+	</tbody></table>
+
+	<h2>Pre-trial central actions</h2>
+	
+	
+	
+	
+	<h2>Pre-trial local actions</h2>
+	
+	
+		<table>
+		<tbody><tr><td colspan="5"><h3>Imprisonments</h3></td></tr>
+		<tr>
+			<th align="left" scope="col">Date</th>
+			<th align="left" scope="col">Prison</th>
+			<th align="left" scope="col">Location</th>
+		</tr>
+		
+			<tr>
+				<td></td>
+				<td>Prison</td>
+				<td>Stirling</td>
+			</tr>
+		
+		</tbody></table>
+	
+		<table>
+		<tbody><tr><td colspan="8"><h3>Confessions</h3></td></tr>
+		<tr>
+			<th align="left" scope="col">Date</th>
+			<th align="left" scope="col">Place</th>
+			<th align="left" scope="col">Location</th>
+		</tr>
+		
+			<tr>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+		
+		</tbody></table>
+	
+		<table>
+		<tbody><tr><td><h3>Other information</h3></td></tr>
+		
+			<tr><th align="left" scope="row">Arrest</th><td>
+				Yes 
+			</td></tr>
+		
+		</tbody></table>
+	
+		<table>
+		<tbody><tr><td><h3>Pre-trial notes</h3></td></tr>
+		<tr><td>She confessed to healing with deeds, but denied using any words.</td></tr>
+		</tbody></table>
+	
+	<h2>Trial phase</h2>
+	
+	
+		<table>
+		<tbody><tr><th align="left" scope="row">Trial date</th><td>22/3/1659</td></tr> <tr><th align="left" scope="row">Location of trial</th><td>Tolbooth</td></tr> <tr><th align="left" scope="row">Place of trial - county</th><td>Stirling</td></tr> <tr><th align="left" scope="row">Place of trial - burgh</th><td>Stirling</td></tr> <tr><th align="left" scope="row">Verdict</th><td>Guilty</td></tr> <tr><th align="left" scope="row">Circuit</th><td>Yes</td></tr> <tr><th align="left" scope="row">Circuit name</th><td>North</td></tr> <tr><th align="left" scope="row">General trial notes</th><td>In a later addition to the book labelled South and West, but this is a mistake.  She confessed to healing with deeds, but denied witchcraft or using of words.  On an undated list of people from 1658-9 to be arraigned before the justice courts.  16/3/1658 witness list issued.  Witnesses were summond on 18/3/1659 for trial.  She pleaded not guilty</td></tr>
+		</tbody></table>
+	
+	<h2>Post-trial phase</h2>
+	<table>
+	
+	</table>
+
+
+</td></tr>
+</tbody></table>
+
+
+
+<p class="navbar">
+<a href="#top">[Top]</a>
+&nbsp;&nbsp;
+<a href="index.cfm?fuseaction=home.main">Database home</a>
+&nbsp;&nbsp;
+<a href="index.cfm?fuseaction=home.search">Search options</a>
+&nbsp;&nbsp;
+<a href="index.cfm?fuseaction=home.trialform">New trial search</a>
+&nbsp;&nbsp;
+<a href="index.cfm?fuseaction=home.searchtrial&amp;">Current search results</a>
+&nbsp;&nbsp;
+<a href="index.cfm?fuseaction=home.help&amp;helpfile=help_trial&amp;search_string=&amp;trialref=T%2FLA%2F1130">Help</a>
+&nbsp;&nbsp;
+<a href="index.cfm?fuseaction=home.glossary#glossary" target="glossary">Glossary</a>
+</p>
+
+<hr>
+<table width="100%">
+<tbody><tr>
+<td align="left" valign="top" class="footer">
+Survey of Scottish Witchcraft <br>
+<a href="http://www.shc.ed.ac.uk">Scottish History</a>
+
+, School of History and Classics<br>
+The University of Edinburgh <br>17 Buccleuch Place, Edinburgh, EH8 9LN<br>
+<!--Tel: [0]131 651 1925; Fax [0]131 650 4042<br>
+Email: <a href="mailto:witchcraft.survey@ed">witchcraft.survey@ed.ac.uk</a>--><br><br>
+</td>
+<td align="right" valign="top" class="footer">
+Published for the Survey of Scottish Witchcraft<br>
+by <a href="http://www.ucs.ed.ac.uk">Computing Services</a>, The University of Edinburgh<br>
+Database and application built by the Information Tools Team<br>
+Map data provided by the Data Library
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" class="footer">Unless explicitly stated otherwise, all material is copyright ©
+The University of Edinburgh</td></tr>
+</tbody></table>
+
+</body></html>

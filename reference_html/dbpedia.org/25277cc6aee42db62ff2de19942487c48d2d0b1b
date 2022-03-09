@@ -1,0 +1,733 @@
+<html prefix="
+        dbp: http://dbpedia.org/property/
+        dbo: http://dbedia.org/ontology/
+        dct: http://purl.org/dc/terms/
+        dbd: http://dbpedia.org/datatype/
+	og:  https://ogp.me/ns#
+	"><!-- header --><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>About: The $64,000 Question</title>
+
+    <!-- Links -->
+    <link rel="alternate" type="application/rdf+xml" href="http://dbpedia.org/data/The_$64,000_Question.rdf" title="Structured Descriptor Document (RDF/XML format)">
+    <link rel="alternate" type="text/n3" href="http://dbpedia.org/data/The_$64,000_Question.n3" title="Structured Descriptor Document (N3 format)">
+    <link rel="alternate" type="text/turtle" href="http://dbpedia.org/data/The_$64,000_Question.ttl" title="Structured Descriptor Document (Turtle format)">
+    <link rel="alternate" type="application/json+rdf" href="http://dbpedia.org/data/The_$64,000_Question.jrdf" title="Structured Descriptor Document (RDF/JSON format)">
+    <link rel="alternate" type="application/json" href="http://dbpedia.org/data/The_$64,000_Question.json" title="Structured Descriptor Document (RDF/JSON format)">
+    <link rel="alternate" type="application/atom+xml" href="http://dbpedia.org/data/The_$64,000_Question.atom" title="OData (Atom+Feed format)">
+    <link rel="alternate" type="text/plain" href="http://dbpedia.org/data/The_$64,000_Question.ntriples" title="Structured Descriptor Document (N-Triples format)">
+    <link rel="alternate" type="text/csv" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FThe_%2464%2C000_Question%3E&amp;format=text%2Fcsv" title="Structured Descriptor Document (CSV format)">
+    
+    <link rel="alternate" type="application/microdata+json" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FThe_%2464%2C000_Question%3E&amp;format=application%2Fmicrodata%2Bjson" title="Structured Descriptor Document (Microdata/JSON format)">
+    <link rel="alternate" type="text/html" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FThe_%2464%2C000_Question%3E&amp;format=text%2Fhtml" title="Structured Descriptor Document (Microdata/HTML format)">
+    <link rel="alternate" type="application/ld+json" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FThe_%2464%2C000_Question%3E&amp;format=application%2Fjson-ld" title="Structured Descriptor Document (JSON-LD format)">
+    <link rel="alternate" type="text/x-html-script-ld+json" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FThe_%2464%2C000_Question%3E&amp;format=text%2Fx-html-script-ld%2Bjson" title="Structured Descriptor Document (HTML with embedded JSON-LD)">
+    <link rel="alternate" type="text/x-html-script-turtle" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FThe_%2464%2C000_Question%3E&amp;format=text%2Fx-html-script-turtle" title="Structured Descriptor Document (HTML with embedded Turtle)">
+    <link rel="timegate" type="text/html" href="http://dbpedia.mementodepot.org/timegate/http://dbpedia.org/page/The_$64,000_Question" title="Time Machine">
+    <link rel="foaf:primarytopic" href="http://dbpedia.org/resource/The_$64,000_Question">
+    <link rev="describedby" href="http://dbpedia.org/resource/The_$64,000_Question">
+    <!-- /Links -->
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/css/bootstrap.min.css" integrity="sha512-GQGU0fMMi238uA+a/bdWJfpUGKUkBdgfFdgBm72SUQ6BeyWjoY/ton0tEjH+OSH9iP4Dfh+7HM0I9f5eR0L/4w==" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.8.1/font/bootstrap-icons.min.css" integrity="sha512-Oy+sz5W86PK0ZIkawrG0iv7XwWhYecM3exvUtMKNJMekGFJtVAhibhRPTpmyTj8+lJCkmWfnpxKgT2OopquBHA==" crossorigin="anonymous">
+    <!-- link rel="stylesheet" href="/statics/css/dbpedia.css" -->
+    <!-- /Stylesheets-->
+
+    <!-- OpenGraph -->
+    <meta property="og:title" content="The $64,000 Question">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="http://dbpedia.org/resource/The_$64,000_Question">
+    <meta property="og:image" content="/statics/images/dbpedia_logo.png">
+    <meta property="og:description" content="The $64,000 Question was an American game show broadcast in primetime on CBS-TV from 1955 to 1958, which became embroiled in the 1950s quiz show scandals. Contestants answered general knowledge questions, earning money which doubled as the questions became more difficult. The final question had a top prize of $64,000, hence the &quot;$64,000 Question&quot; in the show's title. The $64,000 Challenge (1956–1958) was its spin-off show, where contestants played against winners of at least $8,000 on The $64,000 Question.">
+    <meta property="og:site_name" content="DBpedia">
+    <!-- /OpenGraph-->
+</head>
+<body about="http://dbpedia.org/resource/The_$64,000_Question">
+
+<!-- navbar -->
+<nav class="navbar navbar-expand-md navbar-light bg-light fixed-top align-items-center">
+    <div class="container-xl">
+	<a class="navbar-brand" href="http://wiki.dbpedia.org/about" title="About DBpedia" style="color: #2c5078">
+	    <img class="img-fluid" src="/statics/images/dbpedia_logo_land_120.png" alt="About DBpedia">
+	</a>
+	<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#dbp-navbar" aria-controls="dbp-navbar" aria-expanded="false" aria-label="Toggle navigation">
+	    <span class="navbar-toggler-icon"></span>
+	</button>
+
+	<div class="collapse navbar-collapse" id="dbp-navbar">
+	    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+		<li class="nav-item dropdown">
+		    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBrowse" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+		    <i class="bi-eye-fill"></i> Browse using<span class="caret"></span></a>
+
+		    <ul class="dropdown-menu" aria-labelledby="navbarDropdownBrowse">
+			<li class="dropdown-item"><a class="nav-link" href="/describe/?uri=http%3A%2F%2Fdbpedia.org%2Fresource%2FThe_%2464%2C000_Question">OpenLink Faceted Browser</a></li>
+			<li class="dropdown-item"><a class="nav-link" href="http://osde.demo.openlinksw.com/#/editor?uri=http%3A%2F%2Fdbpedia.org%2Fdata%2FThe_%2464%2C000_Question.ttl&amp;view=statements">OpenLink Structured Data Editor</a></li>
+			<li class="dropdown-item"><a class="nav-link" href="http://en.lodlive.it/?http%3A%2F%2Fdbpedia.org%2Fresource%2FThe_%2464%2C000_Question">LodLive Browser</a></li>
+			<!-- li class="dropdown-item"><a class="nav-link" href="http://lodmilla.sztaki.hu/lodmilla/?url=http%3A%2F%2Fdbpedia.org%2Fresource%2FThe_%2464%2C000_Question">LODmilla Browser</a></li -->
+		    </ul>
+		</li>
+
+		<li class="nav-item dropdown">
+		    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownFormats" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+		    <i class="bi-file-earmark-fill"></i> Formats<span class="caret"></span></a>
+
+		    <ul class="dropdown-menu" aria-labelledby="navbarDropdownFormats">
+			<li class="dropdown-item-text">RDF:</li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/The_$64,000_Question.ntriples">N-Triples</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/The_$64,000_Question.n3">N3</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/The_$64,000_Question.ttl">Turtle</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/The_$64,000_Question.json">JSON</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/The_$64,000_Question.rdf">XML</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">OData:</li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/The_$64,000_Question.atom">Atom</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/The_$64,000_Question.jsod">JSON</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">Microdata:</li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FThe_%2464%2C000_Question%3E&amp;format=application%2Fmicrodata%2Bjson">JSON</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FThe_%2464%2C000_Question%3E&amp;format=text%2Fhtml">HTML</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">Embedded:</li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FThe_%2464%2C000_Question%3E&amp;format=text%2Fx-html-script-ld%2Bjson">JSON</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FThe_%2464%2C000_Question%3E&amp;format=text%2Fx-html-script-turtle">Turtle</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">Other:</li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FThe_%2464%2C000_Question%3E&amp;format=text%2Fcsv">CSV</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FThe_%2464%2C000_Question%3E&amp;format=application%2Fjson-ld">JSON-LD</a></li>
+
+		    </ul>
+		</li>
+	    </ul>
+
+	    <ul class="navbar-nav ms-auto">
+		<li class="nav-item">
+		    <a class="nav-link" href="/fct/" title="Switch to /fct endpoint"><i class="bi-box-arrow-up-right"></i> Faceted Browser </a>
+		</li>
+
+		<li class="nav-item">
+		    <a class="nav-link" href="/sparql/" title="Switch to /sparql endpoint"><i class="bi-box-arrow-up-right"></i> Sparql Endpoint </a>
+		</li>
+
+	    </ul>
+	</div>
+   </div>
+</nav>
+<div style="margin-bottom: 60px"></div>
+<!-- /navbar -->
+
+
+<!-- page-header -->
+<section>
+    <div class="container-xl">
+	<div class="row">
+	    <div class="col">
+		<h1 id="title" class="display-6"><b>About:</b>
+		    <a href="http://dbpedia.org/resource/The_$64,000_Question">The $64,000 Question</a>
+		</h1>
+	    </div>
+	</div>
+	<div class="row">
+	    <div class="col">
+		<div class="text-muted">
+		    <span class="text-nowrap">An Entity of Type: <a href="http://dbpedia.org/ontology/TelevisionShow">television show</a>, </span>
+		    <span class="text-nowrap">from Named Graph:  <a href="http://dbpedia.org">http://dbpedia.org</a>, </span>
+		    <span class="text-nowrap">within Data Space: <a href="http://dbpedia.org">dbpedia.org</a></span>
+		</div>
+	    </div>
+	</div>
+	<div class="row pt-2">
+	    <div class="col-xs-9 col-sm-10">
+		<p class="lead">The $64,000 Question was an American game show broadcast in primetime on CBS-TV from 1955 to 1958, which became embroiled in the 1950s quiz show scandals. Contestants answered general knowledge questions, earning money which doubled as the questions became more difficult. The final question had a top prize of $64,000, hence the "$64,000 Question" in the show's title. The $64,000 Challenge (1956–1958) was its spin-off show, where contestants played against winners of at least $8,000 on The $64,000 Question.</p>
+	    </div>
+
+	</div>
+    </div>
+</section>
+<!-- page-header -->
+
+<!-- property-table -->
+<section>
+    <div class="container-xl">
+	<div class="row">
+	    <div class="table-responsive">
+		<table class="table table-hover table-sm table-light">
+		    <thead>
+			<tr>
+			    <th class="col-xs-3 ">Property</th>
+			    <th class="col-xs-9 px-3">Value</th>
+			</tr>
+		    </thead>
+		    <tbody>
+<tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/Work/runtime"><small>dbo:</small>Work/runtime</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="ns0:runtime" prefix="ns0: http://dbpedia.org/ontology/Work/" datatype="dbd:minute">-24.0</span></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/abstract"><small>dbo:</small>abstract</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:abstract" lang="en">The $64,000 Question was an American game show broadcast in primetime on CBS-TV from 1955 to 1958, which became embroiled in the 1950s quiz show scandals. Contestants answered general knowledge questions, earning money which doubled as the questions became more difficult. The final question had a top prize of $64,000, hence the "$64,000 Question" in the show's title. The $64,000 Challenge (1956–1958) was its spin-off show, where contestants played against winners of at least $8,000 on The $64,000 Question.</span><small> (en)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="nl">Mastklimmen was een Nederlands quizprogramma dat van 1953 tot 1957 op de radio werd uitgezonden door de NCRV.</span><small> (nl)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/author"><small>dbo:</small>author</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:author" resource="http://dbpedia.org/resource/Joseph_Nathan_Kane" href="http://dbpedia.org/resource/Joseph_Nathan_Kane"><small>dbr</small>:Joseph_Nathan_Kane</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/channel"><small>dbo:</small>channel</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:channel" resource="http://dbpedia.org/resource/CBS" href="http://dbpedia.org/resource/CBS"><small>dbr</small>:CBS</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/completionDate"><small>dbo:</small>completionDate</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:completionDate" datatype="xsd:date">1958-09-07</span><small> (xsd:date)</small></span></li>
+	<li><span class="literal"><span property="dbo:completionDate" datatype="xsd:date">1958-11-02</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/director"><small>dbo:</small>director</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:director" resource="http://dbpedia.org/resource/Seymour_Robbie" href="http://dbpedia.org/resource/Seymour_Robbie"><small>dbr</small>:Seymour_Robbie</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/executiveProducer"><small>dbo:</small>executiveProducer</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:executiveProducer" resource="http://dbpedia.org/resource/Steve_Carlin" href="http://dbpedia.org/resource/Steve_Carlin"><small>dbr</small>:Steve_Carlin</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/format"><small>dbo:</small>format</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:format" resource="http://dbpedia.org/resource/Black_and_white" href="http://dbpedia.org/resource/Black_and_white"><small>dbr</small>:Black_and_white</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:format" resource="http://dbpedia.org/resource/Monaural" href="http://dbpedia.org/resource/Monaural"><small>dbr</small>:Monaural</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/genre"><small>dbo:</small>genre</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:genre" resource="http://dbpedia.org/resource/Game_show" href="http://dbpedia.org/resource/Game_show"><small>dbr</small>:Game_show</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/imdbId"><small>dbo:</small>imdbId</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:imdbId">0047701</span></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/numberOfSeasons"><small>dbo:</small>numberOfSeasons</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:numberOfSeasons" datatype="xsd:nonNegativeInteger">2</span><small> (xsd:nonNegativeInteger)</small></span></li>
+	<li><span class="literal"><span property="dbo:numberOfSeasons" datatype="xsd:nonNegativeInteger">4</span><small> (xsd:nonNegativeInteger)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/presenter"><small>dbo:</small>presenter</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:presenter" resource="http://dbpedia.org/resource/Hal_March" href="http://dbpedia.org/resource/Hal_March"><small>dbr</small>:Hal_March</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:presenter" resource="http://dbpedia.org/resource/Sonny_Fox" href="http://dbpedia.org/resource/Sonny_Fox"><small>dbr</small>:Sonny_Fox</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/producer"><small>dbo:</small>producer</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:producer" resource="http://dbpedia.org/resource/Joseph_Cates" href="http://dbpedia.org/resource/Joseph_Cates"><small>dbr</small>:Joseph_Cates</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:producer" resource="http://dbpedia.org/resource/Mert_Koplin" href="http://dbpedia.org/resource/Mert_Koplin"><small>dbr</small>:Mert_Koplin</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/releaseDate"><small>dbo:</small>releaseDate</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:releaseDate" datatype="xsd:date">1955-06-07</span><small> (xsd:date)</small></span></li>
+	<li><span class="literal"><span property="dbo:releaseDate" datatype="xsd:date">1956-04-08</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/runtime"><small>dbo:</small>runtime</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:runtime" datatype="xsd:double">-1440.000000</span><small> (xsd:double)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/wikiPageExternalLink"><small>dbo:</small>wikiPageExternalLink</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageExternalLink nofollow" resource="https://www.pbs.org/wgbh/americanexperience/features/quizshow-64000-challenge/" href="https://www.pbs.org/wgbh/americanexperience/features/quizshow-64000-challenge/">https://www.pbs.org/wgbh/americanexperience/features/quizshow-64000-challenge/</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/wikiPageID"><small>dbo:</small>wikiPageID</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:wikiPageID" datatype="xsd:integer">337426</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/wikiPageLength"><small>dbo:</small>wikiPageLength</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:wikiPageLength" datatype="xsd:nonNegativeInteger">37401</span><small> (xsd:nonNegativeInteger)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/wikiPageRevisionID"><small>dbo:</small>wikiPageRevisionID</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:wikiPageRevisionID" datatype="xsd:integer">1054230416</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/wikiPageWikiLink"><small>dbo:</small>wikiPageWikiLink</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Art_Carney" href="http://dbpedia.org/resource/Art_Carney"><small>dbr</small>:Art_Carney</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Carmen_Basilio" href="http://dbpedia.org/resource/Carmen_Basilio"><small>dbr</small>:Carmen_Basilio</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Colgate-Palmolive" href="http://dbpedia.org/resource/Colgate-Palmolive"><small>dbr</small>:Colgate-Palmolive</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Fred_Ebb" href="http://dbpedia.org/resource/Fred_Ebb"><small>dbr</small>:Fred_Ebb</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/I_Love_Lucy" href="http://dbpedia.org/resource/I_Love_Lucy"><small>dbr</small>:I_Love_Lucy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Screen_Actors_Guild" href="http://dbpedia.org/resource/Screen_Actors_Guild"><small>dbr</small>:Screen_Actors_Guild</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Sugar_Ray_Robinson" href="http://dbpedia.org/resource/Sugar_Ray_Robinson"><small>dbr</small>:Sugar_Ray_Robinson</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/TV_Guide" href="http://dbpedia.org/resource/TV_Guide"><small>dbr</small>:TV_Guide</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/The_Ed_Sullivan_Show" href="http://dbpedia.org/resource/The_Ed_Sullivan_Show"><small>dbr</small>:The_Ed_Sullivan_Show</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/The_Honeymooners" href="http://dbpedia.org/resource/The_Honeymooners"><small>dbr</small>:The_Honeymooners</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Alex_Trebek" href="http://dbpedia.org/resource/Alex_Trebek"><small>dbr</small>:Alex_Trebek</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Pyramid_(game_show)" href="http://dbpedia.org/resource/Pyramid_(game_show)"><small>dbr</small>:Pyramid_(game_show)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Revlon" href="http://dbpedia.org/resource/Revlon"><small>dbr</small>:Revlon</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Seven_Network" href="http://dbpedia.org/resource/Seven_Network"><small>dbr</small>:Seven_Network</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/This_Is_Your_Life" href="http://dbpedia.org/resource/This_Is_Your_Life"><small>dbr</small>:This_Is_Your_Life</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Xavier_Cugat" href="http://dbpedia.org/resource/Xavier_Cugat"><small>dbr</small>:Xavier_Cugat</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:1940s_American_radio_programs" href="http://dbpedia.org/resource/Category:1940s_American_radio_programs"><small>dbc</small>:1940s_American_radio_programs</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:1950s_American_radio_programs" href="http://dbpedia.org/resource/Category:1950s_American_radio_programs"><small>dbc</small>:1950s_American_radio_programs</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:CBS_Radio_programs" href="http://dbpedia.org/resource/Category:CBS_Radio_programs"><small>dbc</small>:CBS_Radio_programs</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/1950s_quiz_show_scandals" href="http://dbpedia.org/resource/1950s_quiz_show_scandals"><small>dbr</small>:1950s_quiz_show_scandals</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Black_and_white" href="http://dbpedia.org/resource/Black_and_white"><small>dbr</small>:Black_and_white</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Nielsen_ratings" href="http://dbpedia.org/resource/Nielsen_ratings"><small>dbr</small>:Nielsen_ratings</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Ralph_Story" href="http://dbpedia.org/resource/Ralph_Story"><small>dbr</small>:Ralph_Story</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Spin-off_(media)" href="http://dbpedia.org/resource/Spin-off_(media)"><small>dbr</small>:Spin-off_(media)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/The_Big_Surprise" href="http://dbpedia.org/resource/The_Big_Surprise"><small>dbr</small>:The_Big_Surprise</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Stop_the_Music_(American_game_show)" href="http://dbpedia.org/resource/Stop_the_Music_(American_game_show)"><small>dbr</small>:Stop_the_Music_(American_game_show)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Bergen_Evans" href="http://dbpedia.org/resource/Bergen_Evans"><small>dbr</small>:Bergen_Evans</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Beat_the_Clock" href="http://dbpedia.org/resource/Beat_the_Clock"><small>dbr</small>:Beat_the_Clock</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Frank_Stanton_(executive)" href="http://dbpedia.org/resource/Frank_Stanton_(executive)"><small>dbr</small>:Frank_Stanton_(executive)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Howie_Mandel" href="http://dbpedia.org/resource/Howie_Mandel"><small>dbr</small>:Howie_Mandel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Patty_Duke" href="http://dbpedia.org/resource/Patty_Duke"><small>dbr</small>:Patty_Duke</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Studio_54" href="http://dbpedia.org/resource/Studio_54"><small>dbr</small>:Studio_54</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/The_Phil_Silvers_Show" href="http://dbpedia.org/resource/The_Phil_Silvers_Show"><small>dbr</small>:The_Phil_Silvers_Show</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Twenty_questions" href="http://dbpedia.org/resource/Twenty_questions"><small>dbr</small>:Twenty_questions</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Hal_March" href="http://dbpedia.org/resource/Hal_March"><small>dbr</small>:Hal_March</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/The_George_Burns_and_Gracie_Allen_Show" href="http://dbpedia.org/resource/The_George_Burns_and_Gracie_Allen_Show"><small>dbr</small>:The_George_Burns_and_Gracie_Allen_Show</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Joyce_Brothers" href="http://dbpedia.org/resource/Joyce_Brothers"><small>dbr</small>:Joyce_Brothers</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Lascia_o_raddoppia%3F" href="http://dbpedia.org/resource/Lascia_o_raddoppia%3F"><small>dbr</small>:Lascia_o_raddoppia?</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/African_Americans" href="http://dbpedia.org/resource/African_Americans"><small>dbr</small>:African_Americans</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Bipolar_disorder" href="http://dbpedia.org/resource/Bipolar_disorder"><small>dbr</small>:Bipolar_disorder</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Boxing" href="http://dbpedia.org/resource/Boxing"><small>dbr</small>:Boxing</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Columbia_University" href="http://dbpedia.org/resource/Columbia_University"><small>dbr</small>:Columbia_University</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Dwight_D._Eisenhower" href="http://dbpedia.org/resource/Dwight_D._Eisenhower"><small>dbr</small>:Dwight_D._Eisenhower</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Game_show" href="http://dbpedia.org/resource/Game_show"><small>dbr</small>:Game_show</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Helen_Keller" href="http://dbpedia.org/resource/Helen_Keller"><small>dbr</small>:Helen_Keller</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:1955_American_television_series_debuts" href="http://dbpedia.org/resource/Category:1955_American_television_series_debuts"><small>dbc</small>:1955_American_television_series_debuts</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:Television_controversies_in_the_United_States" href="http://dbpedia.org/resource/Category:Television_controversies_in_the_United_States"><small>dbc</small>:Television_controversies_in_the_United_States</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Opera" href="http://dbpedia.org/resource/Opera"><small>dbr</small>:Opera</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:Black-and-white_American_television_shows" href="http://dbpedia.org/resource/Category:Black-and-white_American_television_shows"><small>dbc</small>:Black-and-white_American_television_shows</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:CBS_original_programming" href="http://dbpedia.org/resource/Category:CBS_original_programming"><small>dbc</small>:CBS_original_programming</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:English-language_television_shows" href="http://dbpedia.org/resource/Category:English-language_television_shows"><small>dbc</small>:English-language_television_shows</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:Nielsen_ratings_winners" href="http://dbpedia.org/resource/Category:Nielsen_ratings_winners"><small>dbc</small>:Nielsen_ratings_winners</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:Television_series_by_CBS_Studios" href="http://dbpedia.org/resource/Category:Television_series_by_CBS_Studios"><small>dbc</small>:Television_series_by_CBS_Studios</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/The_Price_Is_Right_(1956_American_game_show)" href="http://dbpedia.org/resource/The_Price_Is_Right_(1956_American_game_show)"><small>dbr</small>:The_Price_Is_Right_(1956_American_game_show)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/The_$64,000_Question_(British_game_show)" href="http://dbpedia.org/resource/The_$64,000_Question_(British_game_show)"><small>dbr</small>:The_$64,000_Question_(British_game_show)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Joseph_Cates" href="http://dbpedia.org/resource/Joseph_Cates"><small>dbr</small>:Joseph_Cates</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Mert_Koplin" href="http://dbpedia.org/resource/Mert_Koplin"><small>dbr</small>:Mert_Koplin</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Steve_Carlin" href="http://dbpedia.org/resource/Steve_Carlin"><small>dbr</small>:Steve_Carlin</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Joseph_Nathan_Kane" href="http://dbpedia.org/resource/Joseph_Nathan_Kane"><small>dbr</small>:Joseph_Nathan_Kane</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/American_Broadcasting_Company" href="http://dbpedia.org/resource/American_Broadcasting_Company"><small>dbr</small>:American_Broadcasting_Company</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/CBS" href="http://dbpedia.org/resource/CBS"><small>dbr</small>:CBS</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Cadillac" href="http://dbpedia.org/resource/Cadillac"><small>dbr</small>:Cadillac</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Fred_Gwynne" href="http://dbpedia.org/resource/Fred_Gwynne"><small>dbr</small>:Fred_Gwynne</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Global_Television_Network" href="http://dbpedia.org/resource/Global_Television_Network"><small>dbr</small>:Global_Television_Network</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Hollywood_Squares" href="http://dbpedia.org/resource/Hollywood_Squares"><small>dbr</small>:Hollywood_Squares</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Match_Game" href="http://dbpedia.org/resource/Match_Game"><small>dbr</small>:Match_Game</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/NBC" href="http://dbpedia.org/resource/NBC"><small>dbr</small>:NBC</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Polish_złoty" href="http://dbpedia.org/resource/Polish_złoty"><small>dbr</small>:Polish_złoty</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Toronto" href="http://dbpedia.org/resource/Toronto"><small>dbr</small>:Toronto</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/United_States_Census_Bureau" href="http://dbpedia.org/resource/United_States_Census_Bureau"><small>dbr</small>:United_States_Census_Bureau</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/University_of_Southern_California" href="http://dbpedia.org/resource/University_of_Southern_California"><small>dbr</small>:University_of_Southern_California</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Western_(genre)" href="http://dbpedia.org/resource/Western_(genre)"><small>dbr</small>:Western_(genre)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Who_Wants_to_Be_a_Millionaire%3F" href="http://dbpedia.org/resource/Who_Wants_to_Be_a_Millionaire%3F"><small>dbr</small>:Who_Wants_to_Be_a_Millionaire?</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/William_Shakespeare" href="http://dbpedia.org/resource/William_Shakespeare"><small>dbr</small>:William_Shakespeare</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:1950s_American_game_shows" href="http://dbpedia.org/resource/Category:1950s_American_game_shows"><small>dbc</small>:1950s_American_game_shows</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:American_game_shows" href="http://dbpedia.org/resource/Category:American_game_shows"><small>dbc</small>:American_game_shows</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:Radio_programs_adapted_into_television_shows" href="http://dbpedia.org/resource/Category:Radio_programs_adapted_into_television_shows"><small>dbc</small>:Radio_programs_adapted_into_television_shows</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:Television_series_based_on_radio_series" href="http://dbpedia.org/resource/Category:Television_series_based_on_radio_series"><small>dbc</small>:Television_series_based_on_radio_series</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:Television_shows_filmed_in_New_York_City" href="http://dbpedia.org/resource/Category:Television_shows_filmed_in_New_York_City"><small>dbc</small>:Television_shows_filmed_in_New_York_City</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:Entertainment_scandals" href="http://dbpedia.org/resource/Category:Entertainment_scandals"><small>dbc</small>:Entertainment_scandals</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Greg_Gumbel" href="http://dbpedia.org/resource/Greg_Gumbel"><small>dbr</small>:Greg_Gumbel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/The_Patty_Duke_Show" href="http://dbpedia.org/resource/The_Patty_Duke_Show"><small>dbr</small>:The_Patty_Duke_Show</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:1958_American_television_series_endings" href="http://dbpedia.org/resource/Category:1958_American_television_series_endings"><small>dbc</small>:1958_American_television_series_endings</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:1960s_Australian_game_shows" href="http://dbpedia.org/resource/Category:1960s_Australian_game_shows"><small>dbc</small>:1960s_Australian_game_shows</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:1970s_Australian_game_shows" href="http://dbpedia.org/resource/Category:1970s_Australian_game_shows"><small>dbc</small>:1970s_Australian_game_shows</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Monaural" href="http://dbpedia.org/resource/Monaural"><small>dbr</small>:Monaural</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Multiple_choice" href="http://dbpedia.org/resource/Multiple_choice"><small>dbr</small>:Multiple_choice</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Make_That_Spare" href="http://dbpedia.org/resource/Make_That_Spare"><small>dbr</small>:Make_That_Spare</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Michael_Davies_(television_producer)" href="http://dbpedia.org/resource/Michael_Davies_(television_producer)"><small>dbr</small>:Michael_Davies_(television_producer)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/It's_Your_Bet" href="http://dbpedia.org/resource/It's_Your_Bet"><small>dbr</small>:It's_Your_Bet</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Sports_commentator" href="http://dbpedia.org/resource/Sports_commentator"><small>dbr</small>:Sports_commentator</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Library_of_Congress" href="http://dbpedia.org/resource/Library_of_Congress"><small>dbr</small>:Library_of_Congress</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Leonard_Ross" href="http://dbpedia.org/resource/Leonard_Ross"><small>dbr</small>:Leonard_Ross</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Double_Your_Money" href="http://dbpedia.org/resource/Double_Your_Money"><small>dbr</small>:Double_Your_Money</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:NBC_radio_programs" href="http://dbpedia.org/resource/Category:NBC_radio_programs"><small>dbc</small>:NBC_radio_programs</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/The_Miracle_Worker" href="http://dbpedia.org/resource/The_Miracle_Worker"><small>dbr</small>:The_Miracle_Worker</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Ed_Sullivan_Theater" href="http://dbpedia.org/resource/Ed_Sullivan_Theater"><small>dbr</small>:Ed_Sullivan_Theater</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Hazel_Bishop" href="http://dbpedia.org/resource/Hazel_Bishop"><small>dbr</small>:Hazel_Bishop</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Golden_Age_of_Television" href="http://dbpedia.org/resource/Golden_Age_of_Television"><small>dbr</small>:Golden_Age_of_Television</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Coles_Supermarkets" href="http://dbpedia.org/resource/Coles_Supermarkets"><small>dbr</small>:Coles_Supermarkets</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/The_Jack_Benny_Program" href="http://dbpedia.org/resource/The_Jack_Benny_Program"><small>dbr</small>:The_Jack_Benny_Program</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Twenty-One_(game_show)" href="http://dbpedia.org/resource/Twenty-One_(game_show)"><small>dbr</small>:Twenty-One_(game_show)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/You_Bet_Your_Life" href="http://dbpedia.org/resource/You_Bet_Your_Life"><small>dbr</small>:You_Bet_Your_Life</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Wonderama" href="http://dbpedia.org/resource/Wonderama"><small>dbr</small>:Wonderama</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Dotto" href="http://dbpedia.org/resource/Dotto"><small>dbr</small>:Dotto</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jay_Jackson_(announcer)" href="http://dbpedia.org/resource/Jay_Jackson_(announcer)"><small>dbr</small>:Jay_Jackson_(announcer)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Kent_(cigarette)" href="http://dbpedia.org/resource/Kent_(cigarette)"><small>dbr</small>:Kent_(cigarette)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Lorillard_Tobacco_Company" href="http://dbpedia.org/resource/Lorillard_Tobacco_Company"><small>dbr</small>:Lorillard_Tobacco_Company</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Quiz_Kids" href="http://dbpedia.org/resource/Quiz_Kids"><small>dbr</small>:Quiz_Kids</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Sonny_Fox" href="http://dbpedia.org/resource/Sonny_Fox"><small>dbr</small>:Sonny_Fox</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Tic-Tac-Dough" href="http://dbpedia.org/resource/Tic-Tac-Dough"><small>dbr</small>:Tic-Tac-Dough</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Wendy_Barrie" href="http://dbpedia.org/resource/Wendy_Barrie"><small>dbr</small>:Wendy_Barrie</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/1956_Democratic_National_Convention" href="http://dbpedia.org/resource/1956_Democratic_National_Convention"><small>dbr</small>:1956_Democratic_National_Convention</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Charles_Revson" href="http://dbpedia.org/resource/Charles_Revson"><small>dbr</small>:Charles_Revson</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Bob_and_Ray" href="http://dbpedia.org/resource/Bob_and_Ray"><small>dbr</small>:Bob_and_Ray</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Prize" href="http://dbpedia.org/resource/Prize"><small>dbr</small>:Prize</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/My_Friend_Irma" href="http://dbpedia.org/resource/My_Friend_Irma"><small>dbr</small>:My_Friend_Irma</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Charles_Randolph_Grean" href="http://dbpedia.org/resource/Charles_Randolph_Grean"><small>dbr</small>:Charles_Randolph_Grean</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Multiple-camera_setup" href="http://dbpedia.org/resource/Multiple-camera_setup"><small>dbr</small>:Multiple-camera_setup</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Honeysuckle_Rose_(song)" href="http://dbpedia.org/resource/Honeysuckle_Rose_(song)"><small>dbr</small>:Honeysuckle_Rose_(song)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jackpot_Bowling" href="http://dbpedia.org/resource/Jackpot_Bowling"><small>dbr</small>:Jackpot_Bowling</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Take_It_or_Leave_It_(radio_show)" href="http://dbpedia.org/resource/Take_It_or_Leave_It_(radio_show)"><small>dbr</small>:Take_It_or_Leave_It_(radio_show)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/The_$128,000_Question" href="http://dbpedia.org/resource/The_$128,000_Question"><small>dbr</small>:The_$128,000_Question</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Foghorn_Leghorn" href="http://dbpedia.org/resource/Foghorn_Leghorn"><small>dbr</small>:Foghorn_Leghorn</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Valley_of_the_Dolls_(film)" href="http://dbpedia.org/resource/Valley_of_the_Dolls_(film)"><small>dbr</small>:Valley_of_the_Dolls_(film)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/100_Grand_(game_show)" href="http://dbpedia.org/resource/100_Grand_(game_show)"><small>dbr</small>:100_Grand_(game_show)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Down_You_Go" href="http://dbpedia.org/resource/Down_You_Go"><small>dbr</small>:Down_You_Go</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Fox-Terror" href="http://dbpedia.org/resource/Fox-Terror"><small>dbr</small>:Fox-Terror</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Deal_or_No_Deal" href="http://dbpedia.org/resource/Deal_or_No_Deal"><small>dbr</small>:Deal_or_No_Deal</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Isolation_booth" href="http://dbpedia.org/resource/Isolation_booth"><small>dbr</small>:Isolation_booth</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Who's_Whose" href="http://dbpedia.org/resource/Who's_Whose"><small>dbr</small>:Who's_Whose</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Kvitt_eller_dubbelt" href="http://dbpedia.org/resource/Kvitt_eller_dubbelt"><small>dbr</small>:Kvitt_eller_dubbelt</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/1958–59_United_States_network_television_schedule" href="http://dbpedia.org/resource/1958–59_United_States_network_television_schedule"><small>dbr</small>:1958–59_United_States_network_television_schedule</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Seymour_Robbie" href="http://dbpedia.org/resource/Seymour_Robbie"><small>dbr</small>:Seymour_Robbie</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Louis_G._Cowan" href="http://dbpedia.org/resource/Louis_G._Cowan"><small>dbr</small>:Louis_G._Cowan</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/audioFormat"><small>dbp:</small>audioFormat</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:audioFormat" resource="http://dbpedia.org/resource/Monaural" href="http://dbpedia.org/resource/Monaural"><small>dbr</small>:Monaural</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/camera"><small>dbp:</small>camera</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:camera" resource="http://dbpedia.org/resource/Multiple-camera_setup" href="http://dbpedia.org/resource/Multiple-camera_setup"><small>dbr</small>:Multiple-camera_setup</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/channel"><small>dbp:</small>channel</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:channel" resource="http://dbpedia.org/resource/CBS" href="http://dbpedia.org/resource/CBS"><small>dbr</small>:CBS</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/country"><small>dbp:</small>country</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:country" lang="en">United States</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/director"><small>dbp:</small>director</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:director" resource="http://dbpedia.org/resource/Seymour_Robbie" href="http://dbpedia.org/resource/Seymour_Robbie"><small>dbr</small>:Seymour_Robbie</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/executiveProducer"><small>dbp:</small>executiveProducer</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:executiveProducer" resource="http://dbpedia.org/resource/Steve_Carlin" href="http://dbpedia.org/resource/Steve_Carlin"><small>dbr</small>:Steve_Carlin</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/firstAired"><small>dbp:</small>firstAired</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:firstAired" datatype="xsd:date">1955-06-07</span><small> (xsd:date)</small></span></li>
+	<li><span class="literal"><span property="dbp:firstAired" datatype="xsd:date">1956-04-08</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/genre"><small>dbp:</small>genre</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:genre" resource="http://dbpedia.org/resource/Game_show" href="http://dbpedia.org/resource/Game_show"><small>dbr</small>:Game_show</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/language"><small>dbp:</small>language</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:language" lang="en">English</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/lastAired"><small>dbp:</small>lastAired</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:lastAired" datatype="xsd:date">1958-09-07</span><small> (xsd:date)</small></span></li>
+	<li><span class="literal"><span property="dbp:lastAired" datatype="xsd:date">1958-11-02</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/location"><small>dbp:</small>location</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:location" lang="en">New York City, New York, U.S.</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/numSeasons"><small>dbp:</small>numSeasons</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:numSeasons" datatype="xsd:integer">2</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:numSeasons" datatype="xsd:integer">4</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/pictureFormat"><small>dbp:</small>pictureFormat</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:pictureFormat" resource="http://dbpedia.org/resource/Black_and_white" href="http://dbpedia.org/resource/Black_and_white"><small>dbr</small>:Black_and_white</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/presenter"><small>dbp:</small>presenter</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:presenter" resource="http://dbpedia.org/resource/Hal_March" href="http://dbpedia.org/resource/Hal_March"><small>dbr</small>:Hal_March</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:presenter" resource="http://dbpedia.org/resource/Sonny_Fox" href="http://dbpedia.org/resource/Sonny_Fox"><small>dbr</small>:Sonny_Fox</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/producer"><small>dbp:</small>producer</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:producer" resource="http://dbpedia.org/resource/Joseph_Cates" href="http://dbpedia.org/resource/Joseph_Cates"><small>dbr</small>:Joseph_Cates</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:producer" resource="http://dbpedia.org/resource/Mert_Koplin" href="http://dbpedia.org/resource/Mert_Koplin"><small>dbr</small>:Mert_Koplin</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/runtime"><small>dbp:</small>runtime</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:runtime" datatype="dbd:second">-1440.0</span></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/wikiPageUsesTemplate"><small>dbp:</small>wikiPageUsesTemplate</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:End_date" href="http://dbpedia.org/resource/Template:End_date"><small>dbt</small>:End_date</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Further" href="http://dbpedia.org/resource/Template:Further"><small>dbt</small>:Further</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:IMDb_title" href="http://dbpedia.org/resource/Template:IMDb_title"><small>dbt</small>:IMDb_title</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Inflation" href="http://dbpedia.org/resource/Template:Inflation"><small>dbt</small>:Inflation</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Infobox_television" href="http://dbpedia.org/resource/Template:Infobox_television"><small>dbt</small>:Infobox_television</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Nbsp" href="http://dbpedia.org/resource/Template:Nbsp"><small>dbt</small>:Nbsp</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Reflist" href="http://dbpedia.org/resource/Template:Reflist"><small>dbt</small>:Reflist</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Short_description" href="http://dbpedia.org/resource/Template:Short_description"><small>dbt</small>:Short_description</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Start_date" href="http://dbpedia.org/resource/Template:Start_date"><small>dbt</small>:Start_date</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:TopUSTVShows" href="http://dbpedia.org/resource/Template:TopUSTVShows"><small>dbt</small>:TopUSTVShows</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Use_mdy_dates" href="http://dbpedia.org/resource/Template:Use_mdy_dates"><small>dbt</small>:Use_mdy_dates</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/writer"><small>dbp:</small>writer</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:writer" resource="http://dbpedia.org/resource/Joseph_Nathan_Kane" href="http://dbpedia.org/resource/Joseph_Nathan_Kane"><small>dbr</small>:Joseph_Nathan_Kane</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://purl.org/dc/terms/subject"><small>dct:</small>subject</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:1940s_American_radio_programs" href="http://dbpedia.org/resource/Category:1940s_American_radio_programs"><small>dbc</small>:1940s_American_radio_programs</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:1950s_American_radio_programs" href="http://dbpedia.org/resource/Category:1950s_American_radio_programs"><small>dbc</small>:1950s_American_radio_programs</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:CBS_Radio_programs" href="http://dbpedia.org/resource/Category:CBS_Radio_programs"><small>dbc</small>:CBS_Radio_programs</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:1955_American_television_series_debuts" href="http://dbpedia.org/resource/Category:1955_American_television_series_debuts"><small>dbc</small>:1955_American_television_series_debuts</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:Television_controversies_in_the_United_States" href="http://dbpedia.org/resource/Category:Television_controversies_in_the_United_States"><small>dbc</small>:Television_controversies_in_the_United_States</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:Black-and-white_American_television_shows" href="http://dbpedia.org/resource/Category:Black-and-white_American_television_shows"><small>dbc</small>:Black-and-white_American_television_shows</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:CBS_original_programming" href="http://dbpedia.org/resource/Category:CBS_original_programming"><small>dbc</small>:CBS_original_programming</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:English-language_television_shows" href="http://dbpedia.org/resource/Category:English-language_television_shows"><small>dbc</small>:English-language_television_shows</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:Nielsen_ratings_winners" href="http://dbpedia.org/resource/Category:Nielsen_ratings_winners"><small>dbc</small>:Nielsen_ratings_winners</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:Television_series_by_CBS_Studios" href="http://dbpedia.org/resource/Category:Television_series_by_CBS_Studios"><small>dbc</small>:Television_series_by_CBS_Studios</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:1950s_American_game_shows" href="http://dbpedia.org/resource/Category:1950s_American_game_shows"><small>dbc</small>:1950s_American_game_shows</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:American_game_shows" href="http://dbpedia.org/resource/Category:American_game_shows"><small>dbc</small>:American_game_shows</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:Radio_programs_adapted_into_television_shows" href="http://dbpedia.org/resource/Category:Radio_programs_adapted_into_television_shows"><small>dbc</small>:Radio_programs_adapted_into_television_shows</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:Television_series_based_on_radio_series" href="http://dbpedia.org/resource/Category:Television_series_based_on_radio_series"><small>dbc</small>:Television_series_based_on_radio_series</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:Television_shows_filmed_in_New_York_City" href="http://dbpedia.org/resource/Category:Television_shows_filmed_in_New_York_City"><small>dbc</small>:Television_shows_filmed_in_New_York_City</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:Entertainment_scandals" href="http://dbpedia.org/resource/Category:Entertainment_scandals"><small>dbc</small>:Entertainment_scandals</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:1958_American_television_series_endings" href="http://dbpedia.org/resource/Category:1958_American_television_series_endings"><small>dbc</small>:1958_American_television_series_endings</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:1960s_Australian_game_shows" href="http://dbpedia.org/resource/Category:1960s_Australian_game_shows"><small>dbc</small>:1960s_Australian_game_shows</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:1970s_Australian_game_shows" href="http://dbpedia.org/resource/Category:1970s_Australian_game_shows"><small>dbc</small>:1970s_Australian_game_shows</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:NBC_radio_programs" href="http://dbpedia.org/resource/Category:NBC_radio_programs"><small>dbc</small>:NBC_radio_programs</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://purl.org/linguistics/gold/hypernym"><small>gold:</small>hypernym</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="gold:hypernym" resource="http://dbpedia.org/resource/Broadcast" prefix="gold: http://purl.org/linguistics/gold/" href="http://dbpedia.org/resource/Broadcast"><small>dbr</small>:Broadcast</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"><small>rdf:</small>type</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://www.w3.org/2002/07/owl#Thing" href="http://www.w3.org/2002/07/owl#Thing"><small>owl</small>:Thing</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/WikicatAmericanGameShows" href="http://dbpedia.org/class/yago/WikicatAmericanGameShows"><small>yago</small>:WikicatAmericanGameShows</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/WikicatAmericanRadioPrograms" href="http://dbpedia.org/class/yago/WikicatAmericanRadioPrograms"><small>yago</small>:WikicatAmericanRadioPrograms</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://schema.org/CreativeWork" href="http://schema.org/CreativeWork"><small>schema</small>:CreativeWork</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/ontology/Work" href="http://dbpedia.org/ontology/Work"><small>dbo</small>:Work</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://www.wikidata.org/entity/Q15416" href="http://www.wikidata.org/entity/Q15416"><small>wikidata</small>:Q15416</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://www.wikidata.org/entity/Q386724" href="http://www.wikidata.org/entity/Q386724"><small>wikidata</small>:Q386724</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/ontology/TelevisionShow" href="http://dbpedia.org/ontology/TelevisionShow"><small>dbo</small>:TelevisionShow</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/WikicatBlack-and-whiteTelevisionPrograms" href="http://dbpedia.org/class/yago/WikicatBlack-and-whiteTelevisionPrograms"><small>yago</small>:WikicatBlack-and-whiteTelevisionPrograms</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/WikicatCBSNetworkShows" href="http://dbpedia.org/class/yago/WikicatCBSNetworkShows"><small>yago</small>:WikicatCBSNetworkShows</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/WikicatCBSRadioPrograms" href="http://dbpedia.org/class/yago/WikicatCBSRadioPrograms"><small>yago</small>:WikicatCBSRadioPrograms</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" href="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"><small>yago</small>:YagoPermanentlyLocatedEntity</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Abstraction100002137" href="http://dbpedia.org/class/yago/Abstraction100002137"><small>yago</small>:Abstraction100002137</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Act100030358" href="http://dbpedia.org/class/yago/Act100030358"><small>yago</small>:Act100030358</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Action100037396" href="http://dbpedia.org/class/yago/Action100037396"><small>yago</small>:Action100037396</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Activity100407535" href="http://dbpedia.org/class/yago/Activity100407535"><small>yago</small>:Activity100407535</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Beginning100235435" href="http://dbpedia.org/class/yago/Beginning100235435"><small>yago</small>:Beginning100235435</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Broadcast106619428" href="http://dbpedia.org/class/yago/Broadcast106619428"><small>yago</small>:Broadcast106619428</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Change100191142" href="http://dbpedia.org/class/yago/Change100191142"><small>yago</small>:Change100191142</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/ChangeOfState100199130" href="http://dbpedia.org/class/yago/ChangeOfState100199130"><small>yago</small>:ChangeOfState100199130</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Cognition100023271" href="http://dbpedia.org/class/yago/Cognition100023271"><small>yago</small>:Cognition100023271</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Content105809192" href="http://dbpedia.org/class/yago/Content105809192"><small>yago</small>:Content105809192</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Diversion100426928" href="http://dbpedia.org/class/yago/Diversion100426928"><small>yago</small>:Diversion100426928</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Ending106308765" href="http://dbpedia.org/class/yago/Ending106308765"><small>yago</small>:Ending106308765</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Entertainment100429048" href="http://dbpedia.org/class/yago/Entertainment100429048"><small>yago</small>:Entertainment100429048</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Event100029378" href="http://dbpedia.org/class/yago/Event100029378"><small>yago</small>:Event100029378</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/GameShow106621061" href="http://dbpedia.org/class/yago/GameShow106621061"><small>yago</small>:GameShow106621061</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Gossip107223170" href="http://dbpedia.org/class/yago/Gossip107223170"><small>yago</small>:Gossip107223170</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Idea105833840" href="http://dbpedia.org/class/yago/Idea105833840"><small>yago</small>:Idea105833840</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Informing107212190" href="http://dbpedia.org/class/yago/Informing107212190"><small>yago</small>:Informing107212190</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Introduction100238022" href="http://dbpedia.org/class/yago/Introduction100238022"><small>yago</small>:Introduction100238022</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/LanguageUnit106284225" href="http://dbpedia.org/class/yago/LanguageUnit106284225"><small>yago</small>:LanguageUnit106284225</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Morpheme106306233" href="http://dbpedia.org/class/yago/Morpheme106306233"><small>yago</small>:Morpheme106306233</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Part113809207" href="http://dbpedia.org/class/yago/Part113809207"><small>yago</small>:Part113809207</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Plan105898568" href="http://dbpedia.org/class/yago/Plan105898568"><small>yago</small>:Plan105898568</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/PsychologicalFeature100023100" href="http://dbpedia.org/class/yago/PsychologicalFeature100023100"><small>yago</small>:PsychologicalFeature100023100</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Relation100031921" href="http://dbpedia.org/class/yago/Relation100031921"><small>yago</small>:Relation100031921</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Report107217924" href="http://dbpedia.org/class/yago/Report107217924"><small>yago</small>:Report107217924</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Scandal107223811" href="http://dbpedia.org/class/yago/Scandal107223811"><small>yago</small>:Scandal107223811</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Show100520257" href="http://dbpedia.org/class/yago/Show100520257"><small>yago</small>:Show100520257</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Show106619065" href="http://dbpedia.org/class/yago/Show106619065"><small>yago</small>:Show106619065</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/SocialEvent107288639" href="http://dbpedia.org/class/yago/SocialEvent107288639"><small>yago</small>:SocialEvent107288639</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/SpeechAct107160883" href="http://dbpedia.org/class/yago/SpeechAct107160883"><small>yago</small>:SpeechAct107160883</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/TelevisionProgram106620579" href="http://dbpedia.org/class/yago/TelevisionProgram106620579"><small>yago</small>:TelevisionProgram106620579</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Wikicat1940sAmericanRadioPrograms" href="http://dbpedia.org/class/yago/Wikicat1940sAmericanRadioPrograms"><small>yago</small>:Wikicat1940sAmericanRadioPrograms</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Wikicat1950sAmericanRadioPrograms" href="http://dbpedia.org/class/yago/Wikicat1950sAmericanRadioPrograms"><small>yago</small>:Wikicat1950sAmericanRadioPrograms</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Wikicat1955AmericanTelevisionSeriesDebuts" href="http://dbpedia.org/class/yago/Wikicat1955AmericanTelevisionSeriesDebuts"><small>yago</small>:Wikicat1955AmericanTelevisionSeriesDebuts</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Wikicat1958AmericanTelevisionSeriesEndings" href="http://dbpedia.org/class/yago/Wikicat1958AmericanTelevisionSeriesEndings"><small>yago</small>:Wikicat1958AmericanTelevisionSeriesEndings</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/WikicatEntertainmentScandals" href="http://dbpedia.org/class/yago/WikicatEntertainmentScandals"><small>yago</small>:WikicatEntertainmentScandals</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://www.w3.org/2000/01/rdf-schema#comment"><small>rdfs:</small>comment</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="rdfs:comment" lang="en">The $64,000 Question was an American game show broadcast in primetime on CBS-TV from 1955 to 1958, which became embroiled in the 1950s quiz show scandals. Contestants answered general knowledge questions, earning money which doubled as the questions became more difficult. The final question had a top prize of $64,000, hence the "$64,000 Question" in the show's title. The $64,000 Challenge (1956–1958) was its spin-off show, where contestants played against winners of at least $8,000 on The $64,000 Question.</span><small> (en)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="nl">Mastklimmen was een Nederlands quizprogramma dat van 1953 tot 1957 op de radio werd uitgezonden door de NCRV.</span><small> (nl)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://www.w3.org/2000/01/rdf-schema#label"><small>rdfs:</small>label</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="rdfs:label" lang="en">The $64,000 Question</span><small> (en)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="nl">Mastklimmen (radioprogramma)</span><small> (nl)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://www.w3.org/2002/07/owl#sameAs"><small>owl:</small>sameAs</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://rdf.freebase.com/ns/m.01xp3p" href="http://rdf.freebase.com/ns/m.01xp3p"><small>freebase</small>:The $64,000 Question</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://yago-knowledge.org/resource/The_$64,000_Question" href="http://yago-knowledge.org/resource/The_$64,000_Question"><small>yago-res</small>:The $64,000 Question</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://www.wikidata.org/entity/Q1248126" href="http://www.wikidata.org/entity/Q1248126"><small>wikidata</small>:The $64,000 Question</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://nl.dbpedia.org/resource/Mastklimmen_(radioprogramma)" href="http://nl.dbpedia.org/resource/Mastklimmen_(radioprogramma)"><small>dbpedia-nl</small>:The $64,000 Question</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://fi.dbpedia.org/resource/The_$64,000_Question" href="http://fi.dbpedia.org/resource/The_$64,000_Question"><small>dbpedia-fi</small>:The $64,000 Question</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://sh.dbpedia.org/resource/The_64,000_Dollar_Question" href="http://sh.dbpedia.org/resource/The_64,000_Dollar_Question"><small>dbpedia-sh</small>:The $64,000 Question</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="https://global.dbpedia.org/id/HUH3" href="https://global.dbpedia.org/id/HUH3">https://global.dbpedia.org/id/HUH3</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://www.w3.org/ns/prov#wasDerivedFrom"><small>prov:</small>wasDerivedFrom</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="prov:wasDerivedFrom" resource="http://en.wikipedia.org/wiki/The_$64,000_Question?oldid=1054230416&amp;ns=0" href="http://en.wikipedia.org/wiki/The_$64,000_Question?oldid=1054230416&amp;ns=0"><small>wikipedia-en</small>:The_$64,000_Question?oldid=1054230416&amp;ns=0</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://xmlns.com/foaf/0.1/isPrimaryTopicOf"><small>foaf:</small>isPrimaryTopicOf</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="foaf:isPrimaryTopicOf" resource="http://en.wikipedia.org/wiki/The_$64,000_Question" href="http://en.wikipedia.org/wiki/The_$64,000_Question"><small>wikipedia-en</small>:The_$64,000_Question</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2">is <a class="uri" href="http://dbpedia.org/ontology/related"><small>dbo:</small>related</a>
+ of</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:related" resource="http://dbpedia.org/resource/The_$64,000_Question_(British_game_show)" href="http://dbpedia.org/resource/The_$64,000_Question_(British_game_show)"><small>dbr</small>:The_$64,000_Question_(British_game_show)</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2">is <a class="uri" href="http://dbpedia.org/ontology/wikiPageRedirects"><small>dbo:</small>wikiPageRedirects</a>
+ of</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" resource="http://dbpedia.org/resource/The_$64,000_Challenge" href="http://dbpedia.org/resource/The_$64,000_Challenge"><small>dbr</small>:The_$64,000_Challenge</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" resource="http://dbpedia.org/resource/The_$64000_Question" href="http://dbpedia.org/resource/The_$64000_Question"><small>dbr</small>:The_$64000_Question</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" resource="http://dbpedia.org/resource/64,000_Question" href="http://dbpedia.org/resource/64,000_Question"><small>dbr</small>:64,000_Question</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" resource="http://dbpedia.org/resource/Coles_£3000_Question" href="http://dbpedia.org/resource/Coles_£3000_Question"><small>dbr</small>:Coles_£3000_Question</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" resource="http://dbpedia.org/resource/64,000_Dollar_Question" href="http://dbpedia.org/resource/64,000_Dollar_Question"><small>dbr</small>:64,000_Dollar_Question</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" resource="http://dbpedia.org/resource/$64,000_Question" href="http://dbpedia.org/resource/$64,000_Question"><small>dbr</small>:$64,000_Question</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" resource="http://dbpedia.org/resource/The_64,000_Dollar_Question" href="http://dbpedia.org/resource/The_64,000_Dollar_Question"><small>dbr</small>:The_64,000_Dollar_Question</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2">is <a class="uri" href="http://dbpedia.org/ontology/wikiPageWikiLink"><small>dbo:</small>wikiPageWikiLink</a>
+ of</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Steve_March-Tormé" href="http://dbpedia.org/resource/Steve_March-Tormé"><small>dbr</small>:Steve_March-Tormé</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Charles_Lisanby" href="http://dbpedia.org/resource/Charles_Lisanby"><small>dbr</small>:Charles_Lisanby</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/James_T._Aubrey" href="http://dbpedia.org/resource/James_T._Aubrey"><small>dbr</small>:James_T._Aubrey</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/1955–56_United_States_network_television_schedule" href="http://dbpedia.org/resource/1955–56_United_States_network_television_schedule"><small>dbr</small>:1955–56_United_States_network_television_schedule</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Milton_H._Biow" href="http://dbpedia.org/resource/Milton_H._Biow"><small>dbr</small>:Milton_H._Biow</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/8th_Primetime_Emmy_Awards" href="http://dbpedia.org/resource/8th_Primetime_Emmy_Awards"><small>dbr</small>:8th_Primetime_Emmy_Awards</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/What's_It_For%3F" href="http://dbpedia.org/resource/What's_It_For%3F"><small>dbr</small>:What's_It_For?</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/2013_in_American_television" href="http://dbpedia.org/resource/2013_in_American_television"><small>dbr</small>:2013_in_American_television</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Bob_Monkhouse" href="http://dbpedia.org/resource/Bob_Monkhouse"><small>dbr</small>:Bob_Monkhouse</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Edward_R._Murrow" href="http://dbpedia.org/resource/Edward_R._Murrow"><small>dbr</small>:Edward_R._Murrow</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jackie_Gleason" href="http://dbpedia.org/resource/Jackie_Gleason"><small>dbr</small>:Jackie_Gleason</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Phoebe_Cates" href="http://dbpedia.org/resource/Phoebe_Cates"><small>dbr</small>:Phoebe_Cates</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Quiz_Show_(film)" href="http://dbpedia.org/resource/Quiz_Show_(film)"><small>dbr</small>:Quiz_Show_(film)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/The_Honeymooners" href="http://dbpedia.org/resource/The_Honeymooners"><small>dbr</small>:The_Honeymooners</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Barbara_Feldon" href="http://dbpedia.org/resource/Barbara_Feldon"><small>dbr</small>:Barbara_Feldon</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/1950s_quiz_show_scandals" href="http://dbpedia.org/resource/1950s_quiz_show_scandals"><small>dbr</small>:1950s_quiz_show_scandals</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Nielsen_ratings" href="http://dbpedia.org/resource/Nielsen_ratings"><small>dbr</small>:Nielsen_ratings</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Mike_Darow" href="http://dbpedia.org/resource/Mike_Darow"><small>dbr</small>:Mike_Darow</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Ralph_Story" href="http://dbpedia.org/resource/Ralph_Story"><small>dbr</small>:Ralph_Story</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/The_Big_Surprise" href="http://dbpedia.org/resource/The_Big_Surprise"><small>dbr</small>:The_Big_Surprise</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/The_West_Point_Story_(TV_series)" href="http://dbpedia.org/resource/The_West_Point_Story_(TV_series)"><small>dbr</small>:The_West_Point_Story_(TV_series)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Nils_Erik_Bæhrendtz" href="http://dbpedia.org/resource/Nils_Erik_Bæhrendtz"><small>dbr</small>:Nils_Erik_Bæhrendtz</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Stop_the_Music_(American_game_show)" href="http://dbpedia.org/resource/Stop_the_Music_(American_game_show)"><small>dbr</small>:Stop_the_Music_(American_game_show)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Complete_&amp;_Unbelievable:_The_Otis_Redding_Dictionary_of_Soul" href="http://dbpedia.org/resource/Complete_&amp;_Unbelievable:_The_Otis_Redding_Dictionary_of_Soul"><small>dbr</small>:Complete_&amp;_Unbelievable:_The_Otis_Redding_Dictionary_of_Soul</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Orson_Welles_radio_credits" href="http://dbpedia.org/resource/Orson_Welles_radio_credits"><small>dbr</small>:Orson_Welles_radio_credits</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Barry_&amp;_Enright_Productions" href="http://dbpedia.org/resource/Barry_&amp;_Enright_Productions"><small>dbr</small>:Barry_&amp;_Enright_Productions</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Branded_content" href="http://dbpedia.org/resource/Branded_content"><small>dbr</small>:Branded_content</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/American_game_show_winnings_records" href="http://dbpedia.org/resource/American_game_show_winnings_records"><small>dbr</small>:American_game_show_winnings_records</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Bergen_Evans" href="http://dbpedia.org/resource/Bergen_Evans"><small>dbr</small>:Bergen_Evans</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Bud_Collyer" href="http://dbpedia.org/resource/Bud_Collyer"><small>dbr</small>:Bud_Collyer</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Match_fixing" href="http://dbpedia.org/resource/Match_fixing"><small>dbr</small>:Match_fixing</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Patty_Duke" href="http://dbpedia.org/resource/Patty_Duke"><small>dbr</small>:Patty_Duke</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Studio_54" href="http://dbpedia.org/resource/Studio_54"><small>dbr</small>:Studio_54</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/1955_in_television" href="http://dbpedia.org/resource/1955_in_television"><small>dbr</small>:1955_in_television</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/1958_in_television" href="http://dbpedia.org/resource/1958_in_television"><small>dbr</small>:1958_in_television</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_years_in_television" href="http://dbpedia.org/resource/List_of_years_in_television"><small>dbr</small>:List_of_years_in_television</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Hal_March" href="http://dbpedia.org/resource/Hal_March"><small>dbr</small>:Hal_March</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Joyce_Brothers" href="http://dbpedia.org/resource/Joyce_Brothers"><small>dbr</small>:Joyce_Brothers</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Lascia_o_raddoppia%3F" href="http://dbpedia.org/resource/Lascia_o_raddoppia%3F"><small>dbr</small>:Lascia_o_raddoppia?</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Edith_Oliver" href="http://dbpedia.org/resource/Edith_Oliver"><small>dbr</small>:Edith_Oliver</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Earl_Newsom" href="http://dbpedia.org/resource/Earl_Newsom"><small>dbr</small>:Earl_Newsom</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/April_1940" href="http://dbpedia.org/resource/April_1940"><small>dbr</small>:April_1940</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Game_show" href="http://dbpedia.org/resource/Game_show"><small>dbr</small>:Game_show</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/1955" href="http://dbpedia.org/resource/1955"><small>dbr</small>:1955</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Marian_Stafford" href="http://dbpedia.org/resource/Marian_Stafford"><small>dbr</small>:Marian_Stafford</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Billy_Pearson" href="http://dbpedia.org/resource/Billy_Pearson"><small>dbr</small>:Billy_Pearson</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/The_$64,000_Question_(British_game_show)" href="http://dbpedia.org/resource/The_$64,000_Question_(British_game_show)"><small>dbr</small>:The_$64,000_Question_(British_game_show)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/1955_Sylvania_Television_Awards" href="http://dbpedia.org/resource/1955_Sylvania_Television_Awards"><small>dbr</small>:1955_Sylvania_Television_Awards</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jack_Benny" href="http://dbpedia.org/resource/Jack_Benny"><small>dbr</small>:Jack_Benny</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Joseph_Nathan_Kane" href="http://dbpedia.org/resource/Joseph_Nathan_Kane"><small>dbr</small>:Joseph_Nathan_Kane</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/CBS" href="http://dbpedia.org/resource/CBS"><small>dbr</small>:CBS</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/George_Burns" href="http://dbpedia.org/resource/George_Burns"><small>dbr</small>:George_Burns</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Ginger_Rogers" href="http://dbpedia.org/resource/Ginger_Rogers"><small>dbr</small>:Ginger_Rogers</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Stephen_Sondheim" href="http://dbpedia.org/resource/Stephen_Sondheim"><small>dbr</small>:Stephen_Sondheim</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Grit_(newspaper)" href="http://dbpedia.org/resource/Grit_(newspaper)"><small>dbr</small>:Grit_(newspaper)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_American_television_programs" href="http://dbpedia.org/resource/List_of_American_television_programs"><small>dbr</small>:List_of_American_television_programs</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_Australian_television_series" href="http://dbpedia.org/resource/List_of_Australian_television_series"><small>dbr</small>:List_of_Australian_television_series</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/TVP2" href="http://dbpedia.org/resource/TVP2"><small>dbr</small>:TVP2</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Leonard_Ross" href="http://dbpedia.org/resource/Leonard_Ross"><small>dbr</small>:Leonard_Ross</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Double_Your_Money" href="http://dbpedia.org/resource/Double_Your_Money"><small>dbr</small>:Double_Your_Money</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Johnny_Bergh" href="http://dbpedia.org/resource/Johnny_Bergh"><small>dbr</small>:Johnny_Bergh</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Merrill_Heatter" href="http://dbpedia.org/resource/Merrill_Heatter"><small>dbr</small>:Merrill_Heatter</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/2006_in_English-language_radio" href="http://dbpedia.org/resource/2006_in_English-language_radio"><small>dbr</small>:2006_in_English-language_radio</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/The_$64,000_Challenge" href="http://dbpedia.org/resource/The_$64,000_Challenge"><small>dbr</small>:The_$64,000_Challenge</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/The_$64000_Question" href="http://dbpedia.org/resource/The_$64000_Question"><small>dbr</small>:The_$64000_Question</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_television_programs:_numbers" href="http://dbpedia.org/resource/List_of_television_programs:_numbers"><small>dbr</small>:List_of_television_programs:_numbers</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/1920_in_Michigan" href="http://dbpedia.org/resource/1920_in_Michigan"><small>dbr</small>:1920_in_Michigan</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Henry_F._Ashurst" href="http://dbpedia.org/resource/Henry_F._Ashurst"><small>dbr</small>:Henry_F._Ashurst</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Mike_Bongiorno" href="http://dbpedia.org/resource/Mike_Bongiorno"><small>dbr</small>:Mike_Bongiorno</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/1959–60_United_States_network_television_schedule" href="http://dbpedia.org/resource/1959–60_United_States_network_television_schedule"><small>dbr</small>:1959–60_United_States_network_television_schedule</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Ozark_Jubilee" href="http://dbpedia.org/resource/Ozark_Jubilee"><small>dbr</small>:Ozark_Jubilee</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/You_Bet_Your_Life" href="http://dbpedia.org/resource/You_Bet_Your_Life"><small>dbr</small>:You_Bet_Your_Life</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Peter_Freuchen" href="http://dbpedia.org/resource/Peter_Freuchen"><small>dbr</small>:Peter_Freuchen</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Encounter_(Canadian_TV_series)" href="http://dbpedia.org/resource/Encounter_(Canadian_TV_series)"><small>dbr</small>:Encounter_(Canadian_TV_series)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/For_Love_or_Money_(game_show)" href="http://dbpedia.org/resource/For_Love_or_Money_(game_show)"><small>dbr</small>:For_Love_or_Money_(game_show)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Scotland_Yard_(film_series)" href="http://dbpedia.org/resource/Scotland_Yard_(film_series)"><small>dbr</small>:Scotland_Yard_(film_series)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Barbara_Britton" href="http://dbpedia.org/resource/Barbara_Britton"><small>dbr</small>:Barbara_Britton</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Dotto" href="http://dbpedia.org/resource/Dotto"><small>dbr</small>:Dotto</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Harry_Keough" href="http://dbpedia.org/resource/Harry_Keough"><small>dbr</small>:Harry_Keough</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Roy_Halee" href="http://dbpedia.org/resource/Roy_Halee"><small>dbr</small>:Roy_Halee</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Sonny_Fox" href="http://dbpedia.org/resource/Sonny_Fox"><small>dbr</small>:Sonny_Fox</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Wendy_Barrie" href="http://dbpedia.org/resource/Wendy_Barrie"><small>dbr</small>:Wendy_Barrie</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_game_show_hosts" href="http://dbpedia.org/resource/List_of_game_show_hosts"><small>dbr</small>:List_of_game_show_hosts</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Charles_Revson" href="http://dbpedia.org/resource/Charles_Revson"><small>dbr</small>:Charles_Revson</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Who_Wants_to_Be_a_Millionaire_(American_game_show)" href="http://dbpedia.org/resource/Who_Wants_to_Be_a_Millionaire_(American_game_show)"><small>dbr</small>:Who_Wants_to_Be_a_Millionaire_(American_game_show)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Television_in_the_United_States" href="http://dbpedia.org/resource/Television_in_the_United_States"><small>dbr</small>:Television_in_the_United_States</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Ray_Bloch" href="http://dbpedia.org/resource/Ray_Bloch"><small>dbr</small>:Ray_Bloch</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Take_It_or_Leave_It_(1944_film)" href="http://dbpedia.org/resource/Take_It_or_Leave_It_(1944_film)"><small>dbr</small>:Take_It_or_Leave_It_(1944_film)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/1957–58_United_States_network_television_schedule" href="http://dbpedia.org/resource/1957–58_United_States_network_television_schedule"><small>dbr</small>:1957–58_United_States_network_television_schedule</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Emogenius" href="http://dbpedia.org/resource/Emogenius"><small>dbr</small>:Emogenius</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/The_Soldiers_(TV_series)" href="http://dbpedia.org/resource/The_Soldiers_(TV_series)"><small>dbr</small>:The_Soldiers_(TV_series)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/1954–55_United_States_network_television_schedule" href="http://dbpedia.org/resource/1954–55_United_States_network_television_schedule"><small>dbr</small>:1954–55_United_States_network_television_schedule</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/1956–57_United_States_network_television_schedule" href="http://dbpedia.org/resource/1956–57_United_States_network_television_schedule"><small>dbr</small>:1956–57_United_States_network_television_schedule</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/December_1959" href="http://dbpedia.org/resource/December_1959"><small>dbr</small>:December_1959</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/31st_Scripps_National_Spelling_Bee" href="http://dbpedia.org/resource/31st_Scripps_National_Spelling_Bee"><small>dbr</small>:31st_Scripps_National_Spelling_Bee</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Dan_Enright" href="http://dbpedia.org/resource/Dan_Enright"><small>dbr</small>:Dan_Enright</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Radio_Hall_of_Fame" href="http://dbpedia.org/resource/Radio_Hall_of_Fame"><small>dbr</small>:Radio_Hall_of_Fame</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/64,000_Question" href="http://dbpedia.org/resource/64,000_Question"><small>dbr</small>:64,000_Question</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/The_Californians_(TV_series)" href="http://dbpedia.org/resource/The_Californians_(TV_series)"><small>dbr</small>:The_Californians_(TV_series)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Take_It_or_Leave_It_(radio_show)" href="http://dbpedia.org/resource/Take_It_or_Leave_It_(radio_show)"><small>dbr</small>:Take_It_or_Leave_It_(radio_show)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jerry_Desmonde" href="http://dbpedia.org/resource/Jerry_Desmonde"><small>dbr</small>:Jerry_Desmonde</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Norman_Leyden" href="http://dbpedia.org/resource/Norman_Leyden"><small>dbr</small>:Norman_Leyden</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/The_$128,000_Question" href="http://dbpedia.org/resource/The_$128,000_Question"><small>dbr</small>:The_$128,000_Question</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Gabriel_Cowan" href="http://dbpedia.org/resource/Gabriel_Cowan"><small>dbr</small>:Gabriel_Cowan</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Ulf_Hannerz" href="http://dbpedia.org/resource/Ulf_Hannerz"><small>dbr</small>:Ulf_Hannerz</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/The_Jackpot" href="http://dbpedia.org/resource/The_Jackpot"><small>dbr</small>:The_Jackpot</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/The_Jack_Benny_Program_(season_10)" href="http://dbpedia.org/resource/The_Jack_Benny_Program_(season_10)"><small>dbr</small>:The_Jack_Benny_Program_(season_10)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/The_Jack_Benny_Program_(season_8)" href="http://dbpedia.org/resource/The_Jack_Benny_Program_(season_8)"><small>dbr</small>:The_Jack_Benny_Program_(season_8)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/George_DeWitt" href="http://dbpedia.org/resource/George_DeWitt"><small>dbr</small>:George_DeWitt</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Theme_Time_Radio_Hour_(season_3)" href="http://dbpedia.org/resource/Theme_Time_Radio_Hour_(season_3)"><small>dbr</small>:Theme_Time_Radio_Hour_(season_3)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Fox-Terror" href="http://dbpedia.org/resource/Fox-Terror"><small>dbr</small>:Fox-Terror</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/United_States_in_the_1950s" href="http://dbpedia.org/resource/United_States_in_the_1950s"><small>dbr</small>:United_States_in_the_1950s</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Break_the_Bank_(1945_game_show)" href="http://dbpedia.org/resource/Break_the_Bank_(1945_game_show)"><small>dbr</small>:Break_the_Bank_(1945_game_show)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Isolation_booth" href="http://dbpedia.org/resource/Isolation_booth"><small>dbr</small>:Isolation_booth</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/60,000" href="http://dbpedia.org/resource/60,000"><small>dbr</small>:60,000</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_playing-card_nicknames" href="http://dbpedia.org/resource/List_of_playing-card_nicknames"><small>dbr</small>:List_of_playing-card_nicknames</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/1955_in_the_United_States" href="http://dbpedia.org/resource/1955_in_the_United_States"><small>dbr</small>:1955_in_the_United_States</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Daffy's_Southern_Exposure" href="http://dbpedia.org/resource/Daffy's_Southern_Exposure"><small>dbr</small>:Daffy's_Southern_Exposure</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Elroy_Schwartz" href="http://dbpedia.org/resource/Elroy_Schwartz"><small>dbr</small>:Elroy_Schwartz</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_most_watched_television_broadcasts_in_the_United_States" href="http://dbpedia.org/resource/List_of_most_watched_television_broadcasts_in_the_United_States"><small>dbr</small>:List_of_most_watched_television_broadcasts_in_the_United_States</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Antidisestablishmentarianism_(word)" href="http://dbpedia.org/resource/Antidisestablishmentarianism_(word)"><small>dbr</small>:Antidisestablishmentarianism_(word)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/1955_in_Italian_television" href="http://dbpedia.org/resource/1955_in_Italian_television"><small>dbr</small>:1955_in_Italian_television</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/The_George_Burns_and_Gracie_Allen_Show_cast_list" href="http://dbpedia.org/resource/The_George_Burns_and_Gracie_Allen_Show_cast_list"><small>dbr</small>:The_George_Burns_and_Gracie_Allen_Show_cast_list</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Kvitt_eller_dubbelt" href="http://dbpedia.org/resource/Kvitt_eller_dubbelt"><small>dbr</small>:Kvitt_eller_dubbelt</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Deaths_in_September_2006" href="http://dbpedia.org/resource/Deaths_in_September_2006"><small>dbr</small>:Deaths_in_September_2006</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_American_game_shows" href="http://dbpedia.org/resource/List_of_American_game_shows"><small>dbr</small>:List_of_American_game_shows</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_Australian_game_shows" href="http://dbpedia.org/resource/List_of_Australian_game_shows"><small>dbr</small>:List_of_Australian_game_shows</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/1958–59_United_States_network_television_schedule" href="http://dbpedia.org/resource/1958–59_United_States_network_television_schedule"><small>dbr</small>:1958–59_United_States_network_television_schedule</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_old-time_radio_programs" href="http://dbpedia.org/resource/List_of_old-time_radio_programs"><small>dbr</small>:List_of_old-time_radio_programs</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_longest-running_Australian_television_series" href="http://dbpedia.org/resource/List_of_longest-running_Australian_television_series"><small>dbr</small>:List_of_longest-running_Australian_television_series</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/2021_in_American_television" href="http://dbpedia.org/resource/2021_in_American_television"><small>dbr</small>:2021_in_American_television</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Boxing_on_CBS" href="http://dbpedia.org/resource/Boxing_on_CBS"><small>dbr</small>:Boxing_on_CBS</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Seymour_Robbie" href="http://dbpedia.org/resource/Seymour_Robbie"><small>dbr</small>:Seymour_Robbie</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Top-rated_United_States_television_programs_of_1955–56" href="http://dbpedia.org/resource/Top-rated_United_States_television_programs_of_1955–56"><small>dbr</small>:Top-rated_United_States_television_programs_of_1955–56</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Top-rated_United_States_television_programs_of_1956–57" href="http://dbpedia.org/resource/Top-rated_United_States_television_programs_of_1956–57"><small>dbr</small>:Top-rated_United_States_television_programs_of_1956–57</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Top-rated_United_States_television_programs_of_1957–58" href="http://dbpedia.org/resource/Top-rated_United_States_television_programs_of_1957–58"><small>dbr</small>:Top-rated_United_States_television_programs_of_1957–58</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/June_1955" href="http://dbpedia.org/resource/June_1955"><small>dbr</small>:June_1955</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Louis_G._Cowan" href="http://dbpedia.org/resource/Louis_G._Cowan"><small>dbr</small>:Louis_G._Cowan</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Coles_£3000_Question" href="http://dbpedia.org/resource/Coles_£3000_Question"><small>dbr</small>:Coles_£3000_Question</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/64,000_Dollar_Question" href="http://dbpedia.org/resource/64,000_Dollar_Question"><small>dbr</small>:64,000_Dollar_Question</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/$64,000_Question" href="http://dbpedia.org/resource/$64,000_Question"><small>dbr</small>:$64,000_Question</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/The_64,000_Dollar_Question" href="http://dbpedia.org/resource/The_64,000_Dollar_Question"><small>dbr</small>:The_64,000_Dollar_Question</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2">is <a class="uri" href="http://dbpedia.org/property/television"><small>dbp:</small>television</a>
+ of</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rev="dbp:television" resource="http://dbpedia.org/resource/Leonard_Ross" href="http://dbpedia.org/resource/Leonard_Ross"><small>dbr</small>:Leonard_Ross</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2">is <a class="uri" href="http://xmlns.com/foaf/0.1/primaryTopic"><small>foaf:</small>primaryTopic</a>
+ of</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rev="foaf:primaryTopic" resource="http://en.wikipedia.org/wiki/The_$64,000_Question" href="http://en.wikipedia.org/wiki/The_$64,000_Question"><small>wikipedia-en</small>:The_$64,000_Question</a></span></li>
+</ul></td></tr>
+		    </tbody>
+		</table>
+	    </div>
+	</div>
+    </div>
+</section>
+<!-- property-table -->
+
+<!-- footer -->
+<section>
+    <div class="container-xl">
+	<div class="text-center p-4 bg-light">
+	    <a href="https://virtuoso.openlinksw.com/" title="OpenLink Virtuoso"><img class="powered_by" src="/statics/images/virt_power_no_border.png" alt="Powered by OpenLink Virtuoso"></a>&nbsp; &nbsp;
+	    <a href="http://linkeddata.org/"><img alt="This material is Open Knowledge" src="/statics/images/LoDLogo.gif"></a> &nbsp; &nbsp;
+	    <a href="http://dbpedia.org/sparql"><img alt="W3C Semantic Web Technology" src="/statics/images/sw-sparql-blue.png"></a> &nbsp;  &nbsp;
+	    <a href="https://opendefinition.org/"><img alt="This material is Open Knowledge" src="/statics/images/od_80x15_red_green.png"></a>&nbsp; &nbsp;
+	    <span style="display:none;" about="" resource="http://www.w3.org/TR/rdfa-syntax" rel="dc:conformsTo">
+		<a href="https://validator.w3.org/check?uri=referer">
+		    <img src="https://www.w3.org/Icons/valid-xhtml-rdfa" alt="Valid XHTML + RDFa">
+		</a>
+	    </span>
+	    <br>
+	    <small class="text-muted">
+		This content was extracted from <a href="http://en.wikipedia.org/wiki/The_$64,000_Question">Wikipedia</a> and is licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>
+
+	    </small>
+	</div>
+    </div>
+</section>
+<!-- #footer -->
+
+<!-- scripts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/js/bootstrap.bundle.min.js" integrity="sha512-pax4MlgXjHEPfCwcJLQhigY7+N8rt6bVvWLFyUMuxShv170X53TRzGPmPkZmGBhk+jikR8WBM4yl7A9WMHHqvg==" crossorigin="anonymous">
+    </script>
+
+
+</body></html>

@@ -1,0 +1,431 @@
+<html prefix="
+        dbp: http://dbpedia.org/property/
+        dbo: http://dbedia.org/ontology/
+        dct: http://purl.org/dc/terms/
+        dbd: http://dbpedia.org/datatype/
+	og:  https://ogp.me/ns#
+	"><!-- header --><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>About: Mohabbat Rooth Jaye Toh</title>
+
+    <!-- Links -->
+    <link rel="alternate" type="application/rdf+xml" href="http://dbpedia.org/data/Mohabbat_Rooth_Jaye_Toh.rdf" title="Structured Descriptor Document (RDF/XML format)">
+    <link rel="alternate" type="text/n3" href="http://dbpedia.org/data/Mohabbat_Rooth_Jaye_Toh.n3" title="Structured Descriptor Document (N3 format)">
+    <link rel="alternate" type="text/turtle" href="http://dbpedia.org/data/Mohabbat_Rooth_Jaye_Toh.ttl" title="Structured Descriptor Document (Turtle format)">
+    <link rel="alternate" type="application/json+rdf" href="http://dbpedia.org/data/Mohabbat_Rooth_Jaye_Toh.jrdf" title="Structured Descriptor Document (RDF/JSON format)">
+    <link rel="alternate" type="application/json" href="http://dbpedia.org/data/Mohabbat_Rooth_Jaye_Toh.json" title="Structured Descriptor Document (RDF/JSON format)">
+    <link rel="alternate" type="application/atom+xml" href="http://dbpedia.org/data/Mohabbat_Rooth_Jaye_Toh.atom" title="OData (Atom+Feed format)">
+    <link rel="alternate" type="text/plain" href="http://dbpedia.org/data/Mohabbat_Rooth_Jaye_Toh.ntriples" title="Structured Descriptor Document (N-Triples format)">
+    <link rel="alternate" type="text/csv" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FMohabbat_Rooth_Jaye_Toh%3E&amp;format=text%2Fcsv" title="Structured Descriptor Document (CSV format)">
+    
+    <link rel="alternate" type="application/microdata+json" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FMohabbat_Rooth_Jaye_Toh%3E&amp;format=application%2Fmicrodata%2Bjson" title="Structured Descriptor Document (Microdata/JSON format)">
+    <link rel="alternate" type="text/html" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FMohabbat_Rooth_Jaye_Toh%3E&amp;format=text%2Fhtml" title="Structured Descriptor Document (Microdata/HTML format)">
+    <link rel="alternate" type="application/ld+json" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FMohabbat_Rooth_Jaye_Toh%3E&amp;format=application%2Fjson-ld" title="Structured Descriptor Document (JSON-LD format)">
+    <link rel="alternate" type="text/x-html-script-ld+json" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FMohabbat_Rooth_Jaye_Toh%3E&amp;format=text%2Fx-html-script-ld%2Bjson" title="Structured Descriptor Document (HTML with embedded JSON-LD)">
+    <link rel="alternate" type="text/x-html-script-turtle" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FMohabbat_Rooth_Jaye_Toh%3E&amp;format=text%2Fx-html-script-turtle" title="Structured Descriptor Document (HTML with embedded Turtle)">
+    <link rel="timegate" type="text/html" href="http://dbpedia.mementodepot.org/timegate/http://dbpedia.org/page/Mohabbat_Rooth_Jaye_Toh" title="Time Machine">
+    <link rel="foaf:primarytopic" href="http://dbpedia.org/resource/Mohabbat_Rooth_Jaye_Toh">
+    <link rev="describedby" href="http://dbpedia.org/resource/Mohabbat_Rooth_Jaye_Toh">
+    <!-- /Links -->
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/css/bootstrap.min.css" integrity="sha512-GQGU0fMMi238uA+a/bdWJfpUGKUkBdgfFdgBm72SUQ6BeyWjoY/ton0tEjH+OSH9iP4Dfh+7HM0I9f5eR0L/4w==" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.8.1/font/bootstrap-icons.min.css" integrity="sha512-Oy+sz5W86PK0ZIkawrG0iv7XwWhYecM3exvUtMKNJMekGFJtVAhibhRPTpmyTj8+lJCkmWfnpxKgT2OopquBHA==" crossorigin="anonymous">
+    <!-- link rel="stylesheet" href="/statics/css/dbpedia.css" -->
+    <!-- /Stylesheets-->
+
+    <!-- OpenGraph -->
+    <meta property="og:title" content="Mohabbat Rooth Jaye Toh">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="http://dbpedia.org/resource/Mohabbat_Rooth_Jaye_Toh">
+    <meta property="og:image" content="http://commons.wikimedia.org/wiki/Special:FilePath/mrjt.png?width=300">
+    <meta property="og:description" content="Mohabbat Rooth Jaye Toh (Urdu: مُحبت رُوٹھ جاۓ تو‎) is a Pakistani drama which aired on Hum TV from 29 May 2011 to 2 October 2011. This drama was also selected for Indian Channel Zindagi and ran from 11 June 2015 Mon-Sat 10:00pm under the title &quot;Ruswaiyaan&quot;.">
+    <meta property="og:site_name" content="DBpedia">
+    <!-- /OpenGraph-->
+</head>
+<body about="http://dbpedia.org/resource/Mohabbat_Rooth_Jaye_Toh">
+
+<!-- navbar -->
+<nav class="navbar navbar-expand-md navbar-light bg-light fixed-top align-items-center">
+    <div class="container-xl">
+	<a class="navbar-brand" href="http://wiki.dbpedia.org/about" title="About DBpedia" style="color: #2c5078">
+	    <img class="img-fluid" src="/statics/images/dbpedia_logo_land_120.png" alt="About DBpedia">
+	</a>
+	<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#dbp-navbar" aria-controls="dbp-navbar" aria-expanded="false" aria-label="Toggle navigation">
+	    <span class="navbar-toggler-icon"></span>
+	</button>
+
+	<div class="collapse navbar-collapse" id="dbp-navbar">
+	    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+		<li class="nav-item dropdown">
+		    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBrowse" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+		    <i class="bi-eye-fill"></i> Browse using<span class="caret"></span></a>
+
+		    <ul class="dropdown-menu" aria-labelledby="navbarDropdownBrowse">
+			<li class="dropdown-item"><a class="nav-link" href="/describe/?uri=http%3A%2F%2Fdbpedia.org%2Fresource%2FMohabbat_Rooth_Jaye_Toh">OpenLink Faceted Browser</a></li>
+			<li class="dropdown-item"><a class="nav-link" href="http://osde.demo.openlinksw.com/#/editor?uri=http%3A%2F%2Fdbpedia.org%2Fdata%2FMohabbat_Rooth_Jaye_Toh.ttl&amp;view=statements">OpenLink Structured Data Editor</a></li>
+			<li class="dropdown-item"><a class="nav-link" href="http://en.lodlive.it/?http%3A%2F%2Fdbpedia.org%2Fresource%2FMohabbat_Rooth_Jaye_Toh">LodLive Browser</a></li>
+			<!-- li class="dropdown-item"><a class="nav-link" href="http://lodmilla.sztaki.hu/lodmilla/?url=http%3A%2F%2Fdbpedia.org%2Fresource%2FMohabbat_Rooth_Jaye_Toh">LODmilla Browser</a></li -->
+		    </ul>
+		</li>
+
+		<li class="nav-item dropdown">
+		    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownFormats" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+		    <i class="bi-file-earmark-fill"></i> Formats<span class="caret"></span></a>
+
+		    <ul class="dropdown-menu" aria-labelledby="navbarDropdownFormats">
+			<li class="dropdown-item-text">RDF:</li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/Mohabbat_Rooth_Jaye_Toh.ntriples">N-Triples</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/Mohabbat_Rooth_Jaye_Toh.n3">N3</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/Mohabbat_Rooth_Jaye_Toh.ttl">Turtle</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/Mohabbat_Rooth_Jaye_Toh.json">JSON</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/Mohabbat_Rooth_Jaye_Toh.rdf">XML</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">OData:</li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/Mohabbat_Rooth_Jaye_Toh.atom">Atom</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/Mohabbat_Rooth_Jaye_Toh.jsod">JSON</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">Microdata:</li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FMohabbat_Rooth_Jaye_Toh%3E&amp;format=application%2Fmicrodata%2Bjson">JSON</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FMohabbat_Rooth_Jaye_Toh%3E&amp;format=text%2Fhtml">HTML</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">Embedded:</li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FMohabbat_Rooth_Jaye_Toh%3E&amp;format=text%2Fx-html-script-ld%2Bjson">JSON</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FMohabbat_Rooth_Jaye_Toh%3E&amp;format=text%2Fx-html-script-turtle">Turtle</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">Other:</li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FMohabbat_Rooth_Jaye_Toh%3E&amp;format=text%2Fcsv">CSV</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FMohabbat_Rooth_Jaye_Toh%3E&amp;format=application%2Fjson-ld">JSON-LD</a></li>
+
+		    </ul>
+		</li>
+	    </ul>
+
+	    <ul class="navbar-nav ms-auto">
+		<li class="nav-item">
+		    <a class="nav-link" href="/fct/" title="Switch to /fct endpoint"><i class="bi-box-arrow-up-right"></i> Faceted Browser </a>
+		</li>
+
+		<li class="nav-item">
+		    <a class="nav-link" href="/sparql/" title="Switch to /sparql endpoint"><i class="bi-box-arrow-up-right"></i> Sparql Endpoint </a>
+		</li>
+
+	    </ul>
+	</div>
+   </div>
+</nav>
+<div style="margin-bottom: 60px"></div>
+<!-- /navbar -->
+
+
+<!-- page-header -->
+<section>
+    <div class="container-xl">
+	<div class="row">
+	    <div class="col">
+		<h1 id="title" class="display-6"><b>About:</b>
+		    <a href="http://dbpedia.org/resource/Mohabbat_Rooth_Jaye_Toh">Mohabbat Rooth Jaye Toh</a>
+		</h1>
+	    </div>
+	</div>
+	<div class="row">
+	    <div class="col">
+		<div class="text-muted">
+		    <span class="text-nowrap">An Entity of Type: <a href="http://dbpedia.org/ontology/TelevisionShow">television show</a>, </span>
+		    <span class="text-nowrap">from Named Graph:  <a href="http://dbpedia.org">http://dbpedia.org</a>, </span>
+		    <span class="text-nowrap">within Data Space: <a href="http://dbpedia.org">dbpedia.org</a></span>
+		</div>
+	    </div>
+	</div>
+	<div class="row pt-2">
+	    <div class="col-xs-9 col-sm-10">
+		<p class="lead">Mohabbat Rooth Jaye Toh (Urdu: مُحبت رُوٹھ جاۓ تو‎) is a Pakistani drama which aired on Hum TV from 29 May 2011 to 2 October 2011. This drama was also selected for Indian Channel Zindagi and ran from 11 June 2015 Mon-Sat 10:00pm under the title "Ruswaiyaan".</p>
+	    </div>
+
+	    <div class="col-xs-3 col-sm-2">
+		<a href="#" class="thumbnail">
+		    <img src="http://commons.wikimedia.org/wiki/Special:FilePath/mrjt.png?width=300" alt="thumbnail" class="img-fluid">
+		</a>
+	    </div>
+
+	</div>
+    </div>
+</section>
+<!-- page-header -->
+
+<!-- property-table -->
+<section>
+    <div class="container-xl">
+	<div class="row">
+	    <div class="table-responsive">
+		<table class="table table-hover table-sm table-light">
+		    <thead>
+			<tr>
+			    <th class="col-xs-3 ">Property</th>
+			    <th class="col-xs-9 px-3">Value</th>
+			</tr>
+		    </thead>
+		    <tbody>
+<tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/Work/runtime"><small>dbo:</small>Work/runtime</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="ns0:runtime" prefix="ns0: http://dbpedia.org/ontology/Work/" datatype="dbd:minute">40.0</span></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/abstract"><small>dbo:</small>abstract</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:abstract" lang="en">Mohabbat Rooth Jaye Toh (Urdu: مُحبت رُوٹھ جاۓ تو‎) is a Pakistani drama which aired on Hum TV from 29 May 2011 to 2 October 2011. This drama was also selected for Indian Channel Zindagi and ran from 11 June 2015 Mon-Sat 10:00pm under the title "Ruswaiyaan".</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/author"><small>dbo:</small>author</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:author" resource="http://dbpedia.org/resource/Faiza_Iftikhar" href="http://dbpedia.org/resource/Faiza_Iftikhar"><small>dbr</small>:Faiza_Iftikhar</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/channel"><small>dbo:</small>channel</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:channel" resource="http://dbpedia.org/resource/Hum_TV" href="http://dbpedia.org/resource/Hum_TV"><small>dbr</small>:Hum_TV</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/completionDate"><small>dbo:</small>completionDate</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:completionDate" datatype="xsd:date">2011-10-02</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/country"><small>dbo:</small>country</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:country" resource="http://dbpedia.org/resource/Pakistan" href="http://dbpedia.org/resource/Pakistan"><small>dbr</small>:Pakistan</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/genre"><small>dbo:</small>genre</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:genre" resource="http://dbpedia.org/resource/Drama" href="http://dbpedia.org/resource/Drama"><small>dbr</small>:Drama</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/language"><small>dbo:</small>language</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:language" resource="http://dbpedia.org/resource/Urdu" href="http://dbpedia.org/resource/Urdu"><small>dbr</small>:Urdu</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/numberOfEpisodes"><small>dbo:</small>numberOfEpisodes</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:numberOfEpisodes" datatype="xsd:nonNegativeInteger">19</span><small> (xsd:nonNegativeInteger)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/releaseDate"><small>dbo:</small>releaseDate</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:releaseDate" datatype="xsd:date">2011-05-29</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/runtime"><small>dbo:</small>runtime</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:runtime" datatype="xsd:double">2400.000000</span><small> (xsd:double)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/starring"><small>dbo:</small>starring</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/Adnan_Siddiqui" href="http://dbpedia.org/resource/Adnan_Siddiqui"><small>dbr</small>:Adnan_Siddiqui</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/Humayun_Saeed" href="http://dbpedia.org/resource/Humayun_Saeed"><small>dbr</small>:Humayun_Saeed</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/Mahnoor_Baloch" href="http://dbpedia.org/resource/Mahnoor_Baloch"><small>dbr</small>:Mahnoor_Baloch</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/thumbnail"><small>dbo:</small>thumbnail</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:thumbnail" resource="http://commons.wikimedia.org/wiki/Special:FilePath/mrjt.png?width=300" href="http://commons.wikimedia.org/wiki/Special:FilePath/mrjt.png?width=300"><small>wiki-commons</small>:Special:FilePath/mrjt.png?width=300</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/wikiPageExternalLink"><small>dbo:</small>wikiPageExternalLink</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageExternalLink nofollow" resource="http://www.uniarticles.com/2015/05/ruswaiyaan-zindagi-tv-upcoming-show.html" href="http://www.uniarticles.com/2015/05/ruswaiyaan-zindagi-tv-upcoming-show.html">http://www.uniarticles.com/2015/05/ruswaiyaan-zindagi-tv-upcoming-show.html</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageExternalLink nofollow" resource="http://www.hum.tv/index.php%3Foption=com_content&amp;view=article&amp;id=117" href="http://www.hum.tv/index.php%3Foption=com_content&amp;view=article&amp;id=117">http://www.hum.tv/index.php%3Foption=com_content&amp;view=article&amp;id=117</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/wikiPageID"><small>dbo:</small>wikiPageID</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:wikiPageID" datatype="xsd:integer">33945986</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/wikiPageLength"><small>dbo:</small>wikiPageLength</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:wikiPageLength" datatype="xsd:nonNegativeInteger">7114</span><small> (xsd:nonNegativeInteger)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/wikiPageRevisionID"><small>dbo:</small>wikiPageRevisionID</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:wikiPageRevisionID" datatype="xsd:integer">1036119101</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/wikiPageWikiLink"><small>dbo:</small>wikiPageWikiLink</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Adnan_Siddiqui" href="http://dbpedia.org/resource/Adnan_Siddiqui"><small>dbr</small>:Adnan_Siddiqui</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Syra_Yousuf" href="http://dbpedia.org/resource/Syra_Yousuf"><small>dbr</small>:Syra_Yousuf</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Faiza_Iftikhar" href="http://dbpedia.org/resource/Faiza_Iftikhar"><small>dbr</small>:Faiza_Iftikhar</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Pakistan" href="http://dbpedia.org/resource/Pakistan"><small>dbr</small>:Pakistan</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Urdu" href="http://dbpedia.org/resource/Urdu"><small>dbr</small>:Urdu</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:2011_Pakistani_television_series_debuts" href="http://dbpedia.org/resource/Category:2011_Pakistani_television_series_debuts"><small>dbc</small>:2011_Pakistani_television_series_debuts</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:2011_Pakistani_television_series_endings" href="http://dbpedia.org/resource/Category:2011_Pakistani_television_series_endings"><small>dbc</small>:2011_Pakistani_television_series_endings</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Humayun_Saeed" href="http://dbpedia.org/resource/Humayun_Saeed"><small>dbr</small>:Humayun_Saeed</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Azfar_Rehman" href="http://dbpedia.org/resource/Azfar_Rehman"><small>dbr</small>:Azfar_Rehman</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Drama" href="http://dbpedia.org/resource/Drama"><small>dbr</small>:Drama</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Hum_TV" href="http://dbpedia.org/resource/Hum_TV"><small>dbr</small>:Hum_TV</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:Pakistani_drama_television_series" href="http://dbpedia.org/resource/Category:Pakistani_drama_television_series"><small>dbc</small>:Pakistani_drama_television_series</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:Urdu-language_television_shows" href="http://dbpedia.org/resource/Category:Urdu-language_television_shows"><small>dbc</small>:Urdu-language_television_shows</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Sunita_Marshall" href="http://dbpedia.org/resource/Sunita_Marshall"><small>dbr</small>:Sunita_Marshall</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Mahnoor_Baloch" href="http://dbpedia.org/resource/Mahnoor_Baloch"><small>dbr</small>:Mahnoor_Baloch</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Rashid_Mehmood" href="http://dbpedia.org/resource/Rashid_Mehmood"><small>dbr</small>:Rashid_Mehmood</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Zindagi_(TV_channel)" href="http://dbpedia.org/resource/Zindagi_(TV_channel)"><small>dbr</small>:Zindagi_(TV_channel)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Azra_Aftab" href="http://dbpedia.org/resource/Azra_Aftab"><small>dbr</small>:Azra_Aftab</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Durdana_Butt" href="http://dbpedia.org/resource/Durdana_Butt"><small>dbr</small>:Durdana_Butt</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:Hum_TV_original_programming" href="http://dbpedia.org/resource/Category:Hum_TV_original_programming"><small>dbc</small>:Hum_TV_original_programming</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Raju_Jamil" href="http://dbpedia.org/resource/Raju_Jamil"><small>dbr</small>:Raju_Jamil</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Agha_Waheed" href="http://dbpedia.org/resource/Agha_Waheed"><small>dbr</small>:Agha_Waheed</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Humera_Zaheer" href="http://dbpedia.org/resource/Humera_Zaheer"><small>dbr</small>:Humera_Zaheer</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Nasreen_Jan" href="http://dbpedia.org/resource/Nasreen_Jan"><small>dbr</small>:Nasreen_Jan</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Saima_Kanwal" href="http://dbpedia.org/resource/Saima_Kanwal"><small>dbr</small>:Saima_Kanwal</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Taj_Niazi" href="http://dbpedia.org/resource/Taj_Niazi"><small>dbr</small>:Taj_Niazi</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/altName"><small>dbp:</small>altName</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:altName" lang="en">Ruswaiyaan in India</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/caption"><small>dbp:</small>caption</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:caption" lang="en">Mohabbat Rooth Jaye Toh title screen</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/channel"><small>dbp:</small>channel</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:channel" resource="http://dbpedia.org/resource/Hum_TV" href="http://dbpedia.org/resource/Hum_TV"><small>dbr</small>:Hum_TV</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/composer"><small>dbp:</small>composer</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:composer" lang="en">Ifti</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/country"><small>dbp:</small>country</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:country" resource="http://dbpedia.org/resource/Pakistan" href="http://dbpedia.org/resource/Pakistan"><small>dbr</small>:Pakistan</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/director"><small>dbp:</small>director</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:director" lang="en">Roomi Insha</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/editor"><small>dbp:</small>editor</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:editor" lang="en">Mahmood Ali</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:editor" lang="en">Salman Masood</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/firstAired"><small>dbp:</small>firstAired</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:firstAired" datatype="xsd:date">2011-05-29</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/genre"><small>dbp:</small>genre</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:genre" resource="http://dbpedia.org/resource/Drama" href="http://dbpedia.org/resource/Drama"><small>dbr</small>:Drama</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/language"><small>dbp:</small>language</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:language" resource="http://dbpedia.org/resource/Urdu" href="http://dbpedia.org/resource/Urdu"><small>dbr</small>:Urdu</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/lastAired"><small>dbp:</small>lastAired</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:lastAired" datatype="xsd:date">2011-10-02</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/name"><small>dbp:</small>name</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:name" lang="en">Mohabbat Rooth Jaye Toh</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/numEpisodes"><small>dbp:</small>numEpisodes</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:numEpisodes" datatype="xsd:integer">19</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/opentheme"><small>dbp:</small>opentheme</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:opentheme" lang="en">Song</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:opentheme" lang="en">written &amp; performed by Ifti</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/runtime"><small>dbp:</small>runtime</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:runtime" datatype="dbd:second">2400.0</span></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/starring"><small>dbp:</small>starring</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:starring" resource="http://dbpedia.org/resource/Adnan_Siddiqui" href="http://dbpedia.org/resource/Adnan_Siddiqui"><small>dbr</small>:Adnan_Siddiqui</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:starring" resource="http://dbpedia.org/resource/Humayun_Saeed" href="http://dbpedia.org/resource/Humayun_Saeed"><small>dbr</small>:Humayun_Saeed</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:starring" resource="http://dbpedia.org/resource/Mahnoor_Baloch" href="http://dbpedia.org/resource/Mahnoor_Baloch"><small>dbr</small>:Mahnoor_Baloch</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/themeMusicComposer"><small>dbp:</small>themeMusicComposer</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:themeMusicComposer" lang="en">Ifti</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/website"><small>dbp:</small>website</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:website nofollow" resource="http://www.hum.tv/index.php%3Foption=com_content&amp;view=article&amp;id=117" href="http://www.hum.tv/index.php%3Foption=com_content&amp;view=article&amp;id=117">http://www.hum.tv/index.php%3Foption=com_content&amp;view=article&amp;id=117</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/websiteTitle"><small>dbp:</small>websiteTitle</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:websiteTitle" lang="en">Website</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/wikiPageUsesTemplate"><small>dbp:</small>wikiPageUsesTemplate</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:End_date" href="http://dbpedia.org/resource/Template:End_date"><small>dbt</small>:End_date</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Infobox_television" href="http://dbpedia.org/resource/Template:Infobox_television"><small>dbt</small>:Infobox_television</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Start_date" href="http://dbpedia.org/resource/Template:Start_date"><small>dbt</small>:Start_date</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Use_Pakistani_English" href="http://dbpedia.org/resource/Template:Use_Pakistani_English"><small>dbt</small>:Use_Pakistani_English</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Use_dmy_dates" href="http://dbpedia.org/resource/Template:Use_dmy_dates"><small>dbt</small>:Use_dmy_dates</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Hum_TV_Programs" href="http://dbpedia.org/resource/Template:Hum_TV_Programs"><small>dbt</small>:Hum_TV_Programs</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/writer"><small>dbp:</small>writer</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:writer" resource="http://dbpedia.org/resource/Faiza_Iftikhar" href="http://dbpedia.org/resource/Faiza_Iftikhar"><small>dbr</small>:Faiza_Iftikhar</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://purl.org/dc/terms/subject"><small>dct:</small>subject</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:2011_Pakistani_television_series_debuts" href="http://dbpedia.org/resource/Category:2011_Pakistani_television_series_debuts"><small>dbc</small>:2011_Pakistani_television_series_debuts</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:2011_Pakistani_television_series_endings" href="http://dbpedia.org/resource/Category:2011_Pakistani_television_series_endings"><small>dbc</small>:2011_Pakistani_television_series_endings</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:Pakistani_drama_television_series" href="http://dbpedia.org/resource/Category:Pakistani_drama_television_series"><small>dbc</small>:Pakistani_drama_television_series</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:Urdu-language_television_shows" href="http://dbpedia.org/resource/Category:Urdu-language_television_shows"><small>dbc</small>:Urdu-language_television_shows</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:Hum_TV_original_programming" href="http://dbpedia.org/resource/Category:Hum_TV_original_programming"><small>dbc</small>:Hum_TV_original_programming</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://purl.org/linguistics/gold/hypernym"><small>gold:</small>hypernym</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="gold:hypernym" resource="http://dbpedia.org/resource/Drama" prefix="gold: http://purl.org/linguistics/gold/" href="http://dbpedia.org/resource/Drama"><small>dbr</small>:Drama</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"><small>rdf:</small>type</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://www.w3.org/2002/07/owl#Thing" href="http://www.w3.org/2002/07/owl#Thing"><small>owl</small>:Thing</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://schema.org/CreativeWork" href="http://schema.org/CreativeWork"><small>schema</small>:CreativeWork</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/ontology/Work" href="http://dbpedia.org/ontology/Work"><small>dbo</small>:Work</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://www.wikidata.org/entity/Q15416" href="http://www.wikidata.org/entity/Q15416"><small>wikidata</small>:Q15416</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://www.wikidata.org/entity/Q386724" href="http://www.wikidata.org/entity/Q386724"><small>wikidata</small>:Q386724</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/ontology/TelevisionShow" href="http://dbpedia.org/ontology/TelevisionShow"><small>dbo</small>:TelevisionShow</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Artifact100021939" href="http://dbpedia.org/class/yago/Artifact100021939"><small>yago</small>:Artifact100021939</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Broadcasting106276697" href="http://dbpedia.org/class/yago/Broadcasting106276697"><small>yago</small>:Broadcasting106276697</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Instrumentality103575240" href="http://dbpedia.org/class/yago/Instrumentality103575240"><small>yago</small>:Instrumentality103575240</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Medium106254669" href="http://dbpedia.org/class/yago/Medium106254669"><small>yago</small>:Medium106254669</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Object100002684" href="http://dbpedia.org/class/yago/Object100002684"><small>yago</small>:Object100002684</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" href="http://dbpedia.org/class/yago/PhysicalEntity100001930"><small>yago</small>:PhysicalEntity100001930</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Telecommunication106271778" href="http://dbpedia.org/class/yago/Telecommunication106271778"><small>yago</small>:Telecommunication106271778</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Television106277280" href="http://dbpedia.org/class/yago/Television106277280"><small>yago</small>:Television106277280</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Whole100003553" href="http://dbpedia.org/class/yago/Whole100003553"><small>yago</small>:Whole100003553</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://www.w3.org/2000/01/rdf-schema#comment"><small>rdfs:</small>comment</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="rdfs:comment" lang="en">Mohabbat Rooth Jaye Toh (Urdu: مُحبت رُوٹھ جاۓ تو‎) is a Pakistani drama which aired on Hum TV from 29 May 2011 to 2 October 2011. This drama was also selected for Indian Channel Zindagi and ran from 11 June 2015 Mon-Sat 10:00pm under the title "Ruswaiyaan".</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://www.w3.org/2000/01/rdf-schema#label"><small>rdfs:</small>label</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="rdfs:label" lang="en">Mohabbat Rooth Jaye Toh</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://www.w3.org/2002/07/owl#sameAs"><small>owl:</small>sameAs</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://rdf.freebase.com/ns/m.0hnff7m" href="http://rdf.freebase.com/ns/m.0hnff7m"><small>freebase</small>:Mohabbat Rooth Jaye Toh</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://www.wikidata.org/entity/Q6890819" href="http://www.wikidata.org/entity/Q6890819"><small>wikidata</small>:Mohabbat Rooth Jaye Toh</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://hi.dbpedia.org/resource/रुसवाइयाँ" href="http://hi.dbpedia.org/resource/रुसवाइयाँ">http://hi.dbpedia.org/resource/रुसवाइयाँ</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="https://global.dbpedia.org/id/4sEUv" href="https://global.dbpedia.org/id/4sEUv">https://global.dbpedia.org/id/4sEUv</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://www.w3.org/ns/prov#wasDerivedFrom"><small>prov:</small>wasDerivedFrom</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="prov:wasDerivedFrom" resource="http://en.wikipedia.org/wiki/Mohabbat_Rooth_Jaye_Toh?oldid=1036119101&amp;ns=0" href="http://en.wikipedia.org/wiki/Mohabbat_Rooth_Jaye_Toh?oldid=1036119101&amp;ns=0"><small>wikipedia-en</small>:Mohabbat_Rooth_Jaye_Toh?oldid=1036119101&amp;ns=0</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://xmlns.com/foaf/0.1/depiction"><small>foaf:</small>depiction</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="foaf:depiction" resource="http://commons.wikimedia.org/wiki/Special:FilePath/mrjt.png" href="http://commons.wikimedia.org/wiki/Special:FilePath/mrjt.png"><small>wiki-commons</small>:Special:FilePath/mrjt.png</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://xmlns.com/foaf/0.1/homepage"><small>foaf:</small>homepage</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="foaf:homepage nofollow" resource="http://www.hum.tv/index.php%3Foption=com_content&amp;view=article&amp;id=117" href="http://www.hum.tv/index.php%3Foption=com_content&amp;view=article&amp;id=117">http://www.hum.tv/index.php%3Foption=com_content&amp;view=article&amp;id=117</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://xmlns.com/foaf/0.1/isPrimaryTopicOf"><small>foaf:</small>isPrimaryTopicOf</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="foaf:isPrimaryTopicOf" resource="http://en.wikipedia.org/wiki/Mohabbat_Rooth_Jaye_Toh" href="http://en.wikipedia.org/wiki/Mohabbat_Rooth_Jaye_Toh"><small>wikipedia-en</small>:Mohabbat_Rooth_Jaye_Toh</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2">is <a class="uri" href="http://dbpedia.org/ontology/wikiPageWikiLink"><small>dbo:</small>wikiPageWikiLink</a>
+ of</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Adnan_Siddiqui" href="http://dbpedia.org/resource/Adnan_Siddiqui"><small>dbr</small>:Adnan_Siddiqui</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Syra_Yousuf" href="http://dbpedia.org/resource/Syra_Yousuf"><small>dbr</small>:Syra_Yousuf</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_programs_broadcast_by_Hum_TV" href="http://dbpedia.org/resource/List_of_programs_broadcast_by_Hum_TV"><small>dbr</small>:List_of_programs_broadcast_by_Hum_TV</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_Pakistani_television_series" href="http://dbpedia.org/resource/List_of_Pakistani_television_series"><small>dbr</small>:List_of_Pakistani_television_series</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Faiza_Iftikhar" href="http://dbpedia.org/resource/Faiza_Iftikhar"><small>dbr</small>:Faiza_Iftikhar</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Humayun_Saeed" href="http://dbpedia.org/resource/Humayun_Saeed"><small>dbr</small>:Humayun_Saeed</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Azfar_Rehman" href="http://dbpedia.org/resource/Azfar_Rehman"><small>dbr</small>:Azfar_Rehman</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Sunita_Marshall" href="http://dbpedia.org/resource/Sunita_Marshall"><small>dbr</small>:Sunita_Marshall</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_programmes_broadcast_by_Zindagi_TV" href="http://dbpedia.org/resource/List_of_programmes_broadcast_by_Zindagi_TV"><small>dbr</small>:List_of_programmes_broadcast_by_Zindagi_TV</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Mahnoor_Baloch" href="http://dbpedia.org/resource/Mahnoor_Baloch"><small>dbr</small>:Mahnoor_Baloch</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_programs_broadcast_by_Hum_Europe" href="http://dbpedia.org/resource/List_of_programs_broadcast_by_Hum_Europe"><small>dbr</small>:List_of_programs_broadcast_by_Hum_Europe</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Azra_Aftab" href="http://dbpedia.org/resource/Azra_Aftab"><small>dbr</small>:Azra_Aftab</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Durdana_Butt" href="http://dbpedia.org/resource/Durdana_Butt"><small>dbr</small>:Durdana_Butt</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2">is <a class="uri" href="http://xmlns.com/foaf/0.1/primaryTopic"><small>foaf:</small>primaryTopic</a>
+ of</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rev="foaf:primaryTopic" resource="http://en.wikipedia.org/wiki/Mohabbat_Rooth_Jaye_Toh" href="http://en.wikipedia.org/wiki/Mohabbat_Rooth_Jaye_Toh"><small>wikipedia-en</small>:Mohabbat_Rooth_Jaye_Toh</a></span></li>
+</ul></td></tr>
+		    </tbody>
+		</table>
+	    </div>
+	</div>
+    </div>
+</section>
+<!-- property-table -->
+
+<!-- footer -->
+<section>
+    <div class="container-xl">
+	<div class="text-center p-4 bg-light">
+	    <a href="https://virtuoso.openlinksw.com/" title="OpenLink Virtuoso"><img class="powered_by" src="/statics/images/virt_power_no_border.png" alt="Powered by OpenLink Virtuoso"></a>&nbsp; &nbsp;
+	    <a href="http://linkeddata.org/"><img alt="This material is Open Knowledge" src="/statics/images/LoDLogo.gif"></a> &nbsp; &nbsp;
+	    <a href="http://dbpedia.org/sparql"><img alt="W3C Semantic Web Technology" src="/statics/images/sw-sparql-blue.png"></a> &nbsp;  &nbsp;
+	    <a href="https://opendefinition.org/"><img alt="This material is Open Knowledge" src="/statics/images/od_80x15_red_green.png"></a>&nbsp; &nbsp;
+	    <span style="display:none;" about="" resource="http://www.w3.org/TR/rdfa-syntax" rel="dc:conformsTo">
+		<a href="https://validator.w3.org/check?uri=referer">
+		    <img src="https://www.w3.org/Icons/valid-xhtml-rdfa" alt="Valid XHTML + RDFa">
+		</a>
+	    </span>
+	    <br>
+	    <small class="text-muted">
+		This content was extracted from <a href="http://en.wikipedia.org/wiki/Mohabbat_Rooth_Jaye_Toh">Wikipedia</a> and is licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>
+
+	    </small>
+	</div>
+    </div>
+</section>
+<!-- #footer -->
+
+<!-- scripts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/js/bootstrap.bundle.min.js" integrity="sha512-pax4MlgXjHEPfCwcJLQhigY7+N8rt6bVvWLFyUMuxShv170X53TRzGPmPkZmGBhk+jikR8WBM4yl7A9WMHHqvg==" crossorigin="anonymous">
+    </script>
+
+
+</body></html>

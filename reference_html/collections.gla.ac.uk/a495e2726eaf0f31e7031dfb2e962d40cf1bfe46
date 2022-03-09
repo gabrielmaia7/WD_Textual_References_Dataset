@@ -1,0 +1,180 @@
+<html lang="en" ng-app="main" class="ng-scope"><head><style type="text/css">[uib-typeahead-popup].dropdown-menu{display:block;}</style><style type="text/css">.uib-time input{width:50px;}</style><style type="text/css">[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow,[uib-popover-html-popup].popover.top-left > .arrow,[uib-popover-html-popup].popover.top-right > .arrow,[uib-popover-html-popup].popover.bottom-left > .arrow,[uib-popover-html-popup].popover.bottom-right > .arrow,[uib-popover-html-popup].popover.left-top > .arrow,[uib-popover-html-popup].popover.left-bottom > .arrow,[uib-popover-html-popup].popover.right-top > .arrow,[uib-popover-html-popup].popover.right-bottom > .arrow,[uib-popover-template-popup].popover.top-left > .arrow,[uib-popover-template-popup].popover.top-right > .arrow,[uib-popover-template-popup].popover.bottom-left > .arrow,[uib-popover-template-popup].popover.bottom-right > .arrow,[uib-popover-template-popup].popover.left-top > .arrow,[uib-popover-template-popup].popover.left-bottom > .arrow,[uib-popover-template-popup].popover.right-top > .arrow,[uib-popover-template-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-html-popup].popover,[uib-popover-template-popup].popover{display:block !important;}</style><style type="text/css">.uib-datepicker-popup.dropdown-menu{display:block;float:none;margin:0;}.uib-button-bar{padding:10px 9px 2px;}</style><style type="text/css">.uib-position-measure{display:block !important;visibility:hidden !important;position:absolute !important;top:-9999px !important;left:-9999px !important;}.uib-position-scrollbar-measure{position:absolute !important;top:-9999px !important;width:50px !important;height:50px !important;overflow:scroll !important;}.uib-position-body-scrollbar-measure{overflow:scroll !important;}</style><style type="text/css">.uib-datepicker .uib-title{width:100%;}.uib-day button,.uib-month button,.uib-year button{min-width:100%;}.uib-left,.uib-right{width:100%}</style><style type="text/css">.ng-animate.item:not(.left):not(.right){-webkit-transition:0s ease-in-out left;transition:0s ease-in-out left}</style><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style>
+		<title class="ng-binding">University Collectionspagetitles.search </title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta http-equiv="X-UA-Compatible" content="IE=11">
+		<link rel="icon" type="image/ico" href="images/favicon.ico">
+		<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
+		<link rel="stylesheet" href="css/bootstrap.min.css">
+		<link rel="stylesheet" href="config/base.css">
+		<link rel="stylesheet" href="config/customer.css">
+		<link rel="icon" type="image/ico" href="images/favicon.ico">
+		<script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="scripts/External/jquery.min.js"></script>
+		<script type="text/javascript" src="scripts/External/angular.min.js"></script>
+		<script type="text/javascript" src="scripts/External/angular-route.min.js"></script>
+		<script type="text/javascript" src="scripts/External/angular-animate.min.js"></script>
+		<script type="text/javascript" src="scripts/External/angular-touch.min.js"></script>
+		<script type="text/javascript" src="scripts/External/ng-infinite-scroll.min.js"></script>
+		<script type="text/javascript" src="scripts/External/angular-ui-router.min.js"></script>
+		<script type="text/javascript" src="scripts/External/ng-order-object-by.js"></script>
+		<script type="text/javascript" src="scripts/External/bootstrap.min.js"></script>
+		<script type="text/javascript" src="scripts/External/ui-bootstrap-tpls-1.3.3.min.js"></script>
+		<script type="text/javascript" src="scripts/External/angular-translate.min.js"></script>
+		<script type="text/javascript" src="scripts/External/angular-translate-loader-static-files.min.js"></script>
+		<script type="text/javascript" src="scripts/External/angular-sanitize.min.js"></script>
+		<script type="text/javascript" src="scripts/main-1.0.1.js"></script>
+		<script type="text/javascript" src="scripts/routes-1.0.0.js"></script>
+		<script type="text/javascript" src="scripts/search-1.0.5.js"></script>
+		<script type="text/javascript" src="scripts/details-1.0.1.js"></script>
+		<script type="text/javascript" src="scripts/narratives-1.0.0.js"></script>
+		<script type="text/javascript" src="scripts/menu-items-1.0.0.js"></script>
+		<script type="text/javascript" src="scripts/search-fields-1.0.7.js"></script>
+		<script type="text/javascript" src="scripts/search-service-1.0.2.js"></script>
+		<script type="text/javascript" src="scripts/config-service-1.0.0.js"></script>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function()
+			{ (i[r].q=i[r].q||[]).push(arguments)}
+			,i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-125724807-1', 'auto');
+			ga('send', 'pageview');
+		</script>
+	</head>
+	
+	<body ng-controller="PageController" class="ng-scope">	
+		<!-- Header section -->
+		<header>
+			<!-- ngInclude: 'views/header.html' --><div ng-include="'views/header.html'" class="page-header ng-scope" style="">
+<div id="university-logo" class="ng-scope">
+	<a href="https://www.gla.ac.uk/"><img src="images/university-of-glasgow-min.png"></a>
+</div></div>
+		</header>
+		
+		<a id="top"></a>
+		
+		<!-- Navbar section -->
+		<!-- ngInclude:  --><ng-include src="'views/Templates/menu.html'" class="ng-scope" style=""><nav ng-show="menuItems" class="navbar navbar-inverse ng-scope" ng-controller="MenuItemController" style="">		
+	<div class="navbar-header">
+		<a href="#advancedsearch" class="visible-xs"><h2>University Collections</h2></a>
+		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span> 
+		</button>
+	</div>	
+	<div class="collapse navbar-collapse" id="myNavbar">
+		<ul class="nav navbar-nav hidden-xs navbar-logo">
+			<li><a href="#advancedsearch"><h2>University Collections</h2></a></li>
+		</ul>
+		<ul class="nav navbar-nav navbar-right hidden-xs">
+			<!-- ngRepeat: menu in menuItems --><li ng-repeat="menu in menuItems" ng-class="{active: isActive('/advancedsearch')}" class="ng-scope" style=""><a href="#advancedsearch" data-toggle="collapse" data-target="#advancedsearch.in" translate="menuitems.AdvancedSearch" class="ng-scope">Search the collections</a></li><!-- end ngRepeat: menu in menuItems -->
+		</ul>
+		<!-- ngRepeat: menu in menuItems --><ul class="nav navbar-nav visible-xs ng-scope" ng-repeat="menu in menuItems" style="">
+			<!-- ngRepeat: menu in menuItems --><li ng-repeat="menu in menuItems" ng-class="{active: isActive('/advancedsearch')}" class="ng-scope"><a href="#advancedsearch" data-toggle="collapse" data-target="#myNavbar, #advancedsearch.in" translate="menuitems.AdvancedSearch" class="ng-scope">Search the collections</a></li><!-- end ngRepeat: menu in menuItems -->					
+		</ul><!-- end ngRepeat: menu in menuItems -->
+	</div>
+</nav>
+</ng-include>
+				
+		<!-- Content section -->
+		<div class="container-fluid" id="content">	
+			<!-- ngView:  --><div ng-view="" class="ng-scope" style=""><div id="listoptions" class="ng-scope">
+	<button type="button" class="btn btn-default btn-sm active" ng-class="{active:view==='listView'}" ng-click="changeView('listView')" style=""><span class="glyphicon glyphicon-th-list"></span></button>
+	<button type="button" class="btn btn-default btn-sm" ng-class="{active:view==='galleryView'}" ng-click="changeView('galleryView')"><span class="glyphicon glyphicon-th-large"></span></button>	
+</div>
+<h2 class="results-heading ng-scope">
+	<!-- ngIf: searchsummary() !== '' --><span ng-if="searchsummary() !== ''" translate="searchlabels.SearchResults" class="ng-scope">Search Results for: </span><!-- end ngIf: searchsummary() !== '' -->
+	<!-- ngIf: searchsummary() !== '' --><span ng-if="searchsummary() !== ''" ng-bind="searchsummary()" class="ng-binding ng-scope">Item Number contains 'GLAHA:44007'</span><!-- end ngIf: searchsummary() !== '' -->
+</h2>
+
+<div class="catalogue-search ng-scope">
+	<!-- ngIf: !(resultData[module] | isEmpty) --><div ng-show="!loading" ng-if="!(resultData[module] | isEmpty)" class="ng-scope" style="">
+		<!-- ngIf: view==='listView' --><div class="results ng-scope" ng-if="view==='listView'">
+			<div infinite-scroll="fetchMoreResults()" infinite-scroll-distance="1" infinite-scroll-disabled="moreResultsLength === 0">
+				<!-- ngRepeat: result in resultData[module] track by $index --><!-- ngIf: !(result | isEmpty) --><div class="row result ng-scope" ng-repeat="result in resultData[module] track by $index" ng-if="!(result | isEmpty)" ng-switch="" on="module">
+					<!-- ngSwitchWhen: enarratives -->
+					<!-- ngSwitchDefault:  --><a href="#details/ecatalogue/34601" ng-click="selectedRecord($index)" ng-switch-default="" class="ng-scope">
+						<div ng-init="images=(result.multimedia | filter: {MulMimeType: 'image'})" ng-show="images.length > 0" class="resultimage col-xs-3 col-sm-2">					
+							<!-- ngIf: images[0].irn && (images[0].format==='tiff' || images[0].format==='tif') --><img ng-if="images[0].irn &amp;&amp; (images[0].format==='tiff' || images[0].format==='tif')" ng-src="php/request.php?request=Multimedia&amp;method=fetch&amp;key=73161&amp;filter=width:bf:384;mimeFormat:eq:jpeg" alt="GLAHA:44007, &quot;Sheep Fanks&quot;, Pirie, Sir George, 1880 - 1946, painting, oil on canvas" onerror="this.src='images/imagemissing.jpg'" class="ng-scope" src="php/request.php?request=Multimedia&amp;method=fetch&amp;key=73161&amp;filter=width:bf:384;mimeFormat:eq:jpeg"><!-- end ngIf: images[0].irn && (images[0].format==='tiff' || images[0].format==='tif') -->
+							<!-- ngIf: images[0].irn && (images[0].format!=='tiff' && images[0].format!=='tif') -->
+						</div>
+						<!-- ngIf: (images | isEmpty) -->
+						<div class="resultcontent col-xs-9 col-sm-10">
+							<div>
+								<!-- ngIf: result.SummaryData --><span ng-if="result.SummaryData" ng-bind-html="result.SummaryData | convertHtmlTags" class="ng-binding ng-scope">GLAHA:44007, "Sheep Fanks", Pirie, Sir George, 1880 - 1946, painting, oil on canvas</span><!-- end ngIf: result.SummaryData -->
+							</div>
+						</div>
+					</a><!-- end ngSwitchWhen:  -->
+				</div><!-- end ngIf: !(result | isEmpty) --><!-- end ngRepeat: result in resultData[module] track by $index --><!-- ngIf: !(result | isEmpty) --><!-- end ngRepeat: result in resultData[module] track by $index -->
+			</div>
+			<div class="loading ng-hide" ng-show="loadingmore" style="">
+				<img src="images/spinner.gif">
+			</div>
+		</div><!-- end ngIf: view==='listView' -->
+		
+		<!-- ngIf: view==='galleryView' -->		
+	</div><!-- end ngIf: !(resultData[module] | isEmpty) -->
+	<div class="loading">
+		<img src="images/spinner.gif" ng-show="loading" class="ng-hide" style="">
+		<div>
+			<!-- ngIf: ((resultData | isEmpty) && (resultData[module] | isEmpty)) && loading===false -->
+		</div>
+	</div>
+</div>
+</div>
+		</div> 
+		
+		<!-- Footer section -->
+		<!-- ngInclude:  --><ng-include src="'views/footer.html'" class="ng-scope" style=""><footer class="container-fluid ng-scope">
+	<button id="backtotop" ng-click="goToAnchor(top)">Back to top</button>
+	<div id="footerNav" class="row">
+		<div class="col-lg-3 col-sm-4 col-xs-12">
+      <p><a href="https://www.gla.ac.uk/" target="_blank"><img src="images/marque.svg" style="height:60px; width:auto" alt="University of Glasgow">
+      </a></p>
+			<ul class="social list-inline">
+				<li class="facebook">
+					<a href="https://www.facebook.com/HunterianGlasgow/" target="_blank"><img src="images/fb.svg" alt="Facebook"></a>
+				</li>
+				<li class="twitter">
+					<a href="https://twitter.com/hunterian" target="_blank"><img src="images/tw.svg" alt="Twitter"></a>
+				</li>
+				<li class="instagram">
+					<a href="https://www.instagram.com/hunterianglasgow/" target="_blank"><img src="images/inst.svg" alt="Instagram"></a>
+				</li>
+			</ul>
+      <p>The University of Glasgow is a registered Scottish charity: Registration Number SC004401</p>
+		</div>
+		<div class="col-lg-4 col-sm-4 col-xs-12">
+      <h2><a href="https://www.gla.ac.uk/hunterian" target="_blank">The Hunterian</a></h2>
+      <ul>
+        <li class="email-address"><a href="mailto:hunterian-collections@glasgow.ac.uk">Contact us</a></li>
+      </ul>
+    	<h2><a href="https://www.gla.ac.uk/myglasgow/archivespecialcollections/" target="_blank">	Archives &amp; Special Collections </a></h2>
+      <ul>
+        <li class="email-address"><a href="mailto:library-asc@glasgow.ac.uk">Contact us</a></li>
+      </ul>
+      <!-- navigation object : xk Additional footer content -->
+			<div id="additional_footer">
+				<style>
+					.datetime{display:none!important}
+				</style>
+			</div>
+		</div>
+		<div class="col-lg-4 col-sm-4 col-xs-12">
+			<h2>Legal</h2>
+			<ul>
+        <li><a href="http://www.gla.ac.uk/about/accessibility/" target="_blank">Accessibility</a></li>
+        <li><a href="http://www.gla.ac.uk/legal/disclaimer/" target="_blank">Disclaimer</a></li>
+        <li><a href="http://www.gla.ac.uk/foi/" target="_blank">Freedom of information</a></li>
+        <li><a href="http://www.gla.ac.uk/legal/freedomofinformation/foipublicationscheme/" target="_blank">FOI publication scheme</a></li>
+        <li><a href="http://www.gla.ac.uk/services/procurementoffice/modernslaveryact2015statement/" target="_blank">Modern Slavery Statement</a></li>
+        <li><a href="http://www.gla.ac.uk/legal/privacy/" target="_blank">Privacy and cookies</a></li>
+        <li><a href="http://www.gla.ac.uk/legal/copyright/" target="_blank">© UofG</a></li>
+      </ul>
+		</div>
+	</div>
+</footer>
+</ng-include></body></html>

@@ -1,0 +1,262 @@
+<html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths" lang="en"><head> 
+    <meta charset="utf-8">
+    <title>SFE: Electric Wine</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="description" content="Welcome to the fourth edition of The Encyclopedia of Science Fiction.">
+    <meta name="keywords" content="">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+<!-- Google Analytics -->
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga("create", "UA-24275979-1", "auto");
+ga("send", "pageview");
+</script>
+<script async="" src="https://www.google-analytics.com/analytics.js"></script>
+<!-- End Google Analytics -->
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" href="apple-touch-icon.png">
+    <link rel="stylesheet" href="/static/css/style.css?v=1">
+    <link rel="stylesheet" href="/static/css/media-queries.css">
+    <link rel="stylesheet" href="/css/cookie.css">
+    <script src="/static/js/libs/modernizr-2.0.6.min.js"></script>
+
+	<style media="screen" type="text/css">
+
+   ::-moz-selection {
+    background: navy !important;
+   }
+
+
+	html,
+	body {
+		margin:0;
+		padding:0;
+		height:100%;
+	}
+	#container {
+		min-height:100%;
+		position:relative;
+	}
+	#header {
+		background:#ff0;
+		padding:10px;
+	}
+	#body {
+		padding-bottom:15px;	/* Height of the footer */
+	}
+	#footer {
+		position:absolute;
+		bottom:0;
+		width:100%;
+		height:15px;			/* Height of the footer */
+		background:#6cf;
+	}
+	</style>
+	<!--[if lt IE 7]>
+	<style media="screen" type="text/css">
+	#container {
+		height:100%;
+	}
+	</style>
+	<![endif]-->
+   
+  <script charset="utf-8" src="https://platform.twitter.com/js/button.1c2a6e168692ffea6cc8d4efc5b6f6bc.js"></script></head>
+  <body style="overflow-x: hidden;">
+
+  <div id="container">
+  <div id="body">
+
+  <div id="minorNavWrapper">
+   <nav id="minornav" class="clearfix">
+    <ul class="clearfix" style="font-weight: bold;">
+     <li><a href="/">Home</a></li>
+     <li><a href="/about-us">About us</a></li>
+     <li><a href="/random.php">Random</a></li>
+     <li><a href="/contact.php">Contact</a></li>
+     <li><a href="/donate.php">Donate</a></li>
+    </ul>
+   </nav>
+  </div>
+  <div id="mainNavWrapper">
+   <nav id="mainnav">
+    <ul class="clearfix">
+     <li class="home"><a title="Home page" href="https://sf-encyclopedia.com/"><img id="sfeLogoSmall" src="/static/img/sfe.png" alt="SFE: The Encyclopedia of Science Fiction"><img id="sfeLogo" src="/static/img/logo.png" alt="SFE: The Encyclopedia of Science Fiction"></a><span class="logoArrow"></span></li>
+
+     <li class="section-all"><a href="https://sf-encyclopedia.com/category/0">All entries</a></li>
+     <li class="section-themes"><a href="https://sf-encyclopedia.com/category/theme">Themes</a></li>
+     <li class="section-authors"><a href="https://sf-encyclopedia.com/category/everyone">People</a></li>
+     <li class="section-media"><a href="https://sf-encyclopedia.com/category/media">Media</a></li>
+     <li class="section-culture"><a href="https://sf-encyclopedia.com/category/culture">Culture</a></li>
+     <li class="section-news"><a href="https://sf-encyclopedia.com/news/">News</a></li>
+    </ul>
+   </nav>
+  </div>
+
+  <div id="main">
+   <div class="colsWrapper clearfix">
+   <div class="column mainCol clearfix" style="background-color:white !important;">
+
+    
+ <fieldset id="globalSearch">
+  <form name="srchenter" method="post" action="/search.php">
+   <select name="catfilter" class="searchFilter" style="width: 122px">
+    <option value="">All entries</option>
+  <option value="chk">Checklist titles</option><option value="art">Art</option>
+  <option value="author">Author</option>
+  <option value="award">Award</option>
+  <option value="character">Character</option>
+  <option value="comics">Comics</option>
+  <option value="community">Community</option>
+  <option value="critic">Critic</option>
+  <option value="editor">Editor</option>
+  <option value="fan">Fan</option>
+  <option value="film">Film</option>
+  <option value="game">Game</option>
+  <option value="house name">House Name</option>
+  <option value="international">International</option>
+  <option value="music">Music</option>
+  <option value="people">People (media)</option>
+  <option value="prelim">Prelim</option>
+  <option value="publication">Publication</option>
+  <option value="radio">Radio</option>
+  <option value="theme">Theme</option>
+  <option value="tv">TV</option>
+  
+   </select>
+   <input name="search" type="text" value="" style="margin: 0 0 5px 0; width: 165px !important;" onfocus="this.select()" onclick="this.select()" onhover="this.select()" class="searchText" id="defaultOpen">&nbsp;
+   <input type="submit" value="Headwords" class="button primary" style="margin: 5px 0 0 0;; padding-left: 8px; padding-right: 8px">&nbsp;
+   <input type="submit" name="glob" value="Global search" class="button primary" style="margin: 5px 0 0 0; padding-left: 8px; padding-right: 8px">
+   <input type="text" name="eofmode" value="" hidden="">
+<div style="display:none;">
+  <p style="margin: 0px; float: left;"><input type="radio" name="tomeselect" value="sfe" checked=""> <i>Search SFE</i>
+   &nbsp;&nbsp;<input type="radio" name="tomeselect" value="eof"> <i>Search EoF</i></p>
+  <p style="margin: 0px; float: right;">
+  <input type="checkbox" name="noxref">&nbsp; <i>Omit cross-reference entries</i>
+ &nbsp;</p>
+ <script>
+  document.srchenter.search.focus();
+  document.addEventListener("keydown", function(event) {
+   if (event.code == "PageDown" || event.code == "ArrowDown" || ( !event.getModifierState("NumLock") && (event.code == "Numpad2" || event.code == "Numpad3"))) {
+    document.srchenter.search.blur();
+   }
+  })
+ </script>
+ </div>
+ </form>
+ </fieldset>
+
+                
+    <article class="entryArticle content STeditorial">
+
+	<header class="entryHeader icon-publication">
+     <h1 class="entryTitle">Electric Wine
+     </h1>
+    </header><p class="tagLine">Entry updated 6 August 2018. Tagged: Publication.</p><div class="browsingBtns">
+           <span>
+            <input class="button PNI previous" type="button" onclick="window.location.href='/next.php?id=p&amp;entry=electric_wine'" value="Prev">
+        </span>
+        <span>
+            <input class="button PNI next" type="button" onclick="window.location.href='/next.php?&amp;entry=electric_wine'" value="Next">
+        </span>
+        <span>
+            <input class="button PNI incoming" type="button" onclick="window.location.href='/incoming.php?entry=electric_wine'" value="About This Entry" title="What links to the entry; contributor initials explained; how to cite; other information">
+        </span>
+
+  </div>
+
+<p>US <a href="/entry/online_magazines">Online Magazine</a> published by Diana L Sharples and James E M Rasmussen of Marietta, Georgia. It ran for twelve bimonthly issues between November 1999 (it actually went live on Hallowe'en) and October 2001. It is one of a number of low-paying quasi-<a href="/entry/semiprozine">Semiprozines</a> that experimented with online publication in the late 1990s and of which virtually nothing now survives bar a few scattered fragments in various archives. It ran both poetry and fiction, a mixture of science fiction, fantasy and horror, plus reviews and occasional articles. A proportion of its contents were reprints from various sources, most notably Michael <a href="/entry/bishop_michael">Bishop</a>'s "The House of Compassionate Sharers" (July/August/September 2000; from <a href="/entry/cosmos_science_fiction_and_fantasy_magazine">Cosmos Science Fiction and Fantasy Magazine</a> May 1977) but it ran much original material only some of which has resurfaced elsewhere, as much is lost. Contributors included Gregory Frost, Trent Jamieson, Michael Chesley Johnson, Tim <a href="/entry/pratt_tim">Pratt</a>, Ken Rand and Connie Wilkins. [MA]</p>
+
+<p><b>previous versions of this entry</b></p>
+   <ul><li><a href="https://web.archive.org/web/*/http://www.sf-encyclopedia.com/entry/electric_wine" target="_blank">Internet Archive</a></li></ul><br><br></article></div>
+        <div class="sideBarsWrapper">
+         <div class="sideBarsColsWrapper clearfix">
+          <div class="column sideBar12 clearfix">
+           <div class="columnForm"><aside id="blogFeed" class="widget">
+         <div class="content STeditorial clearfix">
+          <h2>Recently visited entries<span style="background:url(/images/thingSFE2.png) !important"></span></h2><ul style="width: 50%; float: left;">
+   
+  </ul>
+<p align="center" style="float:right; padding-top:20px; padding-bottom:20px;">
+     <a href="/facts.php?id=logo">
+     <img src="/images/VitMan.gif" width="150" height="150" title="Click for larger version of this SFE logo"></a><br>
+    <b><a href="/">Home/Welcome page</a></b></p><div style="margin-bottom:10px;"></div></div>
+         </aside><aside id="blogFeed" class="widget">
+         <div class="content STeditorial clearfix">
+          <h2><i>SFE</i> Special Features<span></span></h2><p style="margin-top: 10px;"><input type="button" value="What's New" style="width: 150px !important;" class="button primary" onclick="window.location.href='/whatsnew.php'">&nbsp; Show the latest entries</p>
+   <p style="line-height:1.6em;"><input type="button" value="In Memoriam" style="width: 150px !important;" class="button primary" onclick="window.location.href='/timeline.php?rip'">&nbsp; Recent deaths</p>
+   <p style="line-height:1.6em;"><input type="button" value="On This Day" style="width: 150px !important;" class="button primary" onclick="window.location.href='/today.php'">&nbsp; Anniversaries; also <a href="/timeline.php">Timeline</a></p>
+   <p style="line-height:1.6em;"><input type="button" value="Gallery" style="width: 150px !important;" class="button primary" onclick="window.location.href='/gallery.php'">&nbsp; <i>SFE</i> Picture Gallery; <a href="/gallery.php?list&amp;new">What's New</a></p>
+   <p style="line-height:1.6em;"><input type="button" value="Shopping" style="width: 150px !important;" class="button primary" onclick="window.location.href='/sfeshop.php'">&nbsp; Affiliate settings</p>
+   <p style="line-height:1.6em;"><input type="button" value="Random" style="width: 150px !important;" class="button primary" onclick="window.location.href='/random.php'">&nbsp; Show a random <i>SFE</i> entry</p>                <p style="line-height:1.6em;"><input type="button" value="SFE Facts" style="width: 150px !important;" class="button primary" onclick="window.location.href='/facts.php'">&nbsp; Editors' home page</p>
+   <p style="line-height:1.6em;"><input type="button" value="Entry Data" style="width: 150px !important;" class="button primary" onclick="window.location.href='https://sf-encyclopedia.com/incoming.php?entry=electric_wine'">&nbsp; Incoming links, who wrote it, etc</p>
+<p style="margin-bottom:15px;"><a href="/searching">Search help</a> | <a href="/rss.php" target="_blank">RSS feed</a> <img src="/static/img/external.gif"> | <a href="/fe/"><i>Encyclopedia of Fantasy</i></a>  <img src="/static/img/external.gif"></p><div style="margin-bottom:10px;"></div></div>
+         </aside><aside id="connect" class="widget">
+	<div class="content STeditorial clearfix">
+		<h2>Connect with <i>SFE</i> <span></span></h2>
+		<ul>
+		 <li>
+           <h3 style="text-align: left !important;"><a href="/donate.php">Donate towards <i>SFE</i> expenses</a></h3>
+		 </li>
+		 <li>
+           <h3 style="text-align: left !important;"><a href="/contact.php">Send email feedback to the <i>SFE</i> editors</a></h3>
+		 </li>
+		 <li>
+		  <h3 style="text-align: left !important;"><a href="https://twitter.com/#!/john_clute" target="_blank">John Clute on Twitter</a></h3>
+	       <iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="twitter-follow-button twitter-follow-button-rendered" style="position: static; visibility: visible; width: 250px; height: 20px;" title="Twitter Follow Button" src="https://platform.twitter.com/widgets/follow_button.a58e82e150afc25eb5372dd55a98b778.en.html#dnt=false&amp;id=twitter-widget-0&amp;lang=en&amp;screen_name=john_clute&amp;show_count=true&amp;show_screen_name=true&amp;size=m&amp;time=1646741908336" data-screen-name="john_clute"></iframe>
+		  <script src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+		 </li>
+		 <li>
+		  <h3 style="text-align: left !important;"><a href="https://twitter.com/#!/sfencyclopedia" target="_blank"><i>SFE</i> on Twitter</a></h3>
+				<iframe id="twitter-widget-1" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="twitter-follow-button twitter-follow-button-rendered" style="position: static; visibility: visible; width: 275px; height: 20px;" title="Twitter Follow Button" src="https://platform.twitter.com/widgets/follow_button.a58e82e150afc25eb5372dd55a98b778.en.html#dnt=false&amp;id=twitter-widget-1&amp;lang=en&amp;screen_name=sfencyclopedia&amp;show_count=true&amp;show_screen_name=true&amp;size=m&amp;time=1646741908337" data-screen-name="sfencyclopedia"></iframe>
+				<script src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+		 </li>
+		 <li>
+		  <h3 style="text-align: left !important;"><a href="https://www.facebook.com/pages/Sf-Encyclopedia/138995776178949" target="_blank"><i>SFE</i> on Facebook</a></h3>
+				<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsf-encyclopedia.com%2F&amp;send=false&amp;layout=standard&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=40" frameborder="0" style="border:none; overflow:hidden; width:auto; height:40px;"></iframe>
+		 </li>			
+		</ul>
+	</div>
+</aside>
+     </div></div>
+         </div>                  
+        </div>
+       </div>                  
+      </div>
+
+     </div>
+
+<div id="cookieConsent" style="display: block;">
+    <div id="closeCookieConsent" onclick="hidepopup()">x</div>
+    This website uses cookies. &nbsp;<a href="/cookies" target="_blank">More information here</a>. <a class="cookieConsentOK" onclick="setcookie()">Accept Cookies</a>
+</div>
+
+<script type="text/javascript">
+ function hidepopup() {
+  document.cookie = "hidecookiepopup=yes; path=/"; // session only
+  document.getElementById("cookieConsent").style.display = "none";
+ }
+ function setcookie() {
+  document.cookie = "cookiesOK=yes; max-age=31536000; path=/"; // 1 year
+  document.getElementById("cookieConsent").style.display = "none";
+ }
+ var cookiestring = document.cookie;
+// document.getElementById("connect").innerHTML = cookiestring; // TEST only
+ if ( cookiestring.indexOf("cookiesOK=yes") == -1 ) {
+  if ( cookiestring.indexOf("hidecookiepopup=yes") == -1 ) {
+   document.getElementById("cookieConsent").style.display = "block";
+  }
+ }
+</script>
+
+      <div id="footer" style="background:#fff; padding: 5px;">
+       <footer id="globalFooter" class="clearfix">
+        <div id="credit">Website design based on 2011 version by <strong>
+          STEEL</strong>
+        </div>
+        <div id="credit" style="float: left !important; padding-left:20px;">Site and SFE content © 2011-2022 <b>SFE Ltd</b>.</div>
+       </footer>
+      </div>
+     </div>
+
+    <iframe scrolling="no" frameborder="0" allowtransparency="true" src="https://platform.twitter.com/widgets/widget_iframe.a58e82e150afc25eb5372dd55a98b778.html?origin=https%3A%2F%2Fsf-encyclopedia.com" title="Twitter settings iframe" style="display: none;"></iframe><iframe id="rufous-sandbox" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: none;" title="Twitter analytics iframe"></iframe></body></html>

@@ -1,0 +1,220 @@
+<html lang="en-us"><head>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+<link rel="shortcut icon" href="http://www.isfdb.org/favicon.ico">
+<title>Summary Bibliography: Martin Berman-Gorvine</title>
+<link href="http://www.isfdb.org/biblio.css" rel="stylesheet" type="text/css" media="screen">
+</head>
+<body>
+<div id="wrap">
+<a class="topbanner" href="http://www.isfdb.org/cgi-bin/index.cgi">
+<span>
+<img src="http://www.isfdb.org/IsfdbBanner3.jpg" alt="ISFDB banner">
+</span>
+</a>
+<div id="statusbar">
+<h2>Summary Bibliography: Martin Berman-Gorvine</h2>
+<script type="text/javascript" src="http://www.isfdb.org/isfdb_main.js"></script>
+<h3>You are not logged in. If you
+ <a href="http://www.isfdb.org/wiki/index.php?title=Special:Userlogin&amp;type=signup">
+<span class="newuser">create a free account</span></a>
+ and sign in, you will be able to customize what is displayed.</h3>
+</div>
+<div id="nav">
+<div id="search">
+<a href="http://www.isfdb.org/cgi-bin/index.cgi">
+<img src="http://www.isfdb.org/isfdb.gif" width="130" height="77" alt="ISFDB logo">
+</a>
+Search the database
+<form method="get" action="http://www.isfdb.org/cgi-bin/se.cgi" name="searchform" id="searchform">
+<p>
+<input name="arg" id="searchform_arg" class="search" value="">
+<select name="type" class="search">
+<option>Name</option>
+<option>Fiction Titles</option>
+<option>All Titles</option>
+<option>Year of Title</option>
+<option>Month of Title</option>
+<option>Month of Publication</option>
+<option>Series</option>
+<option>Publication Series</option>
+<option>Magazine</option>
+<option>Publisher</option>
+<option>ISBN</option>
+<option>Tag</option>
+<option>Award</option>
+</select>
+<input value="Go" type="submit">
+</p></form>
+<p class="bottomlinks">
+<a class="inverted" href="http://www.isfdb.org/cgi-bin/adv_search_menu.cgi" dir="ltr">Advanced Search</a>
+</p></div>
+<div class="divider">
+Not Logged In
+</div>
+<ul class="navbar">
+<li><a href="http://www.isfdb.org/cgi-bin/dologin.cgi?ea.cgi+168845" dir="ltr">Log In</a>
+</li><li><a href="http://www.isfdb.org/wiki/index.php/Help:Navigation_Bar">Help Navigating</a>
+</li></ul>
+<div class="divider">
+Other Pages:
+</div>
+<ul class="navbar">
+<li><a href="http://www.isfdb.org/cgi-bin/index.cgi" dir="ltr">Home Page</a>
+</li><li><a href="http://www.isfdb.org/wiki/index.php/Main_Page">ISFDB Wiki</a>
+</li><li><a href="http://www.isfdb.org/wiki/index.php/ISFDB:FAQ">ISFDB FAQ</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/calendar_menu.cgi" dir="ltr">SF Calendar</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/directory.cgi?author" dir="ltr">Author Directory</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/award_directory.cgi" dir="ltr">Award Directory</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/directory.cgi?publisher" dir="ltr">Publisher Directory</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/directory.cgi?magazine" dir="ltr">Magazine Directory</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/stats-and-tops.cgi" dir="ltr">Statistics/Top Lists</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/recent_activity_menu.cgi" dir="ltr">Recent Activity</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/edit/cleanup.cgi" dir="ltr">Cleanup Reports</a>
+</li></ul>
+<div class="divider">
+Editing Tools:
+</div>
+<ul class="navbar">
+<li><a href="http://www.isfdb.org/cgi-bin/edit/editauth.cgi?168845" dir="ltr">Edit Author Data</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/edit/mkpseudo.cgi?168845" dir="ltr">Make/Remove Alternate Name</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/adv_search_results.cgi?START=0&amp;TYPE=Title&amp;USE_1=author_canonical&amp;O_1=exact&amp;TERM_1=Martin%20Berman-Gorvine&amp;ORDERBY=title_title&amp;C=AND">Show All Titles</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/edit/find_dups.cgi?168845" dir="ltr">Check for Duplicate Titles</a>
+</li></ul>
+<div class="divider">
+Add New Data:
+</div>
+<ul class="navbar">
+<li><a href="http://www.isfdb.org/cgi-bin/edit/newpub.cgi?Anthology" dir="ltr">Add New Anthology</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/edit/newpub.cgi?Chapbook" dir="ltr">Add New Chapbook</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/edit/newpub.cgi?Collection" dir="ltr">Add New Collection</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/edit/newpub.cgi?Fanzine" dir="ltr">Add New Fanzine</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/edit/newpub.cgi?Magazine" dir="ltr">Add New Magazine</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/edit/newpub.cgi?Nonfiction" dir="ltr">Add New Nonfiction</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/edit/newpub.cgi?Novel" dir="ltr">Add New Novel</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/edit/newpub.cgi?Omnibus" dir="ltr">Add New Omnibus</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/edit/select_award_type.cgi?0" dir="ltr">Add Untitled Award</a>
+</li></ul>
+<div class="divider">
+Policies:
+</div>
+<ul class="navbar">
+<li><a href="http://www.isfdb.org/wiki/index.php/ISFDB:General_disclaimer">Disclaimer</a>
+</li><li><a href="http://www.isfdb.org/wiki/index.php/ISFDB:Privacy_policy">Privacy Policy</a>
+</li><li><a href="http://www.isfdb.org/wiki/index.php/Banner_Art_Credits">Banner Art Credits</a>
+</li></ul>
+<div class="divider">
+License:
+</div>
+<div id="cclicense">
+<a rel="license" href="https://creativecommons.org/licenses/by/2.0/">
+<img alt="Creative Commons License" src="https://creativecommons.org/images/public/somerights20.gif"></a><br>
+This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/2.0/">Creative Commons License</a>.
+</div>
+</div>
+<div id="content">
+<div class="ContentBox">
+<ul>
+<li><b>Author:</b> Martin Berman-Gorvine
+<span class="recordID"><b>Author Record # </b>168845</span>
+</li><li><b>Birthdate:</b> 1969
+</li><li><b>Language:</b> English
+</li><li><b>Email:</b>
+<a href="mailto:martin@martinbermangorvine.com">martin@martinbermangorvine.com</a>
+</li><li><b>Webpages:</b> <a href="http://martianperspective.blogspot.com/" target="_blank">Blogspot</a>, <a href="http://daysofascension.com/" target="_blank">daysofascension.com</a>, <a href="http://www.martinbermangorvine.com/" target="_blank">martinbermangorvine.com</a>, <a href="http://www.sf-encyclopedia.com/entry/gidron_martin_j" target="_blank">sf-encyclopedia.com</a>, <a href="https://twitter.com/meshuggewriter" target="_blank">Twitter</a>
+</li><li><b>Used These Alternate Names:</b>
+<a href="http://www.isfdb.org/cgi-bin/ea.cgi?217323" dir="ltr">Marty Armon</a>, <a href="http://www.isfdb.org/cgi-bin/ea.cgi?10499" dir="ltr">Martin J. Gidron</a>
+</li><li><b>Author Tags:</b>
+<a href="http://www.isfdb.org/cgi-bin/tag_author.cgi?291+168845" dir="ltr">horror</a> (5), <a href="http://www.isfdb.org/cgi-bin/tag_author.cgi?1+168845" dir="ltr">alternate history</a> (4), <a href="http://www.isfdb.org/cgi-bin/tag_author.cgi?281+168845" dir="ltr">dark fantasy</a> (4), <a href="http://www.isfdb.org/cgi-bin/tag_author.cgi?31+168845" dir="ltr">science fiction</a> (2), <a href="http://www.isfdb.org/cgi-bin/tag_author.cgi?1081+168845" dir="ltr">humorous</a> (2), <a href="http://www.isfdb.org/cgi-bin/tag_author.cgi?121+168845" dir="ltr">space opera</a> (2), <a href="http://www.isfdb.org/cgi-bin/tag_author.cgi?151+168845" dir="ltr">parallel universe</a> (2), <a href="http://www.isfdb.org/cgi-bin/tag_author.cgi?531+168845" dir="ltr">dragons</a> (2), <a href="http://www.isfdb.org/cgi-bin/tag_author.cgi?731+168845" dir="ltr">ghosts</a> (2), <a href="http://www.isfdb.org/cgi-bin/tag_author.cgi?511+168845" dir="ltr">alien invasion</a> (1), <a href="http://www.isfdb.org/cgi-bin/tag_author.cgi?2253+168845" dir="ltr">thriller</a> (1), <a href="http://www.isfdb.org/cgi-bin/tag_author.cgi?3067+168845" dir="ltr">demons</a> (1), <a href="http://www.isfdb.org/cgi-bin/tag_author.cgi?161+168845" dir="ltr">paranormal romance</a> (1)
+</li></ul>
+</div>
+<div class="ContentBox">
+<div class="translationmessage"><b>Showing all translations. <a href="http://www.isfdb.org/cgi-bin/ea.cgi?168845+None" dir="ltr"><button type="button">Never display translations</button></a> Registered users can choose which translations are shown.</b></div>
+<table class="bibliolinks">
+<tbody><tr>
+<td><b>Other views:</b></td>
+<td class="authorbiblios"><b> <a href="http://www.isfdb.org/cgi-bin/eaw.cgi?168845" dir="ltr">Awards</a> <a href="http://www.isfdb.org/cgi-bin/ae.cgi?168845" dir="ltr">Alphabetical</a> <a href="http://www.isfdb.org/cgi-bin/ch.cgi?168845" dir="ltr">Chronological</a></b></td>
+</tr>
+</tbody></table>
+<br>
+<b>Fiction Series</b>
+<ul>
+<li>  <a href="http://www.isfdb.org/cgi-bin/pe.cgi?47075" dir="ltr">Days of Ascension</a>
+<ul>
+<li> 1
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?1947726" dir="ltr"><i>All Souls Day</i></a> (<b>2015</b>)
+</li><li> 2
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2260225" dir="ltr"><i>Day of Vengeance</i></a> (<b>2017</b>)
+</li><li> 3
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2372450" dir="ltr"><i>Day of Atonement</i></a> (<b>2018</b>)
+</li><li> 4
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2710419" dir="ltr"><i>Judgment Day</i></a> (<b>2020</b>)
+</li></ul>
+<br>
+</li><li>  <a href="http://www.isfdb.org/cgi-bin/pe.cgi?46253" dir="ltr">Seven Against Mars</a>
+<ul>
+<li> 1
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?1561812" dir="ltr"><i>Seven Against Mars</i></a> (<b>2013</b>)
+</li><li> 2
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2229754" dir="ltr"><i>Monsters of Venus</i></a> (<b>2017</b>)
+</li></ul>
+<br>
+</li><li>  <a href="http://www.isfdb.org/cgi-bin/pe.cgi?39749" dir="ltr">Ziona</a>
+<ul>
+<li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2372525" dir="ltr"><i>Palestina</i></a> (<b>2006</b>) <b>[SF]</b> 
+ [<b>only as by</b> <a href="http://www.isfdb.org/cgi-bin/ea.cgi?10499" dir="ltr">Martin J. Gidron</a>]
+</li><li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?1880546" dir="ltr"><i>Ziona</i></a> (<b>2014</b>)
+ [<b>only as by</b> <a href="http://www.isfdb.org/cgi-bin/ea.cgi?217323" dir="ltr">Marty Armon</a>]
+</li></ul>
+</li></ul>
+<b>Novels</b>
+<ul>
+<li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2372526" dir="ltr"><i>The Severed Wing</i></a> (<b>2000</b>)
+ [<b>only as by</b> <a href="http://www.isfdb.org/cgi-bin/ea.cgi?10499" dir="ltr">Martin J. Gidron</a>]
+</li><li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?1380587" dir="ltr"><i>36</i></a> (<b>2012</b>)
+</li><li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?1662308" dir="ltr"><i>Save the Dragons</i></a> (<b>2013</b>)
+</li><li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?1880543" dir="ltr"><i>Heroes of Earth</i></a> (<b>2015</b>)
+</li><li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2634864" dir="ltr"><i>Haunted Island</i></a> (<b>2019</b>)
+</li><li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2634867" dir="ltr"><i>Vengeance Is Golden</i></a> (<b>2019</b>)
+</li></ul>
+<b>Collections</b>
+<ul>
+<li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2870319" dir="ltr"><i>The Kosher Kosmonaut's Guide to Mars: Collected Short Stories of Martin Berman-Gorvine 1992 to 2021: Volume 1: 1992 to 2009</i></a> (<b>2021</b>)
+</li><li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2870293" dir="ltr"><i>The Kosher Kosmonaut's Guide to Mars: Collected Short Stories of Martin Berman-Gorvine 1992 to 2021: Volume 2: 2010 to 2021</i></a> (<b>2021</b>)
+</li></ul>
+<b>Chapbooks</b>
+<ul>
+<li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2652262" dir="ltr"><i>Fighting Shadows</i></a> (<b>2019</b>)
+</li><li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2797513" dir="ltr"><i>All the King's Dragons</i></a> (<b>2020</b>)
+</li></ul>
+<b>Short Fiction</b>
+<ul>
+<li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?1995337" dir="ltr"><i>Of Cat's Whiskers and Klutzes</i></a> (<b>2015</b>)
+</li><li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2652263" dir="ltr"><i>Fighting Shadows</i></a> (<b>2019</b>)
+</li><li>
+ <a href="http://www.isfdb.org/cgi-bin/title.cgi?2797514" dir="ltr"><i>All the King's Dragons</i></a> (<b>2020</b>)
+</li></ul>
+</div>
+</div>
+<div id="bottom">
+Copyright © 1995-2022 Al von Ruff and the ISFDB team
+<br>
+<b>ISFDB Engine</b> - Version 4.00 (2006-04-24)
+</div>
+</div>
+
+
+</body></html>

@@ -1,0 +1,447 @@
+<html prefix="
+        dbp: http://dbpedia.org/property/
+        dbo: http://dbedia.org/ontology/
+        dct: http://purl.org/dc/terms/
+        dbd: http://dbpedia.org/datatype/
+	og:  https://ogp.me/ns#
+	"><!-- header --><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>About: Special Ops Mission</title>
+
+    <!-- Links -->
+    <link rel="alternate" type="application/rdf+xml" href="http://dbpedia.org/data/Special_Ops_Mission.rdf" title="Structured Descriptor Document (RDF/XML format)">
+    <link rel="alternate" type="text/n3" href="http://dbpedia.org/data/Special_Ops_Mission.n3" title="Structured Descriptor Document (N3 format)">
+    <link rel="alternate" type="text/turtle" href="http://dbpedia.org/data/Special_Ops_Mission.ttl" title="Structured Descriptor Document (Turtle format)">
+    <link rel="alternate" type="application/json+rdf" href="http://dbpedia.org/data/Special_Ops_Mission.jrdf" title="Structured Descriptor Document (RDF/JSON format)">
+    <link rel="alternate" type="application/json" href="http://dbpedia.org/data/Special_Ops_Mission.json" title="Structured Descriptor Document (RDF/JSON format)">
+    <link rel="alternate" type="application/atom+xml" href="http://dbpedia.org/data/Special_Ops_Mission.atom" title="OData (Atom+Feed format)">
+    <link rel="alternate" type="text/plain" href="http://dbpedia.org/data/Special_Ops_Mission.ntriples" title="Structured Descriptor Document (N-Triples format)">
+    <link rel="alternate" type="text/csv" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FSpecial_Ops_Mission%3E&amp;format=text%2Fcsv" title="Structured Descriptor Document (CSV format)">
+    
+    <link rel="alternate" type="application/microdata+json" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FSpecial_Ops_Mission%3E&amp;format=application%2Fmicrodata%2Bjson" title="Structured Descriptor Document (Microdata/JSON format)">
+    <link rel="alternate" type="text/html" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FSpecial_Ops_Mission%3E&amp;format=text%2Fhtml" title="Structured Descriptor Document (Microdata/HTML format)">
+    <link rel="alternate" type="application/ld+json" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FSpecial_Ops_Mission%3E&amp;format=application%2Fjson-ld" title="Structured Descriptor Document (JSON-LD format)">
+    <link rel="alternate" type="text/x-html-script-ld+json" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FSpecial_Ops_Mission%3E&amp;format=text%2Fx-html-script-ld%2Bjson" title="Structured Descriptor Document (HTML with embedded JSON-LD)">
+    <link rel="alternate" type="text/x-html-script-turtle" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FSpecial_Ops_Mission%3E&amp;format=text%2Fx-html-script-turtle" title="Structured Descriptor Document (HTML with embedded Turtle)">
+    <link rel="timegate" type="text/html" href="http://dbpedia.mementodepot.org/timegate/http://dbpedia.org/page/Special_Ops_Mission" title="Time Machine">
+    <link rel="foaf:primarytopic" href="http://dbpedia.org/resource/Special_Ops_Mission">
+    <link rev="describedby" href="http://dbpedia.org/resource/Special_Ops_Mission">
+    <!-- /Links -->
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/css/bootstrap.min.css" integrity="sha512-GQGU0fMMi238uA+a/bdWJfpUGKUkBdgfFdgBm72SUQ6BeyWjoY/ton0tEjH+OSH9iP4Dfh+7HM0I9f5eR0L/4w==" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.8.1/font/bootstrap-icons.min.css" integrity="sha512-Oy+sz5W86PK0ZIkawrG0iv7XwWhYecM3exvUtMKNJMekGFJtVAhibhRPTpmyTj8+lJCkmWfnpxKgT2OopquBHA==" crossorigin="anonymous">
+    <!-- link rel="stylesheet" href="/statics/css/dbpedia.css" -->
+    <!-- /Stylesheets-->
+
+    <!-- OpenGraph -->
+    <meta property="og:title" content="Special Ops Mission">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="http://dbpedia.org/resource/Special_Ops_Mission">
+    <meta property="og:image" content="http://commons.wikimedia.org/wiki/Special:FilePath/Special_ops_misson_title.jpg?width=300">
+    <meta property="og:description" content="Special Ops Mission is an American reality television series that premiered on August 13, 2009 on the Military Channel (now American Heroes Channel). The program features former United States Army Ranger and Air Force Pararescueman Wil Willis, who performs solo special operations missions against groups of opposing-force (OPFOR) operatives, which consists of regular and special operations veterans in a simulated wargame mission.">
+    <meta property="og:site_name" content="DBpedia">
+    <!-- /OpenGraph-->
+</head>
+<body about="http://dbpedia.org/resource/Special_Ops_Mission">
+
+<!-- navbar -->
+<nav class="navbar navbar-expand-md navbar-light bg-light fixed-top align-items-center">
+    <div class="container-xl">
+	<a class="navbar-brand" href="http://wiki.dbpedia.org/about" title="About DBpedia" style="color: #2c5078">
+	    <img class="img-fluid" src="/statics/images/dbpedia_logo_land_120.png" alt="About DBpedia">
+	</a>
+	<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#dbp-navbar" aria-controls="dbp-navbar" aria-expanded="false" aria-label="Toggle navigation">
+	    <span class="navbar-toggler-icon"></span>
+	</button>
+
+	<div class="collapse navbar-collapse" id="dbp-navbar">
+	    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+		<li class="nav-item dropdown">
+		    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBrowse" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+		    <i class="bi-eye-fill"></i> Browse using<span class="caret"></span></a>
+
+		    <ul class="dropdown-menu" aria-labelledby="navbarDropdownBrowse">
+			<li class="dropdown-item"><a class="nav-link" href="/describe/?uri=http%3A%2F%2Fdbpedia.org%2Fresource%2FSpecial_Ops_Mission">OpenLink Faceted Browser</a></li>
+			<li class="dropdown-item"><a class="nav-link" href="http://osde.demo.openlinksw.com/#/editor?uri=http%3A%2F%2Fdbpedia.org%2Fdata%2FSpecial_Ops_Mission.ttl&amp;view=statements">OpenLink Structured Data Editor</a></li>
+			<li class="dropdown-item"><a class="nav-link" href="http://en.lodlive.it/?http%3A%2F%2Fdbpedia.org%2Fresource%2FSpecial_Ops_Mission">LodLive Browser</a></li>
+			<!-- li class="dropdown-item"><a class="nav-link" href="http://lodmilla.sztaki.hu/lodmilla/?url=http%3A%2F%2Fdbpedia.org%2Fresource%2FSpecial_Ops_Mission">LODmilla Browser</a></li -->
+		    </ul>
+		</li>
+
+		<li class="nav-item dropdown">
+		    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownFormats" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+		    <i class="bi-file-earmark-fill"></i> Formats<span class="caret"></span></a>
+
+		    <ul class="dropdown-menu" aria-labelledby="navbarDropdownFormats">
+			<li class="dropdown-item-text">RDF:</li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/Special_Ops_Mission.ntriples">N-Triples</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/Special_Ops_Mission.n3">N3</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/Special_Ops_Mission.ttl">Turtle</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/Special_Ops_Mission.json">JSON</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/Special_Ops_Mission.rdf">XML</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">OData:</li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/Special_Ops_Mission.atom">Atom</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/Special_Ops_Mission.jsod">JSON</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">Microdata:</li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FSpecial_Ops_Mission%3E&amp;format=application%2Fmicrodata%2Bjson">JSON</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FSpecial_Ops_Mission%3E&amp;format=text%2Fhtml">HTML</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">Embedded:</li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FSpecial_Ops_Mission%3E&amp;format=text%2Fx-html-script-ld%2Bjson">JSON</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FSpecial_Ops_Mission%3E&amp;format=text%2Fx-html-script-turtle">Turtle</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">Other:</li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FSpecial_Ops_Mission%3E&amp;format=text%2Fcsv">CSV</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FSpecial_Ops_Mission%3E&amp;format=application%2Fjson-ld">JSON-LD</a></li>
+
+		    </ul>
+		</li>
+	    </ul>
+
+	    <ul class="navbar-nav ms-auto">
+		<li class="nav-item">
+		    <a class="nav-link" href="/fct/" title="Switch to /fct endpoint"><i class="bi-box-arrow-up-right"></i> Faceted Browser </a>
+		</li>
+
+		<li class="nav-item">
+		    <a class="nav-link" href="/sparql/" title="Switch to /sparql endpoint"><i class="bi-box-arrow-up-right"></i> Sparql Endpoint </a>
+		</li>
+
+	    </ul>
+	</div>
+   </div>
+</nav>
+<div style="margin-bottom: 60px"></div>
+<!-- /navbar -->
+
+
+<!-- page-header -->
+<section>
+    <div class="container-xl">
+	<div class="row">
+	    <div class="col">
+		<h1 id="title" class="display-6"><b>About:</b>
+		    <a href="http://dbpedia.org/resource/Special_Ops_Mission">Special Ops Mission</a>
+		</h1>
+	    </div>
+	</div>
+	<div class="row">
+	    <div class="col">
+		<div class="text-muted">
+		    <span class="text-nowrap">An Entity of Type: <a href="http://dbpedia.org/ontology/TelevisionShow">television show</a>, </span>
+		    <span class="text-nowrap">from Named Graph:  <a href="http://dbpedia.org">http://dbpedia.org</a>, </span>
+		    <span class="text-nowrap">within Data Space: <a href="http://dbpedia.org">dbpedia.org</a></span>
+		</div>
+	    </div>
+	</div>
+	<div class="row pt-2">
+	    <div class="col-xs-9 col-sm-10">
+		<p class="lead">Special Ops Mission is an American reality television series that premiered on August 13, 2009 on the Military Channel (now American Heroes Channel). The program features former United States Army Ranger and Air Force Pararescueman Wil Willis, who performs solo special operations missions against groups of opposing-force (OPFOR) operatives, which consists of regular and special operations veterans in a simulated wargame mission.</p>
+	    </div>
+
+	    <div class="col-xs-3 col-sm-2">
+		<a href="#" class="thumbnail">
+		    <img src="http://commons.wikimedia.org/wiki/Special:FilePath/Special_ops_misson_title.jpg?width=300" alt="thumbnail" class="img-fluid">
+		</a>
+	    </div>
+
+	</div>
+    </div>
+</section>
+<!-- page-header -->
+
+<!-- property-table -->
+<section>
+    <div class="container-xl">
+	<div class="row">
+	    <div class="table-responsive">
+		<table class="table table-hover table-sm table-light">
+		    <thead>
+			<tr>
+			    <th class="col-xs-3 ">Property</th>
+			    <th class="col-xs-9 px-3">Value</th>
+			</tr>
+		    </thead>
+		    <tbody>
+<tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/Work/runtime"><small>dbo:</small>Work/runtime</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="ns0:runtime" prefix="ns0: http://dbpedia.org/ontology/Work/" datatype="dbd:minute">42.0</span></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/abstract"><small>dbo:</small>abstract</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:abstract" lang="en">Special Ops Mission is an American reality television series that premiered on August 13, 2009 on the Military Channel (now American Heroes Channel). The program features former United States Army Ranger and Air Force Pararescueman Wil Willis, who performs solo special operations missions against groups of opposing-force (OPFOR) operatives, which consists of regular and special operations veterans in a simulated wargame mission.</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/completionDate"><small>dbo:</small>completionDate</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:completionDate" datatype="xsd:date">2009-09-17</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/network"><small>dbo:</small>network</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:network" resource="http://dbpedia.org/resource/American_Heroes_Channel" href="http://dbpedia.org/resource/American_Heroes_Channel"><small>dbr</small>:American_Heroes_Channel</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/numberOfEpisodes"><small>dbo:</small>numberOfEpisodes</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:numberOfEpisodes" datatype="xsd:nonNegativeInteger">6</span><small> (xsd:nonNegativeInteger)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/numberOfSeasons"><small>dbo:</small>numberOfSeasons</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:numberOfSeasons" datatype="xsd:nonNegativeInteger">1</span><small> (xsd:nonNegativeInteger)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/releaseDate"><small>dbo:</small>releaseDate</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:releaseDate" datatype="xsd:date">2009-08-13</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/runtime"><small>dbo:</small>runtime</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:runtime" datatype="xsd:double">2520.000000</span><small> (xsd:double)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/thumbnail"><small>dbo:</small>thumbnail</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:thumbnail" resource="http://commons.wikimedia.org/wiki/Special:FilePath/Special_ops_misson_title.jpg?width=300" href="http://commons.wikimedia.org/wiki/Special:FilePath/Special_ops_misson_title.jpg?width=300"><small>wiki-commons</small>:Special:FilePath/Special_ops_misson_title.jpg?width=300</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/wikiPageExternalLink"><small>dbo:</small>wikiPageExternalLink</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageExternalLink nofollow" resource="http://military.discovery.com/videos/special-ops-mission/" href="http://military.discovery.com/videos/special-ops-mission/">http://military.discovery.com/videos/special-ops-mission/</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/wikiPageID"><small>dbo:</small>wikiPageID</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:wikiPageID" datatype="xsd:integer">24222648</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/wikiPageLength"><small>dbo:</small>wikiPageLength</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:wikiPageLength" datatype="xsd:nonNegativeInteger">8659</span><small> (xsd:nonNegativeInteger)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/wikiPageRevisionID"><small>dbo:</small>wikiPageRevisionID</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:wikiPageRevisionID" datatype="xsd:integer">1050838682</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/wikiPageWikiLink"><small>dbo:</small>wikiPageWikiLink</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Television_show" href="http://dbpedia.org/resource/Television_show"><small>dbr</small>:Television_show</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/ITunes_Store" href="http://dbpedia.org/resource/ITunes_Store"><small>dbr</small>:ITunes_Store</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Sergeant" href="http://dbpedia.org/resource/Sergeant"><small>dbr</small>:Sergeant</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/M4_carbine" href="http://dbpedia.org/resource/M4_carbine"><small>dbr</small>:M4_carbine</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/United_States_Army_Rangers" href="http://dbpedia.org/resource/United_States_Army_Rangers"><small>dbr</small>:United_States_Army_Rangers</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Extraction_(military)" href="http://dbpedia.org/resource/Extraction_(military)"><small>dbr</small>:Extraction_(military)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Infiltration_tactics" href="http://dbpedia.org/resource/Infiltration_tactics"><small>dbr</small>:Infiltration_tactics</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Night_vision" href="http://dbpedia.org/resource/Night_vision"><small>dbr</small>:Night_vision</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/American_Heroes_Channel" href="http://dbpedia.org/resource/American_Heroes_Channel"><small>dbr</small>:American_Heroes_Channel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Reality_television" href="http://dbpedia.org/resource/Reality_television"><small>dbr</small>:Reality_television</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/M16_rifle" href="http://dbpedia.org/resource/M16_rifle"><small>dbr</small>:M16_rifle</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Robot" href="http://dbpedia.org/resource/Robot"><small>dbr</small>:Robot</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/The_New_York_Times" href="http://dbpedia.org/resource/The_New_York_Times"><small>dbr</small>:The_New_York_Times</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/United_States_Army" href="http://dbpedia.org/resource/United_States_Army"><small>dbr</small>:United_States_Army</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:American_military_television_series" href="http://dbpedia.org/resource/Category:American_military_television_series"><small>dbc</small>:American_military_television_series</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Camera" href="http://dbpedia.org/resource/Camera"><small>dbr</small>:Camera</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Weapon_of_mass_destruction" href="http://dbpedia.org/resource/Weapon_of_mass_destruction"><small>dbr</small>:Weapon_of_mass_destruction</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Master_sergeant" href="http://dbpedia.org/resource/Master_sergeant"><small>dbr</small>:Master_sergeant</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/United_States_Air_Force_Pararescue" href="http://dbpedia.org/resource/United_States_Air_Force_Pararescue"><small>dbr</small>:United_States_Air_Force_Pararescue</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Body_armor" href="http://dbpedia.org/resource/Body_armor"><small>dbr</small>:Body_armor</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Military_simulation" href="http://dbpedia.org/resource/Military_simulation"><small>dbr</small>:Military_simulation</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Call_sign" href="http://dbpedia.org/resource/Call_sign"><small>dbr</small>:Call_sign</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Special_operations" href="http://dbpedia.org/resource/Special_operations"><small>dbr</small>:Special_operations</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Intelligence_assessment" href="http://dbpedia.org/resource/Intelligence_assessment"><small>dbr</small>:Intelligence_assessment</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:American_Heroes_Channel_original_programming" href="http://dbpedia.org/resource/Category:American_Heroes_Channel_original_programming"><small>dbc</small>:American_Heroes_Channel_original_programming</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Opposing_force" href="http://dbpedia.org/resource/Opposing_force"><small>dbr</small>:Opposing_force</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/United_States_Marine_Corps" href="http://dbpedia.org/resource/United_States_Marine_Corps"><small>dbr</small>:United_States_Marine_Corps</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/country"><small>dbp:</small>country</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:country" lang="en">United States</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/creator"><small>dbp:</small>creator</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:creator" lang="en">Bob Niemack</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/episodenumber"><small>dbp:</small>episodenumber</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:episodenumber" datatype="xsd:integer">1</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:episodenumber" datatype="xsd:integer">2</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:episodenumber" datatype="xsd:integer">3</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:episodenumber" datatype="xsd:integer">4</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:episodenumber" datatype="xsd:integer">5</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:episodenumber" datatype="xsd:integer">6</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/firstAired"><small>dbp:</small>firstAired</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:firstAired" datatype="xsd:date">2009-08-13</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/language"><small>dbp:</small>language</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:language" lang="en">English</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/lastAired"><small>dbp:</small>lastAired</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:lastAired" datatype="xsd:date">2009-09-17</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/linecolor"><small>dbp:</small>linecolor</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:linecolor" datatype="xsd:integer">0</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/listEpisodes"><small>dbp:</small>listEpisodes</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:listEpisodes" lang="en">#Episodes</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/name"><small>dbp:</small>name</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:name" lang="en">Special Ops Mission</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/network"><small>dbp:</small>network</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:network" resource="http://dbpedia.org/resource/American_Heroes_Channel" href="http://dbpedia.org/resource/American_Heroes_Channel"><small>dbr</small>:American_Heroes_Channel</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/numEpisodes"><small>dbp:</small>numEpisodes</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:numEpisodes" datatype="xsd:integer">6</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/numSeasons"><small>dbp:</small>numSeasons</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:numSeasons" datatype="xsd:integer">1</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/originalairdate"><small>dbp:</small>originalairdate</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:originalairdate" datatype="xsd:date">2009-08-13</span><small> (xsd:date)</small></span></li>
+	<li><span class="literal"><span property="dbp:originalairdate" datatype="xsd:date">2009-08-20</span><small> (xsd:date)</small></span></li>
+	<li><span class="literal"><span property="dbp:originalairdate" datatype="xsd:date">2009-08-27</span><small> (xsd:date)</small></span></li>
+	<li><span class="literal"><span property="dbp:originalairdate" datatype="xsd:date">2009-09-03</span><small> (xsd:date)</small></span></li>
+	<li><span class="literal"><span property="dbp:originalairdate" datatype="xsd:date">2009-09-10</span><small> (xsd:date)</small></span></li>
+	<li><span class="literal"><span property="dbp:originalairdate" datatype="xsd:date">2009-09-17</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/runtime"><small>dbp:</small>runtime</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:runtime" datatype="dbd:second">2520.0</span></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/shortsummary"><small>dbp:</small>shortsummary</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Insurgents have taken over a large building and are using it to hold hostages. Willis' mission is to infiltrate the insurgent stronghold, interrupt the flow of illicit money and weapons, and rescue the hostages from the insurgents.
+
+Friendly force: Wil Willis: Escaped; Hostages: Escaped
+
+OPFOR: Tango 1 - Charlie Parrish - U.S. Army: Eliminated; Tango 2 - Chase Rivera - U.S. Marine Corps; Tango 3 - Lowel Muenchau - U.S. Marine Corps: Eliminated; Tango 4 - Colin Palmer - U.S. Navy SEALs: Eliminated
+
+Objectives: Infiltrate building: Completed; Intercept weapons shipment: Failed; Liberate hostages: Completed; Exfiltrate: Completed</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Pirates have captured a Merchant Marine gunship. Aerial intelligence shows shipments of nuclear material being loaded onto the ship. Willis' mission is to infiltrate the ship and determine the pirate's target.
+
+Friendly force: Wil Willis: Escaped; Hostage scientists: Eliminated
+
+OPFOR: Skinny 1 - Chris Withrow - U.S. Navy SEALs; Skinny 2 - Steffond Johnson - U.S. Marine Corps: Eliminated; Skinny 3 - Carlos Moreno - U.S. Marine Corps; Skinny 4 - Jen X - U.S. Army
+
+Objectives: Board the ship: Completed; Destroy the deck guns: Completed; Disable the ship: Completed; Recon the navigation charts: Completed; Rescue the scientists: Failed; Exfiltrate: Completed</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Terrorists have dammed up the local water supply, and are hijacking deliveries of humanitarian aid intended for a refugee camp down-river. Willis' mission is to trek through the snow and blow up the dam that is preventing water from flowing to the refugee camp.
+
+Friendly force: Wil Willis: Eliminated; Hostage: Escaped
+
+OPFOR: Raven 1 - Charlie Parrish - U.S. Army: Eliminated; Raven 2 - Kicker - U.S. Marine Corps; Raven 3 - Chris "Mojo" Merkle - U.S. Marine Corps: Eliminated; Raven 4 - Nick Lattu - U.S. Army: Eliminated
+
+Objectives: Recon camp: Completed; Destroy the dam: Completed; Destroy communications system: Completed; Destroy the water tower: Complete; Liberate hostages: Completed; Exfiltrate: Failed</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">A rebel force is acquiring weapons of mass destruction. Their camp is protected by five operators. Willis' mission is to infiltrate the camp, document the weapons, and upload the photographs to Central Command.
+
+Friendly force: Wil Willis: Escaped
+
+OPFOR: Tommy 1 - Michael Lee - U.S. Marine Corps; Tommy 2 - John Beltran - U.S. Navy SEALs; Tommy 3 - Jason Kyle - U.S. Marine Corps; Tommy 4 - Rich McDonough - U.S. Navy: Eliminated; Tommy 5 - Charlie Parrish - U.S. Army: Eliminated
+
+Objectives: Infiltrate rebel camp: Completed; Document the existence of WMD: Completed; Document the delivery of WMD: Completed; Remove guidance system from weapon: Incomplete; Exfiltrate: Completed</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">A force antagonistic to the government has set up anti-aircraft systems. Willis' mission is to take direct action against the radar and communication systems that allow the OPFOR to track and engage friendly aircraft.
+
+Friendly force: Wil Willis: Escaped; Badger 1-1  - Justin Shook - U.S. Air Force: Escaped
+
+OPFOR: Dave Thomas - U.S. Army: Eliminated; Alan Tafoya - Law enforcement: Eliminated; Randle Ross - U.S. Army: Eliminated; Steven Watanabe - U.S. Army: Wounded
+
+Objectives: Infiltrate enemy area of operations: Completed; Destroy the communications tower: Completed; Destroy the mobile radar unit: Incomplete; Rescue the downed pilot: Completed; Destroy the dirty bomb: Completed; Neutralize/capture Stinger Missile Launcher: Completed; Exfiltrate: Completed</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">A drug lord is visiting a military training camp in order to observe its operations and see weapons demonstrations. Willis is sent to infiltrate the camp, positively identify the drug lord, and eliminate him.
+
+Friendly force: Wil Willis: Escaped
+
+OPFOR: Chase Rivera - U.S. Marine Corps; Brian Sargent - U.S. Marine Corps; Rob Kaneiss - U.S. Navy SEALs; Michael Pich - U.S. Marine Corps; Jason Neumann - U.S. Army; Eric Stinson - Law enforcement; Rex - Police dog
+
+Objectives: Infiltrate enemy area of operations: Completed; Confirm ability to make weapons: Completed; Photograph drug lord: Completed; Assassinate drug lord: Completed; Exfiltrate: Completed</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/starring"><small>dbp:</small>starring</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:starring" lang="en">Wil Willis</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/title"><small>dbp:</small>title</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:title" lang="en">Operation Covert Canyon</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:title" lang="en">Operation Freebird Down</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:title" lang="en">Operation Frozen Thunder</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:title" lang="en">Operation One Shot</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:title" lang="en">Operation Pirate Guns</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:title" lang="en">Operation Urban Terror</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/wikiPageUsesTemplate"><small>dbp:</small>wikiPageUsesTemplate</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:As_of" href="http://dbpedia.org/resource/Template:As_of"><small>dbt</small>:As_of</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:End_date" href="http://dbpedia.org/resource/Template:End_date"><small>dbt</small>:End_date</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Episode_list" href="http://dbpedia.org/resource/Template:Episode_list"><small>dbt</small>:Episode_list</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:IMDb_title" href="http://dbpedia.org/resource/Template:IMDb_title"><small>dbt</small>:IMDb_title</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Infobox_television" href="http://dbpedia.org/resource/Template:Infobox_television"><small>dbt</small>:Infobox_television</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Reflist" href="http://dbpedia.org/resource/Template:Reflist"><small>dbt</small>:Reflist</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Start_date" href="http://dbpedia.org/resource/Template:Start_date"><small>dbt</small>:Start_date</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://purl.org/dc/terms/subject"><small>dct:</small>subject</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:American_military_television_series" href="http://dbpedia.org/resource/Category:American_military_television_series"><small>dbc</small>:American_military_television_series</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:American_Heroes_Channel_original_programming" href="http://dbpedia.org/resource/Category:American_Heroes_Channel_original_programming"><small>dbc</small>:American_Heroes_Channel_original_programming</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://purl.org/linguistics/gold/hypernym"><small>gold:</small>hypernym</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="gold:hypernym" resource="http://dbpedia.org/resource/Series" prefix="gold: http://purl.org/linguistics/gold/" href="http://dbpedia.org/resource/Series"><small>dbr</small>:Series</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"><small>rdf:</small>type</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://www.w3.org/2002/07/owl#Thing" href="http://www.w3.org/2002/07/owl#Thing"><small>owl</small>:Thing</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://schema.org/CreativeWork" href="http://schema.org/CreativeWork"><small>schema</small>:CreativeWork</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/ontology/Work" href="http://dbpedia.org/ontology/Work"><small>dbo</small>:Work</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://www.wikidata.org/entity/Q15416" href="http://www.wikidata.org/entity/Q15416"><small>wikidata</small>:Q15416</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://www.wikidata.org/entity/Q386724" href="http://www.wikidata.org/entity/Q386724"><small>wikidata</small>:Q386724</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/ontology/TelevisionShow" href="http://dbpedia.org/ontology/TelevisionShow"><small>dbo</small>:TelevisionShow</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Artifact100021939" href="http://dbpedia.org/class/yago/Artifact100021939"><small>yago</small>:Artifact100021939</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Broadcasting106276697" href="http://dbpedia.org/class/yago/Broadcasting106276697"><small>yago</small>:Broadcasting106276697</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Instrumentality103575240" href="http://dbpedia.org/class/yago/Instrumentality103575240"><small>yago</small>:Instrumentality103575240</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Medium106254669" href="http://dbpedia.org/class/yago/Medium106254669"><small>yago</small>:Medium106254669</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Object100002684" href="http://dbpedia.org/class/yago/Object100002684"><small>yago</small>:Object100002684</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" href="http://dbpedia.org/class/yago/PhysicalEntity100001930"><small>yago</small>:PhysicalEntity100001930</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Telecommunication106271778" href="http://dbpedia.org/class/yago/Telecommunication106271778"><small>yago</small>:Telecommunication106271778</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Television106277280" href="http://dbpedia.org/class/yago/Television106277280"><small>yago</small>:Television106277280</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Whole100003553" href="http://dbpedia.org/class/yago/Whole100003553"><small>yago</small>:Whole100003553</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://www.w3.org/2000/01/rdf-schema#comment"><small>rdfs:</small>comment</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="rdfs:comment" lang="en">Special Ops Mission is an American reality television series that premiered on August 13, 2009 on the Military Channel (now American Heroes Channel). The program features former United States Army Ranger and Air Force Pararescueman Wil Willis, who performs solo special operations missions against groups of opposing-force (OPFOR) operatives, which consists of regular and special operations veterans in a simulated wargame mission.</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://www.w3.org/2000/01/rdf-schema#label"><small>rdfs:</small>label</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="rdfs:label" lang="en">Special Ops Mission</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://www.w3.org/2002/07/owl#sameAs"><small>owl:</small>sameAs</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://rdf.freebase.com/ns/m.07kcxwf" href="http://rdf.freebase.com/ns/m.07kcxwf"><small>freebase</small>:Special Ops Mission</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://www.wikidata.org/entity/Q7574670" href="http://www.wikidata.org/entity/Q7574670"><small>wikidata</small>:Special Ops Mission</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="https://global.dbpedia.org/id/4vUYa" href="https://global.dbpedia.org/id/4vUYa">https://global.dbpedia.org/id/4vUYa</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://www.w3.org/ns/prov#wasDerivedFrom"><small>prov:</small>wasDerivedFrom</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="prov:wasDerivedFrom" resource="http://en.wikipedia.org/wiki/Special_Ops_Mission?oldid=1050838682&amp;ns=0" href="http://en.wikipedia.org/wiki/Special_Ops_Mission?oldid=1050838682&amp;ns=0"><small>wikipedia-en</small>:Special_Ops_Mission?oldid=1050838682&amp;ns=0</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://xmlns.com/foaf/0.1/depiction"><small>foaf:</small>depiction</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="foaf:depiction" resource="http://commons.wikimedia.org/wiki/Special:FilePath/Special_ops_misson_title.jpg" href="http://commons.wikimedia.org/wiki/Special:FilePath/Special_ops_misson_title.jpg"><small>wiki-commons</small>:Special:FilePath/Special_ops_misson_title.jpg</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://xmlns.com/foaf/0.1/isPrimaryTopicOf"><small>foaf:</small>isPrimaryTopicOf</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="foaf:isPrimaryTopicOf" resource="http://en.wikipedia.org/wiki/Special_Ops_Mission" href="http://en.wikipedia.org/wiki/Special_Ops_Mission"><small>wikipedia-en</small>:Special_Ops_Mission</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2">is <a class="uri" href="http://dbpedia.org/ontology/wikiPageWikiLink"><small>dbo:</small>wikiPageWikiLink</a>
+ of</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Triggers:_Weapons_That_Changed_the_World" href="http://dbpedia.org/resource/Triggers:_Weapons_That_Changed_the_World"><small>dbr</small>:Triggers:_Weapons_That_Changed_the_World</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/American_Heroes_Channel" href="http://dbpedia.org/resource/American_Heroes_Channel"><small>dbr</small>:American_Heroes_Channel</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Fox_Comedy_(Portuguese_TV_channel)" href="http://dbpedia.org/resource/Fox_Comedy_(Portuguese_TV_channel)"><small>dbr</small>:Fox_Comedy_(Portuguese_TV_channel)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Forged_in_Fire_(TV_series)" href="http://dbpedia.org/resource/Forged_in_Fire_(TV_series)"><small>dbr</small>:Forged_in_Fire_(TV_series)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/SS_Lane_Victory" href="http://dbpedia.org/resource/SS_Lane_Victory"><small>dbr</small>:SS_Lane_Victory</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/United_States_Air_Force_Pararescue" href="http://dbpedia.org/resource/United_States_Air_Force_Pararescue"><small>dbr</small>:United_States_Air_Force_Pararescue</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2">is <a class="uri" href="http://xmlns.com/foaf/0.1/primaryTopic"><small>foaf:</small>primaryTopic</a>
+ of</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rev="foaf:primaryTopic" resource="http://en.wikipedia.org/wiki/Special_Ops_Mission" href="http://en.wikipedia.org/wiki/Special_Ops_Mission"><small>wikipedia-en</small>:Special_Ops_Mission</a></span></li>
+</ul></td></tr>
+		    </tbody>
+		</table>
+	    </div>
+	</div>
+    </div>
+</section>
+<!-- property-table -->
+
+<!-- footer -->
+<section>
+    <div class="container-xl">
+	<div class="text-center p-4 bg-light">
+	    <a href="https://virtuoso.openlinksw.com/" title="OpenLink Virtuoso"><img class="powered_by" src="/statics/images/virt_power_no_border.png" alt="Powered by OpenLink Virtuoso"></a>&nbsp; &nbsp;
+	    <a href="http://linkeddata.org/"><img alt="This material is Open Knowledge" src="/statics/images/LoDLogo.gif"></a> &nbsp; &nbsp;
+	    <a href="http://dbpedia.org/sparql"><img alt="W3C Semantic Web Technology" src="/statics/images/sw-sparql-blue.png"></a> &nbsp;  &nbsp;
+	    <a href="https://opendefinition.org/"><img alt="This material is Open Knowledge" src="/statics/images/od_80x15_red_green.png"></a>&nbsp; &nbsp;
+	    <span style="display:none;" about="" resource="http://www.w3.org/TR/rdfa-syntax" rel="dc:conformsTo">
+		<a href="https://validator.w3.org/check?uri=referer">
+		    <img src="https://www.w3.org/Icons/valid-xhtml-rdfa" alt="Valid XHTML + RDFa">
+		</a>
+	    </span>
+	    <br>
+	    <small class="text-muted">
+		This content was extracted from <a href="http://en.wikipedia.org/wiki/Special_Ops_Mission">Wikipedia</a> and is licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>
+
+	    </small>
+	</div>
+    </div>
+</section>
+<!-- #footer -->
+
+<!-- scripts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/js/bootstrap.bundle.min.js" integrity="sha512-pax4MlgXjHEPfCwcJLQhigY7+N8rt6bVvWLFyUMuxShv170X53TRzGPmPkZmGBhk+jikR8WBM4yl7A9WMHHqvg==" crossorigin="anonymous">
+    </script>
+
+
+</body></html>

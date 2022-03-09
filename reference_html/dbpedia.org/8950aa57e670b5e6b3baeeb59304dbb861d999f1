@@ -1,0 +1,505 @@
+<html prefix="
+        dbp: http://dbpedia.org/property/
+        dbo: http://dbedia.org/ontology/
+        dct: http://purl.org/dc/terms/
+        dbd: http://dbpedia.org/datatype/
+	og:  https://ogp.me/ns#
+	"><!-- header --><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>About: Let's Play Love</title>
+
+    <!-- Links -->
+    <link rel="alternate" type="application/rdf+xml" href="http://dbpedia.org/data/Let's_Play_Love.rdf" title="Structured Descriptor Document (RDF/XML format)">
+    <link rel="alternate" type="text/n3" href="http://dbpedia.org/data/Let's_Play_Love.n3" title="Structured Descriptor Document (N3 format)">
+    <link rel="alternate" type="text/turtle" href="http://dbpedia.org/data/Let's_Play_Love.ttl" title="Structured Descriptor Document (Turtle format)">
+    <link rel="alternate" type="application/json+rdf" href="http://dbpedia.org/data/Let's_Play_Love.jrdf" title="Structured Descriptor Document (RDF/JSON format)">
+    <link rel="alternate" type="application/json" href="http://dbpedia.org/data/Let's_Play_Love.json" title="Structured Descriptor Document (RDF/JSON format)">
+    <link rel="alternate" type="application/atom+xml" href="http://dbpedia.org/data/Let's_Play_Love.atom" title="OData (Atom+Feed format)">
+    <link rel="alternate" type="text/plain" href="http://dbpedia.org/data/Let's_Play_Love.ntriples" title="Structured Descriptor Document (N-Triples format)">
+    <link rel="alternate" type="text/csv" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FLet%27s_Play_Love%3E&amp;format=text%2Fcsv" title="Structured Descriptor Document (CSV format)">
+    
+    <link rel="alternate" type="application/microdata+json" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FLet%27s_Play_Love%3E&amp;format=application%2Fmicrodata%2Bjson" title="Structured Descriptor Document (Microdata/JSON format)">
+    <link rel="alternate" type="text/html" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FLet%27s_Play_Love%3E&amp;format=text%2Fhtml" title="Structured Descriptor Document (Microdata/HTML format)">
+    <link rel="alternate" type="application/ld+json" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FLet%27s_Play_Love%3E&amp;format=application%2Fjson-ld" title="Structured Descriptor Document (JSON-LD format)">
+    <link rel="alternate" type="text/x-html-script-ld+json" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FLet%27s_Play_Love%3E&amp;format=text%2Fx-html-script-ld%2Bjson" title="Structured Descriptor Document (HTML with embedded JSON-LD)">
+    <link rel="alternate" type="text/x-html-script-turtle" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FLet%27s_Play_Love%3E&amp;format=text%2Fx-html-script-turtle" title="Structured Descriptor Document (HTML with embedded Turtle)">
+    <link rel="timegate" type="text/html" href="http://dbpedia.mementodepot.org/timegate/http://dbpedia.org/page/Let's_Play_Love" title="Time Machine">
+    <link rel="foaf:primarytopic" href="http://dbpedia.org/resource/Let's_Play_Love">
+    <link rev="describedby" href="http://dbpedia.org/resource/Let's_Play_Love">
+    <!-- /Links -->
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/css/bootstrap.min.css" integrity="sha512-GQGU0fMMi238uA+a/bdWJfpUGKUkBdgfFdgBm72SUQ6BeyWjoY/ton0tEjH+OSH9iP4Dfh+7HM0I9f5eR0L/4w==" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.8.1/font/bootstrap-icons.min.css" integrity="sha512-Oy+sz5W86PK0ZIkawrG0iv7XwWhYecM3exvUtMKNJMekGFJtVAhibhRPTpmyTj8+lJCkmWfnpxKgT2OopquBHA==" crossorigin="anonymous">
+    <!-- link rel="stylesheet" href="/statics/css/dbpedia.css" -->
+    <!-- /Stylesheets-->
+
+    <!-- OpenGraph -->
+    <meta property="og:title" content="Let's Play Love">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="http://dbpedia.org/resource/Let's_Play_Love">
+    <meta property="og:image" content="/statics/images/dbpedia_logo.png">
+    <meta property="og:description" content="Let's Play Love (PK爱情) is a Singaporean web series which was launched in April 2011. It was produced to celebrate xinmsn's 1st anniversary and is the first interactive web series produced by MediaCorp. Webisodes are available on xinmsn's Catch-up TV portal. It was also broadcast on Channel U.">
+    <meta property="og:site_name" content="DBpedia">
+    <!-- /OpenGraph-->
+</head>
+<body about="http://dbpedia.org/resource/Let's_Play_Love">
+
+<!-- navbar -->
+<nav class="navbar navbar-expand-md navbar-light bg-light fixed-top align-items-center">
+    <div class="container-xl">
+	<a class="navbar-brand" href="http://wiki.dbpedia.org/about" title="About DBpedia" style="color: #2c5078">
+	    <img class="img-fluid" src="/statics/images/dbpedia_logo_land_120.png" alt="About DBpedia">
+	</a>
+	<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#dbp-navbar" aria-controls="dbp-navbar" aria-expanded="false" aria-label="Toggle navigation">
+	    <span class="navbar-toggler-icon"></span>
+	</button>
+
+	<div class="collapse navbar-collapse" id="dbp-navbar">
+	    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+		<li class="nav-item dropdown">
+		    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBrowse" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+		    <i class="bi-eye-fill"></i> Browse using<span class="caret"></span></a>
+
+		    <ul class="dropdown-menu" aria-labelledby="navbarDropdownBrowse">
+			<li class="dropdown-item"><a class="nav-link" href="/describe/?uri=http%3A%2F%2Fdbpedia.org%2Fresource%2FLet%27s_Play_Love">OpenLink Faceted Browser</a></li>
+			<li class="dropdown-item"><a class="nav-link" href="http://osde.demo.openlinksw.com/#/editor?uri=http%3A%2F%2Fdbpedia.org%2Fdata%2FLet%27s_Play_Love.ttl&amp;view=statements">OpenLink Structured Data Editor</a></li>
+			<li class="dropdown-item"><a class="nav-link" href="http://en.lodlive.it/?http%3A%2F%2Fdbpedia.org%2Fresource%2FLet%27s_Play_Love">LodLive Browser</a></li>
+			<!-- li class="dropdown-item"><a class="nav-link" href="http://lodmilla.sztaki.hu/lodmilla/?url=http%3A%2F%2Fdbpedia.org%2Fresource%2FLet%27s_Play_Love">LODmilla Browser</a></li -->
+		    </ul>
+		</li>
+
+		<li class="nav-item dropdown">
+		    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownFormats" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+		    <i class="bi-file-earmark-fill"></i> Formats<span class="caret"></span></a>
+
+		    <ul class="dropdown-menu" aria-labelledby="navbarDropdownFormats">
+			<li class="dropdown-item-text">RDF:</li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/Let's_Play_Love.ntriples">N-Triples</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/Let's_Play_Love.n3">N3</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/Let's_Play_Love.ttl">Turtle</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/Let's_Play_Love.json">JSON</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/Let's_Play_Love.rdf">XML</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">OData:</li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/Let's_Play_Love.atom">Atom</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/Let's_Play_Love.jsod">JSON</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">Microdata:</li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FLet%27s_Play_Love%3E&amp;format=application%2Fmicrodata%2Bjson">JSON</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FLet%27s_Play_Love%3E&amp;format=text%2Fhtml">HTML</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">Embedded:</li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FLet%27s_Play_Love%3E&amp;format=text%2Fx-html-script-ld%2Bjson">JSON</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FLet%27s_Play_Love%3E&amp;format=text%2Fx-html-script-turtle">Turtle</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">Other:</li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FLet%27s_Play_Love%3E&amp;format=text%2Fcsv">CSV</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FLet%27s_Play_Love%3E&amp;format=application%2Fjson-ld">JSON-LD</a></li>
+
+		    </ul>
+		</li>
+	    </ul>
+
+	    <ul class="navbar-nav ms-auto">
+		<li class="nav-item">
+		    <a class="nav-link" href="/fct/" title="Switch to /fct endpoint"><i class="bi-box-arrow-up-right"></i> Faceted Browser </a>
+		</li>
+
+		<li class="nav-item">
+		    <a class="nav-link" href="/sparql/" title="Switch to /sparql endpoint"><i class="bi-box-arrow-up-right"></i> Sparql Endpoint </a>
+		</li>
+
+	    </ul>
+	</div>
+   </div>
+</nav>
+<div style="margin-bottom: 60px"></div>
+<!-- /navbar -->
+
+
+<!-- page-header -->
+<section>
+    <div class="container-xl">
+	<div class="row">
+	    <div class="col">
+		<h1 id="title" class="display-6"><b>About:</b>
+		    <a href="http://dbpedia.org/resource/Let's_Play_Love">Let's Play Love</a>
+		</h1>
+	    </div>
+	</div>
+	<div class="row">
+	    <div class="col">
+		<div class="text-muted">
+		    <span class="text-nowrap">An Entity of Type: <a href="http://dbpedia.org/ontology/TelevisionShow">television show</a>, </span>
+		    <span class="text-nowrap">from Named Graph:  <a href="http://dbpedia.org">http://dbpedia.org</a>, </span>
+		    <span class="text-nowrap">within Data Space: <a href="http://dbpedia.org">dbpedia.org</a></span>
+		</div>
+	    </div>
+	</div>
+	<div class="row pt-2">
+	    <div class="col-xs-9 col-sm-10">
+		<p class="lead">Let's Play Love (PK爱情) is a Singaporean web series which was launched in April 2011. It was produced to celebrate xinmsn's 1st anniversary and is the first interactive web series produced by MediaCorp. Webisodes are available on xinmsn's Catch-up TV portal. It was also broadcast on Channel U.</p>
+	    </div>
+
+	</div>
+    </div>
+</section>
+<!-- page-header -->
+
+<!-- property-table -->
+<section>
+    <div class="container-xl">
+	<div class="row">
+	    <div class="table-responsive">
+		<table class="table table-hover table-sm table-light">
+		    <thead>
+			<tr>
+			    <th class="col-xs-3 ">Property</th>
+			    <th class="col-xs-9 px-3">Value</th>
+			</tr>
+		    </thead>
+		    <tbody>
+<tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/Work/runtime"><small>dbo:</small>Work/runtime</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="ns0:runtime" prefix="ns0: http://dbpedia.org/ontology/Work/" datatype="dbd:minute">3.0</span></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/abstract"><small>dbo:</small>abstract</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:abstract" lang="en">Let's Play Love (PK爱情) is a Singaporean web series which was launched in April 2011. It was produced to celebrate xinmsn's 1st anniversary and is the first interactive web series produced by MediaCorp. Webisodes are available on xinmsn's Catch-up TV portal. It was also broadcast on Channel U. The series is about the participants of a dating game show. Every five webisodes, netizens could vote on their favourite outcome and the next five webisodes are produced based on audience feedback. The webisodes are released only a week later to give the cast and crew time to film based on the online polls. The cast mainly consists of younger artistes such as Taiwan-based Singaporean singer Huang Jing Lun, Campus SuperStar 2006 runner-up Teresa Tseng and Star Search 2010 finalists Romeo Tan and Sora Ma as well as established MediaCorp artistes Bryan Wong and Michelle Chia.</span><small> (en)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="zh">《PK愛情》（英語：Let's Play Love》）是新加坡雙語網站xinmsn為慶祝一週年開拍的首部網上劇集，由新傳媒拍攝，2011年4月4日在xinmsn播出，稍後在U頻道播出。</span><small> (zh)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/completionDate"><small>dbo:</small>completionDate</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:completionDate" datatype="xsd:date">2011-05-20</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/genre"><small>dbo:</small>genre</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:genre" resource="http://dbpedia.org/resource/Comedy-drama" href="http://dbpedia.org/resource/Comedy-drama"><small>dbr</small>:Comedy-drama</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/language"><small>dbo:</small>language</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:language" resource="http://dbpedia.org/resource/Chinese_language" href="http://dbpedia.org/resource/Chinese_language"><small>dbr</small>:Chinese_language</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/network"><small>dbo:</small>network</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:network" resource="http://dbpedia.org/resource/Channel_U_(Singapore)" href="http://dbpedia.org/resource/Channel_U_(Singapore)"><small>dbr</small>:Channel_U_(Singapore)</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/numberOfEpisodes"><small>dbo:</small>numberOfEpisodes</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:numberOfEpisodes" datatype="xsd:nonNegativeInteger">20</span><small> (xsd:nonNegativeInteger)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/openingTheme"><small>dbo:</small>openingTheme</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:openingTheme" resource="http://dbpedia.org/resource/Wong_Jinglun" href="http://dbpedia.org/resource/Wong_Jinglun"><small>dbr</small>:Wong_Jinglun</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/releaseDate"><small>dbo:</small>releaseDate</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:releaseDate" datatype="xsd:date">2011-04-04</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/runtime"><small>dbo:</small>runtime</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:runtime" datatype="xsd:double">180.000000</span><small> (xsd:double)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/starring"><small>dbo:</small>starring</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/Wong_Jinglun" href="http://dbpedia.org/resource/Wong_Jinglun"><small>dbr</small>:Wong_Jinglun</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/Jeffrey_Xu" href="http://dbpedia.org/resource/Jeffrey_Xu"><small>dbr</small>:Jeffrey_Xu</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/Romeo_Tan" href="http://dbpedia.org/resource/Romeo_Tan"><small>dbr</small>:Romeo_Tan</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/Sora_Ma" href="http://dbpedia.org/resource/Sora_Ma"><small>dbr</small>:Sora_Ma</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/Julie_Tan" href="http://dbpedia.org/resource/Julie_Tan"><small>dbr</small>:Julie_Tan</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/subsequentWork"><small>dbo:</small>subsequentWork</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:subsequentWork" resource="http://dbpedia.org/resource/Blk_88" href="http://dbpedia.org/resource/Blk_88"><small>dbr</small>:Blk_88</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/wikiPageExternalLink"><small>dbo:</small>wikiPageExternalLink</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageExternalLink nofollow" resource="https://web.archive.org/web/20120509024838/http:/entertainment.xin.msn.com/zh/irock/default.aspx" href="https://web.archive.org/web/20120509024838/http:/entertainment.xin.msn.com/zh/irock/default.aspx">https://web.archive.org/web/20120509024838/http:/entertainment.xin.msn.com/zh/irock/default.aspx</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageExternalLink nofollow" resource="https://web.archive.org/web/20111104115857/http:/entertainment.xin.msn.com/zh/lets-play-love/default.aspx" href="https://web.archive.org/web/20111104115857/http:/entertainment.xin.msn.com/zh/lets-play-love/default.aspx">https://web.archive.org/web/20111104115857/http:/entertainment.xin.msn.com/zh/lets-play-love/default.aspx</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/wikiPageID"><small>dbo:</small>wikiPageID</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:wikiPageID" datatype="xsd:integer">37027491</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/wikiPageLength"><small>dbo:</small>wikiPageLength</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:wikiPageLength" datatype="xsd:nonNegativeInteger">23811</span><small> (xsd:nonNegativeInteger)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/wikiPageRevisionID"><small>dbo:</small>wikiPageRevisionID</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:wikiPageRevisionID" datatype="xsd:integer">996906776</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/wikiPageWikiLink"><small>dbo:</small>wikiPageWikiLink</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Campus_SuperStar_(season_1)" href="http://dbpedia.org/resource/Campus_SuperStar_(season_1)"><small>dbr</small>:Campus_SuperStar_(season_1)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Keely_Wee" href="http://dbpedia.org/resource/Keely_Wee"><small>dbr</small>:Keely_Wee</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Chinese_language" href="http://dbpedia.org/resource/Chinese_language"><small>dbr</small>:Chinese_language</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Mandarin_Chinese" href="http://dbpedia.org/resource/Mandarin_Chinese"><small>dbr</small>:Mandarin_Chinese</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Derrick_Hoh" href="http://dbpedia.org/resource/Derrick_Hoh"><small>dbr</small>:Derrick_Hoh</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Computer_engineering" href="http://dbpedia.org/resource/Computer_engineering"><small>dbr</small>:Computer_engineering</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Channel_U_(Singapore)" href="http://dbpedia.org/resource/Channel_U_(Singapore)"><small>dbr</small>:Channel_U_(Singapore)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Comedy-drama" href="http://dbpedia.org/resource/Comedy-drama"><small>dbr</small>:Comedy-drama</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Wong_Jinglun" href="http://dbpedia.org/resource/Wong_Jinglun"><small>dbr</small>:Wong_Jinglun</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jeffrey_Xu" href="http://dbpedia.org/resource/Jeffrey_Xu"><small>dbr</small>:Jeffrey_Xu</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Web_series" href="http://dbpedia.org/resource/Web_series"><small>dbr</small>:Web_series</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:Drama_web_series" href="http://dbpedia.org/resource/Category:Drama_web_series"><small>dbc</small>:Drama_web_series</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Mediacorp" href="http://dbpedia.org/resource/Mediacorp"><small>dbr</small>:Mediacorp</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Institute_of_technology" href="http://dbpedia.org/resource/Institute_of_technology"><small>dbr</small>:Institute_of_technology</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:Singapore_Chinese_dramas" href="http://dbpedia.org/resource/Category:Singapore_Chinese_dramas"><small>dbc</small>:Singapore_Chinese_dramas</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Blk_88" href="http://dbpedia.org/resource/Blk_88"><small>dbr</small>:Blk_88</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Cavin_Soh" href="http://dbpedia.org/resource/Cavin_Soh"><small>dbr</small>:Cavin_Soh</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Darren_Lim" href="http://dbpedia.org/resource/Darren_Lim"><small>dbr</small>:Darren_Lim</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Michelle_Chia" href="http://dbpedia.org/resource/Michelle_Chia"><small>dbr</small>:Michelle_Chia</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Romeo_Tan" href="http://dbpedia.org/resource/Romeo_Tan"><small>dbr</small>:Romeo_Tan</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Sora_Ma" href="http://dbpedia.org/resource/Sora_Ma"><small>dbr</small>:Sora_Ma</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Star_Search_(Singaporean_season_10)" href="http://dbpedia.org/resource/Star_Search_(Singaporean_season_10)"><small>dbr</small>:Star_Search_(Singaporean_season_10)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Xiaxue" href="http://dbpedia.org/resource/Xiaxue"><small>dbr</small>:Xiaxue</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Bryan_Wong" href="http://dbpedia.org/resource/Bryan_Wong"><small>dbr</small>:Bryan_Wong</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Julie_Tan" href="http://dbpedia.org/resource/Julie_Tan"><small>dbr</small>:Julie_Tan</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/director"><small>dbp:</small>director</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:director" lang="en">叶佩娟</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/endtheme"><small>dbp:</small>endtheme</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:endtheme" lang="en">缘来有你 by Le Sheng 乐声</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/episodenumber"><small>dbp:</small>episodenumber</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:episodenumber" datatype="xsd:integer">1</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:episodenumber" datatype="xsd:integer">2</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:episodenumber" datatype="xsd:integer">3</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:episodenumber" datatype="xsd:integer">4</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:episodenumber" datatype="xsd:integer">5</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:episodenumber" datatype="xsd:integer">6</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:episodenumber" datatype="xsd:integer">7</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:episodenumber" datatype="xsd:integer">8</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:episodenumber" datatype="xsd:integer">9</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:episodenumber" datatype="xsd:integer">10</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:episodenumber" datatype="xsd:integer">11</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:episodenumber" datatype="xsd:integer">12</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:episodenumber" datatype="xsd:integer">13</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:episodenumber" datatype="xsd:integer">14</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:episodenumber" datatype="xsd:integer">15</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:episodenumber" datatype="xsd:integer">16</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:episodenumber" datatype="xsd:integer">17</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:episodenumber" datatype="xsd:integer">18</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:episodenumber" datatype="xsd:integer">19</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:episodenumber" datatype="xsd:integer">20</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/firstAired"><small>dbp:</small>firstAired</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:firstAired" datatype="xsd:date">2011-04-04</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/followedBy"><small>dbp:</small>followedBy</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:followedBy" lang="en">Blk 88</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/genre"><small>dbp:</small>genre</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:genre" resource="http://dbpedia.org/resource/Comedy-drama" href="http://dbpedia.org/resource/Comedy-drama"><small>dbr</small>:Comedy-drama</a></span></li>
+	<li><span class="literal"><span property="dbp:genre" lang="en">Romance</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/language"><small>dbp:</small>language</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:language" resource="http://dbpedia.org/resource/Chinese_language" href="http://dbpedia.org/resource/Chinese_language"><small>dbr</small>:Chinese_language</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/lastAired"><small>dbp:</small>lastAired</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:lastAired" datatype="xsd:date">2011-05-20</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/linecolor"><small>dbp:</small>linecolor</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:linecolor" datatype="xsd:decimal">4000000000</span><small> (xsd:decimal)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/name"><small>dbp:</small>name</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:name" lang="en">Let's Play Love</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:name" lang="en">PK爱情</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/network"><small>dbp:</small>network</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:network" resource="http://dbpedia.org/resource/Channel_U_(Singapore)" href="http://dbpedia.org/resource/Channel_U_(Singapore)"><small>dbr</small>:Channel_U_(Singapore)</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/numEpisodes"><small>dbp:</small>numEpisodes</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:numEpisodes" datatype="xsd:integer">20</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/opentheme"><small>dbp:</small>opentheme</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:opentheme" lang="en">我们的Show by Huang Jing Lun</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/originalairdate"><small>dbp:</small>originalairdate</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:originalairdate" datatype="xsd:date">2011-01-04</span><small> (xsd:date)</small></span></li>
+	<li><span class="literal"><span property="dbp:originalairdate" datatype="xsd:date">2011-01-11</span><small> (xsd:date)</small></span></li>
+	<li><span class="literal"><span property="dbp:originalairdate" datatype="xsd:date">2011-01-18</span><small> (xsd:date)</small></span></li>
+	<li><span class="literal"><span property="dbp:originalairdate" datatype="xsd:date">2011-01-25</span><small> (xsd:date)</small></span></li>
+	<li><span class="literal"><span property="dbp:originalairdate" datatype="xsd:date">2011-02-01</span><small> (xsd:date)</small></span></li>
+	<li><span class="literal"><span property="dbp:originalairdate" datatype="xsd:date">2011-02-08</span><small> (xsd:date)</small></span></li>
+	<li><span class="literal"><span property="dbp:originalairdate" datatype="xsd:date">2011-02-15</span><small> (xsd:date)</small></span></li>
+	<li><span class="literal"><span property="dbp:originalairdate" datatype="xsd:date">2011-04-05</span><small> (xsd:date)</small></span></li>
+	<li><span class="literal"><span property="dbp:originalairdate" datatype="xsd:date">2011-04-12</span><small> (xsd:date)</small></span></li>
+	<li><span class="literal"><span property="dbp:originalairdate" datatype="xsd:date">2011-04-19</span><small> (xsd:date)</small></span></li>
+	<li><span class="literal"><span property="dbp:originalairdate" datatype="xsd:date">2011-04-26</span><small> (xsd:date)</small></span></li>
+	<li><span class="literal"><span property="dbp:originalairdate" datatype="xsd:date">2011-10-25</span><small> (xsd:date)</small></span></li>
+	<li><span class="literal"><span property="dbp:originalairdate" datatype="xsd:date">2011-11-01</span><small> (xsd:date)</small></span></li>
+	<li><span class="literal"><span property="dbp:originalairdate" datatype="xsd:date">2011-11-08</span><small> (xsd:date)</small></span></li>
+	<li><span class="literal"><span property="dbp:originalairdate" datatype="xsd:date">2011-11-15</span><small> (xsd:date)</small></span></li>
+	<li><span class="literal"><span property="dbp:originalairdate" datatype="xsd:date">2011-11-22</span><small> (xsd:date)</small></span></li>
+	<li><span class="literal"><span property="dbp:originalairdate" datatype="xsd:date">2011-11-29</span><small> (xsd:date)</small></span></li>
+	<li><span class="literal"><span property="dbp:originalairdate" datatype="xsd:date">2011-12-06</span><small> (xsd:date)</small></span></li>
+	<li><span class="literal"><span property="dbp:originalairdate" datatype="xsd:date">2012-12-13</span><small> (xsd:date)</small></span></li>
+	<li><span class="literal"><span property="dbp:originalairdate" datatype="xsd:date">2013-01-11</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/producer"><small>dbp:</small>producer</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:producer" lang="en">Lai Lee Thin 赖丽婷</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/runtime"><small>dbp:</small>runtime</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:runtime" datatype="dbd:second">180.0</span></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/shortsummary"><small>dbp:</small>shortsummary</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">The local broadcast station comes up with a new reality game show, Let’s Play Love, to find the ‘Best Lover’ through a number of missions. Four males and four females from different backgrounds join the programme for various reasons. Who will accumulate the most points in this race to be the ‘Best Lover’? Ian replaces his friend, who backed out last minute, and takes part in the game show Let’s Play Love. The first round of mission requires him to look for his ‘other half’. Just when he is certain Xiao Yi is ‘the one’, Xiao Yi faints due to her narcolepsy. Ian dashes forward to save her, spilling his bottle of water on her dress. Just then, Xiao Yi wakes up. When she tries to stand up, Xiao Yi accidentally knocks into Ian’s nose, which begins to bleed. Xiao Yi misunderstands Ian, believing that his nose bled because he was too excited after “taking advantage” of her. Xiao Yi angrily slaps Ian on the face.</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Pris is surrounded by reporters, who questioned her on the complicated relationships she shared with various contestants. Pris appears flustered. During the commotion, Ian appears in his scooter and saves Pris.Ian tries to comfort Pris. The latter realises that Ian is actually adorable and wants to take a picture with him. Ian agrees and the two moved closer for a photo. However, Xiao Yi witnesses the scene and feels horrible. She turns to leave.Ian rushes forward and tries to explain to the angry Xiao Yi, but he does not know what to say. At the same time, Xiao Yi receives Chengxi’s call and in a fit of anger, agrees to meet him. A despondent Ian does not know what to do to make Xiao Yi like him.On the other hand, Xiao Yi and Chengxi meet for a movie. Chengxi is secretly pleased with himself when he takes Xiao Yi’s hand during the movie. Then, he realises Xiao Yi has actually fallen asleep…</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">It starts to pour after Xiao Yi fell asleep, Ian carries her from the beach in search of shelter. He brings Xiao Yi to the marquee where Cheng Xi and Pris is. He then runs off in the rain to get a hot drink for Xiao Yi to warm her up. Seeing the drenched Ian, Xiao Yi is quietly touched. The production team receives a secret letter claiming Cheng Xi is gay and Pris is promiscuous. Seeing the opportunity, Coco asks Ash to seduce Cheng Xi to test the latter's sexual orientation. She threatens that Ash may bear the blame for causing Kimmy's food poisoning if he refuses.</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Following the matching done in the previous episodes, the male contestants will now bring their partners on their first dates. Whilst Xiao Yi only took part in the game in a bid to prove that she is up for the game of love, and has no Interest in Ian, the latter went all out to understand Xiao Yi's preference in order to create an unforgettable first date. However, Xiao Yi is attracted to the suave Cheng Xi. Cheng Xi plans the date with Pris halfheartedly. The latter tries to charm him to no avail and she begins to doubt herself.</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Yu Sen, the host of Let’s Play Love, decides to pair Ian with Xiao Yi and ends the show with the couple’s adorable first encounter. Executive producer of the programme Coco is furious over Yu Sen’s decision, but there is nothing she can do.Priscilia realises Ian is her ‘other half’, but despises him because he is not good-looking. In the midst of confusion, Priscilia exchanges her cue card with Xiao Yi’s. Cheng Xi, who is initially Xiao Yi’s ‘other half’, sees what happens, but chooses to ignore the change. To stay in the game, Cheng Xi becomes Priscilia’s part-time prince charming and the two pairs up successfully.</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Coco arranges for Ash to cook for Kimmy on their first date after Ash boasted that he is a good cook. However, it turns out that Ash is nothing close to one and results in Kimmy being hospitalised for food poisoning. To increase viewership for the show, Coco plans for Ash to display his tenderness by staying by Kimmy's side in the hospital. At the hospital, he eyes an attractive nurse and the production team is helpless. Xiao Yi attends her date with Ian. Will the geek win the fair maiden's heart?</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Kimmy is hesitating if she should give Nic and Belle up, when she realises someone else had already exposed the couple’s relationship. Nic is the one who gave up his own secret. Nic explains that he and Belle became a couple after they met on the competition and initiates to leave the contest. Coco stops Yu Sen from exposing Nic and Belle, fearing that they would really withdraw from the competition. At the same time, Kimmy is about to reveal evidences, which proved that Nic and Belle knew each other before the competition, when she is exposed to be an ‘undercover’. Kimmy is then disqualified from the contest.</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Skit performances begin. Ian, acting as Romeo, appears in front of Juliet’s  tomb and wants to see her. Chengxi, as the earl, blocks his way. In order to stop Ian, Chengxi draws out his sword and the two begin to fight. Chengxi uses this chance to let all his anger out and fights Ian.Backstage, Xiao Yi worries an accident will occur and rushes out to protect Ian. Chengxi nearly loses his control when he sees that. Although Ian finally returns to Pris’s side, but he keeps forgetting his lines. Pris keeps reminding Ian crossly.At the final moment when Ian is supposed to kiss Pris, he hesitates and turns to Xiao Yi. Xiao Yi wants Ian to kiss Pris, as the show has to go on. However, Xiao Yi’s narcolepsy acts up suddenly…</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">In the theater, an embarrassed Xiao Yi wakes up after a nightmare. Chengxi finds out that Xiao Yi actually prefers comedies to melodramas. At the same time, Ian drags Pris to a fashion store and hopes that Pris can transform him into a fashionista like Chengxi. Just when Pris is dressing Ian, Chengxi and Xiao Yi enters the store. Xiao Yi sees the intimacy between Ian and Pris and turns to leave. Chengxi confesses his liking for Xiao Yi and attempts to kiss her. Xiao Yi realises that Chengxi is not her Prince Charming and leaves dejectedly. Then, Ian turns up in front of Xiao Yi in his new image and hopes that Xiao Yi would give him a chance. Xiao Yi angrily says that she will never like him. Ian turns and walks away sadly. Xiao Yi finds his back view familiar…</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Both Belle and Nic try to talk Ian and Xiao Yi into withdrawing from the competition. Yu Sen shakes his head upon seeing that Coco only cares about viewership. In the end, Xiao Yi, Ian and Belle withdraw from the contest, crowning Nic the winner of the game. Nic is elated with his win, but Belle tells him that their relationship is over. Ian and Xiao Yi speak over the phone. Xiao Yi tells Ian that she hopes he would play “Fated to be You” with her again. If they meet in five minutes, she will date him. The clock is ticking. At the end of five minutes, will Ian meet Xiao Yi?</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Cheng Xi and Pris arrives at the romantic setting for their date and discovers Xiao Yi. The latter discovers she has gone to the wrong place and dashes off with embarrassment. Pris comments that Cheng Xi must be disappointed that his real princess has run away. Cheng Xi shows a nonchalant expression. Xiao Yi arrives at the beach for the date with Ian. Ian presents her with the gifts he had painstaking prepared for her. As he charms her with a song, her narcolepsy kicks in.</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">The second group begins to perform their skit Twilight. Delicate Belle needs warmth, but Nic, the vampire, cannot give her that. At the same time, Ash appears. Just as he is about to hug Belle, Nic stops the guy and hugs Belle instead, shocking everyone.Nic tells Belle that he cannot tolerate other men touching her and wants Belle to promise him that she will be with him forever. Belle does not know what to do. However, Nic does what he did, only because he wants to be in the limelight. Belle hesitates under Nic’s urge. Ash becomes jealous of Belle, as he hopes he is the one in Nic’s arms. Candice quickly pushes Kimmy on stage, causing Kimmy to knock into Ash accidentally. To prove that he is not gay, Ash kisses Kimmy…</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Xiao Yi does not understand why Cheng Xi withdrew from the competition. Cheng Xi tells her that three is a crowd, leaving Xiao Yi at a loss. On the other hand, Nic goes to Coco angrily and demands to know why he lost to Ash in the polls, despite performing better than Ash. Nic lambasts the competition for being unfair and threatens to leave the contest. Belle says that she will follow Nic’s decision. After Nic and Belle left the competition, Belle is afraid that her secret -- that she was the person who sent anonymous letters to the production team -- would be exposed. Nic assures her and promises to marry her once this is over. Kimmy overhears the couple’s conversation. At the same time, someone appears and demands Nic to repay his debts. Belle begs him and he lets Nic off for the time being.</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">The eight contestants are finally paired together. Yu Sen criticised Let’s Play Love as a silly idea concocted by someone who had not been in love before. An infuriated Coco said that she would not be doing shallow programmes like this if she was not stripped off her status as a news anchor. Xiao Yi twists her ankle, but continues to demand Ian quits the game. At this moment, narcolepsy kicks in again and Cheng Xi appears and held her from her fall. Priscilia and Ian looks on with displeasure. Ash tells Candice, the assistant producer, that he does not want to be paired up with the tomboyish Kimmy. However, the model changes his attitude when he sees reporters. Ash says he will accept Kimmy regardless of her looks and job.It seems like only Nic and Isabelle are truly satisfied with each other. Yu Sen appears and prepares to announce the results for the first round…</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Ash arrives at a club and advances towards Chengxi purposefully. A drunk Chengxi mistakes Ash for Xiao Yi and confesses his feelings to Ash. Ash begins to suspect if he himself is a gay. At the same time, the production crew realises that Belle was the one who wrote and sent the anonymous letters. The show proceeds to its third round of competitions. Contestants are divided into two groups. Each group is to perform a short skit to test their chemistry with each other.During the skit, Xiao Yi is at a loss when facing Chengxi’s romantic gestures. Ash complains about acting as a werewolf. Nic and Belle exit the makeup unit hand-in-hand and believe that Ash has caught them together.Nic peeks at Ash from time to time. He is worried that Ash found out about his relationship wit Belle. However, Nic’s actions cause Ash to wonder if he is really gay …</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Ash misunderstands, thinking that Kimmy left the contest because he lost, and believes that Kimmy is in love with him. Ash then helps Kimmy to transform her image. However, he is attracted to the beautiful Kimmy and ends up wooing her.On the other hand, Pris, who had lost earlier in the game, receives a Facebook invitation from Chengxi and feels better immediately.There are only four competitors left in Let’s Play Love. Ian, Xiao Yi, Nic and Belle are challenged to see who will the first one to win a kiss.</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Ash is a popular model with many fans. All brawn and no brains, Ash believes that he can get anyone he wants. The time is ticking, but Ash still could not find his ‘other half’. Kimmy is frustrated that Ash could not figure out the hints. Not only is she Ash’s ‘other half’, she is also a paparazzi, working undercover to get scoops on the game show. Before time is up, Kimmy bit the bullet and acknowledged Ash. The two become a couple.</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Ian discovers Xiao Yi's favourite food is instant noodles and tries to find the tastiest instant noodle available. To prove that she still has her charms, Pris tries to seduce Nic, again to no avail. Nic brings Belle to a high class restaurant. Belle appears distracted.</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Xiao Yi is upset that the production crew separated her and Ian and makes her pair up with Nic. Ian misunderstands and thinks that Xiao Yi cares whether she wins or loses, leaving the latter disappointed. Belle does not want to be on the same team as Ian, and wonders if Nic could really kiss someone he does not love. Nic explains that whatever he does is for his future with Belle. The round officially begins. Belle asks Ian to let her win the competition as she really needed the cash prize. On the other hand, Nic admits that he cannot kiss Xiao Yi because he is really in love with Belle. However, because of his love for Belle, the competition has to go on…</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:shortsummary" lang="en">Nicholas meets Isabelle in the middle of a crowd and confesses his love for her with a bouquet of roses. He had bought them after he noticed a tint of rose perfume on her. Isabelle feels that Nicholas’s confession was surprising but sweet. She asks Nicholas what if she isn’t a contestant. Nicholas romantically replied, “I didn’t give you the flowers because you’re a contestant. I really think you’re the girl I’m looking for. If you’re not a contestant, I’m willing to quit the game to be with you.” Isabelle is touched by his words. The couple stood out from the rest, becoming the most well-matched couple.</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/starring"><small>dbp:</small>starring</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:starring" resource="http://dbpedia.org/resource/Wong_Jinglun" href="http://dbpedia.org/resource/Wong_Jinglun"><small>dbr</small>:Wong_Jinglun</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:starring" resource="http://dbpedia.org/resource/Jeffrey_Xu" href="http://dbpedia.org/resource/Jeffrey_Xu"><small>dbr</small>:Jeffrey_Xu</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:starring" resource="http://dbpedia.org/resource/Romeo_Tan" href="http://dbpedia.org/resource/Romeo_Tan"><small>dbr</small>:Romeo_Tan</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:starring" resource="http://dbpedia.org/resource/Sora_Ma" href="http://dbpedia.org/resource/Sora_Ma"><small>dbr</small>:Sora_Ma</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:starring" resource="http://dbpedia.org/resource/Julie_Tan" href="http://dbpedia.org/resource/Julie_Tan"><small>dbr</small>:Julie_Tan</a></span></li>
+	<li><span class="literal"><span property="dbp:starring" lang="en">Teresa Tseng</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:starring" lang="en">James Seah</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:starring" lang="en">Silver Ang</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/title"><small>dbp:</small>title</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:title" lang="en">Chapter 13</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:title" lang="en">Chapter 3</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:title" lang="en">Chapter 5</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:title" lang="en">Chapter 1</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:title" lang="en">Chapter 10</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:title" lang="en">Chapter 11</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:title" lang="en">Chapter 12</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:title" lang="en">Chapter 2</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:title" lang="en">Chapter 4</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:title" lang="en">Chapter 6</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:title" lang="en">Chapter 7</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:title" lang="en">Chapter 8</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:title" lang="en">Chapter 9</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:title" lang="en">Chapter 18</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:title" lang="en">Chapter 14</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:title" lang="en">Chapter 15</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:title" lang="en">Chapter 16</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:title" lang="en">Chapter 17</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:title" lang="en">Chapter 19</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:title" lang="en">Chapter 20</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/website"><small>dbp:</small>website</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:website nofollow" resource="https://web.archive.org/web/20111104115857/http:/entertainment.xin.msn.com/zh/lets-play-love/default.aspx" href="https://web.archive.org/web/20111104115857/http:/entertainment.xin.msn.com/zh/lets-play-love/default.aspx">https://web.archive.org/web/20111104115857/http:/entertainment.xin.msn.com/zh/lets-play-love/default.aspx</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/websiteTitle"><small>dbp:</small>websiteTitle</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:websiteTitle" lang="en">Official Website - Web Archive</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/wikiPageUsesTemplate"><small>dbp:</small>wikiPageUsesTemplate</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:End_date" href="http://dbpedia.org/resource/Template:End_date"><small>dbt</small>:End_date</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Episode_list" href="http://dbpedia.org/resource/Template:Episode_list"><small>dbt</small>:Episode_list</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Infobox_television" href="http://dbpedia.org/resource/Template:Infobox_television"><small>dbt</small>:Infobox_television</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Reflist" href="http://dbpedia.org/resource/Template:Reflist"><small>dbt</small>:Reflist</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Start_date" href="http://dbpedia.org/resource/Template:Start_date"><small>dbt</small>:Start_date</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://purl.org/dc/terms/subject"><small>dct:</small>subject</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:Drama_web_series" href="http://dbpedia.org/resource/Category:Drama_web_series"><small>dbc</small>:Drama_web_series</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:Singapore_Chinese_dramas" href="http://dbpedia.org/resource/Category:Singapore_Chinese_dramas"><small>dbc</small>:Singapore_Chinese_dramas</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://purl.org/linguistics/gold/hypernym"><small>gold:</small>hypernym</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="gold:hypernym" resource="http://dbpedia.org/resource/Series" prefix="gold: http://purl.org/linguistics/gold/" href="http://dbpedia.org/resource/Series"><small>dbr</small>:Series</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"><small>rdf:</small>type</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://www.w3.org/2002/07/owl#Thing" href="http://www.w3.org/2002/07/owl#Thing"><small>owl</small>:Thing</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://schema.org/CreativeWork" href="http://schema.org/CreativeWork"><small>schema</small>:CreativeWork</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/ontology/Work" href="http://dbpedia.org/ontology/Work"><small>dbo</small>:Work</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://www.wikidata.org/entity/Q15416" href="http://www.wikidata.org/entity/Q15416"><small>wikidata</small>:Q15416</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://www.wikidata.org/entity/Q386724" href="http://www.wikidata.org/entity/Q386724"><small>wikidata</small>:Q386724</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/ontology/TelevisionShow" href="http://dbpedia.org/ontology/TelevisionShow"><small>dbo</small>:TelevisionShow</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Artifact100021939" href="http://dbpedia.org/class/yago/Artifact100021939"><small>yago</small>:Artifact100021939</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Broadcasting106276697" href="http://dbpedia.org/class/yago/Broadcasting106276697"><small>yago</small>:Broadcasting106276697</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Instrumentality103575240" href="http://dbpedia.org/class/yago/Instrumentality103575240"><small>yago</small>:Instrumentality103575240</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Medium106254669" href="http://dbpedia.org/class/yago/Medium106254669"><small>yago</small>:Medium106254669</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Object100002684" href="http://dbpedia.org/class/yago/Object100002684"><small>yago</small>:Object100002684</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" href="http://dbpedia.org/class/yago/PhysicalEntity100001930"><small>yago</small>:PhysicalEntity100001930</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Telecommunication106271778" href="http://dbpedia.org/class/yago/Telecommunication106271778"><small>yago</small>:Telecommunication106271778</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Television106277280" href="http://dbpedia.org/class/yago/Television106277280"><small>yago</small>:Television106277280</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Whole100003553" href="http://dbpedia.org/class/yago/Whole100003553"><small>yago</small>:Whole100003553</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://www.w3.org/2000/01/rdf-schema#comment"><small>rdfs:</small>comment</a>
+</td><td class="col-10 text-break"><ul>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="zh">《PK愛情》（英語：Let's Play Love》）是新加坡雙語網站xinmsn為慶祝一週年開拍的首部網上劇集，由新傳媒拍攝，2011年4月4日在xinmsn播出，稍後在U頻道播出。</span><small> (zh)</small></span></li>
+	<li><span class="literal"><span property="rdfs:comment" lang="en">Let's Play Love (PK爱情) is a Singaporean web series which was launched in April 2011. It was produced to celebrate xinmsn's 1st anniversary and is the first interactive web series produced by MediaCorp. Webisodes are available on xinmsn's Catch-up TV portal. It was also broadcast on Channel U.</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://www.w3.org/2000/01/rdf-schema#label"><small>rdfs:</small>label</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="rdfs:label" lang="en">Let's Play Love</span><small> (en)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="zh">PK愛情</span><small> (zh)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://www.w3.org/2002/07/owl#sameAs"><small>owl:</small>sameAs</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://rdf.freebase.com/ns/m.0n45l43" href="http://rdf.freebase.com/ns/m.0n45l43"><small>freebase</small>:Let's Play Love</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="https://global.dbpedia.org/id/4pvR7" href="https://global.dbpedia.org/id/4pvR7">https://global.dbpedia.org/id/4pvR7</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://www.wikidata.org/entity/Q6532519" href="http://www.wikidata.org/entity/Q6532519"><small>wikidata</small>:Let's Play Love</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://zh.dbpedia.org/resource/PK愛情" href="http://zh.dbpedia.org/resource/PK愛情"><small>dbpedia-zh</small>:Let's Play Love</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://www.w3.org/ns/prov#wasDerivedFrom"><small>prov:</small>wasDerivedFrom</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="prov:wasDerivedFrom" resource="http://en.wikipedia.org/wiki/Let's_Play_Love?oldid=996906776&amp;ns=0" href="http://en.wikipedia.org/wiki/Let's_Play_Love?oldid=996906776&amp;ns=0"><small>wikipedia-en</small>:Let's_Play_Love?oldid=996906776&amp;ns=0</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://xmlns.com/foaf/0.1/homepage"><small>foaf:</small>homepage</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="foaf:homepage nofollow" resource="https://web.archive.org/web/20111104115857/http:/entertainment.xin.msn.com/zh/lets-play-love/default.aspx" href="https://web.archive.org/web/20111104115857/http:/entertainment.xin.msn.com/zh/lets-play-love/default.aspx">https://web.archive.org/web/20111104115857/http:/entertainment.xin.msn.com/zh/lets-play-love/default.aspx</a></span></li>
+	<li><span class="literal"><a class="uri" rel="foaf:homepage nofollow" resource="https://web.archive.org/web/20111104115857/http://entertainment.xin.msn.com/zh/lets-play-love/default.aspx" href="https://web.archive.org/web/20111104115857/http://entertainment.xin.msn.com/zh/lets-play-love/default.aspx">https://web.archive.org/web/20111104115857/http://entertainment.xin.msn.com/zh/lets-play-love/default.aspx</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://xmlns.com/foaf/0.1/isPrimaryTopicOf"><small>foaf:</small>isPrimaryTopicOf</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="foaf:isPrimaryTopicOf" resource="http://en.wikipedia.org/wiki/Let's_Play_Love" href="http://en.wikipedia.org/wiki/Let's_Play_Love"><small>wikipedia-en</small>:Let's_Play_Love</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2">is <a class="uri" href="http://dbpedia.org/ontology/previousWork"><small>dbo:</small>previousWork</a>
+ of</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:previousWork" resource="http://dbpedia.org/resource/Blk_88" href="http://dbpedia.org/resource/Blk_88"><small>dbr</small>:Blk_88</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2">is <a class="uri" href="http://dbpedia.org/ontology/wikiPageRedirects"><small>dbo:</small>wikiPageRedirects</a>
+ of</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" resource="http://dbpedia.org/resource/List_of_Let's_Play_Love_episodes" href="http://dbpedia.org/resource/List_of_Let's_Play_Love_episodes"><small>dbr</small>:List_of_Let's_Play_Love_episodes</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2">is <a class="uri" href="http://dbpedia.org/ontology/wikiPageWikiLink"><small>dbo:</small>wikiPageWikiLink</a>
+ of</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Index_of_Singapore-related_articles" href="http://dbpedia.org/resource/Index_of_Singapore-related_articles"><small>dbr</small>:Index_of_Singapore-related_articles</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jeffrey_Xu" href="http://dbpedia.org/resource/Jeffrey_Xu"><small>dbr</small>:Jeffrey_Xu</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Blk_88" href="http://dbpedia.org/resource/Blk_88"><small>dbr</small>:Blk_88</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Michelle_Chia" href="http://dbpedia.org/resource/Michelle_Chia"><small>dbr</small>:Michelle_Chia</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Romeo_Tan" href="http://dbpedia.org/resource/Romeo_Tan"><small>dbr</small>:Romeo_Tan</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Sora_Ma" href="http://dbpedia.org/resource/Sora_Ma"><small>dbr</small>:Sora_Ma</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Julie_Tan" href="http://dbpedia.org/resource/Julie_Tan"><small>dbr</small>:Julie_Tan</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_Let's_Play_Love_episodes" href="http://dbpedia.org/resource/List_of_Let's_Play_Love_episodes"><small>dbr</small>:List_of_Let's_Play_Love_episodes</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2">is <a class="uri" href="http://xmlns.com/foaf/0.1/primaryTopic"><small>foaf:</small>primaryTopic</a>
+ of</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rev="foaf:primaryTopic" resource="http://en.wikipedia.org/wiki/Let's_Play_Love" href="http://en.wikipedia.org/wiki/Let's_Play_Love"><small>wikipedia-en</small>:Let's_Play_Love</a></span></li>
+</ul></td></tr>
+		    </tbody>
+		</table>
+	    </div>
+	</div>
+    </div>
+</section>
+<!-- property-table -->
+
+<!-- footer -->
+<section>
+    <div class="container-xl">
+	<div class="text-center p-4 bg-light">
+	    <a href="https://virtuoso.openlinksw.com/" title="OpenLink Virtuoso"><img class="powered_by" src="/statics/images/virt_power_no_border.png" alt="Powered by OpenLink Virtuoso"></a>&nbsp; &nbsp;
+	    <a href="http://linkeddata.org/"><img alt="This material is Open Knowledge" src="/statics/images/LoDLogo.gif"></a> &nbsp; &nbsp;
+	    <a href="http://dbpedia.org/sparql"><img alt="W3C Semantic Web Technology" src="/statics/images/sw-sparql-blue.png"></a> &nbsp;  &nbsp;
+	    <a href="https://opendefinition.org/"><img alt="This material is Open Knowledge" src="/statics/images/od_80x15_red_green.png"></a>&nbsp; &nbsp;
+	    <span style="display:none;" about="" resource="http://www.w3.org/TR/rdfa-syntax" rel="dc:conformsTo">
+		<a href="https://validator.w3.org/check?uri=referer">
+		    <img src="https://www.w3.org/Icons/valid-xhtml-rdfa" alt="Valid XHTML + RDFa">
+		</a>
+	    </span>
+	    <br>
+	    <small class="text-muted">
+		This content was extracted from <a href="http://en.wikipedia.org/wiki/Let's_Play_Love">Wikipedia</a> and is licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>
+
+	    </small>
+	</div>
+    </div>
+</section>
+<!-- #footer -->
+
+<!-- scripts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/js/bootstrap.bundle.min.js" integrity="sha512-pax4MlgXjHEPfCwcJLQhigY7+N8rt6bVvWLFyUMuxShv170X53TRzGPmPkZmGBhk+jikR8WBM4yl7A9WMHHqvg==" crossorigin="anonymous">
+    </script>
+
+
+</body></html>

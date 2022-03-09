@@ -1,0 +1,724 @@
+<html prefix="
+        dbp: http://dbpedia.org/property/
+        dbo: http://dbedia.org/ontology/
+        dct: http://purl.org/dc/terms/
+        dbd: http://dbpedia.org/datatype/
+	og:  https://ogp.me/ns#
+	"><!-- header --><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>About: Legends (TV series)</title>
+
+    <!-- Links -->
+    <link rel="alternate" type="application/rdf+xml" href="http://dbpedia.org/data/Legends_(TV_series).rdf" title="Structured Descriptor Document (RDF/XML format)">
+    <link rel="alternate" type="text/n3" href="http://dbpedia.org/data/Legends_(TV_series).n3" title="Structured Descriptor Document (N3 format)">
+    <link rel="alternate" type="text/turtle" href="http://dbpedia.org/data/Legends_(TV_series).ttl" title="Structured Descriptor Document (Turtle format)">
+    <link rel="alternate" type="application/json+rdf" href="http://dbpedia.org/data/Legends_(TV_series).jrdf" title="Structured Descriptor Document (RDF/JSON format)">
+    <link rel="alternate" type="application/json" href="http://dbpedia.org/data/Legends_(TV_series).json" title="Structured Descriptor Document (RDF/JSON format)">
+    <link rel="alternate" type="application/atom+xml" href="http://dbpedia.org/data/Legends_(TV_series).atom" title="OData (Atom+Feed format)">
+    <link rel="alternate" type="text/plain" href="http://dbpedia.org/data/Legends_(TV_series).ntriples" title="Structured Descriptor Document (N-Triples format)">
+    <link rel="alternate" type="text/csv" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FLegends_%28TV_series%29%3E&amp;format=text%2Fcsv" title="Structured Descriptor Document (CSV format)">
+    
+    <link rel="alternate" type="application/microdata+json" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FLegends_%28TV_series%29%3E&amp;format=application%2Fmicrodata%2Bjson" title="Structured Descriptor Document (Microdata/JSON format)">
+    <link rel="alternate" type="text/html" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FLegends_%28TV_series%29%3E&amp;format=text%2Fhtml" title="Structured Descriptor Document (Microdata/HTML format)">
+    <link rel="alternate" type="application/ld+json" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FLegends_%28TV_series%29%3E&amp;format=application%2Fjson-ld" title="Structured Descriptor Document (JSON-LD format)">
+    <link rel="alternate" type="text/x-html-script-ld+json" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FLegends_%28TV_series%29%3E&amp;format=text%2Fx-html-script-ld%2Bjson" title="Structured Descriptor Document (HTML with embedded JSON-LD)">
+    <link rel="alternate" type="text/x-html-script-turtle" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FLegends_%28TV_series%29%3E&amp;format=text%2Fx-html-script-turtle" title="Structured Descriptor Document (HTML with embedded Turtle)">
+    <link rel="timegate" type="text/html" href="http://dbpedia.mementodepot.org/timegate/http://dbpedia.org/page/Legends_(TV_series)" title="Time Machine">
+    <link rel="foaf:primarytopic" href="http://dbpedia.org/resource/Legends_(TV_series)">
+    <link rev="describedby" href="http://dbpedia.org/resource/Legends_(TV_series)">
+    <!-- /Links -->
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/css/bootstrap.min.css" integrity="sha512-GQGU0fMMi238uA+a/bdWJfpUGKUkBdgfFdgBm72SUQ6BeyWjoY/ton0tEjH+OSH9iP4Dfh+7HM0I9f5eR0L/4w==" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.8.1/font/bootstrap-icons.min.css" integrity="sha512-Oy+sz5W86PK0ZIkawrG0iv7XwWhYecM3exvUtMKNJMekGFJtVAhibhRPTpmyTj8+lJCkmWfnpxKgT2OopquBHA==" crossorigin="anonymous">
+    <!-- link rel="stylesheet" href="/statics/css/dbpedia.css" -->
+    <!-- /Stylesheets-->
+
+    <!-- OpenGraph -->
+    <meta property="og:title" content="Legends (TV series)">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="http://dbpedia.org/resource/Legends_(TV_series)">
+    <meta property="og:image" content="http://commons.wikimedia.org/wiki/Special:FilePath/Legends_(TV)_logo.jpg?width=300">
+    <meta property="og:description" content="Legends is an American crime drama television series which aired on TNT from August 13, 2014 to December 28, 2015. Developed by Howard Gordon, Jeffrey Nachmanoff, and Mark Bomback, the series is based on the 2005 book Legends: A Novel of Dissimulation written by Robert Littell. On December 4, 2014, TNT renewed Legends for a 10-episode second season, which premiered on November 2, 2015. On December 15, 2015, TNT canceled the series after two seasons and 20 episodes.">
+    <meta property="og:site_name" content="DBpedia">
+    <!-- /OpenGraph-->
+</head>
+<body about="http://dbpedia.org/resource/Legends_(TV_series)">
+
+<!-- navbar -->
+<nav class="navbar navbar-expand-md navbar-light bg-light fixed-top align-items-center">
+    <div class="container-xl">
+	<a class="navbar-brand" href="http://wiki.dbpedia.org/about" title="About DBpedia" style="color: #2c5078">
+	    <img class="img-fluid" src="/statics/images/dbpedia_logo_land_120.png" alt="About DBpedia">
+	</a>
+	<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#dbp-navbar" aria-controls="dbp-navbar" aria-expanded="false" aria-label="Toggle navigation">
+	    <span class="navbar-toggler-icon"></span>
+	</button>
+
+	<div class="collapse navbar-collapse" id="dbp-navbar">
+	    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+		<li class="nav-item dropdown">
+		    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBrowse" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+		    <i class="bi-eye-fill"></i> Browse using<span class="caret"></span></a>
+
+		    <ul class="dropdown-menu" aria-labelledby="navbarDropdownBrowse">
+			<li class="dropdown-item"><a class="nav-link" href="/describe/?uri=http%3A%2F%2Fdbpedia.org%2Fresource%2FLegends_%28TV_series%29">OpenLink Faceted Browser</a></li>
+			<li class="dropdown-item"><a class="nav-link" href="http://osde.demo.openlinksw.com/#/editor?uri=http%3A%2F%2Fdbpedia.org%2Fdata%2FLegends_%28TV_series%29.ttl&amp;view=statements">OpenLink Structured Data Editor</a></li>
+			<li class="dropdown-item"><a class="nav-link" href="http://en.lodlive.it/?http%3A%2F%2Fdbpedia.org%2Fresource%2FLegends_%28TV_series%29">LodLive Browser</a></li>
+			<!-- li class="dropdown-item"><a class="nav-link" href="http://lodmilla.sztaki.hu/lodmilla/?url=http%3A%2F%2Fdbpedia.org%2Fresource%2FLegends_%28TV_series%29">LODmilla Browser</a></li -->
+		    </ul>
+		</li>
+
+		<li class="nav-item dropdown">
+		    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownFormats" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+		    <i class="bi-file-earmark-fill"></i> Formats<span class="caret"></span></a>
+
+		    <ul class="dropdown-menu" aria-labelledby="navbarDropdownFormats">
+			<li class="dropdown-item-text">RDF:</li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/Legends_(TV_series).ntriples">N-Triples</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/Legends_(TV_series).n3">N3</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/Legends_(TV_series).ttl">Turtle</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/Legends_(TV_series).json">JSON</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/Legends_(TV_series).rdf">XML</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">OData:</li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/Legends_(TV_series).atom">Atom</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/Legends_(TV_series).jsod">JSON</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">Microdata:</li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FLegends_%28TV_series%29%3E&amp;format=application%2Fmicrodata%2Bjson">JSON</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FLegends_%28TV_series%29%3E&amp;format=text%2Fhtml">HTML</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">Embedded:</li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FLegends_%28TV_series%29%3E&amp;format=text%2Fx-html-script-ld%2Bjson">JSON</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FLegends_%28TV_series%29%3E&amp;format=text%2Fx-html-script-turtle">Turtle</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">Other:</li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FLegends_%28TV_series%29%3E&amp;format=text%2Fcsv">CSV</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FLegends_%28TV_series%29%3E&amp;format=application%2Fjson-ld">JSON-LD</a></li>
+
+		    </ul>
+		</li>
+	    </ul>
+
+	    <ul class="navbar-nav ms-auto">
+		<li class="nav-item">
+		    <a class="nav-link" href="/fct/" title="Switch to /fct endpoint"><i class="bi-box-arrow-up-right"></i> Faceted Browser </a>
+		</li>
+
+		<li class="nav-item">
+		    <a class="nav-link" href="/sparql/" title="Switch to /sparql endpoint"><i class="bi-box-arrow-up-right"></i> Sparql Endpoint </a>
+		</li>
+
+	    </ul>
+	</div>
+   </div>
+</nav>
+<div style="margin-bottom: 60px"></div>
+<!-- /navbar -->
+
+
+<!-- page-header -->
+<section>
+    <div class="container-xl">
+	<div class="row">
+	    <div class="col">
+		<h1 id="title" class="display-6"><b>About:</b>
+		    <a href="http://dbpedia.org/resource/Legends_(TV_series)">Legends (TV series)</a>
+		</h1>
+	    </div>
+	</div>
+	<div class="row">
+	    <div class="col">
+		<div class="text-muted">
+		    <span class="text-nowrap">An Entity of Type: <a href="http://dbpedia.org/ontology/TelevisionShow">television show</a>, </span>
+		    <span class="text-nowrap">from Named Graph:  <a href="http://dbpedia.org">http://dbpedia.org</a>, </span>
+		    <span class="text-nowrap">within Data Space: <a href="http://dbpedia.org">dbpedia.org</a></span>
+		</div>
+	    </div>
+	</div>
+	<div class="row pt-2">
+	    <div class="col-xs-9 col-sm-10">
+		<p class="lead">Legends is an American crime drama television series which aired on TNT from August 13, 2014 to December 28, 2015. Developed by Howard Gordon, Jeffrey Nachmanoff, and Mark Bomback, the series is based on the 2005 book Legends: A Novel of Dissimulation written by Robert Littell. On December 4, 2014, TNT renewed Legends for a 10-episode second season, which premiered on November 2, 2015. On December 15, 2015, TNT canceled the series after two seasons and 20 episodes.</p>
+	    </div>
+
+	    <div class="col-xs-3 col-sm-2">
+		<a href="#" class="thumbnail">
+		    <img src="http://commons.wikimedia.org/wiki/Special:FilePath/Legends_(TV)_logo.jpg?width=300" alt="thumbnail" class="img-fluid">
+		</a>
+	    </div>
+
+	</div>
+    </div>
+</section>
+<!-- page-header -->
+
+<!-- property-table -->
+<section>
+    <div class="container-xl">
+	<div class="row">
+	    <div class="table-responsive">
+		<table class="table table-hover table-sm table-light">
+		    <thead>
+			<tr>
+			    <th class="col-xs-3 ">Property</th>
+			    <th class="col-xs-9 px-3">Value</th>
+			</tr>
+		    </thead>
+		    <tbody>
+<tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/abstract"><small>dbo:</small>abstract</a>
+</td><td class="col-10 text-break"><ul>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="de">Legends ist eine US-amerikanische Krimiserie, die von 2014 bis 2015 von für den Sender TNT produziert wurde. Die Serie basiert auf dem englischen Buch Legends: A Novel of Dissimulation von Robert Littell. Die Erstausstrahlung in den Vereinigten Staaten war am 13. August 2014. In Deutschland fand die Erstausstrahlung der Serie am 13. April 2015 auf TNT Serie statt. Der Sender TNT hat die Serie nach zwei Staffeln im Dezember 2015 offiziell abgesetzt.</span><small> (de)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="es">Legends es una serie de televisión estadounidense transmitida por TNT. Se estrenó el 13 de agosto de 2014, basado en el libro Legends: A Novel of Dissimulation escrito por Robert Littell.​​​</span><small> (es)</small></span></li>
+	<li><span class="literal"><span property="dbo:abstract" lang="en">Legends is an American crime drama television series which aired on TNT from August 13, 2014 to December 28, 2015. Developed by Howard Gordon, Jeffrey Nachmanoff, and Mark Bomback, the series is based on the 2005 book Legends: A Novel of Dissimulation written by Robert Littell. On December 4, 2014, TNT renewed Legends for a 10-episode second season, which premiered on November 2, 2015. On December 15, 2015, TNT canceled the series after two seasons and 20 episodes.</span><small> (en)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="fr">Legends est une série télévisée dramatique américaine en vingt épisodes de 42 minutes créée par Mark Bomback, Howard Gordon et Jeffrey Nachmanoff et adaptée du roman éponyme de Robert Littell, diffusée entre le 20 août 2014 et le 28 décembre 2015 sur la chaîne TNT et sur Bravo! au Canada. Elle est produite par Howard Gordon, producteur exécutif de Homeland. En France, la série est diffusée depuis le 20 avril 2016 sur Série Club, depuis le 15 octobre 2017 sur W9 et rediffusée sur M6 depuis le 9 juillet 2018. Elle reste inédite dans les autres pays francophones.</span><small> (fr)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="it">Legends è una serie televisiva statunitense sviluppata da Howard Gordon, Jeffrey Nachmanoff e Mark Bomback e trasmessa per due stagioni tra il 2014 e il 2015 su TNT. Basata sul romanzo Legends, scritto da Robert Littell, ha debuttato il 13 agosto 2014, mentre il 14 dicembre 2015, dopo il termine della produzione della seconda stagione, ne è stata annunciata la cancellazione. In Italia è stata trasmessa dal 26 febbraio 2015 sul canale a pagamento Fox.</span><small> (it)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="ko">《레전드》(영어: Legends)는 2014년 8월 13일부터 2015년 12월 28일까지 TNT에서 방영된 드라마이다.</span><small> (ko)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="pl">Maski szpiega (ang. Legends) – amerykański serial kryminalny wyprodukowany przez Fox 21. Pierwotnie został stworzony dla telewizji NBC. Serial jest adaptacją powieści „Legendy, czyli maski szpiega” autorstwa Roberta Littella. Jego scenariusz opracowali: ,  oraz . Od 13 sierpnia 2014 roku jest on emitowany przez kanał TNT. 5 grudnia 2014 roku, stacja TNT zamówiła drugą serię W Polsce serial jest emitowany od 16 lutego 2015 roku przez Fox Polska.15 grudnia 2015 roku, stacja TNT ogłosiła anulowanie serialu.</span><small> (pl)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="pt">Legends foi uma série de televisão estadunidense transmitido pelo canal TNT desde 13 de agosto de 2014. Baseada no livro Legends: A Novel of Dissimulation escrito por Robert Littell. A Rede Globo exibiu em 15 a 27 de Junho de 2015.</span><small> (pt)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="ru">«Леге́нды» (англ. Legends) — американский криминально-драматический телесериал с Шоном Бином в главной роли, который выходил в эфир на телеканале TNT с 13 августа 2014 года по 28 декабря 2015 года. Сериал, основанный на книге «Легенды: Роман обмана» Роберта Литтела , разработан Говардом Гордоном, Джеффри Начманоффом и Марком Бомбэком. 8 мая 2013 года канал TNT заказал 10 серий и назначил премьеру на 13 августа 2014 года. В декабре 2014 года телеканал TNT продлил сериал на второй сезон также из 10 эпизодов, премьера которого состоялась 2 ноября 2015 года. После показа половины второго сезона TNT принял решение закрыть сериал.</span><small> (ru)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="zh">《传奇卧底》（英文：Legends，又译：潜龙谍影、传奇、千面传奇）是一部2014年开始在美国TNT电视台播出的关于FBI深度卧底的剧集。本片根据Robert Littell创作的小说改编，2013年5月8号，TNT订购了一季共计10集，并于2014年8月13号正式播出。</span><small> (zh)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/company"><small>dbo:</small>company</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:company" resource="http://dbpedia.org/resource/Touchstone_Television" href="http://dbpedia.org/resource/Touchstone_Television"><small>dbr</small>:Touchstone_Television</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/completionDate"><small>dbo:</small>completionDate</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:completionDate" datatype="xsd:date">2015-12-28</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/composer"><small>dbo:</small>composer</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:composer" resource="http://dbpedia.org/resource/Reinhold_Heil" href="http://dbpedia.org/resource/Reinhold_Heil"><small>dbr</small>:Reinhold_Heil</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/developer"><small>dbo:</small>developer</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:developer" resource="http://dbpedia.org/resource/Howard_Gordon" href="http://dbpedia.org/resource/Howard_Gordon"><small>dbr</small>:Howard_Gordon</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:developer" resource="http://dbpedia.org/resource/Mark_Bomback" href="http://dbpedia.org/resource/Mark_Bomback"><small>dbr</small>:Mark_Bomback</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:developer" resource="http://dbpedia.org/resource/Jeffrey_Nachmanoff" href="http://dbpedia.org/resource/Jeffrey_Nachmanoff"><small>dbr</small>:Jeffrey_Nachmanoff</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/distributor"><small>dbo:</small>distributor</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:distributor" resource="http://dbpedia.org/resource/20th_Television" href="http://dbpedia.org/resource/20th_Television"><small>dbr</small>:20th_Television</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/executiveProducer"><small>dbo:</small>executiveProducer</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:executiveProducer" resource="http://dbpedia.org/resource/Kenneth_Biller" href="http://dbpedia.org/resource/Kenneth_Biller"><small>dbr</small>:Kenneth_Biller</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:executiveProducer" resource="http://dbpedia.org/resource/David_Wilcox_(screenwriter)" href="http://dbpedia.org/resource/David_Wilcox_(screenwriter)"><small>dbr</small>:David_Wilcox_(screenwriter)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:executiveProducer" resource="http://dbpedia.org/resource/Howard_Gordon" href="http://dbpedia.org/resource/Howard_Gordon"><small>dbr</small>:Howard_Gordon</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:executiveProducer" resource="http://dbpedia.org/resource/Alexander_Cary,_Master_of_Falkland" href="http://dbpedia.org/resource/Alexander_Cary,_Master_of_Falkland"><small>dbr</small>:Alexander_Cary,_Master_of_Falkland</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:executiveProducer" resource="http://dbpedia.org/resource/David_Semel" href="http://dbpedia.org/resource/David_Semel"><small>dbr</small>:David_Semel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:executiveProducer" resource="http://dbpedia.org/resource/Ethan_Reiff_and_Cyrus_Voris" href="http://dbpedia.org/resource/Ethan_Reiff_and_Cyrus_Voris"><small>dbr</small>:Ethan_Reiff_and_Cyrus_Voris</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:executiveProducer" resource="http://dbpedia.org/resource/Brad_Turner_(director)" href="http://dbpedia.org/resource/Brad_Turner_(director)"><small>dbr</small>:Brad_Turner_(director)</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/format"><small>dbo:</small>format</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:format" resource="http://dbpedia.org/resource/1080i" href="http://dbpedia.org/resource/1080i"><small>dbr</small>:1080i</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/genre"><small>dbo:</small>genre</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:genre" resource="http://dbpedia.org/resource/Thriller_(genre)" href="http://dbpedia.org/resource/Thriller_(genre)"><small>dbr</small>:Thriller_(genre)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:genre" resource="http://dbpedia.org/resource/Crime_fiction" href="http://dbpedia.org/resource/Crime_fiction"><small>dbr</small>:Crime_fiction</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:genre" resource="http://dbpedia.org/resource/Action_film" href="http://dbpedia.org/resource/Action_film"><small>dbr</small>:Action_film</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/network"><small>dbo:</small>network</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:network" resource="http://dbpedia.org/resource/TNT_(American_TV_network)" href="http://dbpedia.org/resource/TNT_(American_TV_network)"><small>dbr</small>:TNT_(American_TV_network)</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/numberOfEpisodes"><small>dbo:</small>numberOfEpisodes</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:numberOfEpisodes" datatype="xsd:nonNegativeInteger">20</span><small> (xsd:nonNegativeInteger)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/numberOfSeasons"><small>dbo:</small>numberOfSeasons</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:numberOfSeasons" datatype="xsd:nonNegativeInteger">2</span><small> (xsd:nonNegativeInteger)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/producer"><small>dbo:</small>producer</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:producer" resource="http://dbpedia.org/resource/Sean_Bean" href="http://dbpedia.org/resource/Sean_Bean"><small>dbr</small>:Sean_Bean</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/releaseDate"><small>dbo:</small>releaseDate</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:releaseDate" datatype="xsd:date">2014-08-13</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/starring"><small>dbo:</small>starring</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/Sean_Bean" href="http://dbpedia.org/resource/Sean_Bean"><small>dbr</small>:Sean_Bean</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/Steve_Harris_(actor)" href="http://dbpedia.org/resource/Steve_Harris_(actor)"><small>dbr</small>:Steve_Harris_(actor)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/Mason_Cook" href="http://dbpedia.org/resource/Mason_Cook"><small>dbr</small>:Mason_Cook</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/Steve_Kazee" href="http://dbpedia.org/resource/Steve_Kazee"><small>dbr</small>:Steve_Kazee</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/Ali_Larter" href="http://dbpedia.org/resource/Ali_Larter"><small>dbr</small>:Ali_Larter</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/Morris_Chestnut" href="http://dbpedia.org/resource/Morris_Chestnut"><small>dbr</small>:Morris_Chestnut</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/Amber_Valletta" href="http://dbpedia.org/resource/Amber_Valletta"><small>dbr</small>:Amber_Valletta</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/Klára_Issová" href="http://dbpedia.org/resource/Klára_Issová"><small>dbr</small>:Klára_Issová</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/Winter_Ave_Zoli" href="http://dbpedia.org/resource/Winter_Ave_Zoli"><small>dbr</small>:Winter_Ave_Zoli</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/Ralph_Brown" href="http://dbpedia.org/resource/Ralph_Brown"><small>dbr</small>:Ralph_Brown</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/Tina_Majorino" href="http://dbpedia.org/resource/Tina_Majorino"><small>dbr</small>:Tina_Majorino</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/Kelly_Overton" href="http://dbpedia.org/resource/Kelly_Overton"><small>dbr</small>:Kelly_Overton</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/Aisling_Franciosi" href="http://dbpedia.org/resource/Aisling_Franciosi"><small>dbr</small>:Aisling_Franciosi</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/Anna_Rust" href="http://dbpedia.org/resource/Anna_Rust"><small>dbr</small>:Anna_Rust</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/thumbnail"><small>dbo:</small>thumbnail</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:thumbnail" resource="http://commons.wikimedia.org/wiki/Special:FilePath/Legends_(TV)_logo.jpg?width=300" href="http://commons.wikimedia.org/wiki/Special:FilePath/Legends_(TV)_logo.jpg?width=300"><small>wiki-commons</small>:Special:FilePath/Legends_(TV)_logo.jpg?width=300</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/wikiPageExternalLink"><small>dbo:</small>wikiPageExternalLink</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageExternalLink nofollow" resource="http://www.tntdrama.com/shows/legends.html" href="http://www.tntdrama.com/shows/legends.html">http://www.tntdrama.com/shows/legends.html</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageExternalLink nofollow" resource="https://web.archive.org/web/20140607000141/http:/www.tntdrama.com/shows/legends.html" href="https://web.archive.org/web/20140607000141/http:/www.tntdrama.com/shows/legends.html">https://web.archive.org/web/20140607000141/http:/www.tntdrama.com/shows/legends.html</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/wikiPageID"><small>dbo:</small>wikiPageID</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:wikiPageID" datatype="xsd:integer">41969175</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/wikiPageLength"><small>dbo:</small>wikiPageLength</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:wikiPageLength" datatype="xsd:nonNegativeInteger">32219</span><small> (xsd:nonNegativeInteger)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/wikiPageRevisionID"><small>dbo:</small>wikiPageRevisionID</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:wikiPageRevisionID" datatype="xsd:integer">1052594491</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/wikiPageWikiLink"><small>dbo:</small>wikiPageWikiLink</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/John_Behring" href="http://dbpedia.org/resource/John_Behring"><small>dbr</small>:John_Behring</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Igor_Skvarica" href="http://dbpedia.org/resource/Igor_Skvarica"><small>dbr</small>:Igor_Skvarica</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/CSI:_Crime_Scene_Investigation" href="http://dbpedia.org/resource/CSI:_Crime_Scene_Investigation"><small>dbr</small>:CSI:_Crime_Scene_Investigation</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Thriller_(genre)" href="http://dbpedia.org/resource/Thriller_(genre)"><small>dbr</small>:Thriller_(genre)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Kiefer_Sutherland" href="http://dbpedia.org/resource/Kiefer_Sutherland"><small>dbr</small>:Kiefer_Sutherland</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Sean_Bean" href="http://dbpedia.org/resource/Sean_Bean"><small>dbr</small>:Sean_Bean</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Spooks_(TV_series)" href="http://dbpedia.org/resource/Spooks_(TV_series)"><small>dbr</small>:Spooks_(TV_series)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Steve_Harris_(actor)" href="http://dbpedia.org/resource/Steve_Harris_(actor)"><small>dbr</small>:Steve_Harris_(actor)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Boarding_school" href="http://dbpedia.org/resource/Boarding_school"><small>dbr</small>:Boarding_school</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:2015_American_television_series_endings" href="http://dbpedia.org/resource/Category:2015_American_television_series_endings"><small>dbc</small>:2015_American_television_series_endings</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Crime_fiction" href="http://dbpedia.org/resource/Crime_fiction"><small>dbr</small>:Crime_fiction</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Mason_Cook" href="http://dbpedia.org/resource/Mason_Cook"><small>dbr</small>:Mason_Cook</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Perception_(American_TV_series)" href="http://dbpedia.org/resource/Perception_(American_TV_series)"><small>dbr</small>:Perception_(American_TV_series)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/The_Hour_(2011_TV_series)" href="http://dbpedia.org/resource/The_Hour_(2011_TV_series)"><small>dbr</small>:The_Hour_(2011_TV_series)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/FX_(Australian_TV_channel)" href="http://dbpedia.org/resource/FX_(Australian_TV_channel)"><small>dbr</small>:FX_(Australian_TV_channel)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Josh_Pate" href="http://dbpedia.org/resource/Josh_Pate"><small>dbr</small>:Josh_Pate</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Adnan_Hasković" href="http://dbpedia.org/resource/Adnan_Hasković"><small>dbr</small>:Adnan_Hasković</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Steve_Kazee" href="http://dbpedia.org/resource/Steve_Kazee"><small>dbr</small>:Steve_Kazee</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Kenneth_Biller" href="http://dbpedia.org/resource/Kenneth_Biller"><small>dbr</small>:Kenneth_Biller</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Ali_Larter" href="http://dbpedia.org/resource/Ali_Larter"><small>dbr</small>:Ali_Larter</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Hustle_(TV_series)" href="http://dbpedia.org/resource/Hustle_(TV_series)"><small>dbr</small>:Hustle_(TV_series)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Deran_Sarafian" href="http://dbpedia.org/resource/Deran_Sarafian"><small>dbr</small>:Deran_Sarafian</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/California" href="http://dbpedia.org/resource/California"><small>dbr</small>:California</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Federal_Bureau_of_Investigation" href="http://dbpedia.org/resource/Federal_Bureau_of_Investigation"><small>dbr</small>:Federal_Bureau_of_Investigation</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/George_R._R._Martin" href="http://dbpedia.org/resource/George_R._R._Martin"><small>dbr</small>:George_R._R._Martin</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/London" href="http://dbpedia.org/resource/London"><small>dbr</small>:London</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:TNT_(American_TV_network)_original_programming" href="http://dbpedia.org/resource/Category:TNT_(American_TV_network)_original_programming"><small>dbc</small>:TNT_(American_TV_network)_original_programming</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:Television_shows_set_in_Los_Angeles" href="http://dbpedia.org/resource/Category:Television_shows_set_in_Los_Angeles"><small>dbc</small>:Television_shows_set_in_Los_Angeles</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:English-language_television_shows" href="http://dbpedia.org/resource/Category:English-language_television_shows"><small>dbc</small>:English-language_television_shows</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:Television_series_by_20th_Century_Fox_Television" href="http://dbpedia.org/resource/Category:Television_series_by_20th_Century_Fox_Television"><small>dbc</small>:Television_series_by_20th_Century_Fox_Television</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/The_Shannara_Chronicles" href="http://dbpedia.org/resource/The_Shannara_Chronicles"><small>dbr</small>:The_Shannara_Chronicles</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/High-definition_television" href="http://dbpedia.org/resource/High-definition_television"><small>dbr</small>:High-definition_television</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/TNT_(American_TV_network)" href="http://dbpedia.org/resource/TNT_(American_TV_network)"><small>dbr</small>:TNT_(American_TV_network)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Morris_Chestnut" href="http://dbpedia.org/resource/Morris_Chestnut"><small>dbr</small>:Morris_Chestnut</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Paris" href="http://dbpedia.org/resource/Paris"><small>dbr</small>:Paris</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Prague" href="http://dbpedia.org/resource/Prague"><small>dbr</small>:Prague</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Action_film" href="http://dbpedia.org/resource/Action_film"><small>dbr</small>:Action_film</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:2010s_American_crime_drama_television_series" href="http://dbpedia.org/resource/Category:2010s_American_crime_drama_television_series"><small>dbc</small>:2010s_American_crime_drama_television_series</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:American_action_television_series" href="http://dbpedia.org/resource/Category:American_action_television_series"><small>dbc</small>:American_action_television_series</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:Television_series_about_the_Federal_Bureau_of_Investigation" href="http://dbpedia.org/resource/Category:Television_series_about_the_Federal_Bureau_of_Investigation"><small>dbc</small>:Television_series_about_the_Federal_Bureau_of_Investigation</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:Television_shows_based_on_American_novels" href="http://dbpedia.org/resource/Category:Television_shows_based_on_American_novels"><small>dbc</small>:Television_shows_based_on_American_novels</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Amber_Valletta" href="http://dbpedia.org/resource/Amber_Valletta"><small>dbr</small>:Amber_Valletta</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Undercover_operation" href="http://dbpedia.org/resource/Undercover_operation"><small>dbr</small>:Undercover_operation</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/20th_Television" href="http://dbpedia.org/resource/20th_Television"><small>dbr</small>:20th_Television</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Legend_of_the_Seeker" href="http://dbpedia.org/resource/Legend_of_the_Seeker"><small>dbr</small>:Legend_of_the_Seeker</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Klára_Issová" href="http://dbpedia.org/resource/Klára_Issová"><small>dbr</small>:Klára_Issová</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Winter_Ave_Zoli" href="http://dbpedia.org/resource/Winter_Ave_Zoli"><small>dbr</small>:Winter_Ave_Zoli</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Andrew_S._Wilder" href="http://dbpedia.org/resource/Andrew_S._Wilder"><small>dbr</small>:Andrew_S._Wilder</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/David_Wilcox_(screenwriter)" href="http://dbpedia.org/resource/David_Wilcox_(screenwriter)"><small>dbr</small>:David_Wilcox_(screenwriter)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:2014_American_television_series_debuts" href="http://dbpedia.org/resource/Category:2014_American_television_series_debuts"><small>dbc</small>:2014_American_television_series_debuts</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Howard_Gordon" href="http://dbpedia.org/resource/Howard_Gordon"><small>dbr</small>:Howard_Gordon</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Ralph_Brown" href="http://dbpedia.org/resource/Ralph_Brown"><small>dbr</small>:Ralph_Brown</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Touchstone_Television" href="http://dbpedia.org/resource/Touchstone_Television"><small>dbr</small>:Touchstone_Television</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Metacritic" href="http://dbpedia.org/resource/Metacritic"><small>dbr</small>:Metacritic</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Rotten_Tomatoes" href="http://dbpedia.org/resource/Rotten_Tomatoes"><small>dbr</small>:Rotten_Tomatoes</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/San_Diego_Comic-Con" href="http://dbpedia.org/resource/San_Diego_Comic-Con"><small>dbr</small>:San_Diego_Comic-Con</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Tina_Majorino" href="http://dbpedia.org/resource/Tina_Majorino"><small>dbr</small>:Tina_Majorino</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Hashtag" href="http://dbpedia.org/resource/Hashtag"><small>dbr</small>:Hashtag</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Kelly_Overton" href="http://dbpedia.org/resource/Kelly_Overton"><small>dbr</small>:Kelly_Overton</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Crime_film" href="http://dbpedia.org/resource/Crime_film"><small>dbr</small>:Crime_film</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Alexander_Cary,_Master_of_Falkland" href="http://dbpedia.org/resource/Alexander_Cary,_Master_of_Falkland"><small>dbr</small>:Alexander_Cary,_Master_of_Falkland</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Aisling_Franciosi" href="http://dbpedia.org/resource/Aisling_Franciosi"><small>dbr</small>:Aisling_Franciosi</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Anna_Rust" href="http://dbpedia.org/resource/Anna_Rust"><small>dbr</small>:Anna_Rust</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Alrick_Riley" href="http://dbpedia.org/resource/Alrick_Riley"><small>dbr</small>:Alrick_Riley</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Karen_Gaviola" href="http://dbpedia.org/resource/Karen_Gaviola"><small>dbr</small>:Karen_Gaviola</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/David_Semel" href="http://dbpedia.org/resource/David_Semel"><small>dbr</small>:David_Semel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Terrence_O'Hara" href="http://dbpedia.org/resource/Terrence_O'Hara"><small>dbr</small>:Terrence_O'Hara</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jon_Jones_(director)" href="http://dbpedia.org/resource/Jon_Jones_(director)"><small>dbr</small>:Jon_Jones_(director)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Ethan_Reiff_and_Cyrus_Voris" href="http://dbpedia.org/resource/Ethan_Reiff_and_Cyrus_Voris"><small>dbr</small>:Ethan_Reiff_and_Cyrus_Voris</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Game_of_Thrones" href="http://dbpedia.org/resource/Game_of_Thrones"><small>dbr</small>:Game_of_Thrones</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/The_White_Queen_(TV_series)" href="http://dbpedia.org/resource/The_White_Queen_(TV_series)"><small>dbr</small>:The_White_Queen_(TV_series)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Indian_Summers" href="http://dbpedia.org/resource/Indian_Summers"><small>dbr</small>:Indian_Summers</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Brad_Turner_(director)" href="http://dbpedia.org/resource/Brad_Turner_(director)"><small>dbr</small>:Brad_Turner_(director)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Eric_Godon" href="http://dbpedia.org/resource/Eric_Godon"><small>dbr</small>:Eric_Godon</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Mark_Bomback" href="http://dbpedia.org/resource/Mark_Bomback"><small>dbr</small>:Mark_Bomback</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Nikola_Đuričko" href="http://dbpedia.org/resource/Nikola_Đuričko"><small>dbr</small>:Nikola_Đuričko</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jeffrey_Nachmanoff" href="http://dbpedia.org/resource/Jeffrey_Nachmanoff"><small>dbr</small>:Jeffrey_Nachmanoff</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Reinhold_Heil" href="http://dbpedia.org/resource/Reinhold_Heil"><small>dbr</small>:Reinhold_Heil</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Billy_Brown_(actor)" href="http://dbpedia.org/resource/Billy_Brown_(actor)"><small>dbr</small>:Billy_Brown_(actor)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/1080i" href="http://dbpedia.org/resource/1080i"><small>dbr</small>:1080i</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Rob_Mayes" href="http://dbpedia.org/resource/Rob_Mayes"><small>dbr</small>:Rob_Mayes</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Milan_Cheylov" href="http://dbpedia.org/resource/Milan_Cheylov"><small>dbr</small>:Milan_Cheylov</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Robert_Littell_(author)" href="http://dbpedia.org/resource/Robert_Littell_(author)"><small>dbr</small>:Robert_Littell_(author)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jeff_T._Thomas" href="http://dbpedia.org/resource/Jeff_T._Thomas"><small>dbr</small>:Jeff_T._Thomas</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/background"><small>dbp:</small>background</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:background" lang="en">#000000</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:background" lang="en">#B0C4DE</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/cinematography"><small>dbp:</small>cinematography</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:cinematography" lang="en"></span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:cinematography" lang="en">Sidney Sidell</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:cinematography" lang="en">Yasu Tanida</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:cinematography" lang="en">Mathias Herndl</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/company"><small>dbp:</small>company</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:company" resource="http://dbpedia.org/resource/Touchstone_Television" href="http://dbpedia.org/resource/Touchstone_Television"><small>dbr</small>:Touchstone_Television</a></span></li>
+	<li><span class="literal"><span property="dbp:company" lang="en"></span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:company" lang="en">Teakwood Lane Productions</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:company" lang="en">Fox 21</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:company" lang="en">Paperboy Productions</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/composer"><small>dbp:</small>composer</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:composer" resource="http://dbpedia.org/resource/Reinhold_Heil" href="http://dbpedia.org/resource/Reinhold_Heil"><small>dbr</small>:Reinhold_Heil</a></span></li>
+	<li><span class="literal"><span property="dbp:composer" lang="en">Tree Adams</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/country"><small>dbp:</small>country</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:country" lang="en">United States</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:country" lang="en">US</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/developer"><small>dbp:</small>developer</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:developer" resource="http://dbpedia.org/resource/Howard_Gordon" href="http://dbpedia.org/resource/Howard_Gordon"><small>dbr</small>:Howard_Gordon</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:developer" resource="http://dbpedia.org/resource/Mark_Bomback" href="http://dbpedia.org/resource/Mark_Bomback"><small>dbr</small>:Mark_Bomback</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:developer" resource="http://dbpedia.org/resource/Jeffrey_Nachmanoff" href="http://dbpedia.org/resource/Jeffrey_Nachmanoff"><small>dbr</small>:Jeffrey_Nachmanoff</a></span></li>
+	<li><span class="literal"><span property="dbp:developer" lang="en"></span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/distributor"><small>dbp:</small>distributor</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:distributor" datatype="xsd:integer">20</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/editor"><small>dbp:</small>editor</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:editor" lang="en"></span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:editor" lang="en">Stephen Mark</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:editor" lang="en">Scott Powell</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:editor" lang="en">Scott Boyd</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:editor" lang="en">Mark C. Baldwin</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:editor" lang="en">Tod Feuerman</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:editor" lang="en">David Lebowitz</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:editor" lang="en">Leonard Jordan</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:editor" lang="en">Scott Lerner</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:editor" lang="en">James Kilton</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:editor" lang="en">Lise Johnson</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/executiveProducer"><small>dbp:</small>executiveProducer</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:executiveProducer" resource="http://dbpedia.org/resource/Kenneth_Biller" href="http://dbpedia.org/resource/Kenneth_Biller"><small>dbr</small>:Kenneth_Biller</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:executiveProducer" resource="http://dbpedia.org/resource/Alexander_Cary,_Master_of_Falkland" href="http://dbpedia.org/resource/Alexander_Cary,_Master_of_Falkland"><small>dbr</small>:Alexander_Cary,_Master_of_Falkland</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:executiveProducer" resource="http://dbpedia.org/resource/David_Semel" href="http://dbpedia.org/resource/David_Semel"><small>dbr</small>:David_Semel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:executiveProducer" resource="http://dbpedia.org/resource/Ethan_Reiff_and_Cyrus_Voris" href="http://dbpedia.org/resource/Ethan_Reiff_and_Cyrus_Voris"><small>dbr</small>:Ethan_Reiff_and_Cyrus_Voris</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:executiveProducer" resource="http://dbpedia.org/resource/Brad_Turner_(director)" href="http://dbpedia.org/resource/Brad_Turner_(director)"><small>dbr</small>:Brad_Turner_(director)</a></span></li>
+	<li><span class="literal"><span property="dbp:executiveProducer" lang="en"></span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:executiveProducer" lang="en">Howard Gordon</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:executiveProducer" lang="en">David Wilcox</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:executiveProducer" lang="en">Jonathan Levin</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:executiveProducer" lang="en">Joseph McKay</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/firstAired"><small>dbp:</small>firstAired</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:firstAired" datatype="xsd:date">2014-08-13</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/genre"><small>dbp:</small>genre</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:genre" resource="http://dbpedia.org/resource/Thriller_(genre)" href="http://dbpedia.org/resource/Thriller_(genre)"><small>dbr</small>:Thriller_(genre)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:genre" resource="http://dbpedia.org/resource/Crime_fiction" href="http://dbpedia.org/resource/Crime_fiction"><small>dbr</small>:Crime_fiction</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:genre" resource="http://dbpedia.org/resource/Action_film" href="http://dbpedia.org/resource/Action_film"><small>dbr</small>:Action_film</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/language"><small>dbp:</small>language</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:language" lang="en">English</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/lastAired"><small>dbp:</small>lastAired</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:lastAired" datatype="xsd:date">2015-12-28</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/listEpisodes"><small>dbp:</small>listEpisodes</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:listEpisodes" lang="en">#Episodes</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/name"><small>dbp:</small>name</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:name" lang="en">Legends</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/network"><small>dbp:</small>network</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:network" resource="http://dbpedia.org/resource/TNT_(American_TV_network)" href="http://dbpedia.org/resource/TNT_(American_TV_network)"><small>dbr</small>:TNT_(American_TV_network)</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/numEpisodes"><small>dbp:</small>numEpisodes</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:numEpisodes" datatype="xsd:integer">20</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/numSeasons"><small>dbp:</small>numSeasons</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:numSeasons" datatype="xsd:integer">2</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/pictureFormat"><small>dbp:</small>pictureFormat</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:pictureFormat" datatype="xsd:integer">1080</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/producer"><small>dbp:</small>producer</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:producer" lang="en"></span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:producer" lang="en">Sean Bean</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:producer" lang="en">Jamie Payne</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:producer" lang="en">Kelly A. Manners</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/starring"><small>dbp:</small>starring</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:starring" resource="http://dbpedia.org/resource/Sean_Bean" href="http://dbpedia.org/resource/Sean_Bean"><small>dbr</small>:Sean_Bean</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:starring" resource="http://dbpedia.org/resource/Steve_Harris_(actor)" href="http://dbpedia.org/resource/Steve_Harris_(actor)"><small>dbr</small>:Steve_Harris_(actor)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:starring" resource="http://dbpedia.org/resource/Mason_Cook" href="http://dbpedia.org/resource/Mason_Cook"><small>dbr</small>:Mason_Cook</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:starring" resource="http://dbpedia.org/resource/Steve_Kazee" href="http://dbpedia.org/resource/Steve_Kazee"><small>dbr</small>:Steve_Kazee</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:starring" resource="http://dbpedia.org/resource/Ali_Larter" href="http://dbpedia.org/resource/Ali_Larter"><small>dbr</small>:Ali_Larter</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:starring" resource="http://dbpedia.org/resource/Morris_Chestnut" href="http://dbpedia.org/resource/Morris_Chestnut"><small>dbr</small>:Morris_Chestnut</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:starring" resource="http://dbpedia.org/resource/Amber_Valletta" href="http://dbpedia.org/resource/Amber_Valletta"><small>dbr</small>:Amber_Valletta</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:starring" resource="http://dbpedia.org/resource/Klára_Issová" href="http://dbpedia.org/resource/Klára_Issová"><small>dbr</small>:Klára_Issová</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:starring" resource="http://dbpedia.org/resource/Winter_Ave_Zoli" href="http://dbpedia.org/resource/Winter_Ave_Zoli"><small>dbr</small>:Winter_Ave_Zoli</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:starring" resource="http://dbpedia.org/resource/Ralph_Brown" href="http://dbpedia.org/resource/Ralph_Brown"><small>dbr</small>:Ralph_Brown</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:starring" resource="http://dbpedia.org/resource/Tina_Majorino" href="http://dbpedia.org/resource/Tina_Majorino"><small>dbr</small>:Tina_Majorino</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:starring" resource="http://dbpedia.org/resource/Kelly_Overton" href="http://dbpedia.org/resource/Kelly_Overton"><small>dbr</small>:Kelly_Overton</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:starring" resource="http://dbpedia.org/resource/Aisling_Franciosi" href="http://dbpedia.org/resource/Aisling_Franciosi"><small>dbr</small>:Aisling_Franciosi</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:starring" resource="http://dbpedia.org/resource/Anna_Rust" href="http://dbpedia.org/resource/Anna_Rust"><small>dbr</small>:Anna_Rust</a></span></li>
+	<li><span class="literal"><span property="dbp:starring" lang="en"></span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/viewers"><small>dbp:</small>viewers</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:viewers" datatype="xsd:double">0.980000</span><small> (xsd:double)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/website"><small>dbp:</small>website</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:website nofollow" resource="https://web.archive.org/web/20140607000141/http:/www.tntdrama.com/shows/legends.html" href="https://web.archive.org/web/20140607000141/http:/www.tntdrama.com/shows/legends.html">https://web.archive.org/web/20140607000141/http:/www.tntdrama.com/shows/legends.html</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/websiteTitle"><small>dbp:</small>websiteTitle</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:websiteTitle" lang="en">Official website</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/wikiPageUsesTemplate"><small>dbp:</small>wikiPageUsesTemplate</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:About" href="http://dbpedia.org/resource/Template:About"><small>dbt</small>:About</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Based_on" href="http://dbpedia.org/resource/Template:Based_on"><small>dbt</small>:Based_on</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:End_date" href="http://dbpedia.org/resource/Template:End_date"><small>dbt</small>:End_date</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Episode_list" href="http://dbpedia.org/resource/Template:Episode_list"><small>dbt</small>:Episode_list</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Episode_table" href="http://dbpedia.org/resource/Template:Episode_table"><small>dbt</small>:Episode_table</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:IMDb_title" href="http://dbpedia.org/resource/Template:IMDb_title"><small>dbt</small>:IMDb_title</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Infobox_television" href="http://dbpedia.org/resource/Template:Infobox_television"><small>dbt</small>:Infobox_television</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Reflist" href="http://dbpedia.org/resource/Template:Reflist"><small>dbt</small>:Reflist</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Short_description" href="http://dbpedia.org/resource/Template:Short_description"><small>dbt</small>:Short_description</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Start_date" href="http://dbpedia.org/resource/Template:Start_date"><small>dbt</small>:Start_date</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:TNTShows" href="http://dbpedia.org/resource/Template:TNTShows"><small>dbt</small>:TNTShows</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:StoryTeleplay" href="http://dbpedia.org/resource/Template:StoryTeleplay"><small>dbt</small>:StoryTeleplay</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://purl.org/dc/terms/subject"><small>dct:</small>subject</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:2015_American_television_series_endings" href="http://dbpedia.org/resource/Category:2015_American_television_series_endings"><small>dbc</small>:2015_American_television_series_endings</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:TNT_(American_TV_network)_original_programming" href="http://dbpedia.org/resource/Category:TNT_(American_TV_network)_original_programming"><small>dbc</small>:TNT_(American_TV_network)_original_programming</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:Television_shows_set_in_Los_Angeles" href="http://dbpedia.org/resource/Category:Television_shows_set_in_Los_Angeles"><small>dbc</small>:Television_shows_set_in_Los_Angeles</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:English-language_television_shows" href="http://dbpedia.org/resource/Category:English-language_television_shows"><small>dbc</small>:English-language_television_shows</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:Television_series_by_20th_Century_Fox_Television" href="http://dbpedia.org/resource/Category:Television_series_by_20th_Century_Fox_Television"><small>dbc</small>:Television_series_by_20th_Century_Fox_Television</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:2010s_American_crime_drama_television_series" href="http://dbpedia.org/resource/Category:2010s_American_crime_drama_television_series"><small>dbc</small>:2010s_American_crime_drama_television_series</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:American_action_television_series" href="http://dbpedia.org/resource/Category:American_action_television_series"><small>dbc</small>:American_action_television_series</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:Television_series_about_the_Federal_Bureau_of_Investigation" href="http://dbpedia.org/resource/Category:Television_series_about_the_Federal_Bureau_of_Investigation"><small>dbc</small>:Television_series_about_the_Federal_Bureau_of_Investigation</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:Television_shows_based_on_American_novels" href="http://dbpedia.org/resource/Category:Television_shows_based_on_American_novels"><small>dbc</small>:Television_shows_based_on_American_novels</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:2014_American_television_series_debuts" href="http://dbpedia.org/resource/Category:2014_American_television_series_debuts"><small>dbc</small>:2014_American_television_series_debuts</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://purl.org/linguistics/gold/hypernym"><small>gold:</small>hypernym</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="gold:hypernym" resource="http://dbpedia.org/resource/Series" prefix="gold: http://purl.org/linguistics/gold/" href="http://dbpedia.org/resource/Series"><small>dbr</small>:Series</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"><small>rdf:</small>type</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://www.w3.org/2002/07/owl#Thing" href="http://www.w3.org/2002/07/owl#Thing"><small>owl</small>:Thing</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://schema.org/CreativeWork" href="http://schema.org/CreativeWork"><small>schema</small>:CreativeWork</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/ontology/Work" href="http://dbpedia.org/ontology/Work"><small>dbo</small>:Work</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://www.wikidata.org/entity/Q15416" href="http://www.wikidata.org/entity/Q15416"><small>wikidata</small>:Q15416</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://www.wikidata.org/entity/Q386724" href="http://www.wikidata.org/entity/Q386724"><small>wikidata</small>:Q386724</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/ontology/TelevisionShow" href="http://dbpedia.org/ontology/TelevisionShow"><small>dbo</small>:TelevisionShow</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Artifact100021939" href="http://dbpedia.org/class/yago/Artifact100021939"><small>yago</small>:Artifact100021939</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Broadcasting106276697" href="http://dbpedia.org/class/yago/Broadcasting106276697"><small>yago</small>:Broadcasting106276697</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Instrumentality103575240" href="http://dbpedia.org/class/yago/Instrumentality103575240"><small>yago</small>:Instrumentality103575240</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Medium106254669" href="http://dbpedia.org/class/yago/Medium106254669"><small>yago</small>:Medium106254669</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Object100002684" href="http://dbpedia.org/class/yago/Object100002684"><small>yago</small>:Object100002684</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" href="http://dbpedia.org/class/yago/PhysicalEntity100001930"><small>yago</small>:PhysicalEntity100001930</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Telecommunication106271778" href="http://dbpedia.org/class/yago/Telecommunication106271778"><small>yago</small>:Telecommunication106271778</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Television106277280" href="http://dbpedia.org/class/yago/Television106277280"><small>yago</small>:Television106277280</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Whole100003553" href="http://dbpedia.org/class/yago/Whole100003553"><small>yago</small>:Whole100003553</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://www.w3.org/2000/01/rdf-schema#comment"><small>rdfs:</small>comment</a>
+</td><td class="col-10 text-break"><ul>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="de">Legends ist eine US-amerikanische Krimiserie, die von 2014 bis 2015 von für den Sender TNT produziert wurde. Die Serie basiert auf dem englischen Buch Legends: A Novel of Dissimulation von Robert Littell. Die Erstausstrahlung in den Vereinigten Staaten war am 13. August 2014. In Deutschland fand die Erstausstrahlung der Serie am 13. April 2015 auf TNT Serie statt. Der Sender TNT hat die Serie nach zwei Staffeln im Dezember 2015 offiziell abgesetzt.</span><small> (de)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="es">Legends es una serie de televisión estadounidense transmitida por TNT. Se estrenó el 13 de agosto de 2014, basado en el libro Legends: A Novel of Dissimulation escrito por Robert Littell.​​​</span><small> (es)</small></span></li>
+	<li><span class="literal"><span property="rdfs:comment" lang="en">Legends is an American crime drama television series which aired on TNT from August 13, 2014 to December 28, 2015. Developed by Howard Gordon, Jeffrey Nachmanoff, and Mark Bomback, the series is based on the 2005 book Legends: A Novel of Dissimulation written by Robert Littell. On December 4, 2014, TNT renewed Legends for a 10-episode second season, which premiered on November 2, 2015. On December 15, 2015, TNT canceled the series after two seasons and 20 episodes.</span><small> (en)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="fr">Legends est une série télévisée dramatique américaine en vingt épisodes de 42 minutes créée par Mark Bomback, Howard Gordon et Jeffrey Nachmanoff et adaptée du roman éponyme de Robert Littell, diffusée entre le 20 août 2014 et le 28 décembre 2015 sur la chaîne TNT et sur Bravo! au Canada. Elle est produite par Howard Gordon, producteur exécutif de Homeland. En France, la série est diffusée depuis le 20 avril 2016 sur Série Club, depuis le 15 octobre 2017 sur W9 et rediffusée sur M6 depuis le 9 juillet 2018. Elle reste inédite dans les autres pays francophones.</span><small> (fr)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="it">Legends è una serie televisiva statunitense sviluppata da Howard Gordon, Jeffrey Nachmanoff e Mark Bomback e trasmessa per due stagioni tra il 2014 e il 2015 su TNT. Basata sul romanzo Legends, scritto da Robert Littell, ha debuttato il 13 agosto 2014, mentre il 14 dicembre 2015, dopo il termine della produzione della seconda stagione, ne è stata annunciata la cancellazione. In Italia è stata trasmessa dal 26 febbraio 2015 sul canale a pagamento Fox.</span><small> (it)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="ko">《레전드》(영어: Legends)는 2014년 8월 13일부터 2015년 12월 28일까지 TNT에서 방영된 드라마이다.</span><small> (ko)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="pl">Maski szpiega (ang. Legends) – amerykański serial kryminalny wyprodukowany przez Fox 21. Pierwotnie został stworzony dla telewizji NBC. Serial jest adaptacją powieści „Legendy, czyli maski szpiega” autorstwa Roberta Littella. Jego scenariusz opracowali: ,  oraz . Od 13 sierpnia 2014 roku jest on emitowany przez kanał TNT. 5 grudnia 2014 roku, stacja TNT zamówiła drugą serię W Polsce serial jest emitowany od 16 lutego 2015 roku przez Fox Polska.15 grudnia 2015 roku, stacja TNT ogłosiła anulowanie serialu.</span><small> (pl)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="pt">Legends foi uma série de televisão estadunidense transmitido pelo canal TNT desde 13 de agosto de 2014. Baseada no livro Legends: A Novel of Dissimulation escrito por Robert Littell. A Rede Globo exibiu em 15 a 27 de Junho de 2015.</span><small> (pt)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="zh">《传奇卧底》（英文：Legends，又译：潜龙谍影、传奇、千面传奇）是一部2014年开始在美国TNT电视台播出的关于FBI深度卧底的剧集。本片根据Robert Littell创作的小说改编，2013年5月8号，TNT订购了一季共计10集，并于2014年8月13号正式播出。</span><small> (zh)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="ru">«Леге́нды» (англ. Legends) — американский криминально-драматический телесериал с Шоном Бином в главной роли, который выходил в эфир на телеканале TNT с 13 августа 2014 года по 28 декабря 2015 года. Сериал, основанный на книге «Легенды: Роман обмана» Роберта Литтела , разработан Говардом Гордоном, Джеффри Начманоффом и Марком Бомбэком.</span><small> (ru)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://www.w3.org/2000/01/rdf-schema#label"><small>rdfs:</small>label</a>
+</td><td class="col-10 text-break"><ul>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="de">Legends (Fernsehserie)</span><small> (de)</small></span></li>
+	<li><span class="literal"><span property="rdfs:label" lang="en">Legends (TV series)</span><small> (en)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="es">Legends (serie de televisión)</span><small> (es)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="fr">Legends (série télévisée)</span><small> (fr)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="it">Legends (serie televisiva)</span><small> (it)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="ko">레전드 (드라마)</span><small> (ko)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="pl">Maski szpiega</span><small> (pl)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="pt">Legends (série de televisão)</span><small> (pt)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="ru">Легенды (телесериал)</span><small> (ru)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="uk">Легенди (телесеріал)</span><small> (uk)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="zh">传奇卧底</span><small> (zh)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://www.w3.org/2002/07/owl#sameAs"><small>owl:</small>sameAs</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://rdf.freebase.com/ns/m.0_s0bjw" href="http://rdf.freebase.com/ns/m.0_s0bjw"><small>freebase</small>:Legends (TV series)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://yago-knowledge.org/resource/Legends_(TV_series)" href="http://yago-knowledge.org/resource/Legends_(TV_series)"><small>yago-res</small>:Legends (TV series)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://www.wikidata.org/entity/Q15921494" href="http://www.wikidata.org/entity/Q15921494"><small>wikidata</small>:Legends (TV series)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://de.dbpedia.org/resource/Legends_(Fernsehserie)" href="http://de.dbpedia.org/resource/Legends_(Fernsehserie)"><small>dbpedia-de</small>:Legends (TV series)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://es.dbpedia.org/resource/Legends_(serie_de_televisión)" href="http://es.dbpedia.org/resource/Legends_(serie_de_televisión)"><small>dbpedia-es</small>:Legends (TV series)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://fa.dbpedia.org/resource/افسانه‌ها_(مجموعه_تلویزیونی)" href="http://fa.dbpedia.org/resource/افسانه‌ها_(مجموعه_تلویزیونی)"><small>dbpedia-fa</small>:Legends (TV series)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://fi.dbpedia.org/resource/Legends_(televisiosarja)" href="http://fi.dbpedia.org/resource/Legends_(televisiosarja)"><small>dbpedia-fi</small>:Legends (TV series)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://fr.dbpedia.org/resource/Legends_(série_télévisée)" href="http://fr.dbpedia.org/resource/Legends_(série_télévisée)"><small>dbpedia-fr</small>:Legends (TV series)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://he.dbpedia.org/resource/זהות_נרדפת" href="http://he.dbpedia.org/resource/זהות_נרדפת"><small>dbpedia-he</small>:Legends (TV series)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://it.dbpedia.org/resource/Legends_(serie_televisiva)" href="http://it.dbpedia.org/resource/Legends_(serie_televisiva)"><small>dbpedia-it</small>:Legends (TV series)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://ko.dbpedia.org/resource/레전드_(드라마)" href="http://ko.dbpedia.org/resource/레전드_(드라마)"><small>dbpedia-ko</small>:Legends (TV series)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://pl.dbpedia.org/resource/Maski_szpiega" href="http://pl.dbpedia.org/resource/Maski_szpiega"><small>dbpedia-pl</small>:Legends (TV series)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://pt.dbpedia.org/resource/Legends_(série_de_televisão)" href="http://pt.dbpedia.org/resource/Legends_(série_de_televisão)"><small>dbpedia-pt</small>:Legends (TV series)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://ru.dbpedia.org/resource/Легенды_(телесериал)" href="http://ru.dbpedia.org/resource/Легенды_(телесериал)"><small>dbpedia-ru</small>:Legends (TV series)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://uk.dbpedia.org/resource/Легенди_(телесеріал)" href="http://uk.dbpedia.org/resource/Легенди_(телесеріал)"><small>dbpedia-uk</small>:Legends (TV series)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://zh.dbpedia.org/resource/传奇卧底" href="http://zh.dbpedia.org/resource/传奇卧底"><small>dbpedia-zh</small>:Legends (TV series)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="https://global.dbpedia.org/id/aVvU" href="https://global.dbpedia.org/id/aVvU">https://global.dbpedia.org/id/aVvU</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://www.w3.org/ns/prov#wasDerivedFrom"><small>prov:</small>wasDerivedFrom</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="prov:wasDerivedFrom" resource="http://en.wikipedia.org/wiki/Legends_(TV_series)?oldid=1052594491&amp;ns=0" href="http://en.wikipedia.org/wiki/Legends_(TV_series)?oldid=1052594491&amp;ns=0"><small>wikipedia-en</small>:Legends_(TV_series)?oldid=1052594491&amp;ns=0</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://xmlns.com/foaf/0.1/depiction"><small>foaf:</small>depiction</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="foaf:depiction" resource="http://commons.wikimedia.org/wiki/Special:FilePath/Legends_(TV)_logo.jpg" href="http://commons.wikimedia.org/wiki/Special:FilePath/Legends_(TV)_logo.jpg"><small>wiki-commons</small>:Special:FilePath/Legends_(TV)_logo.jpg</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://xmlns.com/foaf/0.1/homepage"><small>foaf:</small>homepage</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="foaf:homepage nofollow" resource="https://web.archive.org/web/20140607000141/http:/www.tntdrama.com/shows/legends.html" href="https://web.archive.org/web/20140607000141/http:/www.tntdrama.com/shows/legends.html">https://web.archive.org/web/20140607000141/http:/www.tntdrama.com/shows/legends.html</a></span></li>
+	<li><span class="literal"><a class="uri" rel="foaf:homepage nofollow" resource="https://web.archive.org/web/20140607000141/http://www.tntdrama.com/shows/legends.html" href="https://web.archive.org/web/20140607000141/http://www.tntdrama.com/shows/legends.html">https://web.archive.org/web/20140607000141/http://www.tntdrama.com/shows/legends.html</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://xmlns.com/foaf/0.1/isPrimaryTopicOf"><small>foaf:</small>isPrimaryTopicOf</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="foaf:isPrimaryTopicOf" resource="http://en.wikipedia.org/wiki/Legends_(TV_series)" href="http://en.wikipedia.org/wiki/Legends_(TV_series)"><small>wikipedia-en</small>:Legends_(TV_series)</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2">is <a class="uri" href="http://dbpedia.org/ontology/product"><small>dbo:</small>product</a>
+ of</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:product" resource="http://dbpedia.org/resource/Stillking_Films" href="http://dbpedia.org/resource/Stillking_Films"><small>dbr</small>:Stillking_Films</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2">is <a class="uri" href="http://dbpedia.org/ontology/wikiPageDisambiguates"><small>dbo:</small>wikiPageDisambiguates</a>
+ of</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageDisambiguates" resource="http://dbpedia.org/resource/Legend_(disambiguation)" href="http://dbpedia.org/resource/Legend_(disambiguation)"><small>dbr</small>:Legend_(disambiguation)</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2">is <a class="uri" href="http://dbpedia.org/ontology/wikiPageRedirects"><small>dbo:</small>wikiPageRedirects</a>
+ of</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" resource="http://dbpedia.org/resource/List_of_Legends_(TV_series)_episodes" href="http://dbpedia.org/resource/List_of_Legends_(TV_series)_episodes"><small>dbr</small>:List_of_Legends_(TV_series)_episodes</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" resource="http://dbpedia.org/resource/List_of_Legends_episodes" href="http://dbpedia.org/resource/List_of_Legends_episodes"><small>dbr</small>:List_of_Legends_episodes</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2">is <a class="uri" href="http://dbpedia.org/ontology/wikiPageWikiLink"><small>dbo:</small>wikiPageWikiLink</a>
+ of</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Erik_Audé" href="http://dbpedia.org/resource/Erik_Audé"><small>dbr</small>:Erik_Audé</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Goran_Kostić" href="http://dbpedia.org/resource/Goran_Kostić"><small>dbr</small>:Goran_Kostić</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/John_Behring" href="http://dbpedia.org/resource/John_Behring"><small>dbr</small>:John_Behring</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Igor_Skvarica" href="http://dbpedia.org/resource/Igor_Skvarica"><small>dbr</small>:Igor_Skvarica</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Linda_Park" href="http://dbpedia.org/resource/Linda_Park"><small>dbr</small>:Linda_Park</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Sean_Bean" href="http://dbpedia.org/resource/Sean_Bean"><small>dbr</small>:Sean_Bean</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Steve_Harris_(actor)" href="http://dbpedia.org/resource/Steve_Harris_(actor)"><small>dbr</small>:Steve_Harris_(actor)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Camilla_Beeput" href="http://dbpedia.org/resource/Camilla_Beeput"><small>dbr</small>:Camilla_Beeput</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Mason_Cook" href="http://dbpedia.org/resource/Mason_Cook"><small>dbr</small>:Mason_Cook</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/FX_(Australian_TV_channel)" href="http://dbpedia.org/resource/FX_(Australian_TV_channel)"><small>dbr</small>:FX_(Australian_TV_channel)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_programs_previously_broadcast_by_CT" href="http://dbpedia.org/resource/List_of_programs_previously_broadcast_by_CT"><small>dbr</small>:List_of_programs_previously_broadcast_by_CT</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Adetomiwa_Edun" href="http://dbpedia.org/resource/Adetomiwa_Edun"><small>dbr</small>:Adetomiwa_Edun</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Adnan_Hasković" href="http://dbpedia.org/resource/Adnan_Hasković"><small>dbr</small>:Adnan_Hasković</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Ashley_Laurence" href="http://dbpedia.org/resource/Ashley_Laurence"><small>dbr</small>:Ashley_Laurence</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/2014_in_Philippine_television" href="http://dbpedia.org/resource/2014_in_Philippine_television"><small>dbr</small>:2014_in_Philippine_television</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Ali_Larter" href="http://dbpedia.org/resource/Ali_Larter"><small>dbr</small>:Ali_Larter</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/1974_in_television" href="http://dbpedia.org/resource/1974_in_television"><small>dbr</small>:1974_in_television</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/1978_in_American_television" href="http://dbpedia.org/resource/1978_in_American_television"><small>dbr</small>:1978_in_American_television</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/1985_in_American_television" href="http://dbpedia.org/resource/1985_in_American_television"><small>dbr</small>:1985_in_American_television</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Kirk_Acevedo" href="http://dbpedia.org/resource/Kirk_Acevedo"><small>dbr</small>:Kirk_Acevedo</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Stillking_Films" href="http://dbpedia.org/resource/Stillking_Films"><small>dbr</small>:Stillking_Films</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Chance_Kelly" href="http://dbpedia.org/resource/Chance_Kelly"><small>dbr</small>:Chance_Kelly</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_Italian-American_actors" href="http://dbpedia.org/resource/List_of_Italian-American_actors"><small>dbr</small>:List_of_Italian-American_actors</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Colors_Infinity" href="http://dbpedia.org/resource/Colors_Infinity"><small>dbr</small>:Colors_Infinity</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Joe_Marinelli" href="http://dbpedia.org/resource/Joe_Marinelli"><small>dbr</small>:Joe_Marinelli</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/2015_in_Philippine_television" href="http://dbpedia.org/resource/2015_in_Philippine_television"><small>dbr</small>:2015_in_Philippine_television</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Morris_Chestnut" href="http://dbpedia.org/resource/Morris_Chestnut"><small>dbr</small>:Morris_Chestnut</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Spy_film" href="http://dbpedia.org/resource/Spy_film"><small>dbr</small>:Spy_film</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Amber_Valletta" href="http://dbpedia.org/resource/Amber_Valletta"><small>dbr</small>:Amber_Valletta</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Mido_Hamada" href="http://dbpedia.org/resource/Mido_Hamada"><small>dbr</small>:Mido_Hamada</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Robert_Wisdom" href="http://dbpedia.org/resource/Robert_Wisdom"><small>dbr</small>:Robert_Wisdom</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Klára_Issová" href="http://dbpedia.org/resource/Klára_Issová"><small>dbr</small>:Klára_Issová</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Winter_Ave_Zoli" href="http://dbpedia.org/resource/Winter_Ave_Zoli"><small>dbr</small>:Winter_Ave_Zoli</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Nesrin_Cavadzade" href="http://dbpedia.org/resource/Nesrin_Cavadzade"><small>dbr</small>:Nesrin_Cavadzade</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Fatima_Adoum" href="http://dbpedia.org/resource/Fatima_Adoum"><small>dbr</small>:Fatima_Adoum</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_programs_broadcast_by_TNT_(American_TV_network)" href="http://dbpedia.org/resource/List_of_programs_broadcast_by_TNT_(American_TV_network)"><small>dbr</small>:List_of_programs_broadcast_by_TNT_(American_TV_network)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Joshua_Close" href="http://dbpedia.org/resource/Joshua_Close"><small>dbr</small>:Joshua_Close</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Ralph_Brown" href="http://dbpedia.org/resource/Ralph_Brown"><small>dbr</small>:Ralph_Brown</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Touchstone_Television" href="http://dbpedia.org/resource/Touchstone_Television"><small>dbr</small>:Touchstone_Television</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Tina_Majorino" href="http://dbpedia.org/resource/Tina_Majorino"><small>dbr</small>:Tina_Majorino</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Necar_Zadegan" href="http://dbpedia.org/resource/Necar_Zadegan"><small>dbr</small>:Necar_Zadegan</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Kelly_Overton" href="http://dbpedia.org/resource/Kelly_Overton"><small>dbr</small>:Kelly_Overton</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Kiran_Sonia_Sawar" href="http://dbpedia.org/resource/Kiran_Sonia_Sawar"><small>dbr</small>:Kiran_Sonia_Sawar</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Christine_Adams_(actress)" href="http://dbpedia.org/resource/Christine_Adams_(actress)"><small>dbr</small>:Christine_Adams_(actress)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Josh_Randall" href="http://dbpedia.org/resource/Josh_Randall"><small>dbr</small>:Josh_Randall</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Omid_Abtahi" href="http://dbpedia.org/resource/Omid_Abtahi"><small>dbr</small>:Omid_Abtahi</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Stoney_(musician)" href="http://dbpedia.org/resource/Stoney_(musician)"><small>dbr</small>:Stoney_(musician)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Aisling_Franciosi" href="http://dbpedia.org/resource/Aisling_Franciosi"><small>dbr</small>:Aisling_Franciosi</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Victoria_Moroles" href="http://dbpedia.org/resource/Victoria_Moroles"><small>dbr</small>:Victoria_Moroles</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Anna_Rust" href="http://dbpedia.org/resource/Anna_Rust"><small>dbr</small>:Anna_Rust</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Skip_Schoolnik" href="http://dbpedia.org/resource/Skip_Schoolnik"><small>dbr</small>:Skip_Schoolnik</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Alrick_Riley" href="http://dbpedia.org/resource/Alrick_Riley"><small>dbr</small>:Alrick_Riley</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Noeleen_Comiskey" href="http://dbpedia.org/resource/Noeleen_Comiskey"><small>dbr</small>:Noeleen_Comiskey</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Tom_Taylor_(actor)" href="http://dbpedia.org/resource/Tom_Taylor_(actor)"><small>dbr</small>:Tom_Taylor_(actor)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Josh_Cowdery" href="http://dbpedia.org/resource/Josh_Cowdery"><small>dbr</small>:Josh_Cowdery</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Ermin_Sijamija" href="http://dbpedia.org/resource/Ermin_Sijamija"><small>dbr</small>:Ermin_Sijamija</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Karen_Gaviola" href="http://dbpedia.org/resource/Karen_Gaviola"><small>dbr</small>:Karen_Gaviola</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Blake_Robbins_(actor)" href="http://dbpedia.org/resource/Blake_Robbins_(actor)"><small>dbr</small>:Blake_Robbins_(actor)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jon_Jones_(director)" href="http://dbpedia.org/resource/Jon_Jones_(director)"><small>dbr</small>:Jon_Jones_(director)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/2015_in_Australian_television" href="http://dbpedia.org/resource/2015_in_Australian_television"><small>dbr</small>:2015_in_Australian_television</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/1976_in_American_television" href="http://dbpedia.org/resource/1976_in_American_television"><small>dbr</small>:1976_in_American_television</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Ethan_Reiff_and_Cyrus_Voris" href="http://dbpedia.org/resource/Ethan_Reiff_and_Cyrus_Voris"><small>dbr</small>:Ethan_Reiff_and_Cyrus_Voris</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Legend_(disambiguation)" href="http://dbpedia.org/resource/Legend_(disambiguation)"><small>dbr</small>:Legend_(disambiguation)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Alexie_Gilmore" href="http://dbpedia.org/resource/Alexie_Gilmore"><small>dbr</small>:Alexie_Gilmore</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/10_Bold" href="http://dbpedia.org/resource/10_Bold"><small>dbr</small>:10_Bold</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Eric_Godon" href="http://dbpedia.org/resource/Eric_Godon"><small>dbr</small>:Eric_Godon</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Mark_Bomback" href="http://dbpedia.org/resource/Mark_Bomback"><small>dbr</small>:Mark_Bomback</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Chris_Mulkey" href="http://dbpedia.org/resource/Chris_Mulkey"><small>dbr</small>:Chris_Mulkey</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Nikola_Đuričko" href="http://dbpedia.org/resource/Nikola_Đuričko"><small>dbr</small>:Nikola_Đuričko</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Waleed_Zuaiter" href="http://dbpedia.org/resource/Waleed_Zuaiter"><small>dbr</small>:Waleed_Zuaiter</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jeffrey_Nachmanoff" href="http://dbpedia.org/resource/Jeffrey_Nachmanoff"><small>dbr</small>:Jeffrey_Nachmanoff</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Gloria_Garayua" href="http://dbpedia.org/resource/Gloria_Garayua"><small>dbr</small>:Gloria_Garayua</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Los_Angeles_Center_Studios" href="http://dbpedia.org/resource/Los_Angeles_Center_Studios"><small>dbr</small>:Los_Angeles_Center_Studios</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Reinhold_Heil" href="http://dbpedia.org/resource/Reinhold_Heil"><small>dbr</small>:Reinhold_Heil</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Billy_Brown_(actor)" href="http://dbpedia.org/resource/Billy_Brown_(actor)"><small>dbr</small>:Billy_Brown_(actor)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/1138_(number)" href="http://dbpedia.org/resource/1138_(number)"><small>dbr</small>:1138_(number)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Massimo_Corvo" href="http://dbpedia.org/resource/Massimo_Corvo"><small>dbr</small>:Massimo_Corvo</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Fox_(Hungarian_TV_channel)" href="http://dbpedia.org/resource/Fox_(Hungarian_TV_channel)"><small>dbr</small>:Fox_(Hungarian_TV_channel)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Rob_Mayes" href="http://dbpedia.org/resource/Rob_Mayes"><small>dbr</small>:Rob_Mayes</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/2015_in_home_video" href="http://dbpedia.org/resource/2015_in_home_video"><small>dbr</small>:2015_in_home_video</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/2014_in_American_television" href="http://dbpedia.org/resource/2014_in_American_television"><small>dbr</small>:2014_in_American_television</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/April_Parker_Jones" href="http://dbpedia.org/resource/April_Parker_Jones"><small>dbr</small>:April_Parker_Jones</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_programs_broadcast_by_Network_10" href="http://dbpedia.org/resource/List_of_programs_broadcast_by_Network_10"><small>dbr</small>:List_of_programs_broadcast_by_Network_10</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Keon_Alexander" href="http://dbpedia.org/resource/Keon_Alexander"><small>dbr</small>:Keon_Alexander</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/David_Meunier" href="http://dbpedia.org/resource/David_Meunier"><small>dbr</small>:David_Meunier</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Ian_Nelson_(actor,_born_1995)" href="http://dbpedia.org/resource/Ian_Nelson_(actor,_born_1995)"><small>dbr</small>:Ian_Nelson_(actor,_born_1995)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Robert_Littell_(author)" href="http://dbpedia.org/resource/Robert_Littell_(author)"><small>dbr</small>:Robert_Littell_(author)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Kent_Shocknek" href="http://dbpedia.org/resource/Kent_Shocknek"><small>dbr</small>:Kent_Shocknek</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Nicholas_Galitzine_(actor)" href="http://dbpedia.org/resource/Nicholas_Galitzine_(actor)"><small>dbr</small>:Nicholas_Galitzine_(actor)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_television_episodes_titled_Pilot" href="http://dbpedia.org/resource/List_of_television_episodes_titled_Pilot"><small>dbr</small>:List_of_television_episodes_titled_Pilot</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Christopher_Matthew_Cook" href="http://dbpedia.org/resource/Christopher_Matthew_Cook"><small>dbr</small>:Christopher_Matthew_Cook</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_Legends_(TV_series)_episodes" href="http://dbpedia.org/resource/List_of_Legends_(TV_series)_episodes"><small>dbr</small>:List_of_Legends_(TV_series)_episodes</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_Legends_episodes" href="http://dbpedia.org/resource/List_of_Legends_episodes"><small>dbr</small>:List_of_Legends_episodes</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2">is <a class="uri" href="http://dbpedia.org/property/products"><small>dbp:</small>products</a>
+ of</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rev="dbp:products" resource="http://dbpedia.org/resource/Stillking_Films" href="http://dbpedia.org/resource/Stillking_Films"><small>dbr</small>:Stillking_Films</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2">is <a class="uri" href="http://xmlns.com/foaf/0.1/primaryTopic"><small>foaf:</small>primaryTopic</a>
+ of</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rev="foaf:primaryTopic" resource="http://en.wikipedia.org/wiki/Legends_(TV_series)" href="http://en.wikipedia.org/wiki/Legends_(TV_series)"><small>wikipedia-en</small>:Legends_(TV_series)</a></span></li>
+</ul></td></tr>
+		    </tbody>
+		</table>
+	    </div>
+	</div>
+    </div>
+</section>
+<!-- property-table -->
+
+<!-- footer -->
+<section>
+    <div class="container-xl">
+	<div class="text-center p-4 bg-light">
+	    <a href="https://virtuoso.openlinksw.com/" title="OpenLink Virtuoso"><img class="powered_by" src="/statics/images/virt_power_no_border.png" alt="Powered by OpenLink Virtuoso"></a>&nbsp; &nbsp;
+	    <a href="http://linkeddata.org/"><img alt="This material is Open Knowledge" src="/statics/images/LoDLogo.gif"></a> &nbsp; &nbsp;
+	    <a href="http://dbpedia.org/sparql"><img alt="W3C Semantic Web Technology" src="/statics/images/sw-sparql-blue.png"></a> &nbsp;  &nbsp;
+	    <a href="https://opendefinition.org/"><img alt="This material is Open Knowledge" src="/statics/images/od_80x15_red_green.png"></a>&nbsp; &nbsp;
+	    <span style="display:none;" about="" resource="http://www.w3.org/TR/rdfa-syntax" rel="dc:conformsTo">
+		<a href="https://validator.w3.org/check?uri=referer">
+		    <img src="https://www.w3.org/Icons/valid-xhtml-rdfa" alt="Valid XHTML + RDFa">
+		</a>
+	    </span>
+	    <br>
+	    <small class="text-muted">
+		This content was extracted from <a href="http://en.wikipedia.org/wiki/Legends_(TV_series)">Wikipedia</a> and is licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>
+
+	    </small>
+	</div>
+    </div>
+</section>
+<!-- #footer -->
+
+<!-- scripts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/js/bootstrap.bundle.min.js" integrity="sha512-pax4MlgXjHEPfCwcJLQhigY7+N8rt6bVvWLFyUMuxShv170X53TRzGPmPkZmGBhk+jikR8WBM4yl7A9WMHHqvg==" crossorigin="anonymous">
+    </script>
+
+
+</body></html>

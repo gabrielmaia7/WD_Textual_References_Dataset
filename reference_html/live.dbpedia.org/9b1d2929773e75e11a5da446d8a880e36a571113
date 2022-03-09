@@ -1,0 +1,564 @@
+<html prefix="
+        dbp: http://dbpedia.org/property/
+        dbo: http://dbedia.org/ontology/
+        dct: http://purl.org/dc/terms/
+	og:  https://ogp.me/ns#
+	"><!-- header --><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>About: Palibhasa Lalake</title>
+
+    <!-- Links -->
+    <link rel="alternate" type="application/rdf+xml" href="https://live.dbpedia.org/data/Palibhasa_Lalake.rdf" title="Structured Descriptor Document (RDF/XML format)">
+    <link rel="alternate" type="text/n3" href="https://live.dbpedia.org/data/Palibhasa_Lalake.n3" title="Structured Descriptor Document (N3 format)">
+    <link rel="alternate" type="text/turtle" href="https://live.dbpedia.org/data/Palibhasa_Lalake.ttl" title="Structured Descriptor Document (Turtle format)">
+    <link rel="alternate" type="application/json+rdf" href="https://live.dbpedia.org/data/Palibhasa_Lalake.jrdf" title="Structured Descriptor Document (RDF/JSON format)">
+    <link rel="alternate" type="application/json" href="https://live.dbpedia.org/data/Palibhasa_Lalake.json" title="Structured Descriptor Document (RDF/JSON format)">
+    <link rel="alternate" type="application/atom+xml" href="https://live.dbpedia.org/data/Palibhasa_Lalake.atom" title="OData (Atom+Feed format)">
+    <link rel="alternate" type="text/plain" href="https://live.dbpedia.org/data/Palibhasa_Lalake.ntriples" title="Structured Descriptor Document (N-Triples format)">
+    <link rel="alternate" type="text/csv" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FPalibhasa_Lalake%3E&amp;format=text%2Fcsv" title="Structured Descriptor Document (CSV format)">
+    
+    <link rel="alternate" type="text/cxml" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FPalibhasa_Lalake%3E&amp;format=text%2Fcxml" title="Structured Descriptor Document (CXML format)">
+    
+    <link rel="alternate" type="application/microdata+json" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FPalibhasa_Lalake%3E&amp;format=application%2Fmicrodata%2Bjson" title="Structured Descriptor Document (Microdata/JSON format)">
+    <link rel="alternate" type="text/html" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FPalibhasa_Lalake%3E&amp;format=text%2Fhtml" title="Structured Descriptor Document (Microdata/HTML format)">
+    <link rel="alternate" type="application/ld+json" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FPalibhasa_Lalake%3E&amp;format=application%2Fjson-ld" title="Structured Descriptor Document (JSON-LD format)">
+    <link rel="alternate" type="text/x-html-script-ld+json" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FPalibhasa_Lalake%3E&amp;format=text%2Fx-html-script-ld%2Bjson" title="Structured Descriptor Document (HTML with embedded JSON-LD)">
+    <link rel="alternate" type="text/x-html-script-turtle" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FPalibhasa_Lalake%3E&amp;format=text%2Fx-html-script-turtle" title="Structured Descriptor Document (HTML with embedded Turtle)">
+    <link rel="timegate" type="text/html" href="http://dbpedia.mementodepot.org/timegate/http://dbpedia.org/page/Palibhasa_Lalake" title="Time Machine">
+    <link rel="foaf:primarytopic" href="http://dbpedia.org/resource/Palibhasa_Lalake">
+    <link rev="describedby" href="http://dbpedia.org/resource/Palibhasa_Lalake">
+    <!-- /Links -->
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
+    <!-- link rel="stylesheet" href="/statics/css/dbpedia.css" -->
+    <!-- /Stylesheets-->
+
+    <!-- OpenGraph -->
+    <meta property="og:title" content="Palibhasa Lalake">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="http://dbpedia.org/resource/Palibhasa_Lalake">
+    <meta property="og:image" content="http://commons.wikimedia.org/wiki/Special:FilePath/Palibhasa_Lalake.jpeg?width=300">
+    <meta property="og:description" content="Palibhasa Lalake is a Philippine sitcom on ABS-CBN which ran from March 3, 1987 to November 9, 1998 and directed by Johnny Manahan.">
+    <meta property="og:site_name" content="DBpedia">
+    <!-- /OpenGraph-->
+</head>
+<body about="http://dbpedia.org/resource/Palibhasa_Lalake">
+
+<!-- navbar -->
+<nav class="navbar navbar-expand-md navbar-light bg-light fixed-top align-items-center">
+    <div class="container-xl">
+	<a class="navbar-brand" href="http://wiki.dbpedia.org/Imprint" title="About DBpedia" style="color: #2c5078">
+	    <img class="img-fluid" src="/statics/images/dbpedia_logo_land_120.png" alt="About DBpedia">
+	</a>
+	<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#dbp-navbar" aria-controls="dbp-navbar" aria-expanded="false" aria-label="Toggle navigation">
+	    <span class="navbar-toggler-icon"></span>
+	</button>
+
+	<div class="collapse navbar-collapse" id="dbp-navbar">
+	    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+		<li class="nav-item dropdown">
+		    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBrowse" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+		    <i class="bi-eye-fill"></i> Browse using<span class="caret"></span></a>
+
+		    <ul class="dropdown-menu" aria-labelledby="navbarDropdownBrowse">
+			<li class="dropdown-item"><a class="nav-link" href="/describe/?uri=http%3A%2F%2Fdbpedia.org%2Fresource%2FPalibhasa_Lalake">OpenLink Faceted Browser</a></li>
+			<li class="dropdown-item"><a class="nav-link" href="http://osde.demo.openlinksw.com/#/editor?uri=https%3A%2F%2Flive.dbpedia.org%2Fdata%2FPalibhasa_Lalake.ttl&amp;view=statements">OpenLink Structured Data Editor</a></li>
+			<li class="dropdown-item"><a class="nav-link" href="http://en.lodlive.it/?http%3A%2F%2Fdbpedia.org%2Fresource%2FPalibhasa_Lalake">LodLive Browser</a></li>
+			<!-- li class="dropdown-item"><a class="nav-link" href="http://lodmilla.sztaki.hu/lodmilla/?url=http%3A%2F%2Fdbpedia.org%2Fresource%2FPalibhasa_Lalake">LODmilla Browser</a></li -->
+		    </ul>
+		</li>
+
+		<li class="nav-item dropdown">
+		    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownFormats" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+		    <i class="bi-file-earmark-fill"></i> Formats<span class="caret"></span></a>
+
+		    <ul class="dropdown-menu" aria-labelledby="navbarDropdownFormats">
+			<li class="dropdown-item-text">RDF:</li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/data/Palibhasa_Lalake.ntriples">N-Triples</a></li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/data/Palibhasa_Lalake.n3">N3</a></li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/data/Palibhasa_Lalake.ttl">Turtle</a></li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/data/Palibhasa_Lalake.json">JSON</a></li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/data/Palibhasa_Lalake.rdf">XML</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">OData:</li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/data/Palibhasa_Lalake.atom">Atom</a></li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/data/Palibhasa_Lalake.jsod">JSON</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">Microdata:</li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FPalibhasa_Lalake%3E&amp;format=application%2Fmicrodata%2Bjson">JSON</a></li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FPalibhasa_Lalake%3E&amp;format=text%2Fhtml">HTML</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">Embedded:</li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FPalibhasa_Lalake%3E&amp;format=text%2Fx-html-script-ld%2Bjson">JSON</a></li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FPalibhasa_Lalake%3E&amp;format=text%2Fx-html-script-turtle">Turtle</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">Other:</li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FPalibhasa_Lalake%3E&amp;format=text%2Fcsv">CSV</a></li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FPalibhasa_Lalake%3E&amp;format=application%2Fjson-ld">JSON-LD</a></li>
+
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FPalibhasa_Lalake%3E&amp;format=text%2Fcxml">CXML</a></li>
+
+		    </ul>
+		</li>
+	    </ul>
+
+	    <ul class="navbar-nav ms-auto">
+		<li class="nav-item">
+		    <a class="nav-link" href="/fct/" title="Switch to /fct endpoint"><i class="bi-box-arrow-up-right"></i> Faceted Browser </a>
+		</li>
+
+		<li class="nav-item">
+		    <a class="nav-link" href="/sparql/" title="Switch to /sparql endpoint"><i class="bi-box-arrow-up-right"></i> Sparql Endpoint </a>
+		</li>
+
+	    </ul>
+	</div>
+   </div>
+</nav>
+<div style="margin-bottom: 60px"></div>
+<!-- /navbar -->
+
+
+<!-- page-header -->
+<section>
+    <div class="container-xl">
+	<div class="row">
+	    <div class="col">
+		<h1 id="title" class="display-6"><b>About:</b>
+		    <a href="http://live.dbpedia.org/resource/Palibhasa_Lalake">Palibhasa Lalake</a>
+		</h1>
+	    </div>
+	</div>
+	<div class="row">
+	    <div class="col">
+		<div class="text-muted">
+		    <span class="text-nowrap">An Entity of Type: <a href="http://live.dbpedia.org/ontology/Work">work</a>, </span>
+		    <span class="text-nowrap">from Named Graph:  <a href="http://dbpedia.org">http://dbpedia.org</a>, </span>
+		    <span class="text-nowrap">within Data Space: <a href="http://live.dbpedia.org">live.dbpedia.org</a></span>
+		</div>
+	    </div>
+	</div>
+
+	<div class="row">
+	    <div class="col">
+		<div class="text-muted small">
+		    <span class="text-nowrap sm-auto">Last updated on: Sat, 04 Sep 2021 02:23:55 GMT</span>
+		</div>
+	    </div>
+	</div>
+
+	<div class="row pt-2">
+	    <div class="col-xs-9 col-sm-10">
+		<p class="lead">Palibhasa Lalake is a Philippine sitcom on ABS-CBN which ran from March 3, 1987 to November 9, 1998 and directed by Johnny Manahan.</p>
+	    </div>
+
+	    <div class="col-xs-3 col-sm-2">
+		<a href="#" class="thumbnail">
+		    <img src="http://commons.wikimedia.org/wiki/Special:FilePath/Palibhasa_Lalake.jpeg?width=300" alt="thumbnail" class="img-fluid">
+		</a>
+	    </div>
+
+	</div>
+    </div>
+</section>
+<!-- page-header -->
+
+<!-- property-table -->
+<section>
+    <div class="container-xl">
+	<div class="row">
+	    <div class="table-responsive">
+		<table class="table table-hover table-sm table-light">
+		    <thead>
+			<tr>
+			    <th class="col-xs-3 ">Property</th>
+			    <th class="col-xs-9 px-3">Value</th>
+			</tr>
+		    </thead>
+		    <tbody>
+<tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/Work/runtime" title="http://dbpedia.org/ontology/Work/runtime"><small>dbo:</small>Work/runtime</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="ns0:runtime" prefix="ns0: http://dbpedia.org/ontology/Work/">30.0</span></span></li>
+	<li><span class="literal"><span property="ns1:runtime" prefix="ns1: http://dbpedia.org/ontology/Work/">60.0</span></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/abstract" title="http://dbpedia.org/ontology/abstract"><small>dbo:</small>abstract</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:abstract" lang="en">Palibhasa Lalake is a Philippine sitcom on ABS-CBN which ran from March 3, 1987 to November 9, 1998 and directed by Johnny Manahan.</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/author" title="http://dbpedia.org/ontology/author"><small>dbo:</small>author</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:author" resource="http://dbpedia.org/resource/Jose_Javier_Reyes" href="http://live.dbpedia.org/resource/Jose_Javier_Reyes"><small>dbr</small>:Jose_Javier_Reyes</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/company" title="http://dbpedia.org/ontology/company"><small>dbo:</small>company</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:company" resource="http://dbpedia.org/resource/Regal_Films" href="http://live.dbpedia.org/resource/Regal_Films"><small>dbr</small>:Regal_Films</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/completionDate" title="http://dbpedia.org/ontology/completionDate"><small>dbo:</small>completionDate</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:completionDate" datatype="xsd:date">1998-11-09</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/composer" title="http://dbpedia.org/ontology/composer"><small>dbo:</small>composer</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:composer" resource="http://dbpedia.org/resource/Mike_Hanopol" href="http://live.dbpedia.org/resource/Mike_Hanopol"><small>dbr</small>:Mike_Hanopol</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/creator" title="http://dbpedia.org/ontology/creator"><small>dbo:</small>creator</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:creator" resource="http://dbpedia.org/resource/ABS-CBN_Corporation" href="http://live.dbpedia.org/resource/ABS-CBN_Corporation"><small>dbr</small>:ABS-CBN_Corporation</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/director" title="http://dbpedia.org/ontology/director"><small>dbo:</small>director</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:director" resource="http://dbpedia.org/resource/Johnny_Manahan" href="http://live.dbpedia.org/resource/Johnny_Manahan"><small>dbr</small>:Johnny_Manahan</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/executiveProducer" title="http://dbpedia.org/ontology/executiveProducer"><small>dbo:</small>executiveProducer</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:executiveProducer" resource="http://dbpedia.org/resource/Douglas_Quijano" href="http://live.dbpedia.org/resource/Douglas_Quijano"><small>dbr</small>:Douglas_Quijano</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/format" title="http://dbpedia.org/ontology/format"><small>dbo:</small>format</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:format" resource="http://dbpedia.org/resource/NTSC" href="http://live.dbpedia.org/resource/NTSC"><small>dbr</small>:NTSC</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/genre" title="http://dbpedia.org/ontology/genre"><small>dbo:</small>genre</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:genre" resource="http://dbpedia.org/resource/Sitcom" href="http://live.dbpedia.org/resource/Sitcom"><small>dbr</small>:Sitcom</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/network" title="http://dbpedia.org/ontology/network"><small>dbo:</small>network</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:network" resource="http://dbpedia.org/resource/ABS-CBN" href="http://live.dbpedia.org/resource/ABS-CBN"><small>dbr</small>:ABS-CBN</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/openingTheme" title="http://dbpedia.org/ontology/openingTheme"><small>dbo:</small>openingTheme</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:openingTheme" resource="http://dbpedia.org/resource/Hagibis_(band)" href="http://live.dbpedia.org/resource/Hagibis_(band)"><small>dbr</small>:Hagibis_(band)</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/releaseDate" title="http://dbpedia.org/ontology/releaseDate"><small>dbo:</small>releaseDate</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:releaseDate" datatype="xsd:date">1987-03-03</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/runtime" title="http://dbpedia.org/ontology/runtime"><small>dbo:</small>runtime</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:runtime" datatype="xsd:double">1800.000000</span><small> (xsd:double)</small></span></li>
+	<li><span class="literal"><span property="dbo:runtime" datatype="xsd:double">3600.000000</span><small> (xsd:double)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/starring" title="http://dbpedia.org/ontology/starring"><small>dbo:</small>starring</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/Carmina_Villaroel" href="http://live.dbpedia.org/resource/Carmina_Villaroel"><small>dbr</small>:Carmina_Villaroel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/Amy_Perez" href="http://live.dbpedia.org/resource/Amy_Perez"><small>dbr</small>:Amy_Perez</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/Gloria_Romero_(actress)" href="http://live.dbpedia.org/resource/Gloria_Romero_(actress)"><small>dbr</small>:Gloria_Romero_(actress)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/Richard_Gomez" href="http://live.dbpedia.org/resource/Richard_Gomez"><small>dbr</small>:Richard_Gomez</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/Joey_Marquez" href="http://live.dbpedia.org/resource/Joey_Marquez"><small>dbr</small>:Joey_Marquez</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/John_Estrada" href="http://live.dbpedia.org/resource/John_Estrada"><small>dbr</small>:John_Estrada</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/Miguel_Rodriguez_(actor)" href="http://live.dbpedia.org/resource/Miguel_Rodriguez_(actor)"><small>dbr</small>:Miguel_Rodriguez_(actor)</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/thumbnail" title="http://dbpedia.org/ontology/thumbnail"><small>dbo:</small>thumbnail</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:thumbnail" resource="http://commons.wikimedia.org/wiki/Special:FilePath/Palibhasa_Lalake.jpeg?width=300" href="http://commons.wikimedia.org/wiki/Special:FilePath/Palibhasa_Lalake.jpeg?width=300"><small>wiki-commons</small>:Special:FilePath/Palibhasa_Lalake.jpeg?width=300</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/wikiPageID" title="http://dbpedia.org/ontology/wikiPageID"><small>dbo:</small>wikiPageID</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:wikiPageID" datatype="xsd:integer">11337512</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/wikiPageLength" title="http://dbpedia.org/ontology/wikiPageLength"><small>dbo:</small>wikiPageLength</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:wikiPageLength" datatype="xsd:nonNegativeInteger">8220</span><small> (xsd:nonNegativeInteger)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/wikiPageOutDegree" title="http://dbpedia.org/ontology/wikiPageOutDegree"><small>dbo:</small>wikiPageOutDegree</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:wikiPageOutDegree" datatype="xsd:nonNegativeInteger">78</span><small> (xsd:nonNegativeInteger)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/wikiPageRevisionID" title="http://dbpedia.org/ontology/wikiPageRevisionID"><small>dbo:</small>wikiPageRevisionID</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:wikiPageRevisionID" datatype="xsd:integer">1042266973</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/wikiPageWikiLink" title="http://dbpedia.org/ontology/wikiPageWikiLink"><small>dbo:</small>wikiPageWikiLink</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Hagibis_(band)" href="http://live.dbpedia.org/resource/Hagibis_(band)"><small>dbr</small>:Hagibis_(band)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Mark_Anthony_Fernandez" href="http://live.dbpedia.org/resource/Mark_Anthony_Fernandez"><small>dbr</small>:Mark_Anthony_Fernandez</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/YouTube" href="http://live.dbpedia.org/resource/YouTube"><small>dbr</small>:YouTube</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:1998_Philippine_television_series_endings" href="http://live.dbpedia.org/resource/Category:1998_Philippine_television_series_endings"><small>dbc</small>:1998_Philippine_television_series_endings</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:ABS-CBN_original_programming" href="http://live.dbpedia.org/resource/Category:ABS-CBN_original_programming"><small>dbc</small>:ABS-CBN_original_programming</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:Filipino-language_television_shows" href="http://live.dbpedia.org/resource/Category:Filipino-language_television_shows"><small>dbc</small>:Filipino-language_television_shows</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:Philippine_television_sitcoms" href="http://live.dbpedia.org/resource/Category:Philippine_television_sitcoms"><small>dbc</small>:Philippine_television_sitcoms</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_programs_broadcast_by_ABS-CBN" href="http://live.dbpedia.org/resource/List_of_programs_broadcast_by_ABS-CBN"><small>dbr</small>:List_of_programs_broadcast_by_ABS-CBN</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_programs_broadcast_by_Jeepney_TV" href="http://live.dbpedia.org/resource/List_of_programs_broadcast_by_Jeepney_TV"><small>dbr</small>:List_of_programs_broadcast_by_Jeepney_TV</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Rerun" href="http://live.dbpedia.org/resource/Rerun"><small>dbr</small>:Rerun</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Amy_Perez" href="http://live.dbpedia.org/resource/Amy_Perez"><small>dbr</small>:Amy_Perez</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Andrea_del_Rosario" href="http://live.dbpedia.org/resource/Andrea_del_Rosario"><small>dbr</small>:Andrea_del_Rosario</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/IWantTFC" href="http://live.dbpedia.org/resource/IWantTFC"><small>dbr</small>:IWantTFC</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jao_Mapa" href="http://live.dbpedia.org/resource/Jao_Mapa"><small>dbr</small>:Jao_Mapa</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jeepney_TV" href="http://live.dbpedia.org/resource/Jeepney_TV"><small>dbr</small>:Jeepney_TV</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Kevin_Vernal" href="http://live.dbpedia.org/resource/Kevin_Vernal"><small>dbr</small>:Kevin_Vernal</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/ABS-CBN" href="http://live.dbpedia.org/resource/ABS-CBN"><small>dbr</small>:ABS-CBN</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/ABS-CBN_Corporation" href="http://live.dbpedia.org/resource/ABS-CBN_Corporation"><small>dbr</small>:ABS-CBN_Corporation</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Claudine_Barretto" href="http://live.dbpedia.org/resource/Claudine_Barretto"><small>dbr</small>:Claudine_Barretto</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Edu_Manzano" href="http://live.dbpedia.org/resource/Edu_Manzano"><small>dbr</small>:Edu_Manzano</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Eric_Fructuoso" href="http://live.dbpedia.org/resource/Eric_Fructuoso"><small>dbr</small>:Eric_Fructuoso</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Gloria_Romero_(actress)" href="http://live.dbpedia.org/resource/Gloria_Romero_(actress)"><small>dbr</small>:Gloria_Romero_(actress)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Ogie_Diaz" href="http://live.dbpedia.org/resource/Ogie_Diaz"><small>dbr</small>:Ogie_Diaz</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:1987_Philippine_television_series_debuts" href="http://live.dbpedia.org/resource/Category:1987_Philippine_television_series_debuts"><small>dbc</small>:1987_Philippine_television_series_debuts</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Standard-definition_television" href="http://live.dbpedia.org/resource/Standard-definition_television"><small>dbr</small>:Standard-definition_television</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Carmina_Villarroel" href="http://live.dbpedia.org/resource/Carmina_Villarroel"><small>dbr</small>:Carmina_Villarroel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Anjo_Yllana" href="http://live.dbpedia.org/resource/Anjo_Yllana"><small>dbr</small>:Anjo_Yllana</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Antonio_Aquitania" href="http://live.dbpedia.org/resource/Antonio_Aquitania"><small>dbr</small>:Antonio_Aquitania</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/480i" href="http://live.dbpedia.org/resource/480i"><small>dbr</small>:480i</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Regal_Entertainment" href="http://live.dbpedia.org/resource/Regal_Entertainment"><small>dbr</small>:Regal_Entertainment</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Regine_Tolentino" href="http://live.dbpedia.org/resource/Regine_Tolentino"><small>dbr</small>:Regine_Tolentino</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Rene_Requiestas" href="http://live.dbpedia.org/resource/Rene_Requiestas"><small>dbr</small>:Rene_Requiestas</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Rica_Peralejo" href="http://live.dbpedia.org/resource/Rica_Peralejo"><small>dbr</small>:Rica_Peralejo</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Richard_Gomez" href="http://live.dbpedia.org/resource/Richard_Gomez"><small>dbr</small>:Richard_Gomez</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Bearwin_Meily" href="http://live.dbpedia.org/resource/Bearwin_Meily"><small>dbr</small>:Bearwin_Meily</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Bentong_(comedian)" href="http://live.dbpedia.org/resource/Bentong_(comedian)"><small>dbr</small>:Bentong_(comedian)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Joey_Marquez" href="http://live.dbpedia.org/resource/Joey_Marquez"><small>dbr</small>:Joey_Marquez</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/John_Estrada" href="http://live.dbpedia.org/resource/John_Estrada"><small>dbr</small>:John_Estrada</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/John_Lloyd_Cruz" href="http://live.dbpedia.org/resource/John_Lloyd_Cruz"><small>dbr</small>:John_Lloyd_Cruz</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Johnny_Manahan" href="http://live.dbpedia.org/resource/Johnny_Manahan"><small>dbr</small>:Johnny_Manahan</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jomari_Yllana" href="http://live.dbpedia.org/resource/Jomari_Yllana"><small>dbr</small>:Jomari_Yllana</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Miguel_Rodriguez_(actor)" href="http://live.dbpedia.org/resource/Miguel_Rodriguez_(actor)"><small>dbr</small>:Miguel_Rodriguez_(actor)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Mike_Hanopol" href="http://live.dbpedia.org/resource/Mike_Hanopol"><small>dbr</small>:Mike_Hanopol</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Douglas_Quijano" href="http://live.dbpedia.org/resource/Douglas_Quijano"><small>dbr</small>:Douglas_Quijano</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jose_Javier_Reyes" href="http://live.dbpedia.org/resource/Jose_Javier_Reyes"><small>dbr</small>:Jose_Javier_Reyes</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Kristine_Hermosa" href="http://live.dbpedia.org/resource/Kristine_Hermosa"><small>dbr</small>:Kristine_Hermosa</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Sitcom" href="http://live.dbpedia.org/resource/Sitcom"><small>dbr</small>:Sitcom</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Bonel_Balingit" href="http://live.dbpedia.org/resource/Bonel_Balingit"><small>dbr</small>:Bonel_Balingit</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/G._Toengi" href="http://live.dbpedia.org/resource/G._Toengi"><small>dbr</small>:G._Toengi</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Gabby_Eigenmann" href="http://live.dbpedia.org/resource/Gabby_Eigenmann"><small>dbr</small>:Gabby_Eigenmann</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/caption" title="http://dbpedia.org/property/caption"><small>dbp:</small>caption</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:caption" lang="en">Updated title card used on Jeepney TV</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/company" title="http://dbpedia.org/property/company"><small>dbp:</small>company</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:company" resource="http://dbpedia.org/resource/Regal_Films" href="http://live.dbpedia.org/resource/Regal_Films"><small>dbr</small>:Regal_Films</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/country" title="http://dbpedia.org/property/country"><small>dbp:</small>country</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:country" lang="en">Philippines</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/creator" title="http://dbpedia.org/property/creator"><small>dbp:</small>creator</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:creator" resource="http://dbpedia.org/resource/ABS-CBN_Corporation" href="http://live.dbpedia.org/resource/ABS-CBN_Corporation"><small>dbr</small>:ABS-CBN_Corporation</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/director" title="http://dbpedia.org/property/director"><small>dbp:</small>director</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:director" resource="http://dbpedia.org/resource/Johnny_Manahan" href="http://live.dbpedia.org/resource/Johnny_Manahan"><small>dbr</small>:Johnny_Manahan</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/endtheme" title="http://dbpedia.org/property/endtheme"><small>dbp:</small>endtheme</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:endtheme" lang="en">"Katawan" by Hagibis</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/executiveProducer" title="http://dbpedia.org/property/executiveProducer"><small>dbp:</small>executiveProducer</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:executiveProducer" lang="en"></span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:executiveProducer" lang="en">Joanna Gomez-Santos</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:executiveProducer" lang="en">Emerald Suarez</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:executiveProducer" lang="en">Sherida Monteverde</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:executiveProducer" lang="en">Linggit Tan-Marasigan</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:executiveProducer" lang="en">Cynthia de Jesus-Jordan</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:executiveProducer" lang="en">Douglas M. Quijano</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/firstAired" title="http://dbpedia.org/property/firstAired"><small>dbp:</small>firstAired</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:firstAired" datatype="xsd:date">1987-03-03</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/genre" title="http://dbpedia.org/property/genre"><small>dbp:</small>genre</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:genre" resource="http://dbpedia.org/resource/Sitcom" href="http://live.dbpedia.org/resource/Sitcom"><small>dbr</small>:Sitcom</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/language" title="http://dbpedia.org/property/language"><small>dbp:</small>language</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:language" lang="en">Filipino</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/lastAired" title="http://dbpedia.org/property/lastAired"><small>dbp:</small>lastAired</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:lastAired" datatype="xsd:date">1998-11-09</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/name" title="http://dbpedia.org/property/name"><small>dbp:</small>name</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:name" lang="en">Palibhasa Lalake</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/network" title="http://dbpedia.org/property/network"><small>dbp:</small>network</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:network" resource="http://dbpedia.org/resource/ABS-CBN" href="http://live.dbpedia.org/resource/ABS-CBN"><small>dbr</small>:ABS-CBN</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/numEpisodes" title="http://dbpedia.org/property/numEpisodes"><small>dbp:</small>numEpisodes</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:numEpisodes" lang="en">n/a</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/opentheme" title="http://dbpedia.org/property/opentheme"><small>dbp:</small>opentheme</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:opentheme" lang="en">"Katawan" by Hagibis</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/pictureFormat" title="http://dbpedia.org/property/pictureFormat"><small>dbp:</small>pictureFormat</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:pictureFormat" resource="http://dbpedia.org/resource/NTSC" href="http://live.dbpedia.org/resource/NTSC"><small>dbr</small>:NTSC</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/runtime" title="http://dbpedia.org/property/runtime"><small>dbp:</small>runtime</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:runtime">5400.0</span></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/starring" title="http://dbpedia.org/property/starring"><small>dbp:</small>starring</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:starring" lang="en"></span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:starring" lang="en">Richard Gomez</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:starring" lang="en">Gloria Romero</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:starring" lang="en">Miguel Rodriguez</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:starring" lang="en">John Estrada</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:starring" lang="en">Amy Perez</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:starring" lang="en">Carmina Villaroel</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:starring" lang="en">Joey Marquez</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:starring" lang="en">Cynthia Patag</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/themeMusicComposer" title="http://dbpedia.org/property/themeMusicComposer"><small>dbp:</small>themeMusicComposer</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:themeMusicComposer" resource="http://dbpedia.org/resource/Mike_Hanopol" href="http://live.dbpedia.org/resource/Mike_Hanopol"><small>dbr</small>:Mike_Hanopol</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/wikiPageUsesTemplate" title="http://dbpedia.org/property/wikiPageUsesTemplate"><small>dbp:</small>wikiPageUsesTemplate</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:End_date" href="http://live.dbpedia.org/resource/Template:End_date"><small>dbt</small>:End_date</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:IMDb_title" href="http://live.dbpedia.org/resource/Template:IMDb_title"><small>dbt</small>:IMDb_title</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Infobox_television" href="http://live.dbpedia.org/resource/Template:Infobox_television"><small>dbt</small>:Infobox_television</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Reflist" href="http://live.dbpedia.org/resource/Template:Reflist"><small>dbt</small>:Reflist</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Start_date" href="http://live.dbpedia.org/resource/Template:Start_date"><small>dbt</small>:Start_date</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:TV_Guide_show" href="http://live.dbpedia.org/resource/Template:TV_Guide_show"><small>dbt</small>:TV_Guide_show</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/wordnet_type" title="http://dbpedia.org/property/wordnet_type"><small>dbp:</small>wordnet_type</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:wordnet_type nofollow" resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-telecast-noun-1" href="http://www.w3.org/2006/03/wn/wn20/instances/synset-telecast-noun-1">http://www.w3.org/2006/03/wn/wn20/instances/synset-telecast-noun-1</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/writer" title="http://dbpedia.org/property/writer"><small>dbp:</small>writer</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:writer" lang="en"></span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:writer" lang="en">John-D Lazatin</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:writer" lang="en">Jose Javier Reyes</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:writer" lang="en">Ipe Pelino</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:writer" lang="en">Divino Reyes</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://purl.org/dc/terms/subject"><small>dct:</small>subject</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:1998_Philippine_television_series_endings" href="http://live.dbpedia.org/resource/Category:1998_Philippine_television_series_endings"><small>dbc</small>:1998_Philippine_television_series_endings</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:ABS-CBN_original_programming" href="http://live.dbpedia.org/resource/Category:ABS-CBN_original_programming"><small>dbc</small>:ABS-CBN_original_programming</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:Filipino-language_television_shows" href="http://live.dbpedia.org/resource/Category:Filipino-language_television_shows"><small>dbc</small>:Filipino-language_television_shows</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:Philippine_television_sitcoms" href="http://live.dbpedia.org/resource/Category:Philippine_television_sitcoms"><small>dbc</small>:Philippine_television_sitcoms</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:1987_Philippine_television_series_debuts" href="http://live.dbpedia.org/resource/Category:1987_Philippine_television_series_debuts"><small>dbc</small>:1987_Philippine_television_series_debuts</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://purl.org/linguistics/gold/hypernym"><small>gold:</small>hypernym</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="gold:hypernym" resource="http://dbpedia.org/resource/Series" prefix="gold: http://purl.org/linguistics/gold/" href="http://live.dbpedia.org/resource/Series"><small>dbr</small>:Series</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"><small>rdf:</small>type</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://www.w3.org/2002/07/owl#Thing" href="http://www.w3.org/2002/07/owl#Thing"><small>owl</small>:Thing</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://schema.org/CreativeWork" href="http://schema.org/CreativeWork"><small>schema</small>:CreativeWork</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/ontology/Work" href="http://live.dbpedia.org/ontology/Work"><small>dbo</small>:Work</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://www.wikidata.org/entity/Q15416" href="http://www.wikidata.org/entity/Q15416"><small>wikidata</small>:Q15416</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://www.wikidata.org/entity/Q386724" href="http://www.wikidata.org/entity/Q386724"><small>wikidata</small>:Q386724</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/ontology/TelevisionShow" href="http://live.dbpedia.org/ontology/TelevisionShow"><small>dbo</small>:TelevisionShow</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/ontology/TelevisionShow" href="http://live.dbpedia.org/ontology/TelevisionShow"><small>dbo</small>:TelevisionShow</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" href="http://live.dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"><small>yago</small>:YagoPermanentlyLocatedEntity</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Abstraction100002137" href="http://live.dbpedia.org/class/yago/Abstraction100002137"><small>yago</small>:Abstraction100002137</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Act100030358" href="http://live.dbpedia.org/class/yago/Act100030358"><small>yago</small>:Act100030358</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Action100037396" href="http://live.dbpedia.org/class/yago/Action100037396"><small>yago</small>:Action100037396</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Activity100407535" href="http://live.dbpedia.org/class/yago/Activity100407535"><small>yago</small>:Activity100407535</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Beginning100235435" href="http://live.dbpedia.org/class/yago/Beginning100235435"><small>yago</small>:Beginning100235435</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Change100191142" href="http://live.dbpedia.org/class/yago/Change100191142"><small>yago</small>:Change100191142</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/ChangeOfState100199130" href="http://live.dbpedia.org/class/yago/ChangeOfState100199130"><small>yago</small>:ChangeOfState100199130</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Diversion100426928" href="http://live.dbpedia.org/class/yago/Diversion100426928"><small>yago</small>:Diversion100426928</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Ending106308765" href="http://live.dbpedia.org/class/yago/Ending106308765"><small>yago</small>:Ending106308765</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Entertainment100429048" href="http://live.dbpedia.org/class/yago/Entertainment100429048"><small>yago</small>:Entertainment100429048</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Event100029378" href="http://live.dbpedia.org/class/yago/Event100029378"><small>yago</small>:Event100029378</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Introduction100238022" href="http://live.dbpedia.org/class/yago/Introduction100238022"><small>yago</small>:Introduction100238022</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/LanguageUnit106284225" href="http://live.dbpedia.org/class/yago/LanguageUnit106284225"><small>yago</small>:LanguageUnit106284225</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Morpheme106306233" href="http://live.dbpedia.org/class/yago/Morpheme106306233"><small>yago</small>:Morpheme106306233</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Part113809207" href="http://live.dbpedia.org/class/yago/Part113809207"><small>yago</small>:Part113809207</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/PsychologicalFeature100023100" href="http://live.dbpedia.org/class/yago/PsychologicalFeature100023100"><small>yago</small>:PsychologicalFeature100023100</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Relation100031921" href="http://live.dbpedia.org/class/yago/Relation100031921"><small>yago</small>:Relation100031921</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Show100520257" href="http://live.dbpedia.org/class/yago/Show100520257"><small>yago</small>:Show100520257</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Wikicat1987PhilippineTelevisionSeriesDebuts" href="http://live.dbpedia.org/class/yago/Wikicat1987PhilippineTelevisionSeriesDebuts"><small>yago</small>:Wikicat1987PhilippineTelevisionSeriesDebuts</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Wikicat1998PhilippineTelevisionSeriesEndings" href="http://live.dbpedia.org/class/yago/Wikicat1998PhilippineTelevisionSeriesEndings"><small>yago</small>:Wikicat1998PhilippineTelevisionSeriesEndings</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/WikicatABS-CBNShows" href="http://live.dbpedia.org/class/yago/WikicatABS-CBNShows"><small>yago</small>:WikicatABS-CBNShows</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://www.w3.org/2000/01/rdf-schema#comment"><small>rdfs:</small>comment</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="rdfs:comment" lang="en">Palibhasa Lalake is a Philippine sitcom on ABS-CBN which ran from March 3, 1987 to November 9, 1998 and directed by Johnny Manahan.</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://www.w3.org/2000/01/rdf-schema#label"><small>rdfs:</small>label</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="rdfs:label" lang="en">Palibhasa Lalake</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://www.w3.org/2002/07/owl#sameAs"><small>owl:</small>sameAs</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://rdf.freebase.com/ns/m.02r84t5" href="http://rdf.freebase.com/ns/m.02r84t5"><small>freebase</small>:Palibhasa Lalake</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://yago-knowledge.org/resource/Palibhasa_Lalake" href="http://yago-knowledge.org/resource/Palibhasa_Lalake"><small>yago-res</small>:Palibhasa Lalake</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://www.wikidata.org/entity/Q7127518" href="http://www.wikidata.org/entity/Q7127518"><small>wikidata</small>:Palibhasa Lalake</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://tl.dbpedia.org/resource/Palibhasa_Lalake" href="http://tl.dbpedia.org/resource/Palibhasa_Lalake">http://tl.dbpedia.org/resource/Palibhasa_Lalake</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="https://global.dbpedia.org/id/4tK7E" href="https://global.dbpedia.org/id/4tK7E">https://global.dbpedia.org/id/4tK7E</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://dbpedia.org/resource/Palibhasa_Lalake" href="http://dbpedia.org/resource/Palibhasa_Lalake"><small>dbr</small>:Palibhasa Lalake</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://www.w3.org/ns/prov#wasDerivedFrom"><small>prov:</small>wasDerivedFrom</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="prov:wasDerivedFrom" resource="http://en.wikipedia.org/wiki/Palibhasa_Lalake?oldid=1042266973&amp;ns=0" href="http://en.wikipedia.org/wiki/Palibhasa_Lalake?oldid=1042266973&amp;ns=0"><small>wikipedia-en</small>:Palibhasa_Lalake?oldid=1042266973&amp;ns=0</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://xmlns.com/foaf/0.1/depiction"><small>foaf:</small>depiction</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="foaf:depiction" resource="http://commons.wikimedia.org/wiki/Special:FilePath/Palibhasa_Lalake.jpeg" href="http://commons.wikimedia.org/wiki/Special:FilePath/Palibhasa_Lalake.jpeg"><small>wiki-commons</small>:Special:FilePath/Palibhasa_Lalake.jpeg</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://xmlns.com/foaf/0.1/isPrimaryTopicOf"><small>foaf:</small>isPrimaryTopicOf</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="foaf:isPrimaryTopicOf" resource="http://en.wikipedia.org/wiki/Palibhasa_Lalake" href="http://en.wikipedia.org/wiki/Palibhasa_Lalake"><small>wikipedia-en</small>:Palibhasa_Lalake</a></span></li>
+	<li><span class="literal"><a class="uri" rel="foaf:isPrimaryTopicOf" resource="http://en.wikipedia.org/wiki/Palibhasa_Lalake" href="http://en.wikipedia.org/wiki/Palibhasa_Lalake"><small>wikipedia-en</small>:Palibhasa_Lalake</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2">is <a class="uri" href="http://live.dbpedia.org/ontology/related" title="http://dbpedia.org/ontology/related"><small>dbo:</small>related</a>
+ of</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:related" resource="http://dbpedia.org/resource/Whattamen" href="http://live.dbpedia.org/resource/Whattamen"><small>dbr</small>:Whattamen</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2">is <a class="uri" href="http://live.dbpedia.org/ontology/wikiPageRedirects" title="http://dbpedia.org/ontology/wikiPageRedirects"><small>dbo:</small>wikiPageRedirects</a>
+ of</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" resource="http://dbpedia.org/resource/Palibhasa_Lalaki" href="http://live.dbpedia.org/resource/Palibhasa_Lalaki"><small>dbr</small>:Palibhasa_Lalaki</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2">is <a class="uri" href="http://live.dbpedia.org/ontology/wikiPageWikiLink" title="http://dbpedia.org/ontology/wikiPageWikiLink"><small>dbo:</small>wikiPageWikiLink</a>
+ of</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Mark_Anthony_Fernandez" href="http://live.dbpedia.org/resource/Mark_Anthony_Fernandez"><small>dbr</small>:Mark_Anthony_Fernandez</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Sonny_Parsons" href="http://live.dbpedia.org/resource/Sonny_Parsons"><small>dbr</small>:Sonny_Parsons</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Tirso_Cruz_III" href="http://live.dbpedia.org/resource/Tirso_Cruz_III"><small>dbr</small>:Tirso_Cruz_III</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Whattamen" href="http://live.dbpedia.org/resource/Whattamen"><small>dbr</small>:Whattamen</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_programs_broadcast_by_ABS-CBN" href="http://live.dbpedia.org/resource/List_of_programs_broadcast_by_ABS-CBN"><small>dbr</small>:List_of_programs_broadcast_by_ABS-CBN</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_programs_broadcast_by_Jeepney_TV" href="http://live.dbpedia.org/resource/List_of_programs_broadcast_by_Jeepney_TV"><small>dbr</small>:List_of_programs_broadcast_by_Jeepney_TV</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_situation_comedies" href="http://live.dbpedia.org/resource/List_of_situation_comedies"><small>dbr</small>:List_of_situation_comedies</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/All_About_Adam_(TV_series)" href="http://live.dbpedia.org/resource/All_About_Adam_(TV_series)"><small>dbr</small>:All_About_Adam_(TV_series)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Amy_Perez" href="http://live.dbpedia.org/resource/Amy_Perez"><small>dbr</small>:Amy_Perez</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Andrea_del_Rosario" href="http://live.dbpedia.org/resource/Andrea_del_Rosario"><small>dbr</small>:Andrea_del_Rosario</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Ang_TV" href="http://live.dbpedia.org/resource/Ang_TV"><small>dbr</small>:Ang_TV</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Alamid_(band)" href="http://live.dbpedia.org/resource/Alamid_(band)"><small>dbr</small>:Alamid_(band)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jao_Mapa" href="http://live.dbpedia.org/resource/Jao_Mapa"><small>dbr</small>:Jao_Mapa</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Keempee_de_Leon" href="http://live.dbpedia.org/resource/Keempee_de_Leon"><small>dbr</small>:Keempee_de_Leon</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Palibhasa_Lalaki" href="http://live.dbpedia.org/resource/Palibhasa_Lalaki"><small>dbr</small>:Palibhasa_Lalaki</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/ABS-CBN_Corporation" href="http://live.dbpedia.org/resource/ABS-CBN_Corporation"><small>dbr</small>:ABS-CBN_Corporation</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/1987_in_Philippine_television" href="http://live.dbpedia.org/resource/1987_in_Philippine_television"><small>dbr</small>:1987_in_Philippine_television</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Claudine_Barretto" href="http://live.dbpedia.org/resource/Claudine_Barretto"><small>dbr</small>:Claudine_Barretto</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Edu_Manzano" href="http://live.dbpedia.org/resource/Edu_Manzano"><small>dbr</small>:Edu_Manzano</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Eric_Fructuoso" href="http://live.dbpedia.org/resource/Eric_Fructuoso"><small>dbr</small>:Eric_Fructuoso</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Gloria_Romero_(actress)" href="http://live.dbpedia.org/resource/Gloria_Romero_(actress)"><small>dbr</small>:Gloria_Romero_(actress)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Ogie_Diaz" href="http://live.dbpedia.org/resource/Ogie_Diaz"><small>dbr</small>:Ogie_Diaz</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/2019_in_Philippine_television" href="http://live.dbpedia.org/resource/2019_in_Philippine_television"><small>dbr</small>:2019_in_Philippine_television</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Carmina_Villarroel" href="http://live.dbpedia.org/resource/Carmina_Villarroel"><small>dbr</small>:Carmina_Villarroel</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/2nd_PMPC_Star_Awards_for_Television" href="http://live.dbpedia.org/resource/2nd_PMPC_Star_Awards_for_Television"><small>dbr</small>:2nd_PMPC_Star_Awards_for_Television</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/1998_in_Philippine_television" href="http://live.dbpedia.org/resource/1998_in_Philippine_television"><small>dbr</small>:1998_in_Philippine_television</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Anjo_Yllana" href="http://live.dbpedia.org/resource/Anjo_Yllana"><small>dbr</small>:Anjo_Yllana</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Antonio_Aquitania" href="http://live.dbpedia.org/resource/Antonio_Aquitania"><small>dbr</small>:Antonio_Aquitania</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Rene_Requiestas" href="http://live.dbpedia.org/resource/Rene_Requiestas"><small>dbr</small>:Rene_Requiestas</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Rica_Peralejo" href="http://live.dbpedia.org/resource/Rica_Peralejo"><small>dbr</small>:Rica_Peralejo</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Richard_Gomez" href="http://live.dbpedia.org/resource/Richard_Gomez"><small>dbr</small>:Richard_Gomez</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_It's_Showtime_segments" href="http://live.dbpedia.org/resource/List_of_It's_Showtime_segments"><small>dbr</small>:List_of_It's_Showtime_segments</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Bearwin_Meily" href="http://live.dbpedia.org/resource/Bearwin_Meily"><small>dbr</small>:Bearwin_Meily</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Benjie_Paras" href="http://live.dbpedia.org/resource/Benjie_Paras"><small>dbr</small>:Benjie_Paras</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Joey_Marquez" href="http://live.dbpedia.org/resource/Joey_Marquez"><small>dbr</small>:Joey_Marquez</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/John_Estrada" href="http://live.dbpedia.org/resource/John_Estrada"><small>dbr</small>:John_Estrada</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/John_Lloyd_Cruz" href="http://live.dbpedia.org/resource/John_Lloyd_Cruz"><small>dbr</small>:John_Lloyd_Cruz</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Johnny_Manahan" href="http://live.dbpedia.org/resource/Johnny_Manahan"><small>dbr</small>:Johnny_Manahan</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jomari_Yllana" href="http://live.dbpedia.org/resource/Jomari_Yllana"><small>dbr</small>:Jomari_Yllana</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Miguel_Rodriguez_(actor)" href="http://live.dbpedia.org/resource/Miguel_Rodriguez_(actor)"><small>dbr</small>:Miguel_Rodriguez_(actor)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Philippine_television_drama" href="http://live.dbpedia.org/resource/Philippine_television_drama"><small>dbr</small>:Philippine_television_drama</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/2019_in_the_Philippines" href="http://live.dbpedia.org/resource/2019_in_the_Philippines"><small>dbr</small>:2019_in_the_Philippines</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jose_Javier_Reyes" href="http://live.dbpedia.org/resource/Jose_Javier_Reyes"><small>dbr</small>:Jose_Javier_Reyes</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Julius_Roden" href="http://live.dbpedia.org/resource/Julius_Roden"><small>dbr</small>:Julius_Roden</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_longest-running_Philippine_television_series" href="http://live.dbpedia.org/resource/List_of_longest-running_Philippine_television_series"><small>dbr</small>:List_of_longest-running_Philippine_television_series</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/2016_in_Philippine_television" href="http://live.dbpedia.org/resource/2016_in_Philippine_television"><small>dbr</small>:2016_in_Philippine_television</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Kristina_Paner" href="http://live.dbpedia.org/resource/Kristina_Paner"><small>dbr</small>:Kristina_Paner</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_Philippine_television_programs_by_date" href="http://live.dbpedia.org/resource/List_of_Philippine_television_programs_by_date"><small>dbr</small>:List_of_Philippine_television_programs_by_date</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_Philippine_television_shows" href="http://live.dbpedia.org/resource/List_of_Philippine_television_shows"><small>dbr</small>:List_of_Philippine_television_shows</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_Philippine_television_shows_currently_in_production" href="http://live.dbpedia.org/resource/List_of_Philippine_television_shows_currently_in_production"><small>dbr</small>:List_of_Philippine_television_shows_currently_in_production</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/G._Toengi" href="http://live.dbpedia.org/resource/G._Toengi"><small>dbr</small>:G._Toengi</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Gabby_Eigenmann" href="http://live.dbpedia.org/resource/Gabby_Eigenmann"><small>dbr</small>:Gabby_Eigenmann</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2">is <a class="uri" href="http://live.dbpedia.org/property/related" title="http://dbpedia.org/property/related"><small>dbp:</small>related</a>
+ of</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rev="dbp:related" resource="http://dbpedia.org/resource/Whattamen" href="http://live.dbpedia.org/resource/Whattamen"><small>dbr</small>:Whattamen</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2">is <a class="uri" href="http://xmlns.com/foaf/0.1/primaryTopic"><small>foaf:</small>primaryTopic</a>
+ of</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rev="foaf:primaryTopic" resource="http://en.wikipedia.org/wiki/Palibhasa_Lalake" href="http://en.wikipedia.org/wiki/Palibhasa_Lalake"><small>wikipedia-en</small>:Palibhasa_Lalake</a></span></li>
+	<li><span class="literal"><a class="uri" rev="foaf:primaryTopic" resource="http://en.wikipedia.org/wiki/Palibhasa_Lalake" href="http://en.wikipedia.org/wiki/Palibhasa_Lalake"><small>wikipedia-en</small>:Palibhasa_Lalake</a></span></li>
+</ul></td></tr>
+		    </tbody>
+		</table>
+	    </div>
+	</div>
+    </div>
+</section>
+<!-- property-table -->
+
+<!-- footer -->
+<section>
+    <div class="container-xl">
+	<div class="text-center p-4 bg-light">
+	    <a href="https://virtuoso.openlinksw.com/" title="OpenLink Virtuoso"><img class="powered_by" src="/statics/images/virt_power_no_border.png" alt="Powered by OpenLink Virtuoso"></a>&nbsp; &nbsp;
+	    <a href="http://linkeddata.org/"><img alt="This material is Open Knowledge" src="/statics/images/LoDLogo.gif"></a> &nbsp; &nbsp;
+	    <a href="https://live.dbpedia.org/sparql"><img alt="W3C Semantic Web Technology" src="/statics/images/sw-sparql-blue.png"></a> &nbsp;  &nbsp;
+	    <a href="https://opendefinition.org/"><img alt="This material is Open Knowledge" src="/statics/images/od_80x15_red_green.png"></a>&nbsp; &nbsp;
+	    <span style="display:none;" about="" resource="http://www.w3.org/TR/rdfa-syntax" rel="dc:conformsTo">
+		<a href="https://validator.w3.org/check?uri=referer">
+		    <img src="https://www.w3.org/Icons/valid-xhtml-rdfa" alt="Valid XHTML + RDFa">
+		</a>
+	    </span>
+	    <br>
+	    <small class="text-muted">
+		This content was extracted from <a href="http://en.wikipedia.org/wiki/Palibhasa_Lalake">Wikipedia</a> and is licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>
+
+	    </small>
+	</div>
+    </div>
+</section>
+<!-- #footer -->
+
+<!-- scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous">
+    </script>
+
+
+</body></html>

@@ -1,0 +1,507 @@
+<html prefix="
+        dbp: http://dbpedia.org/property/
+        dbo: http://dbedia.org/ontology/
+        dct: http://purl.org/dc/terms/
+	og:  https://ogp.me/ns#
+	"><!-- header --><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>About: Hider in the House</title>
+
+    <!-- Links -->
+    <link rel="alternate" type="application/rdf+xml" href="https://live.dbpedia.org/data/Hider_in_the_House.rdf" title="Structured Descriptor Document (RDF/XML format)">
+    <link rel="alternate" type="text/n3" href="https://live.dbpedia.org/data/Hider_in_the_House.n3" title="Structured Descriptor Document (N3 format)">
+    <link rel="alternate" type="text/turtle" href="https://live.dbpedia.org/data/Hider_in_the_House.ttl" title="Structured Descriptor Document (Turtle format)">
+    <link rel="alternate" type="application/json+rdf" href="https://live.dbpedia.org/data/Hider_in_the_House.jrdf" title="Structured Descriptor Document (RDF/JSON format)">
+    <link rel="alternate" type="application/json" href="https://live.dbpedia.org/data/Hider_in_the_House.json" title="Structured Descriptor Document (RDF/JSON format)">
+    <link rel="alternate" type="application/atom+xml" href="https://live.dbpedia.org/data/Hider_in_the_House.atom" title="OData (Atom+Feed format)">
+    <link rel="alternate" type="text/plain" href="https://live.dbpedia.org/data/Hider_in_the_House.ntriples" title="Structured Descriptor Document (N-Triples format)">
+    <link rel="alternate" type="text/csv" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FHider_in_the_House%3E&amp;format=text%2Fcsv" title="Structured Descriptor Document (CSV format)">
+    
+    <link rel="alternate" type="text/cxml" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FHider_in_the_House%3E&amp;format=text%2Fcxml" title="Structured Descriptor Document (CXML format)">
+    
+    <link rel="alternate" type="application/microdata+json" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FHider_in_the_House%3E&amp;format=application%2Fmicrodata%2Bjson" title="Structured Descriptor Document (Microdata/JSON format)">
+    <link rel="alternate" type="text/html" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FHider_in_the_House%3E&amp;format=text%2Fhtml" title="Structured Descriptor Document (Microdata/HTML format)">
+    <link rel="alternate" type="application/ld+json" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FHider_in_the_House%3E&amp;format=application%2Fjson-ld" title="Structured Descriptor Document (JSON-LD format)">
+    <link rel="alternate" type="text/x-html-script-ld+json" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FHider_in_the_House%3E&amp;format=text%2Fx-html-script-ld%2Bjson" title="Structured Descriptor Document (HTML with embedded JSON-LD)">
+    <link rel="alternate" type="text/x-html-script-turtle" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FHider_in_the_House%3E&amp;format=text%2Fx-html-script-turtle" title="Structured Descriptor Document (HTML with embedded Turtle)">
+    <link rel="timegate" type="text/html" href="http://dbpedia.mementodepot.org/timegate/http://dbpedia.org/page/Hider_in_the_House" title="Time Machine">
+    <link rel="foaf:primarytopic" href="http://dbpedia.org/resource/Hider_in_the_House">
+    <link rev="describedby" href="http://dbpedia.org/resource/Hider_in_the_House">
+    <!-- /Links -->
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
+    <!-- link rel="stylesheet" href="/statics/css/dbpedia.css" -->
+    <!-- /Stylesheets-->
+
+    <!-- OpenGraph -->
+    <meta property="og:title" content="Hider in the House">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="http://dbpedia.org/resource/Hider_in_the_House">
+    <meta property="og:image" content="http://commons.wikimedia.org/wiki/Special:FilePath/Hider_in_the_House.gif?width=300">
+    <meta property="og:description" content="Hider in the House is a British children's game show presented by Jason King and Joel Ross (aka JK and Joel). In the programme, a celebrity has to be hidden in a family's house by three children and a parent. If the family have fewer than three children, they use friends or related children to make up the numbers. The other parent of the family thinks they are taking part in a totally different programme. The children involved must undergo a series of tasks to win prizes which they will receive if the unaware parent does not work out what is really happening. The tasks are sometimes very messy or involve getting the unaware parent to do strange things.">
+    <meta property="og:site_name" content="DBpedia">
+    <!-- /OpenGraph-->
+</head>
+<body about="http://dbpedia.org/resource/Hider_in_the_House">
+
+<!-- navbar -->
+<nav class="navbar navbar-expand-md navbar-light bg-light fixed-top align-items-center">
+    <div class="container-xl">
+	<a class="navbar-brand" href="http://wiki.dbpedia.org/Imprint" title="About DBpedia" style="color: #2c5078">
+	    <img class="img-fluid" src="/statics/images/dbpedia_logo_land_120.png" alt="About DBpedia">
+	</a>
+	<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#dbp-navbar" aria-controls="dbp-navbar" aria-expanded="false" aria-label="Toggle navigation">
+	    <span class="navbar-toggler-icon"></span>
+	</button>
+
+	<div class="collapse navbar-collapse" id="dbp-navbar">
+	    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+		<li class="nav-item dropdown">
+		    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBrowse" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+		    <i class="bi-eye-fill"></i> Browse using<span class="caret"></span></a>
+
+		    <ul class="dropdown-menu" aria-labelledby="navbarDropdownBrowse">
+			<li class="dropdown-item"><a class="nav-link" href="/describe/?uri=http%3A%2F%2Fdbpedia.org%2Fresource%2FHider_in_the_House">OpenLink Faceted Browser</a></li>
+			<li class="dropdown-item"><a class="nav-link" href="http://osde.demo.openlinksw.com/#/editor?uri=https%3A%2F%2Flive.dbpedia.org%2Fdata%2FHider_in_the_House.ttl&amp;view=statements">OpenLink Structured Data Editor</a></li>
+			<li class="dropdown-item"><a class="nav-link" href="http://en.lodlive.it/?http%3A%2F%2Fdbpedia.org%2Fresource%2FHider_in_the_House">LodLive Browser</a></li>
+			<!-- li class="dropdown-item"><a class="nav-link" href="http://lodmilla.sztaki.hu/lodmilla/?url=http%3A%2F%2Fdbpedia.org%2Fresource%2FHider_in_the_House">LODmilla Browser</a></li -->
+		    </ul>
+		</li>
+
+		<li class="nav-item dropdown">
+		    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownFormats" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+		    <i class="bi-file-earmark-fill"></i> Formats<span class="caret"></span></a>
+
+		    <ul class="dropdown-menu" aria-labelledby="navbarDropdownFormats">
+			<li class="dropdown-item-text">RDF:</li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/data/Hider_in_the_House.ntriples">N-Triples</a></li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/data/Hider_in_the_House.n3">N3</a></li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/data/Hider_in_the_House.ttl">Turtle</a></li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/data/Hider_in_the_House.json">JSON</a></li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/data/Hider_in_the_House.rdf">XML</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">OData:</li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/data/Hider_in_the_House.atom">Atom</a></li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/data/Hider_in_the_House.jsod">JSON</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">Microdata:</li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FHider_in_the_House%3E&amp;format=application%2Fmicrodata%2Bjson">JSON</a></li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FHider_in_the_House%3E&amp;format=text%2Fhtml">HTML</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">Embedded:</li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FHider_in_the_House%3E&amp;format=text%2Fx-html-script-ld%2Bjson">JSON</a></li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FHider_in_the_House%3E&amp;format=text%2Fx-html-script-turtle">Turtle</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">Other:</li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FHider_in_the_House%3E&amp;format=text%2Fcsv">CSV</a></li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FHider_in_the_House%3E&amp;format=application%2Fjson-ld">JSON-LD</a></li>
+
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FHider_in_the_House%3E&amp;format=text%2Fcxml">CXML</a></li>
+
+		    </ul>
+		</li>
+	    </ul>
+
+	    <ul class="navbar-nav ms-auto">
+		<li class="nav-item">
+		    <a class="nav-link" href="/fct/" title="Switch to /fct endpoint"><i class="bi-box-arrow-up-right"></i> Faceted Browser </a>
+		</li>
+
+		<li class="nav-item">
+		    <a class="nav-link" href="/sparql/" title="Switch to /sparql endpoint"><i class="bi-box-arrow-up-right"></i> Sparql Endpoint </a>
+		</li>
+
+	    </ul>
+	</div>
+   </div>
+</nav>
+<div style="margin-bottom: 60px"></div>
+<!-- /navbar -->
+
+
+<!-- page-header -->
+<section>
+    <div class="container-xl">
+	<div class="row">
+	    <div class="col">
+		<h1 id="title" class="display-6"><b>About:</b>
+		    <a href="http://live.dbpedia.org/resource/Hider_in_the_House">Hider in the House</a>
+		</h1>
+	    </div>
+	</div>
+	<div class="row">
+	    <div class="col">
+		<div class="text-muted">
+		    <span class="text-nowrap">An Entity of Type: <a href="http://live.dbpedia.org/ontology/Work">work</a>, </span>
+		    <span class="text-nowrap">from Named Graph:  <a href="http://dbpedia.org">http://dbpedia.org</a>, </span>
+		    <span class="text-nowrap">within Data Space: <a href="http://live.dbpedia.org">live.dbpedia.org</a></span>
+		</div>
+	    </div>
+	</div>
+
+	<div class="row">
+	    <div class="col">
+		<div class="text-muted small">
+		    <span class="text-nowrap sm-auto">Last updated on: Fri, 17 Sep 2021 03:02:25 GMT</span>
+		</div>
+	    </div>
+	</div>
+
+	<div class="row pt-2">
+	    <div class="col-xs-9 col-sm-10">
+		<p class="lead">Hider in the House is a British children's game show presented by Jason King and Joel Ross (aka JK and Joel). In the programme, a celebrity has to be hidden in a family's house by three children and a parent. If the family have fewer than three children, they use friends or related children to make up the numbers. The other parent of the family thinks they are taking part in a totally different programme. The children involved must undergo a series of tasks to win prizes which they will receive if the unaware parent does not work out what is really happening. The tasks are sometimes very messy or involve getting the unaware parent to do strange things.</p>
+	    </div>
+
+	    <div class="col-xs-3 col-sm-2">
+		<a href="#" class="thumbnail">
+		    <img src="http://commons.wikimedia.org/wiki/Special:FilePath/Hider_in_the_House.gif?width=300" alt="thumbnail" class="img-fluid">
+		</a>
+	    </div>
+
+	</div>
+    </div>
+</section>
+<!-- page-header -->
+
+<!-- property-table -->
+<section>
+    <div class="container-xl">
+	<div class="row">
+	    <div class="table-responsive">
+		<table class="table table-hover table-sm table-light">
+		    <thead>
+			<tr>
+			    <th class="col-xs-3 ">Property</th>
+			    <th class="col-xs-9 px-3">Value</th>
+			</tr>
+		    </thead>
+		    <tbody>
+<tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/Work/runtime" title="http://dbpedia.org/ontology/Work/runtime"><small>dbo:</small>Work/runtime</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="ns0:runtime" prefix="ns0: http://dbpedia.org/ontology/Work/">60.0</span></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/abstract" title="http://dbpedia.org/ontology/abstract"><small>dbo:</small>abstract</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:abstract" lang="en">Hider in the House is a British children's game show presented by Jason King and Joel Ross (aka JK and Joel). In the programme, a celebrity has to be hidden in a family's house by three children and a parent. If the family have fewer than three children, they use friends or related children to make up the numbers. The other parent of the family thinks they are taking part in a totally different programme. The children involved must undergo a series of tasks to win prizes which they will receive if the unaware parent does not work out what is really happening. The tasks are sometimes very messy or involve getting the unaware parent to do strange things. The format, which was devised by Eyeworks UK, won the Best Entertainment prize at the 2008 Rose d'Or ceremony.</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/completionDate" title="http://dbpedia.org/ontology/completionDate"><small>dbo:</small>completionDate</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:completionDate" datatype="xsd:date">2008-06-01</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/genre" title="http://dbpedia.org/ontology/genre"><small>dbo:</small>genre</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:genre" resource="http://dbpedia.org/resource/Entertainment" href="http://live.dbpedia.org/resource/Entertainment"><small>dbr</small>:Entertainment</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:genre" resource="http://dbpedia.org/resource/Children's" href="http://live.dbpedia.org/resource/Children's"><small>dbr</small>:Children's</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/network" title="http://dbpedia.org/ontology/network"><small>dbo:</small>network</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:network" resource="http://dbpedia.org/resource/BBC_Two" href="http://live.dbpedia.org/resource/BBC_Two"><small>dbr</small>:BBC_Two</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/numberOfEpisodes" title="http://dbpedia.org/ontology/numberOfEpisodes"><small>dbo:</small>numberOfEpisodes</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:numberOfEpisodes" datatype="xsd:nonNegativeInteger">43</span><small> (xsd:nonNegativeInteger)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/numberOfSeasons" title="http://dbpedia.org/ontology/numberOfSeasons"><small>dbo:</small>numberOfSeasons</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:numberOfSeasons" datatype="xsd:nonNegativeInteger">2</span><small> (xsd:nonNegativeInteger)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/releaseDate" title="http://dbpedia.org/ontology/releaseDate"><small>dbo:</small>releaseDate</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:releaseDate" datatype="xsd:date">2007-02-17</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/runtime" title="http://dbpedia.org/ontology/runtime"><small>dbo:</small>runtime</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:runtime" datatype="xsd:double">3600.000000</span><small> (xsd:double)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/starring" title="http://dbpedia.org/ontology/starring"><small>dbo:</small>starring</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/JK_and_Joel" href="http://live.dbpedia.org/resource/JK_and_Joel"><small>dbr</small>:JK_and_Joel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/Kate_Edmondson" href="http://live.dbpedia.org/resource/Kate_Edmondson"><small>dbr</small>:Kate_Edmondson</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/thumbnail" title="http://dbpedia.org/ontology/thumbnail"><small>dbo:</small>thumbnail</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:thumbnail" resource="http://commons.wikimedia.org/wiki/Special:FilePath/Hider_in_the_House.gif?width=300" href="http://commons.wikimedia.org/wiki/Special:FilePath/Hider_in_the_House.gif?width=300"><small>wiki-commons</small>:Special:FilePath/Hider_in_the_House.gif?width=300</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/wikiPageExternalLink" title="http://dbpedia.org/ontology/wikiPageExternalLink"><small>dbo:</small>wikiPageExternalLink</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageExternalLink nofollow" resource="https://web.archive.org/web/20070329063036/http:/www.bbc.co.uk/cbbc/hiderinthehouse/" href="https://web.archive.org/web/20070329063036/http:/www.bbc.co.uk/cbbc/hiderinthehouse/">https://web.archive.org/web/20070329063036/http:/www.bbc.co.uk/cbbc/hiderinthehouse/</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageExternalLink nofollow" resource="https://web.archive.org/web/20070329063036/http:/www.bbc.co.uk/cbbc/hiderinthehouse/" href="https://web.archive.org/web/20070329063036/http:/www.bbc.co.uk/cbbc/hiderinthehouse/">https://web.archive.org/web/20070329063036/http:/www.bbc.co.uk/cbbc/hiderinthehouse/</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/wikiPageID" title="http://dbpedia.org/ontology/wikiPageID"><small>dbo:</small>wikiPageID</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:wikiPageID" datatype="xsd:integer">22523397</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/wikiPageLength" title="http://dbpedia.org/ontology/wikiPageLength"><small>dbo:</small>wikiPageLength</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:wikiPageLength" datatype="xsd:nonNegativeInteger">8242</span><small> (xsd:nonNegativeInteger)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/wikiPageOutDegree" title="http://dbpedia.org/ontology/wikiPageOutDegree"><small>dbo:</small>wikiPageOutDegree</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:wikiPageOutDegree" datatype="xsd:nonNegativeInteger">64</span><small> (xsd:nonNegativeInteger)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/wikiPageRevisionID" title="http://dbpedia.org/ontology/wikiPageRevisionID"><small>dbo:</small>wikiPageRevisionID</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:wikiPageRevisionID" datatype="xsd:integer">1044787506</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/wikiPageWikiLink" title="http://dbpedia.org/ontology/wikiPageWikiLink"><small>dbo:</small>wikiPageWikiLink</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Mark_Ramprakash" href="http://live.dbpedia.org/resource/Mark_Ramprakash"><small>dbr</small>:Mark_Ramprakash</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:2000s_British_game_shows" href="http://live.dbpedia.org/resource/Category:2000s_British_game_shows"><small>dbc</small>:2000s_British_game_shows</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:2007_British_television_series_debuts" href="http://live.dbpedia.org/resource/Category:2007_British_television_series_debuts"><small>dbc</small>:2007_British_television_series_debuts</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:2008_British_television_series_endings" href="http://live.dbpedia.org/resource/Category:2008_British_television_series_endings"><small>dbc</small>:2008_British_television_series_endings</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:BBC_television_game_shows" href="http://live.dbpedia.org/resource/Category:BBC_television_game_shows"><small>dbc</small>:BBC_television_game_shows</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Child" href="http://live.dbpedia.org/resource/Child"><small>dbr</small>:Child</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Aggie_MacKenzie" href="http://live.dbpedia.org/resource/Aggie_MacKenzie"><small>dbr</small>:Aggie_MacKenzie</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/BBC_Two" href="http://live.dbpedia.org/resource/BBC_Two"><small>dbr</small>:BBC_Two</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Hayley_Tamaddon" href="http://live.dbpedia.org/resource/Hayley_Tamaddon"><small>dbr</small>:Hayley_Tamaddon</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Ian_%22H%22_Watkins" href="http://live.dbpedia.org/resource/Ian_%22H%22_Watkins"><small>dbr</small>:Ian_"H"_Watkins</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jason_Donovan" href="http://live.dbpedia.org/resource/Jason_Donovan"><small>dbr</small>:Jason_Donovan</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jason_King_(presenter)" href="http://live.dbpedia.org/resource/Jason_King_(presenter)"><small>dbr</small>:Jason_King_(presenter)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jenni_Falconer" href="http://live.dbpedia.org/resource/Jenni_Falconer"><small>dbr</small>:Jenni_Falconer</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jennie_Bond" href="http://live.dbpedia.org/resource/Jennie_Bond"><small>dbr</small>:Jennie_Bond</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Keith_Chegwin" href="http://live.dbpedia.org/resource/Keith_Chegwin"><small>dbr</small>:Keith_Chegwin</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Matt_Di_Angelo" href="http://live.dbpedia.org/resource/Matt_Di_Angelo"><small>dbr</small>:Matt_Di_Angelo</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Matt_Stevens_(rugby_union)" href="http://live.dbpedia.org/resource/Matt_Stevens_(rugby_union)"><small>dbr</small>:Matt_Stevens_(rugby_union)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Nigel_Marven" href="http://live.dbpedia.org/resource/Nigel_Marven"><small>dbr</small>:Nigel_Marven</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Ray_Quinn" href="http://live.dbpedia.org/resource/Ray_Quinn"><small>dbr</small>:Ray_Quinn</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Sarah_Cawood" href="http://live.dbpedia.org/resource/Sarah_Cawood"><small>dbr</small>:Sarah_Cawood</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Christopher_Parker" href="http://live.dbpedia.org/resource/Christopher_Parker"><small>dbr</small>:Christopher_Parker</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Colin_Jackson" href="http://live.dbpedia.org/resource/Colin_Jackson"><small>dbr</small>:Colin_Jackson</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Entertainment" href="http://live.dbpedia.org/resource/Entertainment"><small>dbr</small>:Entertainment</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Eyeworks" href="http://live.dbpedia.org/resource/Eyeworks"><small>dbr</small>:Eyeworks</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/JK_and_Joel" href="http://live.dbpedia.org/resource/JK_and_Joel"><small>dbr</small>:JK_and_Joel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/CBBC_(TV_channel)" href="http://live.dbpedia.org/resource/CBBC_(TV_channel)"><small>dbr</small>:CBBC_(TV_channel)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Carol_Smillie" href="http://live.dbpedia.org/resource/Carol_Smillie"><small>dbr</small>:Carol_Smillie</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Craig_Revel_Horwood" href="http://live.dbpedia.org/resource/Craig_Revel_Horwood"><small>dbr</small>:Craig_Revel_Horwood</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Dani_Harmer" href="http://live.dbpedia.org/resource/Dani_Harmer"><small>dbr</small>:Dani_Harmer</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/David_Grant_(singer)" href="http://live.dbpedia.org/resource/David_Grant_(singer)"><small>dbr</small>:David_Grant_(singer)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/David_Seaman" href="http://live.dbpedia.org/resource/David_Seaman"><small>dbr</small>:David_Seaman</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Dominic_Littlewood" href="http://live.dbpedia.org/resource/Dominic_Littlewood"><small>dbr</small>:Dominic_Littlewood</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Kate_Arnell" href="http://live.dbpedia.org/resource/Kate_Arnell"><small>dbr</small>:Kate_Arnell</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Anna_Ryder_Richardson" href="http://live.dbpedia.org/resource/Anna_Ryder_Richardson"><small>dbr</small>:Anna_Ryder_Richardson</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Sheree_Murphy" href="http://live.dbpedia.org/resource/Sheree_Murphy"><small>dbr</small>:Sheree_Murphy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Siân_Lloyd" href="http://live.dbpedia.org/resource/Siân_Lloyd"><small>dbr</small>:Siân_Lloyd</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:BBC_children's_television_shows" href="http://live.dbpedia.org/resource/Category:BBC_children's_television_shows"><small>dbc</small>:BBC_children's_television_shows</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Barney_Harwood" href="http://live.dbpedia.org/resource/Barney_Harwood"><small>dbr</small>:Barney_Harwood</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Basil_and_Barney's_Swap_Shop" href="http://live.dbpedia.org/resource/Basil_and_Barney's_Swap_Shop"><small>dbr</small>:Basil_and_Barney's_Swap_Shop</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Joel_Ross" href="http://live.dbpedia.org/resource/Joel_Ross"><small>dbr</small>:Joel_Ross</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Michaela_Strachan" href="http://live.dbpedia.org/resource/Michaela_Strachan"><small>dbr</small>:Michaela_Strachan</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Myleene_Klass" href="http://live.dbpedia.org/resource/Myleene_Klass"><small>dbr</small>:Myleene_Klass</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Nadia_Sawalha" href="http://live.dbpedia.org/resource/Nadia_Sawalha"><small>dbr</small>:Nadia_Sawalha</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Louisa_Lytton" href="http://live.dbpedia.org/resource/Louisa_Lytton"><small>dbr</small>:Louisa_Lytton</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Rose_d'Or" href="http://live.dbpedia.org/resource/Rose_d'Or"><small>dbr</small>:Rose_d'Or</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Charlie_Dimmock" href="http://live.dbpedia.org/resource/Charlie_Dimmock"><small>dbr</small>:Charlie_Dimmock</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Chico_Slimani" href="http://live.dbpedia.org/resource/Chico_Slimani"><small>dbr</small>:Chico_Slimani</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Kirsten_O'Brien" href="http://live.dbpedia.org/resource/Kirsten_O'Brien"><small>dbr</small>:Kirsten_O'Brien</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Lee_Dixon" href="http://live.dbpedia.org/resource/Lee_Dixon"><small>dbr</small>:Lee_Dixon</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Lee_Sharpe" href="http://live.dbpedia.org/resource/Lee_Sharpe"><small>dbr</small>:Lee_Sharpe</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Lil'_Chris" href="http://live.dbpedia.org/resource/Lil'_Chris"><small>dbr</small>:Lil'_Chris</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Linda_Barker" href="http://live.dbpedia.org/resource/Linda_Barker"><small>dbr</small>:Linda_Barker</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Saira_Khan" href="http://live.dbpedia.org/resource/Saira_Khan"><small>dbr</small>:Saira_Khan</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Tommy_Walsh_(builder)" href="http://live.dbpedia.org/resource/Tommy_Walsh_(builder)"><small>dbr</small>:Tommy_Walsh_(builder)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:British_children's_game_shows" href="http://live.dbpedia.org/resource/Category:British_children's_game_shows"><small>dbc</small>:British_children's_game_shows</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Bonnie_Langford" href="http://live.dbpedia.org/resource/Bonnie_Langford"><small>dbr</small>:Bonnie_Langford</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Game_show" href="http://live.dbpedia.org/resource/Game_show"><small>dbr</small>:Game_show</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Garth_Crooks" href="http://live.dbpedia.org/resource/Garth_Crooks"><small>dbr</small>:Garth_Crooks</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/country" title="http://dbpedia.org/property/country"><small>dbp:</small>country</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:country" lang="en">United Kingdom</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/firstAired" title="http://dbpedia.org/property/firstAired"><small>dbp:</small>firstAired</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:firstAired" datatype="xsd:date">2007-02-17</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/genre" title="http://dbpedia.org/property/genre"><small>dbp:</small>genre</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:genre" resource="http://dbpedia.org/resource/Entertainment" href="http://live.dbpedia.org/resource/Entertainment"><small>dbr</small>:Entertainment</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:genre" resource="http://dbpedia.org/resource/Children's" href="http://live.dbpedia.org/resource/Children's"><small>dbr</small>:Children's</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/lastAired" title="http://dbpedia.org/property/lastAired"><small>dbp:</small>lastAired</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:lastAired" datatype="xsd:date">2008-06-01</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/name" title="http://dbpedia.org/property/name"><small>dbp:</small>name</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:name" lang="en">Hider in the House</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/network" title="http://dbpedia.org/property/network"><small>dbp:</small>network</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:network" resource="http://dbpedia.org/resource/BBC_Two" href="http://live.dbpedia.org/resource/BBC_Two"><small>dbr</small>:BBC_Two</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/numEpisodes" title="http://dbpedia.org/property/numEpisodes"><small>dbp:</small>numEpisodes</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:numEpisodes" datatype="xsd:integer">43</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/numSeries" title="http://dbpedia.org/property/numSeries"><small>dbp:</small>numSeries</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:numSeries" datatype="xsd:integer">2</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/runtime" title="http://dbpedia.org/property/runtime"><small>dbp:</small>runtime</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:runtime">3600.0</span></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/starring" title="http://dbpedia.org/property/starring"><small>dbp:</small>starring</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:starring" resource="http://dbpedia.org/resource/JK_and_Joel" href="http://live.dbpedia.org/resource/JK_and_Joel"><small>dbr</small>:JK_and_Joel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:starring" resource="http://dbpedia.org/resource/Kate_Edmondson" href="http://live.dbpedia.org/resource/Kate_Edmondson"><small>dbr</small>:Kate_Edmondson</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/website" title="http://dbpedia.org/property/website"><small>dbp:</small>website</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:website nofollow" resource="https://web.archive.org/web/20070329063036/http:/www.bbc.co.uk/cbbc/hiderinthehouse/" href="https://web.archive.org/web/20070329063036/http:/www.bbc.co.uk/cbbc/hiderinthehouse/">https://web.archive.org/web/20070329063036/http:/www.bbc.co.uk/cbbc/hiderinthehouse/</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/wikiPageUsesTemplate" title="http://dbpedia.org/property/wikiPageUsesTemplate"><small>dbp:</small>wikiPageUsesTemplate</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:About" href="http://live.dbpedia.org/resource/Template:About"><small>dbt</small>:About</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:BBC_programme" href="http://live.dbpedia.org/resource/Template:BBC_programme"><small>dbt</small>:BBC_programme</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:End_date" href="http://live.dbpedia.org/resource/Template:End_date"><small>dbt</small>:End_date</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:IMDb_title" href="http://live.dbpedia.org/resource/Template:IMDb_title"><small>dbt</small>:IMDb_title</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Infobox_television" href="http://live.dbpedia.org/resource/Template:Infobox_television"><small>dbt</small>:Infobox_television</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:More_citations_needed" href="http://live.dbpedia.org/resource/Template:More_citations_needed"><small>dbt</small>:More_citations_needed</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Multiple_issues" href="http://live.dbpedia.org/resource/Template:Multiple_issues"><small>dbt</small>:Multiple_issues</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Reflist" href="http://live.dbpedia.org/resource/Template:Reflist"><small>dbt</small>:Reflist</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Start_date" href="http://live.dbpedia.org/resource/Template:Start_date"><small>dbt</small>:Start_date</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Tone" href="http://live.dbpedia.org/resource/Template:Tone"><small>dbt</small>:Tone</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:UKGameshow" href="http://live.dbpedia.org/resource/Template:UKGameshow"><small>dbt</small>:UKGameshow</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Use_dmy_dates" href="http://live.dbpedia.org/resource/Template:Use_dmy_dates"><small>dbt</small>:Use_dmy_dates</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/wordnet_type" title="http://dbpedia.org/property/wordnet_type"><small>dbp:</small>wordnet_type</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:wordnet_type nofollow" resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-telecast-noun-1" href="http://www.w3.org/2006/03/wn/wn20/instances/synset-telecast-noun-1">http://www.w3.org/2006/03/wn/wn20/instances/synset-telecast-noun-1</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://purl.org/dc/terms/subject"><small>dct:</small>subject</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:2000s_British_game_shows" href="http://live.dbpedia.org/resource/Category:2000s_British_game_shows"><small>dbc</small>:2000s_British_game_shows</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:2007_British_television_series_debuts" href="http://live.dbpedia.org/resource/Category:2007_British_television_series_debuts"><small>dbc</small>:2007_British_television_series_debuts</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:2008_British_television_series_endings" href="http://live.dbpedia.org/resource/Category:2008_British_television_series_endings"><small>dbc</small>:2008_British_television_series_endings</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:BBC_television_game_shows" href="http://live.dbpedia.org/resource/Category:BBC_television_game_shows"><small>dbc</small>:BBC_television_game_shows</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:BBC_children's_television_shows" href="http://live.dbpedia.org/resource/Category:BBC_children's_television_shows"><small>dbc</small>:BBC_children's_television_shows</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:British_children's_game_shows" href="http://live.dbpedia.org/resource/Category:British_children's_game_shows"><small>dbc</small>:British_children's_game_shows</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://purl.org/linguistics/gold/hypernym"><small>gold:</small>hypernym</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="gold:hypernym" resource="http://dbpedia.org/resource/Show" prefix="gold: http://purl.org/linguistics/gold/" href="http://live.dbpedia.org/resource/Show"><small>dbr</small>:Show</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"><small>rdf:</small>type</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://www.w3.org/2002/07/owl#Thing" href="http://www.w3.org/2002/07/owl#Thing"><small>owl</small>:Thing</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://schema.org/CreativeWork" href="http://schema.org/CreativeWork"><small>schema</small>:CreativeWork</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/ontology/Work" href="http://live.dbpedia.org/ontology/Work"><small>dbo</small>:Work</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://www.wikidata.org/entity/Q15416" href="http://www.wikidata.org/entity/Q15416"><small>wikidata</small>:Q15416</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://www.wikidata.org/entity/Q386724" href="http://www.wikidata.org/entity/Q386724"><small>wikidata</small>:Q386724</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/ontology/TelevisionShow" href="http://live.dbpedia.org/ontology/TelevisionShow"><small>dbo</small>:TelevisionShow</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/ontology/TelevisionShow" href="http://live.dbpedia.org/ontology/TelevisionShow"><small>dbo</small>:TelevisionShow</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" href="http://live.dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"><small>yago</small>:YagoPermanentlyLocatedEntity</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Abstraction100002137" href="http://live.dbpedia.org/class/yago/Abstraction100002137"><small>yago</small>:Abstraction100002137</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Act100030358" href="http://live.dbpedia.org/class/yago/Act100030358"><small>yago</small>:Act100030358</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Action100037396" href="http://live.dbpedia.org/class/yago/Action100037396"><small>yago</small>:Action100037396</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Announcement106746580" href="http://live.dbpedia.org/class/yago/Announcement106746580"><small>yago</small>:Announcement106746580</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Beginning100235435" href="http://live.dbpedia.org/class/yago/Beginning100235435"><small>yago</small>:Beginning100235435</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Broadcast106619428" href="http://live.dbpedia.org/class/yago/Broadcast106619428"><small>yago</small>:Broadcast106619428</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Change100191142" href="http://live.dbpedia.org/class/yago/Change100191142"><small>yago</small>:Change100191142</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/ChangeOfState100199130" href="http://live.dbpedia.org/class/yago/ChangeOfState100199130"><small>yago</small>:ChangeOfState100199130</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Communication100033020" href="http://live.dbpedia.org/class/yago/Communication100033020"><small>yago</small>:Communication100033020</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Ending106308765" href="http://live.dbpedia.org/class/yago/Ending106308765"><small>yago</small>:Ending106308765</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Event100029378" href="http://live.dbpedia.org/class/yago/Event100029378"><small>yago</small>:Event100029378</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/GameShow106621061" href="http://live.dbpedia.org/class/yago/GameShow106621061"><small>yago</small>:GameShow106621061</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Introduction100238022" href="http://live.dbpedia.org/class/yago/Introduction100238022"><small>yago</small>:Introduction100238022</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/LanguageUnit106284225" href="http://live.dbpedia.org/class/yago/LanguageUnit106284225"><small>yago</small>:LanguageUnit106284225</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Message106598915" href="http://live.dbpedia.org/class/yago/Message106598915"><small>yago</small>:Message106598915</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Morpheme106306233" href="http://live.dbpedia.org/class/yago/Morpheme106306233"><small>yago</small>:Morpheme106306233</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Part113809207" href="http://live.dbpedia.org/class/yago/Part113809207"><small>yago</small>:Part113809207</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Program106748466" href="http://live.dbpedia.org/class/yago/Program106748466"><small>yago</small>:Program106748466</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/PsychologicalFeature100023100" href="http://live.dbpedia.org/class/yago/PsychologicalFeature100023100"><small>yago</small>:PsychologicalFeature100023100</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Relation100031921" href="http://live.dbpedia.org/class/yago/Relation100031921"><small>yago</small>:Relation100031921</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Show106619065" href="http://live.dbpedia.org/class/yago/Show106619065"><small>yago</small>:Show106619065</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/SocialEvent107288639" href="http://live.dbpedia.org/class/yago/SocialEvent107288639"><small>yago</small>:SocialEvent107288639</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Statement106722453" href="http://live.dbpedia.org/class/yago/Statement106722453"><small>yago</small>:Statement106722453</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Wikicat2007BritishTelevisionProgrammeDebuts" href="http://live.dbpedia.org/class/yago/Wikicat2007BritishTelevisionProgrammeDebuts"><small>yago</small>:Wikicat2007BritishTelevisionProgrammeDebuts</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Wikicat2008BritishTelevisionProgrammeEndings" href="http://live.dbpedia.org/class/yago/Wikicat2008BritishTelevisionProgrammeEndings"><small>yago</small>:Wikicat2008BritishTelevisionProgrammeEndings</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/WikicatBBCChildren'sTelevisionProgrammes" href="http://live.dbpedia.org/class/yago/WikicatBBCChildren'sTelevisionProgrammes"><small>yago</small>:WikicatBBCChildren'sTelevisionProgrammes</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/WikicatBBCTelevisionGameShows" href="http://live.dbpedia.org/class/yago/WikicatBBCTelevisionGameShows"><small>yago</small>:WikicatBBCTelevisionGameShows</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/WikicatBBCTelevisionProgrammes" href="http://live.dbpedia.org/class/yago/WikicatBBCTelevisionProgrammes"><small>yago</small>:WikicatBBCTelevisionProgrammes</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://www.w3.org/2000/01/rdf-schema#comment"><small>rdfs:</small>comment</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="rdfs:comment" lang="en">Hider in the House is a British children's game show presented by Jason King and Joel Ross (aka JK and Joel). In the programme, a celebrity has to be hidden in a family's house by three children and a parent. If the family have fewer than three children, they use friends or related children to make up the numbers. The other parent of the family thinks they are taking part in a totally different programme. The children involved must undergo a series of tasks to win prizes which they will receive if the unaware parent does not work out what is really happening. The tasks are sometimes very messy or involve getting the unaware parent to do strange things.</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://www.w3.org/2000/01/rdf-schema#label"><small>rdfs:</small>label</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="rdfs:label" lang="en">Hider in the House</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://www.w3.org/2002/07/owl#sameAs"><small>owl:</small>sameAs</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://rdf.freebase.com/ns/m.02pnn8l" href="http://rdf.freebase.com/ns/m.02pnn8l"><small>freebase</small>:Hider in the House</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://yago-knowledge.org/resource/Hider_in_the_House" href="http://yago-knowledge.org/resource/Hider_in_the_House"><small>yago-res</small>:Hider in the House</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://www.wikidata.org/entity/Q2336937" href="http://www.wikidata.org/entity/Q2336937"><small>wikidata</small>:Hider in the House</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://nl.dbpedia.org/resource/Hider_in_the_House" href="http://nl.dbpedia.org/resource/Hider_in_the_House"><small>dbpedia-nl</small>:Hider in the House</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="https://global.dbpedia.org/id/2CjWM" href="https://global.dbpedia.org/id/2CjWM">https://global.dbpedia.org/id/2CjWM</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://dbpedia.org/resource/Hider_in_the_House" href="http://dbpedia.org/resource/Hider_in_the_House"><small>dbr</small>:Hider in the House</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://www.w3.org/ns/prov#wasDerivedFrom"><small>prov:</small>wasDerivedFrom</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="prov:wasDerivedFrom" resource="http://en.wikipedia.org/wiki/Hider_in_the_House?oldid=1044787506&amp;ns=0" href="http://en.wikipedia.org/wiki/Hider_in_the_House?oldid=1044787506&amp;ns=0"><small>wikipedia-en</small>:Hider_in_the_House?oldid=1044787506&amp;ns=0</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://xmlns.com/foaf/0.1/depiction"><small>foaf:</small>depiction</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="foaf:depiction" resource="http://commons.wikimedia.org/wiki/Special:FilePath/Hider_in_the_House.gif" href="http://commons.wikimedia.org/wiki/Special:FilePath/Hider_in_the_House.gif"><small>wiki-commons</small>:Special:FilePath/Hider_in_the_House.gif</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://xmlns.com/foaf/0.1/homepage"><small>foaf:</small>homepage</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="foaf:homepage nofollow" resource="https://web.archive.org/web/20070329063036/http:/www.bbc.co.uk/cbbc/hiderinthehouse/" href="https://web.archive.org/web/20070329063036/http:/www.bbc.co.uk/cbbc/hiderinthehouse/">https://web.archive.org/web/20070329063036/http:/www.bbc.co.uk/cbbc/hiderinthehouse/</a></span></li>
+	<li><span class="literal"><a class="uri" rel="foaf:homepage nofollow" resource="https://web.archive.org/web/20070329063036/http://www.bbc.co.uk/cbbc/hiderinthehouse/" href="https://web.archive.org/web/20070329063036/http://www.bbc.co.uk/cbbc/hiderinthehouse/">https://web.archive.org/web/20070329063036/http://www.bbc.co.uk/cbbc/hiderinthehouse/</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://xmlns.com/foaf/0.1/isPrimaryTopicOf"><small>foaf:</small>isPrimaryTopicOf</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="foaf:isPrimaryTopicOf" resource="http://en.wikipedia.org/wiki/Hider_in_the_House" href="http://en.wikipedia.org/wiki/Hider_in_the_House"><small>wikipedia-en</small>:Hider_in_the_House</a></span></li>
+	<li><span class="literal"><a class="uri" rel="foaf:isPrimaryTopicOf" resource="http://en.wikipedia.org/wiki/Hider_in_the_House" href="http://en.wikipedia.org/wiki/Hider_in_the_House"><small>wikipedia-en</small>:Hider_in_the_House</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2">is <a class="uri" href="http://live.dbpedia.org/ontology/wikiPageRedirects" title="http://dbpedia.org/ontology/wikiPageRedirects"><small>dbo:</small>wikiPageRedirects</a>
+ of</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" resource="http://dbpedia.org/resource/Hider_In_The_House" href="http://live.dbpedia.org/resource/Hider_In_The_House"><small>dbr</small>:Hider_In_The_House</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" resource="http://dbpedia.org/resource/The_Hider_in_the_House" href="http://live.dbpedia.org/resource/The_Hider_in_the_House"><small>dbr</small>:The_Hider_in_the_House</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2">is <a class="uri" href="http://live.dbpedia.org/ontology/wikiPageWikiLink" title="http://dbpedia.org/ontology/wikiPageWikiLink"><small>dbo:</small>wikiPageWikiLink</a>
+ of</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/18th_Saturn_Awards" href="http://live.dbpedia.org/resource/18th_Saturn_Awards"><small>dbr</small>:18th_Saturn_Awards</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Hacker_Time" href="http://live.dbpedia.org/resource/Hacker_Time"><small>dbr</small>:Hacker_Time</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Mark_Ramprakash" href="http://live.dbpedia.org/resource/Mark_Ramprakash"><small>dbr</small>:Mark_Ramprakash</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Hider_In_The_House" href="http://live.dbpedia.org/resource/Hider_In_The_House"><small>dbr</small>:Hider_In_The_House</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_BBC_children's_television_programmes" href="http://live.dbpedia.org/resource/List_of_BBC_children's_television_programmes"><small>dbr</small>:List_of_BBC_children's_television_programmes</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_children's_television_series_by_country" href="http://live.dbpedia.org/resource/List_of_children's_television_series_by_country"><small>dbr</small>:List_of_children's_television_series_by_country</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/The_Legend_of_Dick_and_Dom" href="http://live.dbpedia.org/resource/The_Legend_of_Dick_and_Dom"><small>dbr</small>:The_Legend_of_Dick_and_Dom</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Aggie_MacKenzie" href="http://live.dbpedia.org/resource/Aggie_MacKenzie"><small>dbr</small>:Aggie_MacKenzie</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Hayley_Tamaddon" href="http://live.dbpedia.org/resource/Hayley_Tamaddon"><small>dbr</small>:Hayley_Tamaddon</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Ian_%22H%22_Watkins" href="http://live.dbpedia.org/resource/Ian_%22H%22_Watkins"><small>dbr</small>:Ian_"H"_Watkins</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jake_Busey" href="http://live.dbpedia.org/resource/Jake_Busey"><small>dbr</small>:Jake_Busey</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jason_King_(presenter)" href="http://live.dbpedia.org/resource/Jason_King_(presenter)"><small>dbr</small>:Jason_King_(presenter)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jenni_Falconer" href="http://live.dbpedia.org/resource/Jenni_Falconer"><small>dbr</small>:Jenni_Falconer</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jennie_Bond" href="http://live.dbpedia.org/resource/Jennie_Bond"><small>dbr</small>:Jennie_Bond</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Nigel_Marven" href="http://live.dbpedia.org/resource/Nigel_Marven"><small>dbr</small>:Nigel_Marven</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Sarah_Cawood" href="http://live.dbpedia.org/resource/Sarah_Cawood"><small>dbr</small>:Sarah_Cawood</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Christopher_Parker" href="http://live.dbpedia.org/resource/Christopher_Parker"><small>dbr</small>:Christopher_Parker</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Colin_Jackson" href="http://live.dbpedia.org/resource/Colin_Jackson"><small>dbr</small>:Colin_Jackson</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/The_Hider_in_the_House" href="http://live.dbpedia.org/resource/The_Hider_in_the_House"><small>dbr</small>:The_Hider_in_the_House</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/JK_and_Joel" href="http://live.dbpedia.org/resource/JK_and_Joel"><small>dbr</small>:JK_and_Joel</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Carol_Smillie" href="http://live.dbpedia.org/resource/Carol_Smillie"><small>dbr</small>:Carol_Smillie</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/David_Grant_(singer)" href="http://live.dbpedia.org/resource/David_Grant_(singer)"><small>dbr</small>:David_Grant_(singer)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Kate_Arnell" href="http://live.dbpedia.org/resource/Kate_Arnell"><small>dbr</small>:Kate_Arnell</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Sheree_Murphy" href="http://live.dbpedia.org/resource/Sheree_Murphy"><small>dbr</small>:Sheree_Murphy</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Siân_Lloyd" href="http://live.dbpedia.org/resource/Siân_Lloyd"><small>dbr</small>:Siân_Lloyd</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Barney_Harwood" href="http://live.dbpedia.org/resource/Barney_Harwood"><small>dbr</small>:Barney_Harwood</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Myleene_Klass" href="http://live.dbpedia.org/resource/Myleene_Klass"><small>dbr</small>:Myleene_Klass</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Nadia_Sawalha" href="http://live.dbpedia.org/resource/Nadia_Sawalha"><small>dbr</small>:Nadia_Sawalha</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Our_House" href="http://live.dbpedia.org/resource/Our_House"><small>dbr</small>:Our_House</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Louisa_Lytton" href="http://live.dbpedia.org/resource/Louisa_Lytton"><small>dbr</small>:Louisa_Lytton</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Rose_d'Or" href="http://live.dbpedia.org/resource/Rose_d'Or"><small>dbr</small>:Rose_d'Or</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Chico_Slimani" href="http://live.dbpedia.org/resource/Chico_Slimani"><small>dbr</small>:Chico_Slimani</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Lange_Frans" href="http://live.dbpedia.org/resource/Lange_Frans"><small>dbr</small>:Lange_Frans</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Lee_Sharpe" href="http://live.dbpedia.org/resource/Lee_Sharpe"><small>dbr</small>:Lee_Sharpe</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Lil'_Chris" href="http://live.dbpedia.org/resource/Lil'_Chris"><small>dbr</small>:Lil'_Chris</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Linda_Barker" href="http://live.dbpedia.org/resource/Linda_Barker"><small>dbr</small>:Linda_Barker</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Bonnie_Langford" href="http://live.dbpedia.org/resource/Bonnie_Langford"><small>dbr</small>:Bonnie_Langford</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2">is <a class="uri" href="http://xmlns.com/foaf/0.1/primaryTopic"><small>foaf:</small>primaryTopic</a>
+ of</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rev="foaf:primaryTopic" resource="http://en.wikipedia.org/wiki/Hider_in_the_House" href="http://en.wikipedia.org/wiki/Hider_in_the_House"><small>wikipedia-en</small>:Hider_in_the_House</a></span></li>
+	<li><span class="literal"><a class="uri" rev="foaf:primaryTopic" resource="http://en.wikipedia.org/wiki/Hider_in_the_House" href="http://en.wikipedia.org/wiki/Hider_in_the_House"><small>wikipedia-en</small>:Hider_in_the_House</a></span></li>
+</ul></td></tr>
+		    </tbody>
+		</table>
+	    </div>
+	</div>
+    </div>
+</section>
+<!-- property-table -->
+
+<!-- footer -->
+<section>
+    <div class="container-xl">
+	<div class="text-center p-4 bg-light">
+	    <a href="https://virtuoso.openlinksw.com/" title="OpenLink Virtuoso"><img class="powered_by" src="/statics/images/virt_power_no_border.png" alt="Powered by OpenLink Virtuoso"></a>&nbsp; &nbsp;
+	    <a href="http://linkeddata.org/"><img alt="This material is Open Knowledge" src="/statics/images/LoDLogo.gif"></a> &nbsp; &nbsp;
+	    <a href="https://live.dbpedia.org/sparql"><img alt="W3C Semantic Web Technology" src="/statics/images/sw-sparql-blue.png"></a> &nbsp;  &nbsp;
+	    <a href="https://opendefinition.org/"><img alt="This material is Open Knowledge" src="/statics/images/od_80x15_red_green.png"></a>&nbsp; &nbsp;
+	    <span style="display:none;" about="" resource="http://www.w3.org/TR/rdfa-syntax" rel="dc:conformsTo">
+		<a href="https://validator.w3.org/check?uri=referer">
+		    <img src="https://www.w3.org/Icons/valid-xhtml-rdfa" alt="Valid XHTML + RDFa">
+		</a>
+	    </span>
+	    <br>
+	    <small class="text-muted">
+		This content was extracted from <a href="http://en.wikipedia.org/wiki/Hider_in_the_House">Wikipedia</a> and is licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>
+
+	    </small>
+	</div>
+    </div>
+</section>
+<!-- #footer -->
+
+<!-- scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous">
+    </script>
+
+
+</body></html>

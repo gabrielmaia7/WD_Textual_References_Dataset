@@ -1,0 +1,454 @@
+<html prefix="
+        dbp: http://dbpedia.org/property/
+        dbo: http://dbedia.org/ontology/
+        dct: http://purl.org/dc/terms/
+	og:  https://ogp.me/ns#
+	"><!-- header --><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>About: Lurk (TV series)</title>
+
+    <!-- Links -->
+    <link rel="alternate" type="application/rdf+xml" href="https://live.dbpedia.org/data/Lurk_(TV_series).rdf" title="Structured Descriptor Document (RDF/XML format)">
+    <link rel="alternate" type="text/n3" href="https://live.dbpedia.org/data/Lurk_(TV_series).n3" title="Structured Descriptor Document (N3 format)">
+    <link rel="alternate" type="text/turtle" href="https://live.dbpedia.org/data/Lurk_(TV_series).ttl" title="Structured Descriptor Document (Turtle format)">
+    <link rel="alternate" type="application/json+rdf" href="https://live.dbpedia.org/data/Lurk_(TV_series).jrdf" title="Structured Descriptor Document (RDF/JSON format)">
+    <link rel="alternate" type="application/json" href="https://live.dbpedia.org/data/Lurk_(TV_series).json" title="Structured Descriptor Document (RDF/JSON format)">
+    <link rel="alternate" type="application/atom+xml" href="https://live.dbpedia.org/data/Lurk_(TV_series).atom" title="OData (Atom+Feed format)">
+    <link rel="alternate" type="text/plain" href="https://live.dbpedia.org/data/Lurk_(TV_series).ntriples" title="Structured Descriptor Document (N-Triples format)">
+    <link rel="alternate" type="text/csv" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FLurk_%28TV_series%29%3E&amp;format=text%2Fcsv" title="Structured Descriptor Document (CSV format)">
+    
+    <link rel="alternate" type="text/cxml" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FLurk_%28TV_series%29%3E&amp;format=text%2Fcxml" title="Structured Descriptor Document (CXML format)">
+    
+    <link rel="alternate" type="application/microdata+json" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FLurk_%28TV_series%29%3E&amp;format=application%2Fmicrodata%2Bjson" title="Structured Descriptor Document (Microdata/JSON format)">
+    <link rel="alternate" type="text/html" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FLurk_%28TV_series%29%3E&amp;format=text%2Fhtml" title="Structured Descriptor Document (Microdata/HTML format)">
+    <link rel="alternate" type="application/ld+json" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FLurk_%28TV_series%29%3E&amp;format=application%2Fjson-ld" title="Structured Descriptor Document (JSON-LD format)">
+    <link rel="alternate" type="text/x-html-script-ld+json" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FLurk_%28TV_series%29%3E&amp;format=text%2Fx-html-script-ld%2Bjson" title="Structured Descriptor Document (HTML with embedded JSON-LD)">
+    <link rel="alternate" type="text/x-html-script-turtle" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FLurk_%28TV_series%29%3E&amp;format=text%2Fx-html-script-turtle" title="Structured Descriptor Document (HTML with embedded Turtle)">
+    <link rel="timegate" type="text/html" href="http://dbpedia.mementodepot.org/timegate/http://dbpedia.org/page/Lurk_(TV_series)" title="Time Machine">
+    <link rel="foaf:primarytopic" href="http://dbpedia.org/resource/Lurk_(TV_series)">
+    <link rev="describedby" href="http://dbpedia.org/resource/Lurk_(TV_series)">
+    <!-- /Links -->
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
+    <!-- link rel="stylesheet" href="/statics/css/dbpedia.css" -->
+    <!-- /Stylesheets-->
+
+    <!-- OpenGraph -->
+    <meta property="og:title" content="Lurk (TV series)">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="http://dbpedia.org/resource/Lurk_(TV_series)">
+    <meta property="og:image" content="http://commons.wikimedia.org/wiki/Special:FilePath/Lurk_(%E6%BD%9C%E4%BC%8F)_.jpg?width=300">
+    <meta property="og:description" content="Lurk (Chinese: 潜伏) is a 2009 Chinese television series based on Long Yi's spy novel of the same name.">
+    <meta property="og:site_name" content="DBpedia">
+    <!-- /OpenGraph-->
+</head>
+<body about="http://dbpedia.org/resource/Lurk_(TV_series)">
+
+<!-- navbar -->
+<nav class="navbar navbar-expand-md navbar-light bg-light fixed-top align-items-center">
+    <div class="container-xl">
+	<a class="navbar-brand" href="http://wiki.dbpedia.org/Imprint" title="About DBpedia" style="color: #2c5078">
+	    <img class="img-fluid" src="/statics/images/dbpedia_logo_land_120.png" alt="About DBpedia">
+	</a>
+	<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#dbp-navbar" aria-controls="dbp-navbar" aria-expanded="false" aria-label="Toggle navigation">
+	    <span class="navbar-toggler-icon"></span>
+	</button>
+
+	<div class="collapse navbar-collapse" id="dbp-navbar">
+	    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+		<li class="nav-item dropdown">
+		    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBrowse" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+		    <i class="bi-eye-fill"></i> Browse using<span class="caret"></span></a>
+
+		    <ul class="dropdown-menu" aria-labelledby="navbarDropdownBrowse">
+			<li class="dropdown-item"><a class="nav-link" href="/describe/?uri=http%3A%2F%2Fdbpedia.org%2Fresource%2FLurk_%28TV_series%29">OpenLink Faceted Browser</a></li>
+			<li class="dropdown-item"><a class="nav-link" href="http://osde.demo.openlinksw.com/#/editor?uri=https%3A%2F%2Flive.dbpedia.org%2Fdata%2FLurk_%28TV_series%29.ttl&amp;view=statements">OpenLink Structured Data Editor</a></li>
+			<li class="dropdown-item"><a class="nav-link" href="http://en.lodlive.it/?http%3A%2F%2Fdbpedia.org%2Fresource%2FLurk_%28TV_series%29">LodLive Browser</a></li>
+			<!-- li class="dropdown-item"><a class="nav-link" href="http://lodmilla.sztaki.hu/lodmilla/?url=http%3A%2F%2Fdbpedia.org%2Fresource%2FLurk_%28TV_series%29">LODmilla Browser</a></li -->
+		    </ul>
+		</li>
+
+		<li class="nav-item dropdown">
+		    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownFormats" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+		    <i class="bi-file-earmark-fill"></i> Formats<span class="caret"></span></a>
+
+		    <ul class="dropdown-menu" aria-labelledby="navbarDropdownFormats">
+			<li class="dropdown-item-text">RDF:</li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/data/Lurk_(TV_series).ntriples">N-Triples</a></li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/data/Lurk_(TV_series).n3">N3</a></li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/data/Lurk_(TV_series).ttl">Turtle</a></li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/data/Lurk_(TV_series).json">JSON</a></li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/data/Lurk_(TV_series).rdf">XML</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">OData:</li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/data/Lurk_(TV_series).atom">Atom</a></li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/data/Lurk_(TV_series).jsod">JSON</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">Microdata:</li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FLurk_%28TV_series%29%3E&amp;format=application%2Fmicrodata%2Bjson">JSON</a></li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FLurk_%28TV_series%29%3E&amp;format=text%2Fhtml">HTML</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">Embedded:</li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FLurk_%28TV_series%29%3E&amp;format=text%2Fx-html-script-ld%2Bjson">JSON</a></li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FLurk_%28TV_series%29%3E&amp;format=text%2Fx-html-script-turtle">Turtle</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">Other:</li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FLurk_%28TV_series%29%3E&amp;format=text%2Fcsv">CSV</a></li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FLurk_%28TV_series%29%3E&amp;format=application%2Fjson-ld">JSON-LD</a></li>
+
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FLurk_%28TV_series%29%3E&amp;format=text%2Fcxml">CXML</a></li>
+
+		    </ul>
+		</li>
+	    </ul>
+
+	    <ul class="navbar-nav ms-auto">
+		<li class="nav-item">
+		    <a class="nav-link" href="/fct/" title="Switch to /fct endpoint"><i class="bi-box-arrow-up-right"></i> Faceted Browser </a>
+		</li>
+
+		<li class="nav-item">
+		    <a class="nav-link" href="/sparql/" title="Switch to /sparql endpoint"><i class="bi-box-arrow-up-right"></i> Sparql Endpoint </a>
+		</li>
+
+	    </ul>
+	</div>
+   </div>
+</nav>
+<div style="margin-bottom: 60px"></div>
+<!-- /navbar -->
+
+
+<!-- page-header -->
+<section>
+    <div class="container-xl">
+	<div class="row">
+	    <div class="col">
+		<h1 id="title" class="display-6"><b>About:</b>
+		    <a href="http://live.dbpedia.org/resource/Lurk_(TV_series)">Lurk (TV series)</a>
+		</h1>
+	    </div>
+	</div>
+	<div class="row">
+	    <div class="col">
+		<div class="text-muted">
+		    <span class="text-nowrap">An Entity of Type: <a href="http://live.dbpedia.org/ontology/Work">work</a>, </span>
+		    <span class="text-nowrap">from Named Graph:  <a href="http://dbpedia.org">http://dbpedia.org</a>, </span>
+		    <span class="text-nowrap">within Data Space: <a href="http://live.dbpedia.org">live.dbpedia.org</a></span>
+		</div>
+	    </div>
+	</div>
+
+	<div class="row">
+	    <div class="col">
+		<div class="text-muted small">
+		    <span class="text-nowrap sm-auto">Last updated on: Fri, 20 Aug 2021 19:19:48 GMT</span>
+		</div>
+	    </div>
+	</div>
+
+	<div class="row pt-2">
+	    <div class="col-xs-9 col-sm-10">
+		<p class="lead">Lurk (Chinese: 潜伏) is a 2009 Chinese television series based on Long Yi's spy novel of the same name.</p>
+	    </div>
+
+	    <div class="col-xs-3 col-sm-2">
+		<a href="#" class="thumbnail">
+		    <img src="http://commons.wikimedia.org/wiki/Special:FilePath/Lurk_(%E6%BD%9C%E4%BC%8F)_.jpg?width=300" alt="thumbnail" class="img-fluid">
+		</a>
+	    </div>
+
+	</div>
+    </div>
+</section>
+<!-- page-header -->
+
+<!-- property-table -->
+<section>
+    <div class="container-xl">
+	<div class="row">
+	    <div class="table-responsive">
+		<table class="table table-hover table-sm table-light">
+		    <thead>
+			<tr>
+			    <th class="col-xs-3 ">Property</th>
+			    <th class="col-xs-9 px-3">Value</th>
+			</tr>
+		    </thead>
+		    <tbody>
+<tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/Work/runtime" title="http://dbpedia.org/ontology/Work/runtime"><small>dbo:</small>Work/runtime</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="ns0:runtime" prefix="ns0: http://dbpedia.org/ontology/Work/">45.0</span></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/abstract" title="http://dbpedia.org/ontology/abstract"><small>dbo:</small>abstract</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:abstract" lang="en">Lurk (Chinese: 潜伏) is a 2009 Chinese television series based on Long Yi's spy novel of the same name.</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/genre" title="http://dbpedia.org/ontology/genre"><small>dbo:</small>genre</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:genre" resource="http://dbpedia.org/resource/Spy_fiction" href="http://live.dbpedia.org/resource/Spy_fiction"><small>dbr</small>:Spy_fiction</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:genre" resource="http://dbpedia.org/resource/Thriller_film" href="http://live.dbpedia.org/resource/Thriller_film"><small>dbr</small>:Thriller_film</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/language" title="http://dbpedia.org/ontology/language"><small>dbo:</small>language</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:language" resource="http://dbpedia.org/resource/Standard_Chinese" href="http://live.dbpedia.org/resource/Standard_Chinese"><small>dbr</small>:Standard_Chinese</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/network" title="http://dbpedia.org/ontology/network"><small>dbo:</small>network</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:network" resource="http://dbpedia.org/resource/Beijing_TV" href="http://live.dbpedia.org/resource/Beijing_TV"><small>dbr</small>:Beijing_TV</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:network" resource="http://dbpedia.org/resource/Dragon_TV" href="http://live.dbpedia.org/resource/Dragon_TV"><small>dbr</small>:Dragon_TV</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/numberOfEpisodes" title="http://dbpedia.org/ontology/numberOfEpisodes"><small>dbo:</small>numberOfEpisodes</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:numberOfEpisodes" datatype="xsd:nonNegativeInteger">30</span><small> (xsd:nonNegativeInteger)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/openingTheme" title="http://dbpedia.org/ontology/openingTheme"><small>dbo:</small>openingTheme</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:openingTheme" resource="http://dbpedia.org/resource/China_Philharmonic_Orchestra" href="http://live.dbpedia.org/resource/China_Philharmonic_Orchestra"><small>dbr</small>:China_Philharmonic_Orchestra</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/releaseDate" title="http://dbpedia.org/ontology/releaseDate"><small>dbo:</small>releaseDate</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:releaseDate" datatype="xsd:date">2009-04-01</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/runtime" title="http://dbpedia.org/ontology/runtime"><small>dbo:</small>runtime</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:runtime" datatype="xsd:double">2700.000000</span><small> (xsd:double)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/starring" title="http://dbpedia.org/ontology/starring"><small>dbo:</small>starring</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/Yao_Chen" href="http://live.dbpedia.org/resource/Yao_Chen"><small>dbr</small>:Yao_Chen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/Zu_Feng" href="http://live.dbpedia.org/resource/Zu_Feng"><small>dbr</small>:Zu_Feng</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/Sun_Honglei" href="http://live.dbpedia.org/resource/Sun_Honglei"><small>dbr</small>:Sun_Honglei</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/thumbnail" title="http://dbpedia.org/ontology/thumbnail"><small>dbo:</small>thumbnail</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:thumbnail" resource="http://commons.wikimedia.org/wiki/Special:FilePath/Lurk_(潜伏)_.jpg?width=300" href="http://commons.wikimedia.org/wiki/Special:FilePath/Lurk_(潜伏)_.jpg?width=300"><small>wiki-commons</small>:Special:FilePath/Lurk_(潜伏)_.jpg?width=300</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/wikiPageExternalLink" title="http://dbpedia.org/ontology/wikiPageExternalLink"><small>dbo:</small>wikiPageExternalLink</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageExternalLink nofollow" resource="http://ent.sina.com.cn/f/v/qianf/index.shtml" href="http://ent.sina.com.cn/f/v/qianf/index.shtml">http://ent.sina.com.cn/f/v/qianf/index.shtml</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageExternalLink nofollow" resource="http://ent.sina.com.cn/f/v/qianf/index.shtml" href="http://ent.sina.com.cn/f/v/qianf/index.shtml">http://ent.sina.com.cn/f/v/qianf/index.shtml</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/wikiPageID" title="http://dbpedia.org/ontology/wikiPageID"><small>dbo:</small>wikiPageID</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:wikiPageID" datatype="xsd:integer">23316515</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/wikiPageLength" title="http://dbpedia.org/ontology/wikiPageLength"><small>dbo:</small>wikiPageLength</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:wikiPageLength" datatype="xsd:nonNegativeInteger">6315</span><small> (xsd:nonNegativeInteger)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/wikiPageOutDegree" title="http://dbpedia.org/ontology/wikiPageOutDegree"><small>dbo:</small>wikiPageOutDegree</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:wikiPageOutDegree" datatype="xsd:nonNegativeInteger">31</span><small> (xsd:nonNegativeInteger)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/wikiPageRevisionID" title="http://dbpedia.org/ontology/wikiPageRevisionID"><small>dbo:</small>wikiPageRevisionID</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:wikiPageRevisionID" datatype="xsd:integer">1039789728</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/wikiPageWikiLink" title="http://dbpedia.org/ontology/wikiPageWikiLink"><small>dbo:</small>wikiPageWikiLink</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Yao_Chen" href="http://live.dbpedia.org/resource/Yao_Chen"><small>dbr</small>:Yao_Chen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Zu_Feng" href="http://live.dbpedia.org/resource/Zu_Feng"><small>dbr</small>:Zu_Feng</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:Television_shows_set_in_Tianjin" href="http://live.dbpedia.org/resource/Category:Television_shows_set_in_Tianjin"><small>dbc</small>:Television_shows_set_in_Tianjin</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:Chinese_period_television_series" href="http://live.dbpedia.org/resource/Category:Chinese_period_television_series"><small>dbc</small>:Chinese_period_television_series</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:2009_Chinese_television_series_debuts" href="http://live.dbpedia.org/resource/Category:2009_Chinese_television_series_debuts"><small>dbc</small>:2009_Chinese_television_series_debuts</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Golden_Eagle_Award_for_Best_Television_Series_(China)" href="http://live.dbpedia.org/resource/Golden_Eagle_Award_for_Best_Television_Series_(China)"><small>dbr</small>:Golden_Eagle_Award_for_Best_Television_Series_(China)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/China_Philharmonic_Orchestra" href="http://live.dbpedia.org/resource/China_Philharmonic_Orchestra"><small>dbr</small>:China_Philharmonic_Orchestra</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/China_TV_Golden_Eagle_Award" href="http://live.dbpedia.org/resource/China_TV_Golden_Eagle_Award"><small>dbr</small>:China_TV_Golden_Eagle_Award</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Standard_Chinese" href="http://live.dbpedia.org/resource/Standard_Chinese"><small>dbr</small>:Standard_Chinese</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Sun_Honglei" href="http://live.dbpedia.org/resource/Sun_Honglei"><small>dbr</small>:Sun_Honglei</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Dragon_Television" href="http://live.dbpedia.org/resource/Dragon_Television"><small>dbr</small>:Dragon_Television</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Shanghai_Television_Festival" href="http://live.dbpedia.org/resource/Shanghai_Television_Festival"><small>dbr</small>:Shanghai_Television_Festival</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Huading_Awards" href="http://live.dbpedia.org/resource/Huading_Awards"><small>dbr</small>:Huading_Awards</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Magnolia_Award_for_Best_Actor_in_a_Television_Series" href="http://live.dbpedia.org/resource/Magnolia_Award_for_Best_Actor_in_a_Television_Series"><small>dbr</small>:Magnolia_Award_for_Best_Actor_in_a_Television_Series</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Magnolia_Award_for_Best_Television_Series" href="http://live.dbpedia.org/resource/Magnolia_Award_for_Best_Television_Series"><small>dbr</small>:Magnolia_Award_for_Best_Television_Series</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Beijing_Media_Network" href="http://live.dbpedia.org/resource/Beijing_Media_Network"><small>dbr</small>:Beijing_Media_Network</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:Television_shows_based_on_Chinese_novels" href="http://live.dbpedia.org/resource/Category:Television_shows_based_on_Chinese_novels"><small>dbc</small>:Television_shows_based_on_Chinese_novels</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:Chinese_espionage_television_series" href="http://live.dbpedia.org/resource/Category:Chinese_espionage_television_series"><small>dbc</small>:Chinese_espionage_television_series</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Spy_fiction" href="http://live.dbpedia.org/resource/Spy_fiction"><small>dbr</small>:Spy_fiction</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Chinese_language" href="http://live.dbpedia.org/resource/Chinese_language"><small>dbr</small>:Chinese_language</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Flying_Apsaras_Award_for_Outstanding_Actor" href="http://live.dbpedia.org/resource/Flying_Apsaras_Award_for_Outstanding_Actor"><small>dbr</small>:Flying_Apsaras_Award_for_Outstanding_Actor</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Flying_Apsaras_Award_for_Outstanding_Actress" href="http://live.dbpedia.org/resource/Flying_Apsaras_Award_for_Outstanding_Actress"><small>dbr</small>:Flying_Apsaras_Award_for_Outstanding_Actress</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Flying_Apsaras_Awards" href="http://live.dbpedia.org/resource/Flying_Apsaras_Awards"><small>dbr</small>:Flying_Apsaras_Awards</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Thriller_film" href="http://live.dbpedia.org/resource/Thriller_film"><small>dbr</small>:Thriller_film</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/basedOn" title="http://dbpedia.org/property/basedOn"><small>dbp:</small>basedOn</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:basedOn" lang="en">Lurk by Long Yi</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/caption" title="http://dbpedia.org/property/caption"><small>dbp:</small>caption</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:caption" lang="en">Title screen</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/company" title="http://dbpedia.org/property/company"><small>dbp:</small>company</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:company" lang="en">Guangdong Southern Television Station</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/country" title="http://dbpedia.org/property/country"><small>dbp:</small>country</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:country" lang="en">China</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/director" title="http://dbpedia.org/property/director"><small>dbp:</small>director</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:director" lang="en">Jiang Wei</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/firstAired" title="http://dbpedia.org/property/firstAired"><small>dbp:</small>firstAired</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:firstAired" datatype="xsd:date">2009-04-01</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/genre" title="http://dbpedia.org/property/genre"><small>dbp:</small>genre</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:genre" resource="http://dbpedia.org/resource/Spy_fiction" href="http://live.dbpedia.org/resource/Spy_fiction"><small>dbr</small>:Spy_fiction</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:genre" resource="http://dbpedia.org/resource/Thriller_film" href="http://live.dbpedia.org/resource/Thriller_film"><small>dbr</small>:Thriller_film</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/language" title="http://dbpedia.org/property/language"><small>dbp:</small>language</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:language" resource="http://dbpedia.org/resource/Standard_Chinese" href="http://live.dbpedia.org/resource/Standard_Chinese"><small>dbr</small>:Standard_Chinese</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/name" title="http://dbpedia.org/property/name"><small>dbp:</small>name</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:name" lang="en">Lurk</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/network" title="http://dbpedia.org/property/network"><small>dbp:</small>network</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:network" resource="http://dbpedia.org/resource/Beijing_TV" href="http://live.dbpedia.org/resource/Beijing_TV"><small>dbr</small>:Beijing_TV</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:network" resource="http://dbpedia.org/resource/Dragon_TV" href="http://live.dbpedia.org/resource/Dragon_TV"><small>dbr</small>:Dragon_TV</a></span></li>
+	<li><span class="literal"><span property="dbp:network" lang="en">Chongqing Television</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:network" lang="en">Heilongjiang TV</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/numEpisodes" title="http://dbpedia.org/property/numEpisodes"><small>dbp:</small>numEpisodes</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:numEpisodes" datatype="xsd:integer">30</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/opentheme" title="http://dbpedia.org/property/opentheme"><small>dbp:</small>opentheme</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:opentheme" lang="en">Deep Sea by China Philharmonic Orchestra</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/p" title="http://dbpedia.org/property/p"><small>dbp:</small>p</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:p" lang="en">Qiǎnfú</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/producer" title="http://dbpedia.org/property/producer"><small>dbp:</small>producer</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:producer" lang="en">Zhang Jing</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/runtime" title="http://dbpedia.org/property/runtime"><small>dbp:</small>runtime</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:runtime">2700.0</span></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/s" title="http://dbpedia.org/property/s"><small>dbp:</small>s</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:s" lang="en">潜伏</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/starring" title="http://dbpedia.org/property/starring"><small>dbp:</small>starring</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:starring" resource="http://dbpedia.org/resource/Yao_Chen" href="http://live.dbpedia.org/resource/Yao_Chen"><small>dbr</small>:Yao_Chen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:starring" resource="http://dbpedia.org/resource/Sun_Honglei" href="http://live.dbpedia.org/resource/Sun_Honglei"><small>dbr</small>:Sun_Honglei</a></span></li>
+	<li><span class="literal"><span property="dbp:starring" lang="en">Wu Gang</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:starring" lang="en">Shen Aojun</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:starring" lang="en">Feng Enhe</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:starring" lang="en">Zu Feng</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/t" title="http://dbpedia.org/property/t"><small>dbp:</small>t</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:t" lang="en">潛伏</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/title" title="http://dbpedia.org/property/title"><small>dbp:</small>title</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:title" lang="en">Lurk</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/wikiPageUsesTemplate" title="http://dbpedia.org/property/wikiPageUsesTemplate"><small>dbp:</small>wikiPageUsesTemplate</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Chinese" href="http://live.dbpedia.org/resource/Template:Chinese"><small>dbt</small>:Chinese</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Cn" href="http://live.dbpedia.org/resource/Template:Cn"><small>dbt</small>:Cn</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Infobox_television" href="http://live.dbpedia.org/resource/Template:Infobox_television"><small>dbt</small>:Infobox_television</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Nom" href="http://live.dbpedia.org/resource/Template:Nom"><small>dbt</small>:Nom</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Reflist" href="http://live.dbpedia.org/resource/Template:Reflist"><small>dbt</small>:Reflist</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Start_date" href="http://live.dbpedia.org/resource/Template:Start_date"><small>dbt</small>:Start_date</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Won" href="http://live.dbpedia.org/resource/Template:Won"><small>dbt</small>:Won</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Chinese_Civil_War" href="http://live.dbpedia.org/resource/Template:Chinese_Civil_War"><small>dbt</small>:Chinese_Civil_War</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/writer" title="http://dbpedia.org/property/writer"><small>dbp:</small>writer</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:writer" lang="en">Jiang Wei</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://purl.org/dc/terms/subject"><small>dct:</small>subject</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:Television_shows_set_in_Tianjin" href="http://live.dbpedia.org/resource/Category:Television_shows_set_in_Tianjin"><small>dbc</small>:Television_shows_set_in_Tianjin</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:Chinese_period_television_series" href="http://live.dbpedia.org/resource/Category:Chinese_period_television_series"><small>dbc</small>:Chinese_period_television_series</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:2009_Chinese_television_series_debuts" href="http://live.dbpedia.org/resource/Category:2009_Chinese_television_series_debuts"><small>dbc</small>:2009_Chinese_television_series_debuts</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:Television_shows_based_on_Chinese_novels" href="http://live.dbpedia.org/resource/Category:Television_shows_based_on_Chinese_novels"><small>dbc</small>:Television_shows_based_on_Chinese_novels</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:Chinese_espionage_television_series" href="http://live.dbpedia.org/resource/Category:Chinese_espionage_television_series"><small>dbc</small>:Chinese_espionage_television_series</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://purl.org/linguistics/gold/hypernym"><small>gold:</small>hypernym</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="gold:hypernym" resource="http://dbpedia.org/resource/Series" prefix="gold: http://purl.org/linguistics/gold/" href="http://live.dbpedia.org/resource/Series"><small>dbr</small>:Series</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"><small>rdf:</small>type</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://www.w3.org/2002/07/owl#Thing" href="http://www.w3.org/2002/07/owl#Thing"><small>owl</small>:Thing</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://schema.org/CreativeWork" href="http://schema.org/CreativeWork"><small>schema</small>:CreativeWork</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/ontology/Work" href="http://live.dbpedia.org/ontology/Work"><small>dbo</small>:Work</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://www.wikidata.org/entity/Q15416" href="http://www.wikidata.org/entity/Q15416"><small>wikidata</small>:Q15416</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://www.wikidata.org/entity/Q386724" href="http://www.wikidata.org/entity/Q386724"><small>wikidata</small>:Q386724</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/ontology/TelevisionShow" href="http://live.dbpedia.org/ontology/TelevisionShow"><small>dbo</small>:TelevisionShow</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/ontology/TelevisionShow" href="http://live.dbpedia.org/ontology/TelevisionShow"><small>dbo</small>:TelevisionShow</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Artifact100021939" href="http://live.dbpedia.org/class/yago/Artifact100021939"><small>yago</small>:Artifact100021939</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Broadcasting106276697" href="http://live.dbpedia.org/class/yago/Broadcasting106276697"><small>yago</small>:Broadcasting106276697</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Instrumentality103575240" href="http://live.dbpedia.org/class/yago/Instrumentality103575240"><small>yago</small>:Instrumentality103575240</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Medium106254669" href="http://live.dbpedia.org/class/yago/Medium106254669"><small>yago</small>:Medium106254669</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Object100002684" href="http://live.dbpedia.org/class/yago/Object100002684"><small>yago</small>:Object100002684</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" href="http://live.dbpedia.org/class/yago/PhysicalEntity100001930"><small>yago</small>:PhysicalEntity100001930</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Telecommunication106271778" href="http://live.dbpedia.org/class/yago/Telecommunication106271778"><small>yago</small>:Telecommunication106271778</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Television106277280" href="http://live.dbpedia.org/class/yago/Television106277280"><small>yago</small>:Television106277280</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Whole100003553" href="http://live.dbpedia.org/class/yago/Whole100003553"><small>yago</small>:Whole100003553</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://umbel.org/umbel/rc/TVShow_IBT" href="http://umbel.org/umbel/rc/TVShow_IBT"><small>umbel-rc</small>:TVShow_IBT</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://www.w3.org/2000/01/rdf-schema#comment"><small>rdfs:</small>comment</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="rdfs:comment" lang="en">Lurk (Chinese: 潜伏) is a 2009 Chinese television series based on Long Yi's spy novel of the same name.</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://www.w3.org/2000/01/rdf-schema#label"><small>rdfs:</small>label</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="rdfs:label" lang="en">Lurk (TV series)</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://www.w3.org/2002/07/owl#sameAs"><small>owl:</small>sameAs</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://rdf.freebase.com/ns/m.06zt76k" href="http://rdf.freebase.com/ns/m.06zt76k"><small>freebase</small>:Lurk (TV series)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://yago-knowledge.org/resource/Lurk_(TV_series)" href="http://yago-knowledge.org/resource/Lurk_(TV_series)"><small>yago-res</small>:Lurk (TV series)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="https://global.dbpedia.org/id/97cmj" href="https://global.dbpedia.org/id/97cmj">https://global.dbpedia.org/id/97cmj</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://dbpedia.org/resource/Lurk_(TV_series)" href="http://dbpedia.org/resource/Lurk_(TV_series)"><small>dbr</small>:Lurk (TV series)</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://www.w3.org/ns/prov#wasDerivedFrom"><small>prov:</small>wasDerivedFrom</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="prov:wasDerivedFrom" resource="http://en.wikipedia.org/wiki/Lurk_(TV_series)?oldid=1039789728&amp;ns=0" href="http://en.wikipedia.org/wiki/Lurk_(TV_series)?oldid=1039789728&amp;ns=0"><small>wikipedia-en</small>:Lurk_(TV_series)?oldid=1039789728&amp;ns=0</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://xmlns.com/foaf/0.1/depiction"><small>foaf:</small>depiction</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="foaf:depiction" resource="http://commons.wikimedia.org/wiki/Special:FilePath/Lurk_(潜伏)_.jpg" href="http://commons.wikimedia.org/wiki/Special:FilePath/Lurk_(潜伏)_.jpg"><small>wiki-commons</small>:Special:FilePath/Lurk_(潜伏)_.jpg</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://xmlns.com/foaf/0.1/homepage"><small>foaf:</small>homepage</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="foaf:homepage nofollow" resource="http://ent.sina.com.cn/f/v/qianf/index.shtml" href="http://ent.sina.com.cn/f/v/qianf/index.shtml">http://ent.sina.com.cn/f/v/qianf/index.shtml</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://xmlns.com/foaf/0.1/isPrimaryTopicOf"><small>foaf:</small>isPrimaryTopicOf</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="foaf:isPrimaryTopicOf" resource="http://en.wikipedia.org/wiki/Lurk_(TV_series)" href="http://en.wikipedia.org/wiki/Lurk_(TV_series)"><small>wikipedia-en</small>:Lurk_(TV_series)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="foaf:isPrimaryTopicOf" resource="http://en.wikipedia.org/wiki/Lurk_(TV_series)" href="http://en.wikipedia.org/wiki/Lurk_(TV_series)"><small>wikipedia-en</small>:Lurk_(TV_series)</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2">is <a class="uri" href="http://live.dbpedia.org/ontology/wikiPageDisambiguates" title="http://dbpedia.org/ontology/wikiPageDisambiguates"><small>dbo:</small>wikiPageDisambiguates</a>
+ of</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageDisambiguates" resource="http://dbpedia.org/resource/Lurk" href="http://live.dbpedia.org/resource/Lurk"><small>dbr</small>:Lurk</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageDisambiguates" resource="http://dbpedia.org/resource/Lurk" href="http://live.dbpedia.org/resource/Lurk"><small>dbr</small>:Lurk</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2">is <a class="uri" href="http://live.dbpedia.org/ontology/wikiPageWikiLink" title="http://dbpedia.org/ontology/wikiPageWikiLink"><small>dbo:</small>wikiPageWikiLink</a>
+ of</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Yao_Chen" href="http://live.dbpedia.org/resource/Yao_Chen"><small>dbr</small>:Yao_Chen</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Zhang_Xueying" href="http://live.dbpedia.org/resource/Zhang_Xueying"><small>dbr</small>:Zhang_Xueying</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Zu_Feng" href="http://live.dbpedia.org/resource/Zu_Feng"><small>dbr</small>:Zu_Feng</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Lurk" href="http://live.dbpedia.org/resource/Lurk"><small>dbr</small>:Lurk</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Wu_Gang_(actor)" href="http://live.dbpedia.org/resource/Wu_Gang_(actor)"><small>dbr</small>:Wu_Gang_(actor)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Golden_Eagle_Award_for_Best_Actor_(China)" href="http://live.dbpedia.org/resource/Golden_Eagle_Award_for_Best_Actor_(China)"><small>dbr</small>:Golden_Eagle_Award_for_Best_Actor_(China)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Sun_Honglei" href="http://live.dbpedia.org/resource/Sun_Honglei"><small>dbr</small>:Sun_Honglei</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_Chinese_television_programs_by_date" href="http://live.dbpedia.org/resource/List_of_Chinese_television_programs_by_date"><small>dbr</small>:List_of_Chinese_television_programs_by_date</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_Chinese_television_series" href="http://live.dbpedia.org/resource/List_of_Chinese_television_series"><small>dbr</small>:List_of_Chinese_television_series</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Magnolia_Award_for_Best_Television_Series" href="http://live.dbpedia.org/resource/Magnolia_Award_for_Best_Television_Series"><small>dbr</small>:Magnolia_Award_for_Best_Television_Series</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Flying_Apsaras_Award_for_Outstanding_Actor" href="http://live.dbpedia.org/resource/Flying_Apsaras_Award_for_Outstanding_Actor"><small>dbr</small>:Flying_Apsaras_Award_for_Outstanding_Actor</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Game_of_Hunting" href="http://live.dbpedia.org/resource/Game_of_Hunting"><small>dbr</small>:Game_of_Hunting</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2">is <a class="uri" href="http://xmlns.com/foaf/0.1/primaryTopic"><small>foaf:</small>primaryTopic</a>
+ of</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rev="foaf:primaryTopic" resource="http://en.wikipedia.org/wiki/Lurk_(TV_series)" href="http://en.wikipedia.org/wiki/Lurk_(TV_series)"><small>wikipedia-en</small>:Lurk_(TV_series)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="foaf:primaryTopic" resource="http://en.wikipedia.org/wiki/Lurk_(TV_series)" href="http://en.wikipedia.org/wiki/Lurk_(TV_series)"><small>wikipedia-en</small>:Lurk_(TV_series)</a></span></li>
+</ul></td></tr>
+		    </tbody>
+		</table>
+	    </div>
+	</div>
+    </div>
+</section>
+<!-- property-table -->
+
+<!-- footer -->
+<section>
+    <div class="container-xl">
+	<div class="text-center p-4 bg-light">
+	    <a href="https://virtuoso.openlinksw.com/" title="OpenLink Virtuoso"><img class="powered_by" src="/statics/images/virt_power_no_border.png" alt="Powered by OpenLink Virtuoso"></a>&nbsp; &nbsp;
+	    <a href="http://linkeddata.org/"><img alt="This material is Open Knowledge" src="/statics/images/LoDLogo.gif"></a> &nbsp; &nbsp;
+	    <a href="https://live.dbpedia.org/sparql"><img alt="W3C Semantic Web Technology" src="/statics/images/sw-sparql-blue.png"></a> &nbsp;  &nbsp;
+	    <a href="https://opendefinition.org/"><img alt="This material is Open Knowledge" src="/statics/images/od_80x15_red_green.png"></a>&nbsp; &nbsp;
+	    <span style="display:none;" about="" resource="http://www.w3.org/TR/rdfa-syntax" rel="dc:conformsTo">
+		<a href="https://validator.w3.org/check?uri=referer">
+		    <img src="https://www.w3.org/Icons/valid-xhtml-rdfa" alt="Valid XHTML + RDFa">
+		</a>
+	    </span>
+	    <br>
+	    <small class="text-muted">
+		This content was extracted from <a href="http://en.wikipedia.org/wiki/Lurk_(TV_series)">Wikipedia</a> and is licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>
+
+	    </small>
+	</div>
+    </div>
+</section>
+<!-- #footer -->
+
+<!-- scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous">
+    </script>
+
+
+</body></html>

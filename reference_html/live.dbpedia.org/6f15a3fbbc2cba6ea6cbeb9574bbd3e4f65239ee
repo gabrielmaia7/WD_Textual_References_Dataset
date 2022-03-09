@@ -1,0 +1,676 @@
+<html prefix="
+        dbp: http://dbpedia.org/property/
+        dbo: http://dbedia.org/ontology/
+        dct: http://purl.org/dc/terms/
+	og:  https://ogp.me/ns#
+	"><!-- header --><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>About: I Love Betty La Fea</title>
+
+    <!-- Links -->
+    <link rel="alternate" type="application/rdf+xml" href="https://live.dbpedia.org/data/I_Love_Betty_La_Fea.rdf" title="Structured Descriptor Document (RDF/XML format)">
+    <link rel="alternate" type="text/n3" href="https://live.dbpedia.org/data/I_Love_Betty_La_Fea.n3" title="Structured Descriptor Document (N3 format)">
+    <link rel="alternate" type="text/turtle" href="https://live.dbpedia.org/data/I_Love_Betty_La_Fea.ttl" title="Structured Descriptor Document (Turtle format)">
+    <link rel="alternate" type="application/json+rdf" href="https://live.dbpedia.org/data/I_Love_Betty_La_Fea.jrdf" title="Structured Descriptor Document (RDF/JSON format)">
+    <link rel="alternate" type="application/json" href="https://live.dbpedia.org/data/I_Love_Betty_La_Fea.json" title="Structured Descriptor Document (RDF/JSON format)">
+    <link rel="alternate" type="application/atom+xml" href="https://live.dbpedia.org/data/I_Love_Betty_La_Fea.atom" title="OData (Atom+Feed format)">
+    <link rel="alternate" type="text/plain" href="https://live.dbpedia.org/data/I_Love_Betty_La_Fea.ntriples" title="Structured Descriptor Document (N-Triples format)">
+    <link rel="alternate" type="text/csv" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FI_Love_Betty_La_Fea%3E&amp;format=text%2Fcsv" title="Structured Descriptor Document (CSV format)">
+    
+    <link rel="alternate" type="text/cxml" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FI_Love_Betty_La_Fea%3E&amp;format=text%2Fcxml" title="Structured Descriptor Document (CXML format)">
+    
+    <link rel="alternate" type="application/microdata+json" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FI_Love_Betty_La_Fea%3E&amp;format=application%2Fmicrodata%2Bjson" title="Structured Descriptor Document (Microdata/JSON format)">
+    <link rel="alternate" type="text/html" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FI_Love_Betty_La_Fea%3E&amp;format=text%2Fhtml" title="Structured Descriptor Document (Microdata/HTML format)">
+    <link rel="alternate" type="application/ld+json" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FI_Love_Betty_La_Fea%3E&amp;format=application%2Fjson-ld" title="Structured Descriptor Document (JSON-LD format)">
+    <link rel="alternate" type="text/x-html-script-ld+json" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FI_Love_Betty_La_Fea%3E&amp;format=text%2Fx-html-script-ld%2Bjson" title="Structured Descriptor Document (HTML with embedded JSON-LD)">
+    <link rel="alternate" type="text/x-html-script-turtle" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FI_Love_Betty_La_Fea%3E&amp;format=text%2Fx-html-script-turtle" title="Structured Descriptor Document (HTML with embedded Turtle)">
+    <link rel="timegate" type="text/html" href="http://dbpedia.mementodepot.org/timegate/http://dbpedia.org/page/I_Love_Betty_La_Fea" title="Time Machine">
+    <link rel="foaf:primarytopic" href="http://dbpedia.org/resource/I_Love_Betty_La_Fea">
+    <link rev="describedby" href="http://dbpedia.org/resource/I_Love_Betty_La_Fea">
+    <!-- /Links -->
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
+    <!-- link rel="stylesheet" href="/statics/css/dbpedia.css" -->
+    <!-- /Stylesheets-->
+
+    <!-- OpenGraph -->
+    <meta property="og:title" content="I Love Betty La Fea">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="http://dbpedia.org/resource/I_Love_Betty_La_Fea">
+    <meta property="og:image" content="http://commons.wikimedia.org/wiki/Special:FilePath/Bea_Alonzo_by_Ronn_Tan,_April_2010.png?width=300">
+    <meta property="og:description" content="I Love Betty La Fea (stylized as I ♥ Betty La Fea) is a Philippine drama series that was aired on ABS-CBN, based on the Colombian series Yo soy Betty, la fea from RCN Televisión from September 8, 2008 to April 24, 2009 replacing My Girl. from 2009 to 2010, it was aired in the United States and Canada via The Filipino Channel. In 2009-2010 a cause of delay to air the series in the U.S and Canada due to international distribution of the series forgoing to be aired in 2009-2010.">
+    <meta property="og:site_name" content="DBpedia">
+    <!-- /OpenGraph-->
+</head>
+<body about="http://dbpedia.org/resource/I_Love_Betty_La_Fea">
+
+<!-- navbar -->
+<nav class="navbar navbar-expand-md navbar-light bg-light fixed-top align-items-center">
+    <div class="container-xl">
+	<a class="navbar-brand" href="http://wiki.dbpedia.org/Imprint" title="About DBpedia" style="color: #2c5078">
+	    <img class="img-fluid" src="/statics/images/dbpedia_logo_land_120.png" alt="About DBpedia">
+	</a>
+	<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#dbp-navbar" aria-controls="dbp-navbar" aria-expanded="false" aria-label="Toggle navigation">
+	    <span class="navbar-toggler-icon"></span>
+	</button>
+
+	<div class="collapse navbar-collapse" id="dbp-navbar">
+	    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+		<li class="nav-item dropdown">
+		    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBrowse" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+		    <i class="bi-eye-fill"></i> Browse using<span class="caret"></span></a>
+
+		    <ul class="dropdown-menu" aria-labelledby="navbarDropdownBrowse">
+			<li class="dropdown-item"><a class="nav-link" href="/describe/?uri=http%3A%2F%2Fdbpedia.org%2Fresource%2FI_Love_Betty_La_Fea">OpenLink Faceted Browser</a></li>
+			<li class="dropdown-item"><a class="nav-link" href="http://osde.demo.openlinksw.com/#/editor?uri=https%3A%2F%2Flive.dbpedia.org%2Fdata%2FI_Love_Betty_La_Fea.ttl&amp;view=statements">OpenLink Structured Data Editor</a></li>
+			<li class="dropdown-item"><a class="nav-link" href="http://en.lodlive.it/?http%3A%2F%2Fdbpedia.org%2Fresource%2FI_Love_Betty_La_Fea">LodLive Browser</a></li>
+			<!-- li class="dropdown-item"><a class="nav-link" href="http://lodmilla.sztaki.hu/lodmilla/?url=http%3A%2F%2Fdbpedia.org%2Fresource%2FI_Love_Betty_La_Fea">LODmilla Browser</a></li -->
+		    </ul>
+		</li>
+
+		<li class="nav-item dropdown">
+		    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownFormats" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+		    <i class="bi-file-earmark-fill"></i> Formats<span class="caret"></span></a>
+
+		    <ul class="dropdown-menu" aria-labelledby="navbarDropdownFormats">
+			<li class="dropdown-item-text">RDF:</li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/data/I_Love_Betty_La_Fea.ntriples">N-Triples</a></li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/data/I_Love_Betty_La_Fea.n3">N3</a></li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/data/I_Love_Betty_La_Fea.ttl">Turtle</a></li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/data/I_Love_Betty_La_Fea.json">JSON</a></li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/data/I_Love_Betty_La_Fea.rdf">XML</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">OData:</li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/data/I_Love_Betty_La_Fea.atom">Atom</a></li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/data/I_Love_Betty_La_Fea.jsod">JSON</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">Microdata:</li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FI_Love_Betty_La_Fea%3E&amp;format=application%2Fmicrodata%2Bjson">JSON</a></li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FI_Love_Betty_La_Fea%3E&amp;format=text%2Fhtml">HTML</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">Embedded:</li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FI_Love_Betty_La_Fea%3E&amp;format=text%2Fx-html-script-ld%2Bjson">JSON</a></li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FI_Love_Betty_La_Fea%3E&amp;format=text%2Fx-html-script-turtle">Turtle</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">Other:</li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FI_Love_Betty_La_Fea%3E&amp;format=text%2Fcsv">CSV</a></li>
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FI_Love_Betty_La_Fea%3E&amp;format=application%2Fjson-ld">JSON-LD</a></li>
+
+			<li><a class="dropdown-item" href="https://live.dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FI_Love_Betty_La_Fea%3E&amp;format=text%2Fcxml">CXML</a></li>
+
+		    </ul>
+		</li>
+	    </ul>
+
+	    <ul class="navbar-nav ms-auto">
+		<li class="nav-item">
+		    <a class="nav-link" href="/fct/" title="Switch to /fct endpoint"><i class="bi-box-arrow-up-right"></i> Faceted Browser </a>
+		</li>
+
+		<li class="nav-item">
+		    <a class="nav-link" href="/sparql/" title="Switch to /sparql endpoint"><i class="bi-box-arrow-up-right"></i> Sparql Endpoint </a>
+		</li>
+
+	    </ul>
+	</div>
+   </div>
+</nav>
+<div style="margin-bottom: 60px"></div>
+<!-- /navbar -->
+
+
+<!-- page-header -->
+<section>
+    <div class="container-xl">
+	<div class="row">
+	    <div class="col">
+		<h1 id="title" class="display-6"><b>About:</b>
+		    <a href="http://live.dbpedia.org/resource/I_Love_Betty_La_Fea">I Love Betty La Fea</a>
+		</h1>
+	    </div>
+	</div>
+	<div class="row">
+	    <div class="col">
+		<div class="text-muted">
+		    <span class="text-nowrap">An Entity of Type: <a href="http://live.dbpedia.org/ontology/Work">work</a>, </span>
+		    <span class="text-nowrap">from Named Graph:  <a href="http://dbpedia.org">http://dbpedia.org</a>, </span>
+		    <span class="text-nowrap">within Data Space: <a href="http://live.dbpedia.org">live.dbpedia.org</a></span>
+		</div>
+	    </div>
+	</div>
+
+	<div class="row">
+	    <div class="col">
+		<div class="text-muted small">
+		    <span class="text-nowrap sm-auto">Last updated on: Wed, 15 Sep 2021 20:59:56 GMT</span>
+		</div>
+	    </div>
+	</div>
+
+	<div class="row pt-2">
+	    <div class="col-xs-9 col-sm-10">
+		<p class="lead">I Love Betty La Fea (stylized as I ♥ Betty La Fea) is a Philippine drama series that was aired on ABS-CBN, based on the Colombian series Yo soy Betty, la fea from RCN Televisión from September 8, 2008 to April 24, 2009 replacing My Girl. from 2009 to 2010, it was aired in the United States and Canada via The Filipino Channel. In 2009-2010 a cause of delay to air the series in the U.S and Canada due to international distribution of the series forgoing to be aired in 2009-2010.</p>
+	    </div>
+
+	    <div class="col-xs-3 col-sm-2">
+		<a href="#" class="thumbnail">
+		    <img src="http://commons.wikimedia.org/wiki/Special:FilePath/Bea_Alonzo_by_Ronn_Tan,_April_2010.png?width=300" alt="thumbnail" class="img-fluid">
+		</a>
+	    </div>
+
+	</div>
+    </div>
+</section>
+<!-- page-header -->
+
+<!-- property-table -->
+<section>
+    <div class="container-xl">
+	<div class="row">
+	    <div class="table-responsive">
+		<table class="table table-hover table-sm table-light">
+		    <thead>
+			<tr>
+			    <th class="col-xs-3 ">Property</th>
+			    <th class="col-xs-9 px-3">Value</th>
+			</tr>
+		    </thead>
+		    <tbody>
+<tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/Work/runtime" title="http://dbpedia.org/ontology/Work/runtime"><small>dbo:</small>Work/runtime</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="ns0:runtime" prefix="ns0: http://dbpedia.org/ontology/Work/">-45.0</span></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/abstract" title="http://dbpedia.org/ontology/abstract"><small>dbo:</small>abstract</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:abstract" lang="en">I Love Betty La Fea (stylized as I ♥ Betty La Fea) is a Philippine drama series that was aired on ABS-CBN, based on the Colombian series Yo soy Betty, la fea from RCN Televisión from September 8, 2008 to April 24, 2009 replacing My Girl. from 2009 to 2010, it was aired in the United States and Canada via The Filipino Channel. In 2009-2010 a cause of delay to air the series in the U.S and Canada due to international distribution of the series forgoing to be aired in 2009-2010.</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/company" title="http://dbpedia.org/ontology/company"><small>dbo:</small>company</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:company" resource="http://dbpedia.org/resource/RCN_Televisión" href="http://live.dbpedia.org/resource/RCN_Televisión"><small>dbr</small>:RCN_Televisión</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:company" resource="http://dbpedia.org/resource/Dreamscape_Entertainment_Television" href="http://live.dbpedia.org/resource/Dreamscape_Entertainment_Television"><small>dbr</small>:Dreamscape_Entertainment_Television</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/completionDate" title="http://dbpedia.org/ontology/completionDate"><small>dbo:</small>completionDate</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:completionDate" datatype="xsd:date">2009-04-24</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/creator" title="http://dbpedia.org/ontology/creator"><small>dbo:</small>creator</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:creator" resource="http://dbpedia.org/resource/Fernando_Gaitán" href="http://live.dbpedia.org/resource/Fernando_Gaitán"><small>dbr</small>:Fernando_Gaitán</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/developer" title="http://dbpedia.org/ontology/developer"><small>dbo:</small>developer</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:developer" resource="http://dbpedia.org/resource/RCN_Television" href="http://live.dbpedia.org/resource/RCN_Television"><small>dbr</small>:RCN_Television</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/endingTheme" title="http://dbpedia.org/ontology/endingTheme"><small>dbo:</small>endingTheme</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:endingTheme" resource="http://dbpedia.org/resource/Nikki_Gil" href="http://live.dbpedia.org/resource/Nikki_Gil"><small>dbr</small>:Nikki_Gil</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/executiveProducer" title="http://dbpedia.org/ontology/executiveProducer"><small>dbo:</small>executiveProducer</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:executiveProducer" resource="http://dbpedia.org/resource/RCN_Television" href="http://live.dbpedia.org/resource/RCN_Television"><small>dbr</small>:RCN_Television</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/format" title="http://dbpedia.org/ontology/format"><small>dbo:</small>format</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:format" resource="http://dbpedia.org/resource/480i" href="http://live.dbpedia.org/resource/480i"><small>dbr</small>:480i</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/genre" title="http://dbpedia.org/ontology/genre"><small>dbo:</small>genre</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:genre" resource="http://dbpedia.org/resource/Drama" href="http://live.dbpedia.org/resource/Drama"><small>dbr</small>:Drama</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:genre" resource="http://dbpedia.org/resource/Comedy" href="http://live.dbpedia.org/resource/Comedy"><small>dbr</small>:Comedy</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/location" title="http://dbpedia.org/ontology/location"><small>dbo:</small>location</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:location" resource="http://dbpedia.org/resource/Quezon_City" href="http://live.dbpedia.org/resource/Quezon_City"><small>dbr</small>:Quezon_City</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/network" title="http://dbpedia.org/ontology/network"><small>dbo:</small>network</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:network" resource="http://dbpedia.org/resource/ABS-CBN" href="http://live.dbpedia.org/resource/ABS-CBN"><small>dbr</small>:ABS-CBN</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/numberOfEpisodes" title="http://dbpedia.org/ontology/numberOfEpisodes"><small>dbo:</small>numberOfEpisodes</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:numberOfEpisodes" datatype="xsd:nonNegativeInteger">163</span><small> (xsd:nonNegativeInteger)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/openingTheme" title="http://dbpedia.org/ontology/openingTheme"><small>dbo:</small>openingTheme</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:openingTheme" resource="http://dbpedia.org/resource/Bea_Alonzo" href="http://live.dbpedia.org/resource/Bea_Alonzo"><small>dbr</small>:Bea_Alonzo</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/producer" title="http://dbpedia.org/ontology/producer"><small>dbo:</small>producer</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:producer" resource="http://dbpedia.org/resource/RCN_Television" href="http://live.dbpedia.org/resource/RCN_Television"><small>dbr</small>:RCN_Television</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/related" title="http://dbpedia.org/ontology/related"><small>dbo:</small>related</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:related" resource="http://dbpedia.org/resource/Yo_soy_Betty,_la_fea" href="http://live.dbpedia.org/resource/Yo_soy_Betty,_la_fea"><small>dbr</small>:Yo_soy_Betty,_la_fea</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/releaseDate" title="http://dbpedia.org/ontology/releaseDate"><small>dbo:</small>releaseDate</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:releaseDate" datatype="xsd:date">2008-09-08</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/runtime" title="http://dbpedia.org/ontology/runtime"><small>dbo:</small>runtime</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:runtime" datatype="xsd:double">-2700.000000</span><small> (xsd:double)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/starring" title="http://dbpedia.org/ontology/starring"><small>dbo:</small>starring</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/Bea_Alonzo" href="http://live.dbpedia.org/resource/Bea_Alonzo"><small>dbr</small>:Bea_Alonzo</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/John_Lloyd_Cruz" href="http://live.dbpedia.org/resource/John_Lloyd_Cruz"><small>dbr</small>:John_Lloyd_Cruz</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/thumbnail" title="http://dbpedia.org/ontology/thumbnail"><small>dbo:</small>thumbnail</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:thumbnail" resource="http://commons.wikimedia.org/wiki/Special:FilePath/Bea_Alonzo_by_Ronn_Tan,_April_2010.png?width=300" href="http://commons.wikimedia.org/wiki/Special:FilePath/Bea_Alonzo_by_Ronn_Tan,_April_2010.png?width=300"><small>wiki-commons</small>:Special:FilePath/Bea_Alonzo_by_Ronn_Tan,_April_2010.png?width=300</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:thumbnail" resource="http://commons.wikimedia.org/wiki/Special:FilePath/John_Lloyd_Cruz_by_Ronn_Tan,_April_2010.png?width=300" href="http://commons.wikimedia.org/wiki/Special:FilePath/John_Lloyd_Cruz_by_Ronn_Tan,_April_2010.png?width=300"><small>wiki-commons</small>:Special:FilePath/John_Lloyd_Cruz_by_Ronn_Tan,_April_2010.png?width=300</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:thumbnail" resource="http://commons.wikimedia.org/wiki/Special:FilePath/Ruffa_Gutierrez,_2009_(cropped).jpg?width=300" href="http://commons.wikimedia.org/wiki/Special:FilePath/Ruffa_Gutierrez,_2009_(cropped).jpg?width=300"><small>wiki-commons</small>:Special:FilePath/Ruffa_Gutierrez,_2009_(cropped).jpg?width=300</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:thumbnail" resource="http://commons.wikimedia.org/wiki/Special:FilePath/Bettyposter.jpg?width=300" href="http://commons.wikimedia.org/wiki/Special:FilePath/Bettyposter.jpg?width=300"><small>wiki-commons</small>:Special:FilePath/Bettyposter.jpg?width=300</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/wikiPageExternalLink" title="http://dbpedia.org/ontology/wikiPageExternalLink"><small>dbo:</small>wikiPageExternalLink</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageExternalLink nofollow" resource="https://web.archive.org/web/20080705095023/http:/ilovebettylafea.multiply.com/" href="https://web.archive.org/web/20080705095023/http:/ilovebettylafea.multiply.com/">https://web.archive.org/web/20080705095023/http:/ilovebettylafea.multiply.com/</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageExternalLink nofollow" resource="https://web.archive.org/web/20080705095023/http:/ilovebettylafea.multiply.com/" href="https://web.archive.org/web/20080705095023/http:/ilovebettylafea.multiply.com/">https://web.archive.org/web/20080705095023/http:/ilovebettylafea.multiply.com/</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageExternalLink nofollow" resource="http://www.abs-cbn.com/Weekdays/article/878/ilovebettylafea/I-Love-Betty-La-Fea.aspx" href="http://www.abs-cbn.com/Weekdays/article/878/ilovebettylafea/I-Love-Betty-La-Fea.aspx">http://www.abs-cbn.com/Weekdays/article/878/ilovebettylafea/I-Love-Betty-La-Fea.aspx</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageExternalLink nofollow" resource="http://www.abs-cbn.com/Weekdays/article/878/ilovebettylafea/I-Love-Betty-La-Fea.aspx" href="http://www.abs-cbn.com/Weekdays/article/878/ilovebettylafea/I-Love-Betty-La-Fea.aspx">http://www.abs-cbn.com/Weekdays/article/878/ilovebettylafea/I-Love-Betty-La-Fea.aspx</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/wikiPageID" title="http://dbpedia.org/ontology/wikiPageID"><small>dbo:</small>wikiPageID</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:wikiPageID" datatype="xsd:integer">17747628</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/wikiPageLength" title="http://dbpedia.org/ontology/wikiPageLength"><small>dbo:</small>wikiPageLength</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:wikiPageLength" datatype="xsd:nonNegativeInteger">20754</span><small> (xsd:nonNegativeInteger)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/wikiPageOutDegree" title="http://dbpedia.org/ontology/wikiPageOutDegree"><small>dbo:</small>wikiPageOutDegree</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:wikiPageOutDegree" datatype="xsd:nonNegativeInteger">122</span><small> (xsd:nonNegativeInteger)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/wikiPageRevisionID" title="http://dbpedia.org/ontology/wikiPageRevisionID"><small>dbo:</small>wikiPageRevisionID</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:wikiPageRevisionID" datatype="xsd:integer">1044551916</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/ontology/wikiPageWikiLink" title="http://dbpedia.org/ontology/wikiPageWikiLink"><small>dbo:</small>wikiPageWikiLink</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Guji_Lorenzana" href="http://live.dbpedia.org/resource/Guji_Lorenzana"><small>dbr</small>:Guji_Lorenzana</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Maricar_Reyes" href="http://live.dbpedia.org/resource/Maricar_Reyes"><small>dbr</small>:Maricar_Reyes</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Mariel_Rodriguez" href="http://live.dbpedia.org/resource/Mariel_Rodriguez"><small>dbr</small>:Mariel_Rodriguez</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Thou_Reyes" href="http://live.dbpedia.org/resource/Thou_Reyes"><small>dbr</small>:Thou_Reyes</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Valerie_Concepcion" href="http://live.dbpedia.org/resource/Valerie_Concepcion"><small>dbr</small>:Valerie_Concepcion</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Vhong_Navarro" href="http://live.dbpedia.org/resource/Vhong_Navarro"><small>dbr</small>:Vhong_Navarro</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Vicki_Belo" href="http://live.dbpedia.org/resource/Vicki_Belo"><small>dbr</small>:Vicki_Belo</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Yo_soy_Betty,_la_fea" href="http://live.dbpedia.org/resource/Yo_soy_Betty,_la_fea"><small>dbr</small>:Yo_soy_Betty,_la_fea</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Zaijian_Jaranilla" href="http://live.dbpedia.org/resource/Zaijian_Jaranilla"><small>dbr</small>:Zaijian_Jaranilla</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:ABS-CBN_drama_series" href="http://live.dbpedia.org/resource/Category:ABS-CBN_drama_series"><small>dbc</small>:ABS-CBN_drama_series</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:Filipino-language_television_shows" href="http://live.dbpedia.org/resource/Category:Filipino-language_television_shows"><small>dbc</small>:Filipino-language_television_shows</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:Television_series_by_Dreamscape_Entertainment_Television" href="http://live.dbpedia.org/resource/Category:Television_series_by_Dreamscape_Entertainment_Television"><small>dbc</small>:Television_series_by_Dreamscape_Entertainment_Television</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Xyriel_Manabat" href="http://live.dbpedia.org/resource/Xyriel_Manabat"><small>dbr</small>:Xyriel_Manabat</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:2008_Philippine_television_series_debuts" href="http://live.dbpedia.org/resource/Category:2008_Philippine_television_series_debuts"><small>dbc</small>:2008_Philippine_television_series_debuts</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:2009_Philippine_television_series_endings" href="http://live.dbpedia.org/resource/Category:2009_Philippine_television_series_endings"><small>dbc</small>:2009_Philippine_television_series_endings</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/The_Filipino_Channel" href="http://live.dbpedia.org/resource/The_Filipino_Channel"><small>dbr</small>:The_Filipino_Channel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Wendy_Valdez" href="http://live.dbpedia.org/resource/Wendy_Valdez"><small>dbr</small>:Wendy_Valdez</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_programs_broadcast_by_ABS-CBN" href="http://live.dbpedia.org/resource/List_of_programs_broadcast_by_ABS-CBN"><small>dbr</small>:List_of_programs_broadcast_by_ABS-CBN</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Aga_Muhlach" href="http://live.dbpedia.org/resource/Aga_Muhlach"><small>dbr</small>:Aga_Muhlach</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Ai-Ai_delas_Alas" href="http://live.dbpedia.org/resource/Ai-Ai_delas_Alas"><small>dbr</small>:Ai-Ai_delas_Alas</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Alessandra_De_Rossi" href="http://live.dbpedia.org/resource/Alessandra_De_Rossi"><small>dbr</small>:Alessandra_De_Rossi</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jake_Cuenca" href="http://live.dbpedia.org/resource/Jake_Cuenca"><small>dbr</small>:Jake_Cuenca</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jason_Gainza" href="http://live.dbpedia.org/resource/Jason_Gainza"><small>dbr</small>:Jason_Gainza</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jericho_Rosales" href="http://live.dbpedia.org/resource/Jericho_Rosales"><small>dbr</small>:Jericho_Rosales</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Kampanerang_Kuba" href="http://live.dbpedia.org/resource/Kampanerang_Kuba"><small>dbr</small>:Kampanerang_Kuba</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Karylle" href="http://live.dbpedia.org/resource/Karylle"><small>dbr</small>:Karylle</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/May_Bukas_Pa_(2009_TV_series)" href="http://live.dbpedia.org/resource/May_Bukas_Pa_(2009_TV_series)"><small>dbr</small>:May_Bukas_Pa_(2009_TV_series)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Megan_Young" href="http://live.dbpedia.org/resource/Megan_Young"><small>dbr</small>:Megan_Young</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Meryll_Soriano" href="http://live.dbpedia.org/resource/Meryll_Soriano"><small>dbr</small>:Meryll_Soriano</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Nikki_Gil" href="http://live.dbpedia.org/resource/Nikki_Gil"><small>dbr</small>:Nikki_Gil</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Quezon_City" href="http://live.dbpedia.org/resource/Quezon_City"><small>dbr</small>:Quezon_City</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/RCN_Televisión" href="http://live.dbpedia.org/resource/RCN_Televisión"><small>dbr</small>:RCN_Televisión</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Rafael_Rosell" href="http://live.dbpedia.org/resource/Rafael_Rosell"><small>dbr</small>:Rafael_Rosell</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Ronaldo_Valdez" href="http://live.dbpedia.org/resource/Ronaldo_Valdez"><small>dbr</small>:Ronaldo_Valdez</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Ronnie_Liang" href="http://live.dbpedia.org/resource/Ronnie_Liang"><small>dbr</small>:Ronnie_Liang</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Ruffa_Gutierrez" href="http://live.dbpedia.org/resource/Ruffa_Gutierrez"><small>dbr</small>:Ruffa_Gutierrez</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:Philippine_television_series_based_on_Colombian_television_series" href="http://live.dbpedia.org/resource/Category:Philippine_television_series_based_on_Colombian_television_series"><small>dbc</small>:Philippine_television_series_based_on_Colombian_television_series</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:Philippine_television_series_based_on_telenovelas" href="http://live.dbpedia.org/resource/Category:Philippine_television_series_based_on_telenovelas"><small>dbc</small>:Philippine_television_series_based_on_telenovelas</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/ABS-CBN" href="http://live.dbpedia.org/resource/ABS-CBN"><small>dbr</small>:ABS-CBN</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Christian_Vasquez" href="http://live.dbpedia.org/resource/Christian_Vasquez"><small>dbr</small>:Christian_Vasquez</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Colombia" href="http://live.dbpedia.org/resource/Colombia"><small>dbr</small>:Colombia</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Enrique_Gil" href="http://live.dbpedia.org/resource/Enrique_Gil"><small>dbr</small>:Enrique_Gil</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Erika_Padilla" href="http://live.dbpedia.org/resource/Erika_Padilla"><small>dbr</small>:Erika_Padilla</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Fernando_Gaitán" href="http://live.dbpedia.org/resource/Fernando_Gaitán"><small>dbr</small>:Fernando_Gaitán</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Gloria_Romero_(actress)" href="http://live.dbpedia.org/resource/Gloria_Romero_(actress)"><small>dbr</small>:Gloria_Romero_(actress)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Standard-definition_television" href="http://live.dbpedia.org/resource/Standard-definition_television"><small>dbr</small>:Standard-definition_television</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Candy_Pangilinan" href="http://live.dbpedia.org/resource/Candy_Pangilinan"><small>dbr</small>:Candy_Pangilinan</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Carlo_Lacana" href="http://live.dbpedia.org/resource/Carlo_Lacana"><small>dbr</small>:Carlo_Lacana</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Drama" href="http://live.dbpedia.org/resource/Drama"><small>dbr</small>:Drama</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Anne_Curtis" href="http://live.dbpedia.org/resource/Anne_Curtis"><small>dbr</small>:Anne_Curtis</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Archie_Alemania" href="http://live.dbpedia.org/resource/Archie_Alemania"><small>dbr</small>:Archie_Alemania</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/480i" href="http://live.dbpedia.org/resource/480i"><small>dbr</small>:480i</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Pooh_(comedian)" href="http://live.dbpedia.org/resource/Pooh_(comedian)"><small>dbr</small>:Pooh_(comedian)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Pops_Fernandez" href="http://live.dbpedia.org/resource/Pops_Fernandez"><small>dbr</small>:Pops_Fernandez</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Princess_Ryan" href="http://live.dbpedia.org/resource/Princess_Ryan"><small>dbr</small>:Princess_Ryan</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Regine_Angeles" href="http://live.dbpedia.org/resource/Regine_Angeles"><small>dbr</small>:Regine_Angeles</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Regine_Velasquez" href="http://live.dbpedia.org/resource/Regine_Velasquez"><small>dbr</small>:Regine_Velasquez</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Riza_Santos" href="http://live.dbpedia.org/resource/Riza_Santos"><small>dbr</small>:Riza_Santos</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Sheryn_Regis" href="http://live.dbpedia.org/resource/Sheryn_Regis"><small>dbr</small>:Sheryn_Regis</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Baron_Geisler" href="http://live.dbpedia.org/resource/Baron_Geisler"><small>dbr</small>:Baron_Geisler</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Bea_Alonzo" href="http://live.dbpedia.org/resource/Bea_Alonzo"><small>dbr</small>:Bea_Alonzo</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Bianca_Gonzalez" href="http://live.dbpedia.org/resource/Bianca_Gonzalez"><small>dbr</small>:Bianca_Gonzalez</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Joem_Bascon" href="http://live.dbpedia.org/resource/Joem_Bascon"><small>dbr</small>:Joem_Bascon</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/John_Lloyd_Cruz" href="http://live.dbpedia.org/resource/John_Lloyd_Cruz"><small>dbr</small>:John_Lloyd_Cruz</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/John_Prats" href="http://live.dbpedia.org/resource/John_Prats"><small>dbr</small>:John_Prats</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jojo_Alejar" href="http://live.dbpedia.org/resource/Jojo_Alejar"><small>dbr</small>:Jojo_Alejar</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jon_Avila" href="http://live.dbpedia.org/resource/Jon_Avila"><small>dbr</small>:Jon_Avila</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Luis_Manzano" href="http://live.dbpedia.org/resource/Luis_Manzano"><small>dbr</small>:Luis_Manzano</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Mika_(singer)" href="http://live.dbpedia.org/resource/Mika_(singer)"><small>dbr</small>:Mika_(singer)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/My_Big_Love" href="http://live.dbpedia.org/resource/My_Big_Love"><small>dbr</small>:My_Big_Love</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/My_Girl_(2008_TV_series)" href="http://live.dbpedia.org/resource/My_Girl_(2008_TV_series)"><small>dbr</small>:My_Girl_(2008_TV_series)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Myocardial_infarction" href="http://live.dbpedia.org/resource/Myocardial_infarction"><small>dbr</small>:Myocardial_infarction</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Nathalie_Hart" href="http://live.dbpedia.org/resource/Nathalie_Hart"><small>dbr</small>:Nathalie_Hart</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Philippine_television_drama" href="http://live.dbpedia.org/resource/Philippine_television_drama"><small>dbr</small>:Philippine_television_drama</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Pilar_Pilapil" href="http://live.dbpedia.org/resource/Pilar_Pilapil"><small>dbr</small>:Pilar_Pilapil</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Pinoy_Big_Brother:_Teen_Edition_1" href="http://live.dbpedia.org/resource/Pinoy_Big_Brother:_Teen_Edition_1"><small>dbr</small>:Pinoy_Big_Brother:_Teen_Edition_1</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Pinoy_Big_Brother:_Teen_Edition_Plus" href="http://live.dbpedia.org/resource/Pinoy_Big_Brother:_Teen_Edition_Plus"><small>dbr</small>:Pinoy_Big_Brother:_Teen_Edition_Plus</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Pinoy_Fear_Factor" href="http://live.dbpedia.org/resource/Pinoy_Fear_Factor"><small>dbr</small>:Pinoy_Fear_Factor</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Piolo_Pascual" href="http://live.dbpedia.org/resource/Piolo_Pascual"><small>dbr</small>:Piolo_Pascual</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:Philippine_romantic_comedy_television_series" href="http://live.dbpedia.org/resource/Category:Philippine_romantic_comedy_television_series"><small>dbc</small>:Philippine_romantic_comedy_television_series</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Comedy" href="http://live.dbpedia.org/resource/Comedy"><small>dbr</small>:Comedy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Dreamscape_Entertainment" href="http://live.dbpedia.org/resource/Dreamscape_Entertainment"><small>dbr</small>:Dreamscape_Entertainment</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Julia_Montes" href="http://live.dbpedia.org/resource/Julia_Montes"><small>dbr</small>:Julia_Montes</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Lito_Legaspi" href="http://live.dbpedia.org/resource/Lito_Legaspi"><small>dbr</small>:Lito_Legaspi</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Lloyd_Zaragoza" href="http://live.dbpedia.org/resource/Lloyd_Zaragoza"><small>dbr</small>:Lloyd_Zaragoza</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:Television_shows_set_in_Quezon_City" href="http://live.dbpedia.org/resource/Category:Television_shows_set_in_Quezon_City"><small>dbc</small>:Television_shows_set_in_Quezon_City</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Kristel_Moreno" href="http://live.dbpedia.org/resource/Kristel_Moreno"><small>dbr</small>:Kristel_Moreno</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/La_fea_más_bella" href="http://live.dbpedia.org/resource/La_fea_más_bella"><small>dbr</small>:La_fea_más_bella</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Sam_Concepcion" href="http://live.dbpedia.org/resource/Sam_Concepcion"><small>dbr</small>:Sam_Concepcion</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Sam_Milby" href="http://live.dbpedia.org/resource/Sam_Milby"><small>dbr</small>:Sam_Milby</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Tayong_Dalawa" href="http://live.dbpedia.org/resource/Tayong_Dalawa"><small>dbr</small>:Tayong_Dalawa</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Toni_Gonzaga" href="http://live.dbpedia.org/resource/Toni_Gonzaga"><small>dbr</small>:Toni_Gonzaga</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Ugly_Betty" href="http://live.dbpedia.org/resource/Ugly_Betty"><small>dbr</small>:Ugly_Betty</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/GMA_Network" href="http://live.dbpedia.org/resource/GMA_Network"><small>dbr</small>:GMA_Network</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:Yo_soy_Betty,_la_fea" href="http://live.dbpedia.org/resource/Category:Yo_soy_Betty,_la_fea"><small>dbc</small>:Yo_soy_Betty,_la_fea</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Timothy_Chan" href="http://live.dbpedia.org/resource/Timothy_Chan"><small>dbr</small>:Timothy_Chan</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/align" title="http://dbpedia.org/property/align"><small>dbp:</small>align</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:align" lang="en">right</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/basedOn" title="http://dbpedia.org/property/basedOn"><small>dbp:</small>basedOn</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:basedOn" lang="en">Yo soy Betty, la fea</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:basedOn" lang="en">by Fernando Gaitán</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/caption" title="http://dbpedia.org/property/caption"><small>dbp:</small>caption</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:caption" lang="en">Bea Alonzo portrays Beatrice "Betty" Pengson/Beatrice Tingson</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:caption" lang="en">Enrique Gil portrays Ecomodel.</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:caption" lang="en">John Lloyd Cruz portrays Armando Solis</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:caption" lang="en">Ruffa Gutierrez portrays Daniella Valencia .</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/cinematography" title="http://dbpedia.org/property/cinematography"><small>dbp:</small>cinematography</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:cinematography" lang="en">George Tutanes</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:cinematography" lang="en">Alfredo Hernando</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/company" title="http://dbpedia.org/property/company"><small>dbp:</small>company</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:company" resource="http://dbpedia.org/resource/RCN_Televisión" href="http://live.dbpedia.org/resource/RCN_Televisión"><small>dbr</small>:RCN_Televisión</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:company" resource="http://dbpedia.org/resource/Dreamscape_Entertainment_Television" href="http://live.dbpedia.org/resource/Dreamscape_Entertainment_Television"><small>dbr</small>:Dreamscape_Entertainment_Television</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/country" title="http://dbpedia.org/property/country"><small>dbp:</small>country</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:country" lang="en">Philippines</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/creator" title="http://dbpedia.org/property/creator"><small>dbp:</small>creator</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:creator" resource="http://dbpedia.org/resource/Fernando_Gaitán" href="http://live.dbpedia.org/resource/Fernando_Gaitán"><small>dbr</small>:Fernando_Gaitán</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/developer" title="http://dbpedia.org/property/developer"><small>dbp:</small>developer</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:developer" resource="http://dbpedia.org/resource/RCN_Television" href="http://live.dbpedia.org/resource/RCN_Television"><small>dbr</small>:RCN_Television</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/direction" title="http://dbpedia.org/property/direction"><small>dbp:</small>direction</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:direction" lang="en">vertical</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/director" title="http://dbpedia.org/property/director"><small>dbp:</small>director</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:director" lang="en">Don M. Cuaresma</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:director" lang="en">Claudio "Tots" Sanchez-Mariscal IV</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:director" lang="en">Erick C. Salud</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/endtheme" title="http://dbpedia.org/property/endtheme"><small>dbp:</small>endtheme</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:endtheme" lang="en">"Mahal Naman Kita" by Nikki Gil</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/executiveProducer" title="http://dbpedia.org/property/executiveProducer"><small>dbp:</small>executiveProducer</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:executiveProducer" resource="http://dbpedia.org/resource/RCN_Television" href="http://live.dbpedia.org/resource/RCN_Television"><small>dbr</small>:RCN_Television</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/firstAired" title="http://dbpedia.org/property/firstAired"><small>dbp:</small>firstAired</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:firstAired" datatype="xsd:date">2008-09-08</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/genre" title="http://dbpedia.org/property/genre"><small>dbp:</small>genre</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:genre" resource="http://dbpedia.org/resource/Drama" href="http://live.dbpedia.org/resource/Drama"><small>dbr</small>:Drama</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:genre" resource="http://dbpedia.org/resource/Comedy" href="http://live.dbpedia.org/resource/Comedy"><small>dbr</small>:Comedy</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/image" title="http://dbpedia.org/property/image"><small>dbp:</small>image</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:image" lang="en">John Lloyd Cruz by Ronn Tan, April 2010.png</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:image" lang="en">Bea Alonzo by Ronn Tan, April 2010.png</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:image" lang="en">Ruffa Gutierrez, 2009 .jpg</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/language" title="http://dbpedia.org/property/language"><small>dbp:</small>language</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:language" lang="en">Filipino</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/lastAired" title="http://dbpedia.org/property/lastAired"><small>dbp:</small>lastAired</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:lastAired" datatype="xsd:date">2009-04-24</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/location" title="http://dbpedia.org/property/location"><small>dbp:</small>location</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:location" lang="en">Quezon City, Philippines</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/name" title="http://dbpedia.org/property/name"><small>dbp:</small>name</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:name" lang="en">I Love Betty La Fea</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/network" title="http://dbpedia.org/property/network"><small>dbp:</small>network</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:network" resource="http://dbpedia.org/resource/ABS-CBN" href="http://live.dbpedia.org/resource/ABS-CBN"><small>dbr</small>:ABS-CBN</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/numEpisodes" title="http://dbpedia.org/property/numEpisodes"><small>dbp:</small>numEpisodes</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:numEpisodes" datatype="xsd:integer">163</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/opentheme" title="http://dbpedia.org/property/opentheme"><small>dbp:</small>opentheme</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:opentheme" lang="en">"Kagandahan" by Bea Alonzo</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/pictureFormat" title="http://dbpedia.org/property/pictureFormat"><small>dbp:</small>pictureFormat</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:pictureFormat" datatype="xsd:integer">480</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/producer" title="http://dbpedia.org/property/producer"><small>dbp:</small>producer</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:producer" resource="http://dbpedia.org/resource/RCN_Television" href="http://live.dbpedia.org/resource/RCN_Television"><small>dbr</small>:RCN_Television</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/related" title="http://dbpedia.org/property/related"><small>dbp:</small>related</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:related" resource="http://dbpedia.org/resource/Yo_soy_Betty,_la_fea" href="http://live.dbpedia.org/resource/Yo_soy_Betty,_la_fea"><small>dbr</small>:Yo_soy_Betty,_la_fea</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/runtime" title="http://dbpedia.org/property/runtime"><small>dbp:</small>runtime</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:runtime">-2700.0</span></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/starring" title="http://dbpedia.org/property/starring"><small>dbp:</small>starring</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:starring" resource="http://dbpedia.org/resource/Bea_Alonzo" href="http://live.dbpedia.org/resource/Bea_Alonzo"><small>dbr</small>:Bea_Alonzo</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:starring" resource="http://dbpedia.org/resource/John_Lloyd_Cruz" href="http://live.dbpedia.org/resource/John_Lloyd_Cruz"><small>dbr</small>:John_Lloyd_Cruz</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/website" title="http://dbpedia.org/property/website"><small>dbp:</small>website</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:website nofollow" resource="https://web.archive.org/web/20080705095023/http:/ilovebettylafea.multiply.com/" href="https://web.archive.org/web/20080705095023/http:/ilovebettylafea.multiply.com/">https://web.archive.org/web/20080705095023/http:/ilovebettylafea.multiply.com/</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/width" title="http://dbpedia.org/property/width"><small>dbp:</small>width</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:width" datatype="xsd:integer">150</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/wikiPageUsesTemplate" title="http://dbpedia.org/property/wikiPageUsesTemplate"><small>dbp:</small>wikiPageUsesTemplate</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:End_date" href="http://live.dbpedia.org/resource/Template:End_date"><small>dbt</small>:End_date</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:IMDb_title" href="http://live.dbpedia.org/resource/Template:IMDb_title"><small>dbt</small>:IMDb_title</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Infobox_television" href="http://live.dbpedia.org/resource/Template:Infobox_television"><small>dbt</small>:Infobox_television</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Multiple_image" href="http://live.dbpedia.org/resource/Template:Multiple_image"><small>dbt</small>:Multiple_image</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Reflist" href="http://live.dbpedia.org/resource/Template:Reflist"><small>dbt</small>:Reflist</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Start_date" href="http://live.dbpedia.org/resource/Template:Start_date"><small>dbt</small>:Start_date</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:ABS-CBN_Franchised" href="http://live.dbpedia.org/resource/Template:ABS-CBN_Franchised"><small>dbt</small>:ABS-CBN_Franchised</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Ugly_Betty_series" href="http://live.dbpedia.org/resource/Template:Ugly_Betty_series"><small>dbt</small>:Ugly_Betty_series</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://live.dbpedia.org/property/writer" title="http://dbpedia.org/property/writer"><small>dbp:</small>writer</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:writer" lang="en">Joel Mercado</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:writer" lang="en">Danica Mae Domingo</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://purl.org/dc/terms/subject"><small>dct:</small>subject</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:ABS-CBN_drama_series" href="http://live.dbpedia.org/resource/Category:ABS-CBN_drama_series"><small>dbc</small>:ABS-CBN_drama_series</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:Filipino-language_television_shows" href="http://live.dbpedia.org/resource/Category:Filipino-language_television_shows"><small>dbc</small>:Filipino-language_television_shows</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:Television_series_by_Dreamscape_Entertainment_Television" href="http://live.dbpedia.org/resource/Category:Television_series_by_Dreamscape_Entertainment_Television"><small>dbc</small>:Television_series_by_Dreamscape_Entertainment_Television</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:2008_Philippine_television_series_debuts" href="http://live.dbpedia.org/resource/Category:2008_Philippine_television_series_debuts"><small>dbc</small>:2008_Philippine_television_series_debuts</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:2009_Philippine_television_series_endings" href="http://live.dbpedia.org/resource/Category:2009_Philippine_television_series_endings"><small>dbc</small>:2009_Philippine_television_series_endings</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:Philippine_television_series_based_on_Colombian_television_series" href="http://live.dbpedia.org/resource/Category:Philippine_television_series_based_on_Colombian_television_series"><small>dbc</small>:Philippine_television_series_based_on_Colombian_television_series</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:Philippine_television_series_based_on_telenovelas" href="http://live.dbpedia.org/resource/Category:Philippine_television_series_based_on_telenovelas"><small>dbc</small>:Philippine_television_series_based_on_telenovelas</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:Philippine_romantic_comedy_television_series" href="http://live.dbpedia.org/resource/Category:Philippine_romantic_comedy_television_series"><small>dbc</small>:Philippine_romantic_comedy_television_series</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:Television_shows_set_in_Quezon_City" href="http://live.dbpedia.org/resource/Category:Television_shows_set_in_Quezon_City"><small>dbc</small>:Television_shows_set_in_Quezon_City</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:Yo_soy_Betty,_la_fea" href="http://live.dbpedia.org/resource/Category:Yo_soy_Betty,_la_fea"><small>dbc</small>:Yo_soy_Betty,_la_fea</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://purl.org/linguistics/gold/hypernym"><small>gold:</small>hypernym</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="gold:hypernym" resource="http://dbpedia.org/resource/Series" prefix="gold: http://purl.org/linguistics/gold/" href="http://live.dbpedia.org/resource/Series"><small>dbr</small>:Series</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"><small>rdf:</small>type</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://www.w3.org/2002/07/owl#Thing" href="http://www.w3.org/2002/07/owl#Thing"><small>owl</small>:Thing</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://schema.org/CreativeWork" href="http://schema.org/CreativeWork"><small>schema</small>:CreativeWork</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/ontology/Work" href="http://live.dbpedia.org/ontology/Work"><small>dbo</small>:Work</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://www.wikidata.org/entity/Q15416" href="http://www.wikidata.org/entity/Q15416"><small>wikidata</small>:Q15416</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://www.wikidata.org/entity/Q386724" href="http://www.wikidata.org/entity/Q386724"><small>wikidata</small>:Q386724</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/ontology/TelevisionShow" href="http://live.dbpedia.org/ontology/TelevisionShow"><small>dbo</small>:TelevisionShow</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/ontology/TelevisionShow" href="http://live.dbpedia.org/ontology/TelevisionShow"><small>dbo</small>:TelevisionShow</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" href="http://live.dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"><small>yago</small>:YagoPermanentlyLocatedEntity</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Abstraction100002137" href="http://live.dbpedia.org/class/yago/Abstraction100002137"><small>yago</small>:Abstraction100002137</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Act100030358" href="http://live.dbpedia.org/class/yago/Act100030358"><small>yago</small>:Act100030358</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Action100037396" href="http://live.dbpedia.org/class/yago/Action100037396"><small>yago</small>:Action100037396</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Beginning100235435" href="http://live.dbpedia.org/class/yago/Beginning100235435"><small>yago</small>:Beginning100235435</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Change100191142" href="http://live.dbpedia.org/class/yago/Change100191142"><small>yago</small>:Change100191142</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/ChangeOfState100199130" href="http://live.dbpedia.org/class/yago/ChangeOfState100199130"><small>yago</small>:ChangeOfState100199130</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Ending106308765" href="http://live.dbpedia.org/class/yago/Ending106308765"><small>yago</small>:Ending106308765</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Event100029378" href="http://live.dbpedia.org/class/yago/Event100029378"><small>yago</small>:Event100029378</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Introduction100238022" href="http://live.dbpedia.org/class/yago/Introduction100238022"><small>yago</small>:Introduction100238022</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/LanguageUnit106284225" href="http://live.dbpedia.org/class/yago/LanguageUnit106284225"><small>yago</small>:LanguageUnit106284225</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Morpheme106306233" href="http://live.dbpedia.org/class/yago/Morpheme106306233"><small>yago</small>:Morpheme106306233</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Part113809207" href="http://live.dbpedia.org/class/yago/Part113809207"><small>yago</small>:Part113809207</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/PsychologicalFeature100023100" href="http://live.dbpedia.org/class/yago/PsychologicalFeature100023100"><small>yago</small>:PsychologicalFeature100023100</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Relation100031921" href="http://live.dbpedia.org/class/yago/Relation100031921"><small>yago</small>:Relation100031921</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Wikicat2008PhilippineTelevisionSeriesDebuts" href="http://live.dbpedia.org/class/yago/Wikicat2008PhilippineTelevisionSeriesDebuts"><small>yago</small>:Wikicat2008PhilippineTelevisionSeriesDebuts</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Wikicat2008TelevisionSeriesDebuts" href="http://live.dbpedia.org/class/yago/Wikicat2008TelevisionSeriesDebuts"><small>yago</small>:Wikicat2008TelevisionSeriesDebuts</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Wikicat2009PhilippineTelevisionSeriesEndings" href="http://live.dbpedia.org/class/yago/Wikicat2009PhilippineTelevisionSeriesEndings"><small>yago</small>:Wikicat2009PhilippineTelevisionSeriesEndings</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://umbel.org/umbel/rc/TVShow_IBT" href="http://umbel.org/umbel/rc/TVShow_IBT"><small>umbel-rc</small>:TVShow_IBT</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://www.w3.org/2000/01/rdf-schema#comment"><small>rdfs:</small>comment</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="rdfs:comment" lang="en">I Love Betty La Fea (stylized as I ♥ Betty La Fea) is a Philippine drama series that was aired on ABS-CBN, based on the Colombian series Yo soy Betty, la fea from RCN Televisión from September 8, 2008 to April 24, 2009 replacing My Girl. from 2009 to 2010, it was aired in the United States and Canada via The Filipino Channel. In 2009-2010 a cause of delay to air the series in the U.S and Canada due to international distribution of the series forgoing to be aired in 2009-2010.</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://www.w3.org/2000/01/rdf-schema#label"><small>rdfs:</small>label</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="rdfs:label" lang="en">I Love Betty La Fea</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://www.w3.org/2002/07/owl#sameAs"><small>owl:</small>sameAs</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://rdf.freebase.com/ns/m.047c35g" href="http://rdf.freebase.com/ns/m.047c35g"><small>freebase</small>:I Love Betty La Fea</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://yago-knowledge.org/resource/I_Love_Betty_La_Fea" href="http://yago-knowledge.org/resource/I_Love_Betty_La_Fea"><small>yago-res</small>:I Love Betty La Fea</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://www.wikidata.org/entity/Q3027447" href="http://www.wikidata.org/entity/Q3027447"><small>wikidata</small>:I Love Betty La Fea</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://es.dbpedia.org/resource/I_Love_Betty_La_Fea" href="http://es.dbpedia.org/resource/I_Love_Betty_La_Fea"><small>dbpedia-es</small>:I Love Betty La Fea</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://fr.dbpedia.org/resource/I_Love_Betty_La_Fea" href="http://fr.dbpedia.org/resource/I_Love_Betty_La_Fea"><small>dbpedia-fr</small>:I Love Betty La Fea</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://pt.dbpedia.org/resource/I_Love_Betty_La_Fea" href="http://pt.dbpedia.org/resource/I_Love_Betty_La_Fea"><small>dbpedia-pt</small>:I Love Betty La Fea</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://tl.dbpedia.org/resource/I_Love_Betty_La_Fea" href="http://tl.dbpedia.org/resource/I_Love_Betty_La_Fea">http://tl.dbpedia.org/resource/I_Love_Betty_La_Fea</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="https://global.dbpedia.org/id/2ofdb" href="https://global.dbpedia.org/id/2ofdb">https://global.dbpedia.org/id/2ofdb</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://dbpedia.org/resource/I_Love_Betty_La_Fea" href="http://dbpedia.org/resource/I_Love_Betty_La_Fea"><small>dbr</small>:I Love Betty La Fea</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://www.w3.org/ns/prov#wasDerivedFrom"><small>prov:</small>wasDerivedFrom</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="prov:wasDerivedFrom" resource="http://en.wikipedia.org/wiki/I_Love_Betty_La_Fea?oldid=1044551916&amp;ns=0" href="http://en.wikipedia.org/wiki/I_Love_Betty_La_Fea?oldid=1044551916&amp;ns=0"><small>wikipedia-en</small>:I_Love_Betty_La_Fea?oldid=1044551916&amp;ns=0</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://xmlns.com/foaf/0.1/depiction"><small>foaf:</small>depiction</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="foaf:depiction" resource="http://commons.wikimedia.org/wiki/Special:FilePath/Bea_Alonzo_by_Ronn_Tan,_April_2010.png" href="http://commons.wikimedia.org/wiki/Special:FilePath/Bea_Alonzo_by_Ronn_Tan,_April_2010.png"><small>wiki-commons</small>:Special:FilePath/Bea_Alonzo_by_Ronn_Tan,_April_2010.png</a></span></li>
+	<li><span class="literal"><a class="uri" rel="foaf:depiction" resource="http://commons.wikimedia.org/wiki/Special:FilePath/John_Lloyd_Cruz_by_Ronn_Tan,_April_2010.png" href="http://commons.wikimedia.org/wiki/Special:FilePath/John_Lloyd_Cruz_by_Ronn_Tan,_April_2010.png"><small>wiki-commons</small>:Special:FilePath/John_Lloyd_Cruz_by_Ronn_Tan,_April_2010.png</a></span></li>
+	<li><span class="literal"><a class="uri" rel="foaf:depiction" resource="http://commons.wikimedia.org/wiki/Special:FilePath/Ruffa_Gutierrez,_2009_(cropped).jpg" href="http://commons.wikimedia.org/wiki/Special:FilePath/Ruffa_Gutierrez,_2009_(cropped).jpg"><small>wiki-commons</small>:Special:FilePath/Ruffa_Gutierrez,_2009_(cropped).jpg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="foaf:depiction" resource="http://commons.wikimedia.org/wiki/Special:FilePath/Bettyposter.jpg" href="http://commons.wikimedia.org/wiki/Special:FilePath/Bettyposter.jpg"><small>wiki-commons</small>:Special:FilePath/Bettyposter.jpg</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://xmlns.com/foaf/0.1/homepage"><small>foaf:</small>homepage</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="foaf:homepage nofollow" resource="https://web.archive.org/web/20080705095023/http:/ilovebettylafea.multiply.com/" href="https://web.archive.org/web/20080705095023/http:/ilovebettylafea.multiply.com/">https://web.archive.org/web/20080705095023/http:/ilovebettylafea.multiply.com/</a></span></li>
+	<li><span class="literal"><a class="uri" rel="foaf:homepage nofollow" resource="https://web.archive.org/web/20080705095023/http://ilovebettylafea.multiply.com/" href="https://web.archive.org/web/20080705095023/http://ilovebettylafea.multiply.com/">https://web.archive.org/web/20080705095023/http://ilovebettylafea.multiply.com/</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://xmlns.com/foaf/0.1/isPrimaryTopicOf"><small>foaf:</small>isPrimaryTopicOf</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="foaf:isPrimaryTopicOf" resource="http://en.wikipedia.org/wiki/I_Love_Betty_La_Fea" href="http://en.wikipedia.org/wiki/I_Love_Betty_La_Fea"><small>wikipedia-en</small>:I_Love_Betty_La_Fea</a></span></li>
+	<li><span class="literal"><a class="uri" rel="foaf:isPrimaryTopicOf" resource="http://en.wikipedia.org/wiki/I_Love_Betty_La_Fea" href="http://en.wikipedia.org/wiki/I_Love_Betty_La_Fea"><small>wikipedia-en</small>:I_Love_Betty_La_Fea</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2">is <a class="uri" href="http://live.dbpedia.org/ontology/related" title="http://dbpedia.org/ontology/related"><small>dbo:</small>related</a>
+ of</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:related" resource="http://dbpedia.org/resource/Yo_soy_Betty,_la_fea" href="http://live.dbpedia.org/resource/Yo_soy_Betty,_la_fea"><small>dbr</small>:Yo_soy_Betty,_la_fea</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:related" resource="http://dbpedia.org/resource/Ugly_Betty" href="http://live.dbpedia.org/resource/Ugly_Betty"><small>dbr</small>:Ugly_Betty</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2">is <a class="uri" href="http://live.dbpedia.org/ontology/wikiPageRedirects" title="http://dbpedia.org/ontology/wikiPageRedirects"><small>dbo:</small>wikiPageRedirects</a>
+ of</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" resource="http://dbpedia.org/resource/I_♥_Betty_La_Fea" href="http://live.dbpedia.org/resource/I_♥_Betty_La_Fea"><small>dbr</small>:I_♥_Betty_La_Fea</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" resource="http://dbpedia.org/resource/I_♥_Betty_la_fea" href="http://live.dbpedia.org/resource/I_♥_Betty_la_fea"><small>dbr</small>:I_♥_Betty_la_fea</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" resource="http://dbpedia.org/resource/Chakang_Betty_(Betty_La_Fea_Philippines)" href="http://live.dbpedia.org/resource/Chakang_Betty_(Betty_La_Fea_Philippines)"><small>dbr</small>:Chakang_Betty_(Betty_La_Fea_Philippines)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" resource="http://dbpedia.org/resource/Betty_La_Fea_(Philippine_TV_series)" href="http://live.dbpedia.org/resource/Betty_La_Fea_(Philippine_TV_series)"><small>dbr</small>:Betty_La_Fea_(Philippine_TV_series)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" resource="http://dbpedia.org/resource/Betty_La_Fea_(Philippines)" href="http://live.dbpedia.org/resource/Betty_La_Fea_(Philippines)"><small>dbr</small>:Betty_La_Fea_(Philippines)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" resource="http://dbpedia.org/resource/Philippines_Betty_La_Fea" href="http://live.dbpedia.org/resource/Philippines_Betty_La_Fea"><small>dbr</small>:Philippines_Betty_La_Fea</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2">is <a class="uri" href="http://live.dbpedia.org/ontology/wikiPageWikiLink" title="http://dbpedia.org/ontology/wikiPageWikiLink"><small>dbo:</small>wikiPageWikiLink</a>
+ of</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Guji_Lorenzana" href="http://live.dbpedia.org/resource/Guji_Lorenzana"><small>dbr</small>:Guji_Lorenzana</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Maricar_Reyes" href="http://live.dbpedia.org/resource/Maricar_Reyes"><small>dbr</small>:Maricar_Reyes</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/The_Singing_Bee_(Philippine_game_show)" href="http://live.dbpedia.org/resource/The_Singing_Bee_(Philippine_game_show)"><small>dbr</small>:The_Singing_Bee_(Philippine_game_show)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Thou_Reyes" href="http://live.dbpedia.org/resource/Thou_Reyes"><small>dbr</small>:Thou_Reyes</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Vhong_Navarro" href="http://live.dbpedia.org/resource/Vhong_Navarro"><small>dbr</small>:Vhong_Navarro</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Yo_soy_Betty,_la_fea" href="http://live.dbpedia.org/resource/Yo_soy_Betty,_la_fea"><small>dbr</small>:Yo_soy_Betty,_la_fea</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Zaijian_Jaranilla" href="http://live.dbpedia.org/resource/Zaijian_Jaranilla"><small>dbr</small>:Zaijian_Jaranilla</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/I_♥_Betty_La_Fea" href="http://live.dbpedia.org/resource/I_♥_Betty_La_Fea"><small>dbr</small>:I_♥_Betty_La_Fea</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/I_♥_Betty_la_fea" href="http://live.dbpedia.org/resource/I_♥_Betty_la_fea"><small>dbr</small>:I_♥_Betty_la_fea</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_awards_and_nominations_received_by_Bea_Alonzo" href="http://live.dbpedia.org/resource/List_of_awards_and_nominations_received_by_Bea_Alonzo"><small>dbr</small>:List_of_awards_and_nominations_received_by_Bea_Alonzo</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Wendy_Valdez" href="http://live.dbpedia.org/resource/Wendy_Valdez"><small>dbr</small>:Wendy_Valdez</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Ai-Ai_delas_Alas" href="http://live.dbpedia.org/resource/Ai-Ai_delas_Alas"><small>dbr</small>:Ai-Ai_delas_Alas</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Alessandra_De_Rossi" href="http://live.dbpedia.org/resource/Alessandra_De_Rossi"><small>dbr</small>:Alessandra_De_Rossi</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jason_Gainza" href="http://live.dbpedia.org/resource/Jason_Gainza"><small>dbr</small>:Jason_Gainza</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jericho_Rosales" href="http://live.dbpedia.org/resource/Jericho_Rosales"><small>dbr</small>:Jericho_Rosales</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Karylle" href="http://live.dbpedia.org/resource/Karylle"><small>dbr</small>:Karylle</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Megan_Young" href="http://live.dbpedia.org/resource/Megan_Young"><small>dbr</small>:Megan_Young</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Meryll_Soriano" href="http://live.dbpedia.org/resource/Meryll_Soriano"><small>dbr</small>:Meryll_Soriano</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Rafael_Rosell" href="http://live.dbpedia.org/resource/Rafael_Rosell"><small>dbr</small>:Rafael_Rosell</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Ronaldo_Valdez" href="http://live.dbpedia.org/resource/Ronaldo_Valdez"><small>dbr</small>:Ronaldo_Valdez</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Ronnie_Liang" href="http://live.dbpedia.org/resource/Ronnie_Liang"><small>dbr</small>:Ronnie_Liang</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Ruffa_Gutierrez" href="http://live.dbpedia.org/resource/Ruffa_Gutierrez"><small>dbr</small>:Ruffa_Gutierrez</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Julia_Montes_filmography" href="http://live.dbpedia.org/resource/Julia_Montes_filmography"><small>dbr</small>:Julia_Montes_filmography</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/When_Betty_Met_YETI" href="http://live.dbpedia.org/resource/When_Betty_Met_YETI"><small>dbr</small>:When_Betty_Met_YETI</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Christian_Vasquez" href="http://live.dbpedia.org/resource/Christian_Vasquez"><small>dbr</small>:Christian_Vasquez</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Chakang_Betty_(Betty_La_Fea_Philippines)" href="http://live.dbpedia.org/resource/Chakang_Betty_(Betty_La_Fea_Philippines)"><small>dbr</small>:Chakang_Betty_(Betty_La_Fea_Philippines)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Enrique_Gil" href="http://live.dbpedia.org/resource/Enrique_Gil"><small>dbr</small>:Enrique_Gil</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Erika_Padilla" href="http://live.dbpedia.org/resource/Erika_Padilla"><small>dbr</small>:Erika_Padilla</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Gloria_Romero_(actress)" href="http://live.dbpedia.org/resource/Gloria_Romero_(actress)"><small>dbr</small>:Gloria_Romero_(actress)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Only_You_(2009_TV_series)" href="http://live.dbpedia.org/resource/Only_You_(2009_TV_series)"><small>dbr</small>:Only_You_(2009_TV_series)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Candy_Pangilinan" href="http://live.dbpedia.org/resource/Candy_Pangilinan"><small>dbr</small>:Candy_Pangilinan</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Carlo_Lacana" href="http://live.dbpedia.org/resource/Carlo_Lacana"><small>dbr</small>:Carlo_Lacana</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Archie_Alemania" href="http://live.dbpedia.org/resource/Archie_Alemania"><small>dbr</small>:Archie_Alemania</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Pooh_(comedian)" href="http://live.dbpedia.org/resource/Pooh_(comedian)"><small>dbr</small>:Pooh_(comedian)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Pops_Fernandez" href="http://live.dbpedia.org/resource/Pops_Fernandez"><small>dbr</small>:Pops_Fernandez</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Regine_Angeles" href="http://live.dbpedia.org/resource/Regine_Angeles"><small>dbr</small>:Regine_Angeles</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Riza_Santos" href="http://live.dbpedia.org/resource/Riza_Santos"><small>dbr</small>:Riza_Santos</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Sheryn_Regis" href="http://live.dbpedia.org/resource/Sheryn_Regis"><small>dbr</small>:Sheryn_Regis</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_It's_Showtime_segments" href="http://live.dbpedia.org/resource/List_of_It's_Showtime_segments"><small>dbr</small>:List_of_It's_Showtime_segments</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/The_Real_Me_(Bea_Alonzo_album)" href="http://live.dbpedia.org/resource/The_Real_Me_(Bea_Alonzo_album)"><small>dbr</small>:The_Real_Me_(Bea_Alonzo_album)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Baron_Geisler" href="http://live.dbpedia.org/resource/Baron_Geisler"><small>dbr</small>:Baron_Geisler</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Bea_Alonzo" href="http://live.dbpedia.org/resource/Bea_Alonzo"><small>dbr</small>:Bea_Alonzo</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Joem_Bascon" href="http://live.dbpedia.org/resource/Joem_Bascon"><small>dbr</small>:Joem_Bascon</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/John_Lloyd_Cruz" href="http://live.dbpedia.org/resource/John_Lloyd_Cruz"><small>dbr</small>:John_Lloyd_Cruz</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/John_Prats" href="http://live.dbpedia.org/resource/John_Prats"><small>dbr</small>:John_Prats</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jojo_Alejar" href="http://live.dbpedia.org/resource/Jojo_Alejar"><small>dbr</small>:Jojo_Alejar</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jon_Avila" href="http://live.dbpedia.org/resource/Jon_Avila"><small>dbr</small>:Jon_Avila</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Nathalie_Hart" href="http://live.dbpedia.org/resource/Nathalie_Hart"><small>dbr</small>:Nathalie_Hart</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Philippine_television_drama" href="http://live.dbpedia.org/resource/Philippine_television_drama"><small>dbr</small>:Philippine_television_drama</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Pilar_Pilapil" href="http://live.dbpedia.org/resource/Pilar_Pilapil"><small>dbr</small>:Pilar_Pilapil</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Dreamscape_Entertainment" href="http://live.dbpedia.org/resource/Dreamscape_Entertainment"><small>dbr</small>:Dreamscape_Entertainment</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Dyosa" href="http://live.dbpedia.org/resource/Dyosa"><small>dbr</small>:Dyosa</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Julia_Montes" href="http://live.dbpedia.org/resource/Julia_Montes"><small>dbr</small>:Julia_Montes</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Lito_Legaspi" href="http://live.dbpedia.org/resource/Lito_Legaspi"><small>dbr</small>:Lito_Legaspi</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Lloyd_Zaragoza" href="http://live.dbpedia.org/resource/Lloyd_Zaragoza"><small>dbr</small>:Lloyd_Zaragoza</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Kristel_Moreno" href="http://live.dbpedia.org/resource/Kristel_Moreno"><small>dbr</small>:Kristel_Moreno</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_ABS-CBN_drama_series" href="http://live.dbpedia.org/resource/List_of_ABS-CBN_drama_series"><small>dbr</small>:List_of_ABS-CBN_drama_series</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Sam_Concepcion" href="http://live.dbpedia.org/resource/Sam_Concepcion"><small>dbr</small>:Sam_Concepcion</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Ugly_Betty" href="http://live.dbpedia.org/resource/Ugly_Betty"><small>dbr</small>:Ugly_Betty</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_Philippine_television_programs_by_date" href="http://live.dbpedia.org/resource/List_of_Philippine_television_programs_by_date"><small>dbr</small>:List_of_Philippine_television_programs_by_date</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_television_show_franchises" href="http://live.dbpedia.org/resource/List_of_television_show_franchises"><small>dbr</small>:List_of_television_show_franchises</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/2008_in_Philippine_television" href="http://live.dbpedia.org/resource/2008_in_Philippine_television"><small>dbr</small>:2008_in_Philippine_television</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/2009_in_Philippine_television" href="http://live.dbpedia.org/resource/2009_in_Philippine_television"><small>dbr</small>:2009_in_Philippine_television</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Betty_La_Fea_(Philippine_TV_series)" href="http://live.dbpedia.org/resource/Betty_La_Fea_(Philippine_TV_series)"><small>dbr</small>:Betty_La_Fea_(Philippine_TV_series)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Betty_La_Fea_(Philippines)" href="http://live.dbpedia.org/resource/Betty_La_Fea_(Philippines)"><small>dbr</small>:Betty_La_Fea_(Philippines)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Philippines_Betty_La_Fea" href="http://live.dbpedia.org/resource/Philippines_Betty_La_Fea"><small>dbr</small>:Philippines_Betty_La_Fea</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2">is <a class="uri" href="http://xmlns.com/foaf/0.1/primaryTopic"><small>foaf:</small>primaryTopic</a>
+ of</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rev="foaf:primaryTopic" resource="http://en.wikipedia.org/wiki/I_Love_Betty_La_Fea" href="http://en.wikipedia.org/wiki/I_Love_Betty_La_Fea"><small>wikipedia-en</small>:I_Love_Betty_La_Fea</a></span></li>
+	<li><span class="literal"><a class="uri" rev="foaf:primaryTopic" resource="http://en.wikipedia.org/wiki/I_Love_Betty_La_Fea" href="http://en.wikipedia.org/wiki/I_Love_Betty_La_Fea"><small>wikipedia-en</small>:I_Love_Betty_La_Fea</a></span></li>
+</ul></td></tr>
+		    </tbody>
+		</table>
+	    </div>
+	</div>
+    </div>
+</section>
+<!-- property-table -->
+
+<!-- footer -->
+<section>
+    <div class="container-xl">
+	<div class="text-center p-4 bg-light">
+	    <a href="https://virtuoso.openlinksw.com/" title="OpenLink Virtuoso"><img class="powered_by" src="/statics/images/virt_power_no_border.png" alt="Powered by OpenLink Virtuoso"></a>&nbsp; &nbsp;
+	    <a href="http://linkeddata.org/"><img alt="This material is Open Knowledge" src="/statics/images/LoDLogo.gif"></a> &nbsp; &nbsp;
+	    <a href="https://live.dbpedia.org/sparql"><img alt="W3C Semantic Web Technology" src="/statics/images/sw-sparql-blue.png"></a> &nbsp;  &nbsp;
+	    <a href="https://opendefinition.org/"><img alt="This material is Open Knowledge" src="/statics/images/od_80x15_red_green.png"></a>&nbsp; &nbsp;
+	    <span style="display:none;" about="" resource="http://www.w3.org/TR/rdfa-syntax" rel="dc:conformsTo">
+		<a href="https://validator.w3.org/check?uri=referer">
+		    <img src="https://www.w3.org/Icons/valid-xhtml-rdfa" alt="Valid XHTML + RDFa">
+		</a>
+	    </span>
+	    <br>
+	    <small class="text-muted">
+		This content was extracted from <a href="http://en.wikipedia.org/wiki/I_Love_Betty_La_Fea">Wikipedia</a> and is licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>
+
+	    </small>
+	</div>
+    </div>
+</section>
+<!-- #footer -->
+
+<!-- scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous">
+    </script>
+
+
+</body></html>

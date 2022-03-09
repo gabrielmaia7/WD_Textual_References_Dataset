@@ -1,0 +1,171 @@
+<html lang="en-us"><head>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+<link rel="shortcut icon" href="http://www.isfdb.org/favicon.ico">
+<title>Summary Bibliography: Марина Цветаева</title>
+<link href="http://www.isfdb.org/biblio.css" rel="stylesheet" type="text/css" media="screen">
+</head>
+<body>
+<div id="wrap">
+<a class="topbanner" href="http://www.isfdb.org/cgi-bin/index.cgi">
+<span>
+<img src="http://www.isfdb.org/IsfdbBanner3.jpg" alt="ISFDB banner">
+</span>
+</a>
+<div id="statusbar">
+<h2>Summary Bibliography: Марина Цветаева</h2>
+<script type="text/javascript" src="http://www.isfdb.org/isfdb_main.js"></script>
+<h3>You are not logged in. If you
+ <a href="http://www.isfdb.org/wiki/index.php?title=Special:Userlogin&amp;type=signup">
+<span class="newuser">create a free account</span></a>
+ and sign in, you will be able to customize what is displayed.</h3>
+</div>
+<div id="nav">
+<div id="search">
+<a href="http://www.isfdb.org/cgi-bin/index.cgi">
+<img src="http://www.isfdb.org/isfdb.gif" width="130" height="77" alt="ISFDB logo">
+</a>
+Search the database
+<form method="get" action="http://www.isfdb.org/cgi-bin/se.cgi" name="searchform" id="searchform">
+<p>
+<input name="arg" id="searchform_arg" class="search" value="">
+<select name="type" class="search">
+<option>Name</option>
+<option>Fiction Titles</option>
+<option>All Titles</option>
+<option>Year of Title</option>
+<option>Month of Title</option>
+<option>Month of Publication</option>
+<option>Series</option>
+<option>Publication Series</option>
+<option>Magazine</option>
+<option>Publisher</option>
+<option>ISBN</option>
+<option>Tag</option>
+<option>Award</option>
+</select>
+<input value="Go" type="submit">
+</p></form>
+<p class="bottomlinks">
+<a class="inverted" href="http://www.isfdb.org/cgi-bin/adv_search_menu.cgi" dir="ltr">Advanced Search</a>
+</p></div>
+<div class="divider">
+Not Logged In
+</div>
+<ul class="navbar">
+<li><a href="http://www.isfdb.org/cgi-bin/dologin.cgi?ea.cgi+208733" dir="ltr">Log In</a>
+</li><li><a href="http://www.isfdb.org/wiki/index.php/Help:Navigation_Bar">Help Navigating</a>
+</li></ul>
+<div class="divider">
+Other Pages:
+</div>
+<ul class="navbar">
+<li><a href="http://www.isfdb.org/cgi-bin/index.cgi" dir="ltr">Home Page</a>
+</li><li><a href="http://www.isfdb.org/wiki/index.php/Main_Page">ISFDB Wiki</a>
+</li><li><a href="http://www.isfdb.org/wiki/index.php/ISFDB:FAQ">ISFDB FAQ</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/calendar_menu.cgi" dir="ltr">SF Calendar</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/directory.cgi?author" dir="ltr">Author Directory</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/award_directory.cgi" dir="ltr">Award Directory</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/directory.cgi?publisher" dir="ltr">Publisher Directory</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/directory.cgi?magazine" dir="ltr">Magazine Directory</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/stats-and-tops.cgi" dir="ltr">Statistics/Top Lists</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/recent_activity_menu.cgi" dir="ltr">Recent Activity</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/edit/cleanup.cgi" dir="ltr">Cleanup Reports</a>
+</li></ul>
+<div class="divider">
+Editing Tools:
+</div>
+<ul class="navbar">
+<li><a href="http://www.isfdb.org/cgi-bin/edit/editauth.cgi?208733" dir="ltr">Edit Author Data</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/edit/mkpseudo.cgi?208733" dir="ltr">Make/Remove Alternate Name</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/adv_search_results.cgi?START=0&amp;TYPE=Title&amp;USE_1=author_canonical&amp;O_1=exact&amp;TERM_1=%26%231052%3B%26%231072%3B%26%231088%3B%26%231080%3B%26%231085%3B%26%231072%3B%20%26%231062%3B%26%231074%3B%26%231077%3B%26%231090%3B%26%231072%3B%26%231077%3B%26%231074%3B%26%231072%3B&amp;ORDERBY=title_title&amp;C=AND">Show All Titles</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/edit/find_dups.cgi?208733" dir="ltr">Check for Duplicate Titles</a>
+</li></ul>
+<div class="divider">
+Add New Data:
+</div>
+<ul class="navbar">
+<li><a href="http://www.isfdb.org/cgi-bin/edit/newpub.cgi?Anthology" dir="ltr">Add New Anthology</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/edit/newpub.cgi?Chapbook" dir="ltr">Add New Chapbook</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/edit/newpub.cgi?Collection" dir="ltr">Add New Collection</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/edit/newpub.cgi?Fanzine" dir="ltr">Add New Fanzine</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/edit/newpub.cgi?Magazine" dir="ltr">Add New Magazine</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/edit/newpub.cgi?Nonfiction" dir="ltr">Add New Nonfiction</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/edit/newpub.cgi?Novel" dir="ltr">Add New Novel</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/edit/newpub.cgi?Omnibus" dir="ltr">Add New Omnibus</a>
+</li><li><a href="http://www.isfdb.org/cgi-bin/edit/select_award_type.cgi?0" dir="ltr">Add Untitled Award</a>
+</li></ul>
+<div class="divider">
+Policies:
+</div>
+<ul class="navbar">
+<li><a href="http://www.isfdb.org/wiki/index.php/ISFDB:General_disclaimer">Disclaimer</a>
+</li><li><a href="http://www.isfdb.org/wiki/index.php/ISFDB:Privacy_policy">Privacy Policy</a>
+</li><li><a href="http://www.isfdb.org/wiki/index.php/Banner_Art_Credits">Banner Art Credits</a>
+</li></ul>
+<div class="divider">
+License:
+</div>
+<div id="cclicense">
+<a rel="license" href="https://creativecommons.org/licenses/by/2.0/">
+<img alt="Creative Commons License" src="https://creativecommons.org/images/public/somerights20.gif"></a><br>
+This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/2.0/">Creative Commons License</a>.
+</div>
+</div>
+<div id="content">
+<div class="ContentBox">
+<table>
+<tbody><tr align="left">
+<td>
+<img src="http://www.isfdb.org/wiki/images/6/68/Marina_Tsvetaeva.jpg" width="150" alt="Author Picture">
+</td>
+<td class="authorimage">
+<ul>
+<li><b>Author:</b> <div class="tooltip tooltipright">Марина Цветаева<sup class="mouseover">?</sup><span class="tooltiptext tooltipnarrow tooltipright">Marina Tsvetaeva</span></div>
+<span class="recordID"><b>Author Record # </b>208733</span>
+</li><li><b>Legal Name:</b> <div class="tooltip tooltipright">Цветаева, Марина Ивановна<sup class="mouseover">?</sup><span class="tooltiptext tooltipnarrow tooltipright">Tsvetayeva, Marina Ivanovna</span></div>
+</li><li><b>Birthplace:</b> Moscow, Russian Empire
+</li><li><b>Birthdate:</b> 8 October 1892
+</li><li><b>Deathdate:</b> 31 August 1941
+</li><li><b>Language:</b> Russian
+</li><li><b>Webpages:</b> <a href="https://en.wikipedia.org/wiki/Marina_Tsvetaeva" target="_blank">Wikipedia-EN</a>, <a href="https://ru.wikipedia.org/wiki/%D0%A6%D0%B2%D0%B5%D1%82%D0%B0%D0%B5%D0%B2%D0%B0,_%D0%9C%D0%B0%D1%80%D0%B8%D0%BD%D0%B0_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%BD%D0%B0" target="_blank">Wikipedia-RU</a>
+</li><li><b>Used These Alternate Names:</b>
+<a href="http://www.isfdb.org/cgi-bin/ea.cgi?237426" dir="ltr">Marina Tsvetaeva</a>
+</li><li><b>Author Tags:</b>
+<a href="http://www.isfdb.org/cgi-bin/tag_author.cgi?51+208733" dir="ltr">fantasy</a> (1), <a href="http://www.isfdb.org/cgi-bin/tag_author.cgi?5434+208733" dir="ltr">devil</a> (1)
+</li></ul>
+</td>
+</tr></tbody></table>
+Image supplied by <a href="http://www.isfdb.org" target="_blank">ISFDB</a>
+ on <a href="http://www.isfdb.org/wiki/index.php/Image:Marina_Tsvetaeva.jpg" target="_blank">this Web page</a>
+</div>
+<div class="ContentBox">
+<div class="translationmessage"><b>Showing all translations. <a href="http://www.isfdb.org/cgi-bin/ea.cgi?208733+None" dir="ltr"><button type="button">Never display translations</button></a> Registered users can choose which translations are shown.</b></div>
+<table class="bibliolinks">
+<tbody><tr>
+<td><b>Other views:</b></td>
+<td class="authorbiblios"><b> <a href="http://www.isfdb.org/cgi-bin/eaw.cgi?208733" dir="ltr">Awards</a> <a href="http://www.isfdb.org/cgi-bin/ae.cgi?208733" dir="ltr">Alphabetical</a> <a href="http://www.isfdb.org/cgi-bin/ch.cgi?208733" dir="ltr">Chronological</a></b></td>
+</tr>
+</tbody></table>
+<br>
+<b>Short Fiction</b>
+<ul>
+<li>
+ <div class="tooltip tooltipright"><a href="http://www.isfdb.org/cgi-bin/title.cgi?1781538" dir="ltr"><i>Чёрт</i></a><sup class="mouseover">?</sup><span class="tooltiptext tooltipnarrow tooltipright">Chyort</span></div> (<b>unknown</b>)
+ only appeared as:
+<ul>
+<li>
+ <b>Translation:</b> <a href="http://www.isfdb.org/cgi-bin/title.cgi?1781347" dir="ltr"><i>Le diable</i></a> [French] (<b>1995</b>)
+ [<b>as by</b> <a href="http://www.isfdb.org/cgi-bin/ea.cgi?237426" dir="ltr">Marina Tsvetaeva</a>]
+</li></ul>
+</li></ul>
+</div>
+</div>
+<div id="bottom">
+Copyright © 1995-2022 Al von Ruff and the ISFDB team
+<br>
+<b>ISFDB Engine</b> - Version 4.00 (2006-04-24)
+</div>
+</div>
+
+
+</body></html>

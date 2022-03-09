@@ -1,0 +1,570 @@
+<html lang="en"><head>
+
+
+
+<title>Survey Database, Survey of Scottish Witchcraft, Scottish History, School of History and Classics, The University of Edinburgh, Scotland</title>
+
+
+
+
+ <link rel="STYLESHEET" type="text/css" href="http://www.shc.ed.ac.uk/css/default.css"> 
+
+<link rel="stylesheet" type="text/css" href="styles/witches.css">
+
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+</head>
+<body>
+<table border="0" width="100%">
+<tbody><tr>
+<td align="left" valign="middle">
+
+<img src="http://www.shc.ed.ac.uk/Research/witches/images/university-of-edinburgh-logo.gif" alt="University of Edinburgh crest" width="100" height="103" border="0">  
+</td>
+<td align="center" bgcolor="#f5f5f5">
+<h1>Survey of Scottish Witchcraft Database</h1>
+<a href="http://www.shc.ed.ac.uk/witches/">Survey of Scottish Witchcraft</a><br>
+<span class="small"><a href="http://www.shc.ed.ac.uk/index.html">Scottish History</a>, 
+School of History and Classics, 
+The <a href="http://www.ed.ac.uk/">University of Edinburgh</a>, Scotland</span><br><br><p></p>
+
+</td>
+<td align="right" valign="middle">
+
+<img src="http://www.shc.ed.ac.uk/Research/witches/images/scottish-witches-survey-logo.jpg" width="150" height="114" border="0" alt="Woodcut of a witch trial"> 
+</td>
+</tr>
+</tbody></table>
+
+
+
+
+
+
+<a name="top"></a>
+
+<h2>Alexander Rutherford</h2>
+<p class="navbar">
+<a href="index.cfm?fuseaction=home.main">Database home</a>
+&nbsp;&nbsp;
+<a href="index.cfm?fuseaction=home.search">Search options</a>
+&nbsp;&nbsp;
+<a href="index.cfm?fuseaction=home.personform">New person search</a>
+&nbsp;&nbsp;
+<a href="index.cfm?fuseaction=home.searchpeople&amp;lastname%3D%26firstname%3D%26residence%3D">Current search results</a>
+&nbsp;&nbsp;
+<a href="index.cfm?fuseaction=home.help&amp;helpfile=help_person&amp;search_string=lastname%3D%26firstname%3D%26residence%3D&amp;personref=JO%2F71">Help</a>
+&nbsp;&nbsp;
+<a href="index.cfm?fuseaction=home.glossary#glossary" target="glossary">Glossary</a>
+</p>
+
+
+<table class="person" width="80%" border="1">
+<tbody><tr><td>
+
+	<table>
+	<tbody><tr><td><h3>Personal details</h3></td></tr>
+	<tr><th align="left" scope="row">Last name</th><td>Rutherford</td></tr> <tr><th align="left" scope="row">First name</th><td>Alexander</td></tr> <tr><th align="left" scope="row">Office</th><td>provost</td></tr> <tr><th align="left" scope="row">Residence</th><td>Aberdeen</td></tr> <tr><th align="left" scope="row">Notes</th><td>Involved in 1597 cases.</td></tr>
+	</tbody></table>
+
+	<table>
+	<tbody><tr><td colspan="2"><h3>Cases involved in</h3></td></tr>
+	<tr>
+		<th align="left" scope="col">Case</th>
+		<th align="left" scope="col">Involvement</th>
+	</tr>
+	
+		<tr>
+			<td><a href="index.cfm?fuseaction=home.caserecord&amp;caseref=C%2FJO%2F3033&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Bane,Margerat 24/4/1597</a></td>
+			<td>Prosecutor</td>
+		</tr>
+	
+		<tr>
+			<td><a href="index.cfm?fuseaction=home.caserecord&amp;caseref=C%2FEGD%2F2123&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Barroun,Issobel 9/3/1597</a></td>
+			<td>Prosecutor</td>
+		</tr>
+	
+		<tr>
+			<td><a href="index.cfm?fuseaction=home.caserecord&amp;caseref=C%2FJO%2F3090&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Cleraucht,Margrat 25/4/1597</a></td>
+			<td>Prosecutor</td>
+		</tr>
+	
+		<tr>
+			<td><a href="index.cfm?fuseaction=home.caserecord&amp;caseref=C%2FEGD%2F2119&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Cockie,Isobel 19/2/1597</a></td>
+			<td>Prosecutor</td>
+		</tr>
+	
+		<tr>
+			<td><a href="index.cfm?fuseaction=home.caserecord&amp;caseref=C%2FEGD%2F2153&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Davidsone,Jonat 29/8/1598</a></td>
+			<td>Prosecutor</td>
+		</tr>
+	
+		<tr>
+			<td><a href="index.cfm?fuseaction=home.caserecord&amp;caseref=C%2FEGD%2F2155&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Ego,Thomas 25/4/1597</a></td>
+			<td>Commissioner</td>
+		</tr>
+	
+		<tr>
+			<td><a href="index.cfm?fuseaction=home.caserecord&amp;caseref=C%2FEGD%2F2137&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Forbes,Agnes 23/4/1597</a></td>
+			<td>Commissioner</td>
+		</tr>
+	
+		<tr>
+			<td><a href="index.cfm?fuseaction=home.caserecord&amp;caseref=C%2FEGD%2F2157&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Forbes,Issobel 25/4/1597</a></td>
+			<td>Prosecutor</td>
+		</tr>
+	
+		<tr>
+			<td><a href="index.cfm?fuseaction=home.caserecord&amp;caseref=C%2FEGD%2F2149&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Gerard,Katherine 15/4/1597</a></td>
+			<td>Procurator</td>
+		</tr>
+	
+		<tr>
+			<td><a href="index.cfm?fuseaction=home.caserecord&amp;caseref=C%2FEGD%2F2141&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Grant,Marioun 15/4/1597</a></td>
+			<td>Prosecutor</td>
+		</tr>
+	
+		<tr>
+			<td><a href="index.cfm?fuseaction=home.caserecord&amp;caseref=C%2FEGD%2F2159&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Gray,Ellen 27/4/1597</a></td>
+			<td>Prosecutor</td>
+		</tr>
+	
+		<tr>
+			<td><a href="index.cfm?fuseaction=home.caserecord&amp;caseref=C%2FEGD%2F2134&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Guisett,Jannet 6/4/1597</a></td>
+			<td>Commissioner</td>
+		</tr>
+	
+		<tr>
+			<td><a href="index.cfm?fuseaction=home.caserecord&amp;caseref=C%2FEGD%2F2127&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Leyis,Elspet 22/3/1597</a></td>
+			<td>Prosecutor</td>
+		</tr>
+	
+		<tr>
+			<td><a href="index.cfm?fuseaction=home.caserecord&amp;caseref=C%2FEGD%2F2124&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Leyis,Johne 22/3/1597</a></td>
+			<td>Prosecutor</td>
+		</tr>
+	
+		<tr>
+			<td><a href="index.cfm?fuseaction=home.caserecord&amp;caseref=C%2FEGD%2F2125&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Leyis,Jonet 22/3/1597</a></td>
+			<td>Prosecutor</td>
+		</tr>
+	
+		<tr>
+			<td><a href="index.cfm?fuseaction=home.caserecord&amp;caseref=C%2FEGD%2F2126&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Leyis,Violat 22/3/1597</a></td>
+			<td>Prosecutor</td>
+		</tr>
+	
+		<tr>
+			<td><a href="index.cfm?fuseaction=home.caserecord&amp;caseref=C%2FEGD%2F2161&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Lucas,Jonat 24/4/1597</a></td>
+			<td>Prosecutor</td>
+		</tr>
+	
+		<tr>
+			<td><a href="index.cfm?fuseaction=home.caserecord&amp;caseref=C%2FEGD%2F2156&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">McFerries,Katherine 25/4/1597</a></td>
+			<td>Prosecutor</td>
+		</tr>
+	
+		<tr>
+			<td><a href="index.cfm?fuseaction=home.caserecord&amp;caseref=C%2FEGD%2F2130&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Michell,Christen 9/3/1597</a></td>
+			<td>Prosecutor</td>
+		</tr>
+	
+		<tr>
+			<td><a href="index.cfm?fuseaction=home.caserecord&amp;caseref=C%2FJO%2F3110&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Murry,Elspeth 23/3/1597</a></td>
+			<td>Prosecutor</td>
+		</tr>
+	
+		<tr>
+			<td><a href="index.cfm?fuseaction=home.caserecord&amp;caseref=C%2FEGD%2F2154&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Og,Margrat 24/4/1597</a></td>
+			<td>Prosecutor</td>
+		</tr>
+	
+		<tr>
+			<td><a href="index.cfm?fuseaction=home.caserecord&amp;caseref=C%2FEGD%2F2162&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Oige,Issobell 24/4/1597</a></td>
+			<td>Prosecutor</td>
+		</tr>
+	
+		<tr>
+			<td><a href="index.cfm?fuseaction=home.caserecord&amp;caseref=C%2FEGD%2F58&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Paull,Bessie 25/4/1597</a></td>
+			<td>Commissioner</td>
+		</tr>
+	
+		<tr>
+			<td><a href="index.cfm?fuseaction=home.caserecord&amp;caseref=C%2FJO%2F3093&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Reauch,Margret 17/4/1597</a></td>
+			<td>Commissioner</td>
+		</tr>
+	
+		<tr>
+			<td><a href="index.cfm?fuseaction=home.caserecord&amp;caseref=C%2FEGD%2F2148&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Reid,Christian 15/4/1597</a></td>
+			<td>Prosecutor</td>
+		</tr>
+	
+		<tr>
+			<td><a href="index.cfm?fuseaction=home.caserecord&amp;caseref=C%2FEGD%2F2163&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Richie,Issobell 24/4/1597</a></td>
+			<td>Prosecutor</td>
+		</tr>
+	
+		<tr>
+			<td><a href="index.cfm?fuseaction=home.caserecord&amp;caseref=C%2FJO%2F3036&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Robbie,Beatrix 24/4/1597</a></td>
+			<td>Prosecutor</td>
+		</tr>
+	
+		<tr>
+			<td><a href="index.cfm?fuseaction=home.caserecord&amp;caseref=C%2FEGD%2F2140&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Robie,Issobell 6/4/1597</a></td>
+			<td>Commissioner</td>
+		</tr>
+	
+		<tr>
+			<td><a href="index.cfm?fuseaction=home.caserecord&amp;caseref=C%2FJO%2F3035&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Rogie,Helene 24/4/1597</a></td>
+			<td>Prosecutor</td>
+		</tr>
+	
+		<tr>
+			<td><a href="index.cfm?fuseaction=home.caserecord&amp;caseref=C%2FEGD%2F2136&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Scherar,Margrat 6/4/1597</a></td>
+			<td>Commissioner</td>
+		</tr>
+	
+		<tr>
+			<td><a href="index.cfm?fuseaction=home.caserecord&amp;caseref=C%2FJO%2F3092&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Smith,Elspet 6/4/1597</a></td>
+			<td>Commissioner</td>
+		</tr>
+	
+		<tr>
+			<td><a href="index.cfm?fuseaction=home.caserecord&amp;caseref=C%2FEGD%2F2135&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Smithe,Jannet 6/4/1597</a></td>
+			<td>Commissioner</td>
+		</tr>
+	
+		<tr>
+			<td><a href="index.cfm?fuseaction=home.caserecord&amp;caseref=C%2FEGD%2F2158&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Strauthaquhin,Isobell 21/3/1597</a></td>
+			<td>Prosecutor</td>
+		</tr>
+	
+		<tr>
+			<td><a href="index.cfm?fuseaction=home.caserecord&amp;caseref=C%2FEGD%2F2122&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Thom,Bessie 9/3/1597</a></td>
+			<td>Prosecutor</td>
+		</tr>
+	
+		<tr>
+			<td><a href="index.cfm?fuseaction=home.caserecord&amp;caseref=C%2FEGD%2F2145&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Wod,Marioun 15/4/1597</a></td>
+			<td>Procurator</td>
+		</tr>
+	
+	</tbody></table>
+
+	<table>
+	<tbody><tr><td colspan="2"><h3>Trials involved in</h3></td></tr>
+	<tr>
+		<th align="left" scope="col">Trial</th>
+		<th align="left" scope="col">Involvement</th>
+	</tr>
+	
+		<tr>
+			<td>
+			<a href="index.cfm?fuseaction=home.trialrecord&amp;trialref=T%2FJO%2F1317&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Bane,Margerat</a>
+				
+					&nbsp;(trial date 25/3/1597)
+				
+			</td>
+			<td> Prosecutor 
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+			<a href="index.cfm?fuseaction=home.trialrecord&amp;trialref=T%2FJO%2F1501&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Cleraucht,Margrat</a>
+				
+					&nbsp;(trial date 25/4/1597)
+				
+			</td>
+			<td> Prosecutor 
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+			<a href="index.cfm?fuseaction=home.trialrecord&amp;trialref=T%2FJO%2F1293&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Cockie,Isobel</a>
+				
+					&nbsp;(trial date 19/2/1597)
+				
+			</td>
+			<td> Prosecutor 
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+			<a href="index.cfm?fuseaction=home.trialrecord&amp;trialref=T%2FJO%2F1261&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Davidsone,Jonat</a>
+				
+					&nbsp;(trial date 24/4/1597)
+				
+			</td>
+			<td> 
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+			<a href="index.cfm?fuseaction=home.trialrecord&amp;trialref=T%2FJO%2F1500&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Forbes,Issobel</a>
+				
+					&nbsp;(trial date 25/4/1597)
+				
+			</td>
+			<td> Prosecutor 
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+			<a href="index.cfm?fuseaction=home.trialrecord&amp;trialref=T%2FJO%2F1489&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Gerard,Katherine</a>
+				
+					&nbsp;(trial date 15/4/1597)
+				
+			</td>
+			<td> procurator 
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+			<a href="index.cfm?fuseaction=home.trialrecord&amp;trialref=T%2FJO%2F1325&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Grant,Marioun</a>
+				
+					&nbsp;(trial date 15/4/1597)
+				
+			</td>
+			<td> Prosecutor 
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+			<a href="index.cfm?fuseaction=home.trialrecord&amp;trialref=T%2FJO%2F1300&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Gray,Ellen</a>
+				
+					&nbsp;(trial date 27/4/1597)
+				
+			</td>
+			<td> Prosecutor 
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+			<a href="index.cfm?fuseaction=home.trialrecord&amp;trialref=T%2FJO%2F76&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Leyis,Elspet</a>
+				
+					&nbsp;(trial date 22/3/1597)
+				
+			</td>
+			<td> Prosecutor 
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+			<a href="index.cfm?fuseaction=home.trialrecord&amp;trialref=T%2FJO%2F75&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Leyis,Johne</a>
+				
+					&nbsp;(trial date 22/3/1597)
+				
+			</td>
+			<td> Prosecutor 
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+			<a href="index.cfm?fuseaction=home.trialrecord&amp;trialref=T%2FJO%2F83&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Leyis,Jonet</a>
+				
+					&nbsp;(trial date 22/3/1597)
+				
+			</td>
+			<td> Prosecutor 
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+			<a href="index.cfm?fuseaction=home.trialrecord&amp;trialref=T%2FJO%2F3&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Leyis,Thomas</a>
+				
+					&nbsp;(trial date 23/2/1597)
+				
+			</td>
+			<td> Prosecutor 
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+			<a href="index.cfm?fuseaction=home.trialrecord&amp;trialref=T%2FJO%2F84&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Leyis,Violat</a>
+				
+					&nbsp;(trial date 22/3/1597)
+				
+			</td>
+			<td> Prosecutor 
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+			<a href="index.cfm?fuseaction=home.trialrecord&amp;trialref=T%2FJO%2F1314&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Lucas,Jonat</a>
+				
+					&nbsp;(trial date 24/4/1597)
+				
+			</td>
+			<td> Prosecutor 
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+			<a href="index.cfm?fuseaction=home.trialrecord&amp;trialref=T%2FJO%2F1502&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">McFerries,Katherine</a>
+				
+					&nbsp;(trial date 25/4/1597)
+				
+			</td>
+			<td> Prosecutor 
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+			<a href="index.cfm?fuseaction=home.trialrecord&amp;trialref=T%2FJO%2F1318&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Michell,Christen</a>
+				
+					&nbsp;(trial date 9/3/1597)
+				
+			</td>
+			<td> Prosecutor 
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+			<a href="index.cfm?fuseaction=home.trialrecord&amp;trialref=T%2FJO%2F1312&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Og,Margrat</a>
+				
+					&nbsp;(trial date 24/4/1597)
+				
+			</td>
+			<td> Prosecutor 
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+			<a href="index.cfm?fuseaction=home.trialrecord&amp;trialref=T%2FJO%2F1315&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Oige,Issobell</a>
+				
+					&nbsp;(trial date 24/4/1597)
+				
+			</td>
+			<td> Prosecutor 
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+			<a href="index.cfm?fuseaction=home.trialrecord&amp;trialref=T%2FJO%2F1488&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Reid,Christian</a>
+				
+					&nbsp;(trial date 15/4/1597)
+				
+			</td>
+			<td> Prosecutor 
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+			<a href="index.cfm?fuseaction=home.trialrecord&amp;trialref=T%2FJO%2F1308&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Richie,Issobell</a>
+				
+					&nbsp;(trial date 24/4/1597)
+				
+			</td>
+			<td> Prosecutor 
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+			<a href="index.cfm?fuseaction=home.trialrecord&amp;trialref=T%2FJO%2F1316&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Robbie,Beatrix</a>
+				
+					&nbsp;(trial date 24/4/1597)
+				
+			</td>
+			<td> Prosecutor 
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+			<a href="index.cfm?fuseaction=home.trialrecord&amp;trialref=T%2FJO%2F1313&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Rogie,Helene</a>
+				
+					&nbsp;(trial date 24/4/1597)
+				
+			</td>
+			<td> Prosecutor 
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+			<a href="index.cfm?fuseaction=home.trialrecord&amp;trialref=T%2FJO%2F1323&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Thom,Bessie</a>
+				
+					&nbsp;(trial date 9/3/1597)
+				
+			</td>
+			<td> Prosecutor 
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+			<a href="index.cfm?fuseaction=home.trialrecord&amp;trialref=T%2FJO%2F1490&amp;search_type=searchpeople&amp;search_string=lastname%3D%26firstname%3D%26residence%3D">Wod,Marioun</a>
+				
+					&nbsp;(trial date 15/4/1597)
+				
+			</td>
+			<td> procurator 
+			</td>
+		</tr>
+	
+	</tbody></table>
+
+</td></tr>
+</tbody></table>
+
+
+<p class="navbar">
+<a href="#top">[Top]</a>
+&nbsp;&nbsp;
+<a href="index.cfm?fuseaction=home.main">Database home</a>
+&nbsp;&nbsp;
+<a href="index.cfm?fuseaction=home.search">Search options</a>
+&nbsp;&nbsp;
+<a href="index.cfm?fuseaction=home.personform">New person search</a>
+&nbsp;&nbsp;
+<a href="index.cfm?fuseaction=home.searchpeople&amp;lastname%3D%26firstname%3D%26residence%3D">Current search results</a>
+&nbsp;&nbsp;
+<a href="index.cfm?fuseaction=home.help&amp;helpfile=help_person">Help</a>
+&nbsp;&nbsp;
+<a href="index.cfm?fuseaction=home.glossary#glossary" target="glossary">Glossary</a>
+</p>
+
+<hr>
+<table width="100%">
+<tbody><tr>
+<td align="left" valign="top" class="footer">
+Survey of Scottish Witchcraft <br>
+<a href="http://www.shc.ed.ac.uk">Scottish History</a>
+
+, School of History and Classics<br>
+The University of Edinburgh <br>17 Buccleuch Place, Edinburgh, EH8 9LN<br>
+<!--Tel: [0]131 651 1925; Fax [0]131 650 4042<br>
+Email: <a href="mailto:witchcraft.survey@ed">witchcraft.survey@ed.ac.uk</a>--><br><br>
+</td>
+<td align="right" valign="top" class="footer">
+Published for the Survey of Scottish Witchcraft<br>
+by <a href="http://www.ucs.ed.ac.uk">Computing Services</a>, The University of Edinburgh<br>
+Database and application built by the Information Tools Team<br>
+Map data provided by the Data Library
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" class="footer">Unless explicitly stated otherwise, all material is copyright ©
+The University of Edinburgh</td></tr>
+</tbody></table>
+
+</body></html>

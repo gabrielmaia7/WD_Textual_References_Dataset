@@ -1,0 +1,311 @@
+<html><head>
+
+<title>ULAN Full Record Display (Getty Research)</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8"><link rel="stylesheet" type="text/css" href="/global/r/js/vue/components/footer/dist/css/footer.css">
+<meta name="robots" content="noindex, nofollow">
+
+<script type="text/javascript" async="" src="//cdnmon.cfigroup.com/source/webmon/d0b6ef54081072/webmon.js"></script><script language="JavaScript">
+<!--
+
+        rollImage = new Array()
+
+        rollImage[0] = new Image(9,7);
+        rollImage[0].src= "/global/images/resrch_blank.gif";
+
+        rollImage[1] = new Image(9,7);
+        rollImage[1].src = "/global/images/resrch_arrow.gif";
+
+        rollImage[2] = new Image(9,7);
+        rollImage[2].src = "/global/images/resrch_arrow_up.gif";
+
+        rollImage[3] = new Image(9,50);
+        rollImage[3].src = "/global/images/resrch_arrow_top.gif";
+
+        rollImage[4] = new Image(9,50);
+        rollImage[4].src = "/global/images/resrch_blank_top.gif";
+
+// pops up the code lookup window
+function code_lookup(anchor,flag)
+{
+    win = window.open('http://www.getty.edu/research/tools/vocabularies/ulan/ULANCodeLookup.html' +
+                      '?flag=' + escape(flag) + '#' + anchor,'',
+          'innerwidth=600,width=600,innerheight=280,height=280,' +
+          'scrollbars=1,toolbar=0,' +
+          'location=0,directories=0,status=0,menubar=0,resizable=1');
+    win.focus();
+}
+
+function help_popup(){
+    win = window.open("http://www.getty.edu/research/tools/vocabularies/ulan/help.html","help_popup",
+                      "innerwidth=740,width=740,innerheight=500,height=500," +
+                      "scrollbars=1,toolbar=0,location=0,directories=0," +
+                      "status=0,menubar=1,resizable=1");
+    win.focus();
+}
+
+function tooltip(text)
+{
+    window.status = unescape(text);
+    return true;
+}
+
+function general_popup(URL,features) { // MCB may2008
+    win = window.open(URL,"gen_popup",features);
+    win.focus();
+}
+
+function image_popup(imgsrc,tombstone,features) { // MCB jan2010
+	   var imgtaghtml =  "<img src='http://www.getty.edu/vow/" + imgsrc + "' border=0>"
+	   tombstone = "<p>"+tombstone+"</p>";
+	   win = window.open( "", "img_popup", features); 
+	   win.document.write("<html><body>");
+	   win.document.write(imgtaghtml);
+	   win.document.write(tombstone);
+       win.document.write("</body></html>");
+/*
+       var iWidth = (NS)?window.innerWidth:document.body.clientWidth;  // declase NS global var if not already available
+       var iHeight = (NS)?window.innerHeight:document.body.clientHeight; 
+       var iWidth = document.images[0].width - iWidth; 
+       var iHeight = document.images[0].height - iHeight; 
+       win.resizeBy(iWidth, iHeight); 
+ */
+       win.focus(); 
+}; 
+// -->
+
+
+</script>
+
+<script src="/global/jscript/global.js"></script><link rel="STYLESHEET" type="text/css" href="/global/css/main_pc.css"><link rel="stylesheet" type="text/css" media="print" href="/global/css/page_elements/layout_printer.css">
+<style>a {text-decoration-line:underline; text-decoration-color:blue; color:blue} a:visited {color:purple}</style>
+<script type="text/javascript" src="/global/r/js/vue/components/footer/toggle.js?v=1646744309"></script><style>  strong { font-weight: bold; } .mobile-panel#mobile-panel-nav.toggle ~ #new-footer { transform: translate3d(-90%, 0, 0); -webkit-transform: translate3d(-90%, 0, 0); } @media only screen and (min-width: 569px) { .mobile-panel#mobile-panel-nav.toggle ~ #new-footer { transform: translate3d(-342px, 0, 0); -webkit-transform: translate3d(-342px, 0, 0); } } </style></head>
+
+<body bgcolor="#FFFFFF" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" link="#3366CC" alink="#663399" vlink="#663399" style="background-color: rgb(238, 238, 238);">
+<div style="width:100%; background-color:white"><table cellspacing="0" cellpadding="0" border="0" width="758">
+<tbody><tr><td><img src="/global/images/ghost.gif" alt="" width="12" height="1" border="0"></td><td valign="top"><a href="/"><img src="/global/images/global_logo_new.gif" alt="The Getty" width="50" height="50" border="0"></a><img src="/global/images/ghost.gif" alt="" width="20" height="50" border="0"><img src="/global/images/global_header_research.gif" alt="Research Institute" width="96" height="20" border="0" vspace="5" align="top"></td>
+</tr>
+<tr>
+<td><img src="/global/images/ghost.gif" alt="" width="1" height="1" border="0"></td>
+<td valign="top">
+<!-- PRINT TABLE -->
+<table cellspacing="1" cellpadding="0" border="0" width="100%">
+<tbody><tr>
+    <td><img src="/global/images/ghost.gif" alt="" width="20" height="1" border="0"></td>
+    <td><img src="/global/images/ghost.gif" alt="" width="25" height="1" border="0"></td>
+    <td><img src="/global/images/ghost.gif" alt="" width="50" height="1" border="0"></td>
+    <td><img src="/global/images/ghost.gif" alt="" width="275" height="1" border="0"></td>
+    <td><img src="/global/images/ghost.gif" alt="" width="200" height="1" border="0"></td>
+    <td><img src="/global/images/ghost.gif" alt="" width="20" height="1" border="0"></td>
+</tr>
+
+<!-- start breadcrumbs -->
+<tr>
+	<td valign="top" colspan="5"><a href="/research/" class="nav">Research Home </a>
+	<img src="/global/images/global_arrow.gif" width="4" height="7" border="0" alt=""><a href="/research/tools/" class="nav"> Tools </a><img src="/global/images/global_arrow.gif" width="4" height="7" border="0" alt=""><a href="/research/tools/vocabularies/ulan/" class="nav"> Union List of Artist Names </a><img src="/global/images/global_arrow.gif" width="4" height="7" border="0" alt=""><span class="nav_on"> Full Record Display <br></span>
+	</td>
+	<td><img src="/global/images/ghost.gif" alt="" width="1" height="1" border="0"></td>
+</tr>
+<!-- end breadcrumbs -->
+<tr>
+	<td colspan="5"><img src="/global/images/ghost.gif" alt="" width="1" height="3" border="0"></td>
+	<td><img src="/global/images/ghost.gif" alt="" width="1" height="1" border="0"></td>
+</tr>
+<tr>
+	<td valign="top" colspan="5"><img src="/research/tools/vocabularies/images/header_ulan_record_display.gif" alt="Union List of Artist Names Full Record Display" width="398" height="56" border="0"></td>
+	<td><img src="/global/images/ghost.gif" alt="" width="1" height="1" border="0"></td>
+</tr>
+<tr>
+	<td colspan="5"><img src="/global/images/ghost.gif" alt="" width="1" height="10" border="0"></td>
+	<td><img src="/global/images/ghost.gif" alt="" width="1" height="1" border="0"></td>
+</tr>
+<tr>
+	<td valign="top" colspan="4"><a href="/research/tools/vocabularies/ulan/?find=&amp;role=&amp;nation=&amp;page=1"><img src="/global/images/global_new_search.gif" alt="New Search" width="81" height="14" border="0"></a>
+        <img src="/global/images/ghost.gif" width="30" height="1">
+        <a href="javascript:history.back()"><img src="/research/tools/vocabularies/images/previous_page.gif" width="90" height="14" border="0" alt="Previous Page"></a></td>
+	<td valign="top" align="right"><a href="javascript:help_popup()"><img src="/global/images/global_help.gif" alt="Help" width="39" height="13" border="0"></a></td>
+</tr>
+
+<tr>
+	<td colspan="5"><img src="/global/images/ghost.gif" alt="" width="1" height="10" border="0"></td>
+	<td><img src="/global/images/ghost.gif" alt="" width="1" height="1" border="0"></td>
+</tr>
+<tr>
+	<td colspan="5" bgcolor="#cccccc"><img src="/global/images/ghost.gif" alt="" width="1" height="1" border="0"></td>
+	<td><img src="/global/images/ghost.gif" alt="" width="1" height="1" border="0"></td>
+</tr>
+<tr>
+	<td colspan="5"><img src="/global/images/ghost.gif" alt="" width="1" height="10" border="0"></td>
+	<td><img src="/global/images/ghost.gif" alt="" width="1" height="1" border="0"></td>
+</tr>
+<tr>
+        <td colspan="5"><span class="page">Click the <img src="/global/images/global_hierarchy.gif" width="13" height="14"> icon to view the hierarchy.<br>&nbsp;</span></td>
+</tr>
+
+<tr><td colspan="5"><table width="100%"><tbody><tr><td colspan="3" style="vertical-align:bottom;font-family:arial;font-size:13" align="left"><a href="http://vocab.getty.edu/ulan/500226683"><u>Semantic View</u></a>&nbsp;(<a href="http://vocab.getty.edu/ulan/500226683.json"><u>JSON</u></a>,&nbsp;<a href="http://vocab.getty.edu/ulan/500226683.jsonld"><u>JSONLD</u></a>,&nbsp;<a href="http://vocab.getty.edu/ulan/500226683.rdf"><u>RDF</u></a>,&nbsp;<a href="http://vocab.getty.edu/ulan/500226683.ttl"><u>N3/Turtle</u></a>,&nbsp;<a href="http://vocab.getty.edu/ulan/500226683.nt"><u>N-Triples</u></a>)</td></tr><tr>
+</tr><tr><td colspan="3" nowrap=""><span class="page"><br><b>ID: 500226683</b><br><b>Page Link:</b> http://vocab.getty.edu/page/ulan/500226683</span><br>&nbsp;</td>
+<td colspan="2" align="RIGHT" valign="TOP"><span class="page"><br><b>Record Type: <a href="javascript:code_lookup('record_type','RTP')">Person</a></b></span></td>
+</tr></tbody></table></td></tr>
+<tr>
+<td valign="TOP" align="CENTER"><a href="http://www.getty.edu/vow/ULANHierarchy?find=&amp;role=&amp;nation=&amp;page=1&amp;subjectid=500226683"><img src="/global/images/global_hierarchy.gif" width="13" height="14" border="0"></a></td>
+<td colspan="5" valign="BOTTOM"><span class="page"><b>Franciosini, Luigi </b>(Italian architect, contemporary)
+</span></td></tr>
+<tr>
+<td colspan="5">
+<table cellspacing="1" cellpadding="0" border="0"><tbody><tr><td colspan="2"><span class="page"><br><b>Names:</b></span></td></tr>
+<tr>
+<td><img src="/research/tools/vocabularies/images/ghost.gif" width="20" height="1"></td>
+<td valign="TOP" nowrap=""><span class="page"><b>Franciosini, Luigi </b><nobr>(<a href="javascript:code_lookup('preferred','')" onmouseover="return tooltip('Preferred Name')" onmouseout="return tooltip('')"><b>preferred</b></a>,<a href="javascript:code_lookup('vernacular','VV')" onmouseover="return tooltip('Vernacular flag: Vernacular')" onmouseout="return tooltip('')">V</a>,<a href="javascript:code_lookup('display','DI')" onmouseover="return tooltip('Index Name')" onmouseout="return tooltip('')">index</a>)</nobr></span></td>
+</tr>
+<tr>
+<td><img src="/research/tools/vocabularies/images/ghost.gif" width="20" height="1"></td>
+<td valign="TOP" nowrap=""><span class="page"><b>Luigi Franciosini </b><nobr>(<a href="javascript:code_lookup('vernacular','VV')" onmouseover="return tooltip('Vernacular flag: Vernacular')" onmouseout="return tooltip('')">V</a>,<a href="javascript:code_lookup('display','DD')" onmouseover="return tooltip('Display Name')" onmouseout="return tooltip('')">display</a>)</nobr></span></td>
+</tr>
+</tbody></table></td></tr>
+<tr>
+<td colspan="5">
+<table cellspacing="1" cellpadding="0" border="0"><tbody><tr><td colspan="2"><span class="page"><br><b>Nationalities:</b></span></td></tr>
+<tr>
+<td><img src="/research/tools/vocabularies/images/ghost.gif" width="20" height="1"></td>
+<td valign="TOP" nowrap=""><span class="page">Italian (<a href="javascript:code_lookup('preferred_nation','')" onmouseover="return tooltip('Preferred Nationality')" onmouseout="return tooltip('')"><b>preferred</b></a>)</span></td></tr>
+</tbody></table></td></tr>
+<tr>
+<td colspan="5">
+<table cellspacing="1" cellpadding="0" border="0"><tbody><tr><td colspan="2"><span class="page"><br><b>Roles:</b></span></td></tr>
+<tr>
+<td><img src="/research/tools/vocabularies/images/ghost.gif" width="20" height="1"></td>
+<td valign="TOP" nowrap=""><span class="page">architect (<a href="javascript:code_lookup('preferred_role','')" onmouseover="return tooltip('Preferred Role')" onmouseout="return tooltip('')"><b>preferred</b></a>)</span></td>
+</tr>
+</tbody></table></td></tr>
+<tr>
+<td colspan="5">
+<table cellspacing="1" cellpadding="0" border="0"><tbody><tr><td colspan="2"><span class="page"><br><b>Gender:</b> male</span></td></tr>
+</tbody></table></td></tr>
+<tr>
+<td colspan="5"><span class="page"><br><b>List/Hierarchical Position:</b></span></td></tr>
+<tr>
+<td></td>
+<td colspan="4">
+<table cellspacing="1" cellpadding="0" border="0">
+<tbody><tr><td><a href="http://www.getty.edu/vow/ULANHierarchy?find=&amp;role=&amp;nation=&amp;page=1&amp;subjectid=500000002&amp;letter=F"><img src="/global/images/global_hierarchy.gif" width="13" height="14" border="0"></a></td><td><span class="page">&nbsp;....&nbsp;</span></td>
+<td><span class="page"><a href="http://www.getty.edu/vow/ULANFullDisplay?find=&amp;role=&amp;nation=&amp;page=1&amp;subjectid=500000002">Persons, Artists</a> </span></td></tr></tbody></table>
+<table cellspacing="1" cellpadding="0" border="0">
+<tbody><tr><td><a href="http://www.getty.edu/vow/ULANHierarchy?find=&amp;role=&amp;nation=&amp;page=1&amp;subjectid=500226683&amp;letter=F"><img src="/global/images/global_hierarchy.gif" width="13" height="14" border="0"></a></td><td><span class="page">&nbsp;........&nbsp;</span></td>
+<td><span class="page"><a href="http://www.getty.edu/vow/ULANFullDisplay?find=&amp;role=&amp;nation=&amp;page=1&amp;subjectid=500226683">Franciosini, Luigi</a> (<a href="javascript:code_lookup('type_hier_rel','TI')" onmouseover="return tooltip('Hierarchy Relationship Type: Instance-BTI')" onmouseout="return tooltip('')">I,</a><a href="javascript:code_lookup('hierarchy_historical','HHU')" onmouseover="return tooltip(&quot;Hierarchical Historical flag: Unknown&quot;)" onmouseout="return tooltip('')">U</a>) </span></td></tr></tbody></table>
+</td></tr>
+<tr>
+<td colspan="5"><span class="page"><br><b>Biographies:</b></span><table cellpadding="0" cellspacing="1" border="0">
+<tbody><tr><td><img src="/research/tools/vocabularies/images/ghost.gif" width="20" height="1"></td>
+</tr>
+<tr>
+<td></td>
+<td><span class="page">(Italian architect, contemporary) ..... [<a href="http://www.getty.edu/vow/ULANContributor?find=&amp;role=&amp;nation=&amp;page=1&amp;contribid=2500000008" onmouseover="return tooltip(&quot;Contributor: Avery Index to Architectural Periodicals, Columbia University (New York, New York)-Preferred&quot;)" onmouseout="return tooltip('')">AVERY Preferred</a>]<br>
+</span></td></tr></tbody></table>
+</td></tr>
+<tr>
+<td colspan="5">
+<table cellspacing="1" cellpadding="0" border="0"><tbody><tr><td colspan="2"><span class="page"><br><b>Additional Names:</b></span></td></tr>
+</tbody></table></td></tr>
+<tr>
+<td colspan="5"><span class="page"><br><b>Sources and Contributors:</b></span></td></tr>
+<tr>
+<td></td>
+<td colspan="4"><table cellspacing="1" cellpadding="0" border="0">
+</table>
+<table cellpadding="0" cellspacing="1" border="0">
+<tbody><tr>
+<td align="LEFT" valign="TOP" nowrap=""><span class="page">Franciosini, Luigi ........&nbsp;</span></td><td valign="BOTTOM"><span class="page">[<a href="http://www.getty.edu/vow/ULANContributor?find=&amp;role=&amp;nation=&amp;page=1&amp;contribid=2500000008" onmouseover="return tooltip(&quot;Contributor: Avery Index to Architectural Periodicals, Columbia University (New York, New York)-Preferred&quot;)" onmouseout="return tooltip('')">AVERY Preferred</a>]</span></td></tr>
+<tr>
+<td valign="TOP" align="RIGHT"><span class="page">
+......................................&nbsp;</span></td>
+<td><span class="page"><a href="http://www.getty.edu/vow/ULANSource?find=&amp;role=&amp;nation=&amp;page=1&amp;sourceid=2100042658">Avery Authority files (1963-)</a> </span></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="1" border="0">
+<tbody><tr>
+<td align="LEFT" valign="TOP" nowrap=""><span class="page">Luigi Franciosini ........&nbsp;</span></td><td valign="BOTTOM"><span class="page">[<a href="http://www.getty.edu/vow/ULANContributor?find=&amp;role=&amp;nation=&amp;page=1&amp;contribid=2500000008" onmouseover="return tooltip(&quot;Contributor: Avery Index to Architectural Periodicals, Columbia University (New York, New York)&quot;)" onmouseout="return tooltip('')">AVERY</a>, <a href="http://www.getty.edu/vow/ULANContributor?find=&amp;role=&amp;nation=&amp;page=1&amp;contribid=2500000013" onmouseover="return tooltip(&quot;Contributor: Getty Vocabulary Program&quot;)" onmouseout="return tooltip('')">VP</a>]</span></td></tr>
+<tr>
+<td valign="TOP" align="RIGHT"><span class="page">
+....................................&nbsp;</span></td>
+<td><span class="page"><a href="http://www.getty.edu/vow/ULANSource?find=&amp;role=&amp;nation=&amp;page=1&amp;sourceid=2100039894">Getty Vocabulary Program rules</a> </span></td></tr></tbody></table><br>
+<table cellpadding="0" cellspacing="1" border="0">
+<tbody><tr>
+<td align="RIGHT" valign="TOP" nowrap=""><span class="page"><b>Subject:</b> ........&nbsp;</span></td><td><span class="page">[<a href="http://www.getty.edu/vow/ULANContributor?find=&amp;role=&amp;nation=&amp;page=1&amp;contribid=2500000008" onmouseover="return tooltip(&quot;Contributor: Avery Index to Architectural Periodicals, Columbia University (New York, New York)&quot;)" onmouseout="return tooltip('')">AVERY</a>, <a href="http://www.getty.edu/vow/ULANContributor?find=&amp;role=&amp;nation=&amp;page=1&amp;contribid=2500000013" onmouseover="return tooltip(&quot;Contributor: Getty Vocabulary Program&quot;)" onmouseout="return tooltip('')">VP</a>]</span></td></tr>
+<tr><td align="RIGHT" valign="TOP" nowrap=""><span class="page">
+....................&nbsp;</span></td>
+<td><span class="page"><a href="http://www.getty.edu/vow/ULANSource?find=&amp;role=&amp;nation=&amp;page=1&amp;sourceid=2100117973">Metamorfosi, 1989, no.12</a> 76</span></td></tr></tbody></table>
+
+
+</td></tr><tr>
+	<td colspan="5"><img src="/global/images/ghost.gif" alt="" width="1" height="10" border="0"></td>
+</tr>
+<tr>
+	<td colspan="5" bgcolor="#cccccc"><img src="/global/images/ghost.gif" alt="" width="1" height="1" border="0"></td>
+	<td><img src="/global/images/ghost.gif" alt="" width="1" height="1" border="0"></td>
+</tr>
+<tr>
+	<td colspan="5"><img src="/global/images/ghost.gif" alt="" width="1" height="10" border="0"></td>
+	<td><img src="/global/images/ghost.gif" alt="" width="1" height="1" border="0"></td>
+</tr>
+<tr>
+	<td valign="top" colspan="4"><a href="/research/tools/vocabularies/ulan/?find=&amp;role=&amp;nation=&amp;page=1"><img src="/global/images/global_new_search.gif" alt="New Search" width="81" height="14" border="0"></a></td>
+</tr>
+</tbody></table>
+<!-- END PRINT -->
+<table>
+<tbody><tr>
+			   <td valign="top" colspan="3"><img src="/global/images/ghost.gif" width="1" height="24" border="0" alt=""><br>
+				<script language"javascript"="">
+document.write('<A href="' + document.location.href + '#top">');
+                                </script><a href="http://www.getty.edu/vow/ULANFullDisplay?find=&amp;role=&amp;nation=&amp;subjectid=500226683#top">
+                                <img src="/global/images/global_back_to_top.gif" alt="Back to Top" width="76" height="11" border="0"></a></td>
+				<td><img src="/global/images/ghost.gif" width="1" height="35" border="0" alt=""></td>
+				<td><img src="/global/images/ghost.gif" alt="" width="1" height="1" border="0"></td>
+				<td><img src="/global/images/ghost.gif" alt="" width="1" height="1" border="0"></td>
+			</tr>
+			<tr>
+			   <td colspan="5"><img src="/global/images/ghost.gif" width="1" height="50" border="0" alt=""><br>
+<!-- start print page area -->
+							<a href="/pf/PF"><img src="/global/images/global_print.gif" alt="Printer Friendly Version" width="145" height="11" border="0"></a><br>
+							<img src="/global/images/ghost.gif" width="1" height="20" border="0" alt=""><br>
+
+				</td>
+				<td><img src="/global/images/ghost.gif" alt="" width="1" height="1" border="0"></td>
+			</tr>
+			<tr>
+				<td valign="top" colspan="5">
+<!-- start getty identifier -->
+							<table cellpadding="0" align="left" cellspacing="0" border="0" width="294">
+							<tbody><tr>
+								<td rowspan="2" valign="top" width="38"><img src="/global/images/home_footer_logo.gif" width="32" height="33" border="0" alt="The J. Paul Getty Trust" hspace="0"></td>
+								<td valign="bottom" width="256"><img src="/global/images/ghost.gif" width="256" height="14" border="0" alt=""><br><span class="nav_on">The J. Paul Getty Trust</span><br>
+								<img src="/global/images/ghost.gif" width="20" height="2" border="0" alt=""></td>
+							</tr>
+							<tr>
+								<td valign="top"><img src="/global/images/ghost.gif" width="20" height="12" border="0" alt=""><br>
+								<div class="nav"><a href="/legal/copyright.html">© 2004 J. Paul Getty Trust<br>
+										Terms of Use</a>&nbsp;/&nbsp;<a href="/legal/privacy.html">Privacy Policy</a>&nbsp;/&nbsp;<a href="/about/contact_us.html">Contact Us</a></div><p>&nbsp;</p>
+										</td>
+							</tr>
+							</tbody></table>
+<!-- end getty identifier -->
+				</td>
+				<td><img src="/global/images/ghost.gif" alt="" width="1" height="1" border="0"></td>
+			</tr>
+
+</tbody></table>
+
+</td></tr></tbody></table></div>
+<!-- MPS Google Analytics, start -->
+<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+	try {
+		var pageTracker = _gat._getTracker("UA-8087223-1");
+		pageTracker._trackPageview();
+	} catch(err) {}
+</script>
+<!-- MPS Google Analytics, end -->
+
+
+<style>.new-footer { color: #000; } .new-footer .g-footer__info-list-cta { font-size: initial; font-family: Graphik Web, Helvetica, Arial, sans-serif; } .new-footer ul, .new-footer li { margin: 0; padding: 0; list-style-type: none; } .new-footer dl dt { font-weight: normal; } .new-footer dl dd { margin-bottom: 0; }  .new-footer { font-family: Graphik Web, Helvetica, Arial, sans-serif; overflow: hidden; background-color: #f4f3f2; z-index: 50; position: relative; clear:both; } .new-footer a:hover { text-decoration: none; } .new-footer .g-footer__social ul li { margin-left: 20px; }</style><div id="new-footer" class="new-footer"><noscript><strong>We're sorry but footer doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id="new-footer-app"></div><script charset="UTF-8" src="/global/r/js/vue/components/footer/dist/js/footer.js"></script></div></body></html>

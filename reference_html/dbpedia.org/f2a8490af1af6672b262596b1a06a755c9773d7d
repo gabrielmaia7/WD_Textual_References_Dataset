@@ -1,0 +1,542 @@
+<html prefix="
+        dbp: http://dbpedia.org/property/
+        dbo: http://dbedia.org/ontology/
+        dct: http://purl.org/dc/terms/
+        dbd: http://dbpedia.org/datatype/
+	og:  https://ogp.me/ns#
+	"><!-- header --><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>About: Rab Se Sohna Isshq</title>
+
+    <!-- Links -->
+    <link rel="alternate" type="application/rdf+xml" href="http://dbpedia.org/data/Rab_Se_Sohna_Isshq.rdf" title="Structured Descriptor Document (RDF/XML format)">
+    <link rel="alternate" type="text/n3" href="http://dbpedia.org/data/Rab_Se_Sohna_Isshq.n3" title="Structured Descriptor Document (N3 format)">
+    <link rel="alternate" type="text/turtle" href="http://dbpedia.org/data/Rab_Se_Sohna_Isshq.ttl" title="Structured Descriptor Document (Turtle format)">
+    <link rel="alternate" type="application/json+rdf" href="http://dbpedia.org/data/Rab_Se_Sohna_Isshq.jrdf" title="Structured Descriptor Document (RDF/JSON format)">
+    <link rel="alternate" type="application/json" href="http://dbpedia.org/data/Rab_Se_Sohna_Isshq.json" title="Structured Descriptor Document (RDF/JSON format)">
+    <link rel="alternate" type="application/atom+xml" href="http://dbpedia.org/data/Rab_Se_Sohna_Isshq.atom" title="OData (Atom+Feed format)">
+    <link rel="alternate" type="text/plain" href="http://dbpedia.org/data/Rab_Se_Sohna_Isshq.ntriples" title="Structured Descriptor Document (N-Triples format)">
+    <link rel="alternate" type="text/csv" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FRab_Se_Sohna_Isshq%3E&amp;format=text%2Fcsv" title="Structured Descriptor Document (CSV format)">
+    
+    <link rel="alternate" type="application/microdata+json" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FRab_Se_Sohna_Isshq%3E&amp;format=application%2Fmicrodata%2Bjson" title="Structured Descriptor Document (Microdata/JSON format)">
+    <link rel="alternate" type="text/html" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FRab_Se_Sohna_Isshq%3E&amp;format=text%2Fhtml" title="Structured Descriptor Document (Microdata/HTML format)">
+    <link rel="alternate" type="application/ld+json" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FRab_Se_Sohna_Isshq%3E&amp;format=application%2Fjson-ld" title="Structured Descriptor Document (JSON-LD format)">
+    <link rel="alternate" type="text/x-html-script-ld+json" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FRab_Se_Sohna_Isshq%3E&amp;format=text%2Fx-html-script-ld%2Bjson" title="Structured Descriptor Document (HTML with embedded JSON-LD)">
+    <link rel="alternate" type="text/x-html-script-turtle" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FRab_Se_Sohna_Isshq%3E&amp;format=text%2Fx-html-script-turtle" title="Structured Descriptor Document (HTML with embedded Turtle)">
+    <link rel="timegate" type="text/html" href="http://dbpedia.mementodepot.org/timegate/http://dbpedia.org/page/Rab_Se_Sohna_Isshq" title="Time Machine">
+    <link rel="foaf:primarytopic" href="http://dbpedia.org/resource/Rab_Se_Sohna_Isshq">
+    <link rev="describedby" href="http://dbpedia.org/resource/Rab_Se_Sohna_Isshq">
+    <!-- /Links -->
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/css/bootstrap.min.css" integrity="sha512-GQGU0fMMi238uA+a/bdWJfpUGKUkBdgfFdgBm72SUQ6BeyWjoY/ton0tEjH+OSH9iP4Dfh+7HM0I9f5eR0L/4w==" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.8.1/font/bootstrap-icons.min.css" integrity="sha512-Oy+sz5W86PK0ZIkawrG0iv7XwWhYecM3exvUtMKNJMekGFJtVAhibhRPTpmyTj8+lJCkmWfnpxKgT2OopquBHA==" crossorigin="anonymous">
+    <!-- link rel="stylesheet" href="/statics/css/dbpedia.css" -->
+    <!-- /Stylesheets-->
+
+    <!-- OpenGraph -->
+    <meta property="og:title" content="Rab Se Sohna Isshq">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="http://dbpedia.org/resource/Rab_Se_Sohna_Isshq">
+    <meta property="og:image" content="http://commons.wikimedia.org/wiki/Special:FilePath/Rab_Se_Sohna_Isshq_Logo.png?width=300">
+    <meta property="og:description" content="Rab Se Sohna Isshq (English Title: Eternal Love) was an Indian soap opera produced by Jay Mehta's Jay Production, which aired on Zee TV from Monday to Friday. Ashish Sharma played the male lead along with Kanan Malhotra. Ekta Kaul made her debut as the female lead. The show revolves around the love triangle involving the characters played by the three actors with a large part of the story occurring in London. This was the first ever cross continental show in Indian Television.">
+    <meta property="og:site_name" content="DBpedia">
+    <!-- /OpenGraph-->
+</head>
+<body about="http://dbpedia.org/resource/Rab_Se_Sohna_Isshq">
+
+<!-- navbar -->
+<nav class="navbar navbar-expand-md navbar-light bg-light fixed-top align-items-center">
+    <div class="container-xl">
+	<a class="navbar-brand" href="http://wiki.dbpedia.org/about" title="About DBpedia" style="color: #2c5078">
+	    <img class="img-fluid" src="/statics/images/dbpedia_logo_land_120.png" alt="About DBpedia">
+	</a>
+	<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#dbp-navbar" aria-controls="dbp-navbar" aria-expanded="false" aria-label="Toggle navigation">
+	    <span class="navbar-toggler-icon"></span>
+	</button>
+
+	<div class="collapse navbar-collapse" id="dbp-navbar">
+	    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+		<li class="nav-item dropdown">
+		    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBrowse" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+		    <i class="bi-eye-fill"></i> Browse using<span class="caret"></span></a>
+
+		    <ul class="dropdown-menu" aria-labelledby="navbarDropdownBrowse">
+			<li class="dropdown-item"><a class="nav-link" href="/describe/?uri=http%3A%2F%2Fdbpedia.org%2Fresource%2FRab_Se_Sohna_Isshq">OpenLink Faceted Browser</a></li>
+			<li class="dropdown-item"><a class="nav-link" href="http://osde.demo.openlinksw.com/#/editor?uri=http%3A%2F%2Fdbpedia.org%2Fdata%2FRab_Se_Sohna_Isshq.ttl&amp;view=statements">OpenLink Structured Data Editor</a></li>
+			<li class="dropdown-item"><a class="nav-link" href="http://en.lodlive.it/?http%3A%2F%2Fdbpedia.org%2Fresource%2FRab_Se_Sohna_Isshq">LodLive Browser</a></li>
+			<!-- li class="dropdown-item"><a class="nav-link" href="http://lodmilla.sztaki.hu/lodmilla/?url=http%3A%2F%2Fdbpedia.org%2Fresource%2FRab_Se_Sohna_Isshq">LODmilla Browser</a></li -->
+		    </ul>
+		</li>
+
+		<li class="nav-item dropdown">
+		    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownFormats" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+		    <i class="bi-file-earmark-fill"></i> Formats<span class="caret"></span></a>
+
+		    <ul class="dropdown-menu" aria-labelledby="navbarDropdownFormats">
+			<li class="dropdown-item-text">RDF:</li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/Rab_Se_Sohna_Isshq.ntriples">N-Triples</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/Rab_Se_Sohna_Isshq.n3">N3</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/Rab_Se_Sohna_Isshq.ttl">Turtle</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/Rab_Se_Sohna_Isshq.json">JSON</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/Rab_Se_Sohna_Isshq.rdf">XML</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">OData:</li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/Rab_Se_Sohna_Isshq.atom">Atom</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/data/Rab_Se_Sohna_Isshq.jsod">JSON</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">Microdata:</li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FRab_Se_Sohna_Isshq%3E&amp;format=application%2Fmicrodata%2Bjson">JSON</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FRab_Se_Sohna_Isshq%3E&amp;format=text%2Fhtml">HTML</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">Embedded:</li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FRab_Se_Sohna_Isshq%3E&amp;format=text%2Fx-html-script-ld%2Bjson">JSON</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FRab_Se_Sohna_Isshq%3E&amp;format=text%2Fx-html-script-turtle">Turtle</a></li>
+			<li class="dropdown-divider"></li>
+			<li class="dropdown-item-text">Other:</li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FRab_Se_Sohna_Isshq%3E&amp;format=text%2Fcsv">CSV</a></li>
+			<li><a class="dropdown-item" href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FRab_Se_Sohna_Isshq%3E&amp;format=application%2Fjson-ld">JSON-LD</a></li>
+
+		    </ul>
+		</li>
+	    </ul>
+
+	    <ul class="navbar-nav ms-auto">
+		<li class="nav-item">
+		    <a class="nav-link" href="/fct/" title="Switch to /fct endpoint"><i class="bi-box-arrow-up-right"></i> Faceted Browser </a>
+		</li>
+
+		<li class="nav-item">
+		    <a class="nav-link" href="/sparql/" title="Switch to /sparql endpoint"><i class="bi-box-arrow-up-right"></i> Sparql Endpoint </a>
+		</li>
+
+	    </ul>
+	</div>
+   </div>
+</nav>
+<div style="margin-bottom: 60px"></div>
+<!-- /navbar -->
+
+
+<!-- page-header -->
+<section>
+    <div class="container-xl">
+	<div class="row">
+	    <div class="col">
+		<h1 id="title" class="display-6"><b>About:</b>
+		    <a href="http://dbpedia.org/resource/Rab_Se_Sohna_Isshq">Rab Se Sohna Isshq</a>
+		</h1>
+	    </div>
+	</div>
+	<div class="row">
+	    <div class="col">
+		<div class="text-muted">
+		    <span class="text-nowrap">An Entity of Type: <a href="http://dbpedia.org/ontology/TelevisionShow">television show</a>, </span>
+		    <span class="text-nowrap">from Named Graph:  <a href="http://dbpedia.org">http://dbpedia.org</a>, </span>
+		    <span class="text-nowrap">within Data Space: <a href="http://dbpedia.org">dbpedia.org</a></span>
+		</div>
+	    </div>
+	</div>
+	<div class="row pt-2">
+	    <div class="col-xs-9 col-sm-10">
+		<p class="lead">Rab Se Sohna Isshq (English Title: Eternal Love) was an Indian soap opera produced by Jay Mehta's Jay Production, which aired on Zee TV from Monday to Friday. Ashish Sharma played the male lead along with Kanan Malhotra. Ekta Kaul made her debut as the female lead. The show revolves around the love triangle involving the characters played by the three actors with a large part of the story occurring in London. This was the first ever cross continental show in Indian Television.</p>
+	    </div>
+
+	    <div class="col-xs-3 col-sm-2">
+		<a href="#" class="thumbnail">
+		    <img src="http://commons.wikimedia.org/wiki/Special:FilePath/Rab_Se_Sohna_Isshq_Logo.png?width=300" alt="thumbnail" class="img-fluid">
+		</a>
+	    </div>
+
+	</div>
+    </div>
+</section>
+<!-- page-header -->
+
+<!-- property-table -->
+<section>
+    <div class="container-xl">
+	<div class="row">
+	    <div class="table-responsive">
+		<table class="table table-hover table-sm table-light">
+		    <thead>
+			<tr>
+			    <th class="col-xs-3 ">Property</th>
+			    <th class="col-xs-9 px-3">Value</th>
+			</tr>
+		    </thead>
+		    <tbody>
+<tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/abstract"><small>dbo:</small>abstract</a>
+</td><td class="col-10 text-break"><ul>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="ar">سحر الغرام هو مسلسل هندي يحكي قصة فتاة تدعى صيبا التي تحب رانفير لكن في يوم زواجهم يتركها ذاهبا إلى لندن ، وتضطر صيبا للزواج من دالجيت كي تلحق به، ولكنها لا تدرك ان دالجيت يحبها، ومع مرور الوقت صيبا تحبه أيضا. رانفير يقتل شخصا عن طريق الخطأ ويتهم دالجيت بالجريمة، ويذهب إلى صيبا ويخبرها أنها إذا أرادت ان تحرر دالجيت عليها ان تتزوج، فتوافق على طلبه، فيتزوج صيبا ورانفير و يعودان إلى الهند ،و يرجع دالجيت من لندن وهدفه الوحيد هو الانتقام من رانفير. 
+* بوابة لندن 
+* بوابة الهند 
+* بوابة بوليوود 
+* بوابة تلفاز سحرألغرأم</span><small> (ar)</small></span></li>
+	<li><span class="literal"><span property="dbo:abstract" lang="en">Rab Se Sohna Isshq (English Title: Eternal Love) was an Indian soap opera produced by Jay Mehta's Jay Production, which aired on Zee TV from Monday to Friday. Ashish Sharma played the male lead along with Kanan Malhotra. Ekta Kaul made her debut as the female lead. The show revolves around the love triangle involving the characters played by the three actors with a large part of the story occurring in London. This was the first ever cross continental show in Indian Television. The series aired in Iran under the title به نام الهه عشق from 20 September 2014 to 12 February 2015 on the network Gem Bollywood. The show was dubbed into English as Eternal Love and broadcast on Zee World on DSTv channel 166 and was later also aired on Zee TV UK.</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/author"><small>dbo:</small>author</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:author" resource="http://dbpedia.org/resource/Mahesh_Pandey" href="http://dbpedia.org/resource/Mahesh_Pandey"><small>dbr</small>:Mahesh_Pandey</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:author" resource="http://dbpedia.org/resource/Anjum_Abbas" href="http://dbpedia.org/resource/Anjum_Abbas"><small>dbr</small>:Anjum_Abbas</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:author" resource="http://dbpedia.org/resource/Aparajita_Sharma" href="http://dbpedia.org/resource/Aparajita_Sharma"><small>dbr</small>:Aparajita_Sharma</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:author" resource="http://dbpedia.org/resource/Meesha_Gautam" href="http://dbpedia.org/resource/Meesha_Gautam"><small>dbr</small>:Meesha_Gautam</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:author" resource="http://dbpedia.org/resource/Archita_Vishwas" href="http://dbpedia.org/resource/Archita_Vishwas"><small>dbr</small>:Archita_Vishwas</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:author" resource="http://dbpedia.org/resource/Dilip_Jha" href="http://dbpedia.org/resource/Dilip_Jha"><small>dbr</small>:Dilip_Jha</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/company"><small>dbo:</small>company</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:company" resource="http://dbpedia.org/resource/Jay_Production" href="http://dbpedia.org/resource/Jay_Production"><small>dbr</small>:Jay_Production</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/completionDate"><small>dbo:</small>completionDate</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:completionDate" datatype="xsd:date">2013-06-14</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/composer"><small>dbo:</small>composer</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:composer" resource="http://dbpedia.org/resource/Raju_Singh" href="http://dbpedia.org/resource/Raju_Singh"><small>dbr</small>:Raju_Singh</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/country"><small>dbo:</small>country</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:country" resource="http://dbpedia.org/resource/India" href="http://dbpedia.org/resource/India"><small>dbr</small>:India</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/creativeDirector"><small>dbo:</small>creativeDirector</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:creativeDirector" resource="http://dbpedia.org/resource/Mrinal_Tripathi" href="http://dbpedia.org/resource/Mrinal_Tripathi"><small>dbr</small>:Mrinal_Tripathi</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/creator"><small>dbo:</small>creator</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:creator" resource="http://dbpedia.org/resource/Jay_Production" href="http://dbpedia.org/resource/Jay_Production"><small>dbr</small>:Jay_Production</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/director"><small>dbo:</small>director</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:director" resource="http://dbpedia.org/resource/Mohit_K_Jha" href="http://dbpedia.org/resource/Mohit_K_Jha"><small>dbr</small>:Mohit_K_Jha</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:director" resource="http://dbpedia.org/resource/Rohit_Dwiwedi" href="http://dbpedia.org/resource/Rohit_Dwiwedi"><small>dbr</small>:Rohit_Dwiwedi</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/format"><small>dbo:</small>format</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:format" resource="http://dbpedia.org/resource/576i" href="http://dbpedia.org/resource/576i"><small>dbr</small>:576i</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:format" resource="http://dbpedia.org/resource/1080i" href="http://dbpedia.org/resource/1080i"><small>dbr</small>:1080i</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/genre"><small>dbo:</small>genre</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:genre" resource="http://dbpedia.org/resource/Drama" href="http://dbpedia.org/resource/Drama"><small>dbr</small>:Drama</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:genre" resource="http://dbpedia.org/resource/Indian_television_drama" href="http://dbpedia.org/resource/Indian_television_drama"><small>dbr</small>:Indian_television_drama</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/imdbId"><small>dbo:</small>imdbId</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:imdbId">3002496</span></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/language"><small>dbo:</small>language</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:language" resource="http://dbpedia.org/resource/Hindi" href="http://dbpedia.org/resource/Hindi"><small>dbr</small>:Hindi</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:language" resource="http://dbpedia.org/resource/Punjabi_language" href="http://dbpedia.org/resource/Punjabi_language"><small>dbr</small>:Punjabi_language</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:language" resource="http://dbpedia.org/resource/English_language" href="http://dbpedia.org/resource/English_language"><small>dbr</small>:English_language</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/location"><small>dbo:</small>location</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:location" resource="http://dbpedia.org/resource/London" href="http://dbpedia.org/resource/London"><small>dbr</small>:London</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:location" resource="http://dbpedia.org/resource/Punjab" href="http://dbpedia.org/resource/Punjab"><small>dbr</small>:Punjab</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/network"><small>dbo:</small>network</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:network" resource="http://dbpedia.org/resource/Zee_TV" href="http://dbpedia.org/resource/Zee_TV"><small>dbr</small>:Zee_TV</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/numberOfEpisodes"><small>dbo:</small>numberOfEpisodes</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:numberOfEpisodes" datatype="xsd:nonNegativeInteger">232</span><small> (xsd:nonNegativeInteger)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/numberOfSeasons"><small>dbo:</small>numberOfSeasons</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:numberOfSeasons" datatype="xsd:nonNegativeInteger">1</span><small> (xsd:nonNegativeInteger)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/person"><small>dbo:</small>person</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:person" resource="http://dbpedia.org/resource/Ashish_Sharma" href="http://dbpedia.org/resource/Ashish_Sharma"><small>dbr</small>:Ashish_Sharma</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/producer"><small>dbo:</small>producer</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:producer" resource="http://dbpedia.org/resource/Jay_Mehta_(actor)" href="http://dbpedia.org/resource/Jay_Mehta_(actor)"><small>dbr</small>:Jay_Mehta_(actor)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:producer" resource="http://dbpedia.org/resource/Kinnari_Mehta" href="http://dbpedia.org/resource/Kinnari_Mehta"><small>dbr</small>:Kinnari_Mehta</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/releaseDate"><small>dbo:</small>releaseDate</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:releaseDate" datatype="xsd:date">2012-07-16</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/starring"><small>dbo:</small>starring</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/Ekta_Kaul" href="http://dbpedia.org/resource/Ekta_Kaul"><small>dbr</small>:Ekta_Kaul</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/Kanan_Malhotra" href="http://dbpedia.org/resource/Kanan_Malhotra"><small>dbr</small>:Kanan_Malhotra</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:starring" resource="http://dbpedia.org/resource/Ashish_Sharma" href="http://dbpedia.org/resource/Ashish_Sharma"><small>dbr</small>:Ashish_Sharma</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/thumbnail"><small>dbo:</small>thumbnail</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:thumbnail" resource="http://commons.wikimedia.org/wiki/Special:FilePath/Rab_Se_Sohna_Isshq_Logo.png?width=300" href="http://commons.wikimedia.org/wiki/Special:FilePath/Rab_Se_Sohna_Isshq_Logo.png?width=300"><small>wiki-commons</small>:Special:FilePath/Rab_Se_Sohna_Isshq_Logo.png?width=300</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/wikiPageExternalLink"><small>dbo:</small>wikiPageExternalLink</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageExternalLink nofollow" resource="https://www.zee5.com/tvshows/details/rab-se-sohna-isshq/0-6-452" href="https://www.zee5.com/tvshows/details/rab-se-sohna-isshq/0-6-452">https://www.zee5.com/tvshows/details/rab-se-sohna-isshq/0-6-452</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageExternalLink nofollow" resource="http://www.zeetv.com/shows/rab-se-sohna-isshq" href="http://www.zeetv.com/shows/rab-se-sohna-isshq">http://www.zeetv.com/shows/rab-se-sohna-isshq</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageExternalLink nofollow" resource="http://www.zeetv.com/shows/rab-se-sohna-isshq/" href="http://www.zeetv.com/shows/rab-se-sohna-isshq/">http://www.zeetv.com/shows/rab-se-sohna-isshq/</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/wikiPageID"><small>dbo:</small>wikiPageID</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:wikiPageID" datatype="xsd:integer">36221543</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/wikiPageLength"><small>dbo:</small>wikiPageLength</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:wikiPageLength" datatype="xsd:nonNegativeInteger">9302</span><small> (xsd:nonNegativeInteger)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/wikiPageRevisionID"><small>dbo:</small>wikiPageRevisionID</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbo:wikiPageRevisionID" datatype="xsd:integer">1055040408</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/ontology/wikiPageWikiLink"><small>dbo:</small>wikiPageWikiLink</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Zee_TV" href="http://dbpedia.org/resource/Zee_TV"><small>dbr</small>:Zee_TV</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Aryan_Vaid" href="http://dbpedia.org/resource/Aryan_Vaid"><small>dbr</small>:Aryan_Vaid</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:Television_shows_shot_in_London" href="http://dbpedia.org/resource/Category:Television_shows_shot_in_London"><small>dbc</small>:Television_shows_shot_in_London</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:Zee_TV_original_programming" href="http://dbpedia.org/resource/Category:Zee_TV_original_programming"><small>dbc</small>:Zee_TV_original_programming</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:2012_Indian_television_series_debuts" href="http://dbpedia.org/resource/Category:2012_Indian_television_series_debuts"><small>dbc</small>:2012_Indian_television_series_debuts</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Ekta_Kaul" href="http://dbpedia.org/resource/Ekta_Kaul"><small>dbr</small>:Ekta_Kaul</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Kanan_Malhotra" href="http://dbpedia.org/resource/Kanan_Malhotra"><small>dbr</small>:Kanan_Malhotra</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Hindi" href="http://dbpedia.org/resource/Hindi"><small>dbr</small>:Hindi</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/India" href="http://dbpedia.org/resource/India"><small>dbr</small>:India</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Iran" href="http://dbpedia.org/resource/Iran"><small>dbr</small>:Iran</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/London" href="http://dbpedia.org/resource/London"><small>dbr</small>:London</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Category:Television_shows_set_in_London" href="http://dbpedia.org/resource/Category:Television_shows_set_in_London"><small>dbc</small>:Television_shows_set_in_London</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Standard-definition_television" href="http://dbpedia.org/resource/Standard-definition_television"><small>dbr</small>:Standard-definition_television</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Zee_World" href="http://dbpedia.org/resource/Zee_World"><small>dbr</small>:Zee_World</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/High-definition_television" href="http://dbpedia.org/resource/High-definition_television"><small>dbr</small>:High-definition_television</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Punjab" href="http://dbpedia.org/resource/Punjab"><small>dbr</small>:Punjab</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Punjabi_language" href="http://dbpedia.org/resource/Punjabi_language"><small>dbr</small>:Punjabi_language</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Sukirti_Kandpal" href="http://dbpedia.org/resource/Sukirti_Kandpal"><small>dbr</small>:Sukirti_Kandpal</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jass_Bhatia" href="http://dbpedia.org/resource/Jass_Bhatia"><small>dbr</small>:Jass_Bhatia</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Neha_Janpandit" href="http://dbpedia.org/resource/Neha_Janpandit"><small>dbr</small>:Neha_Janpandit</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Raju_Singh" href="http://dbpedia.org/resource/Raju_Singh"><small>dbr</small>:Raju_Singh</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/DStv" href="http://dbpedia.org/resource/DStv"><small>dbr</small>:DStv</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/576i" href="http://dbpedia.org/resource/576i"><small>dbr</small>:576i</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jay_Production" href="http://dbpedia.org/resource/Jay_Production"><small>dbr</small>:Jay_Production</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Drama" href="http://dbpedia.org/resource/Drama"><small>dbr</small>:Drama</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Indian_television_drama" href="http://dbpedia.org/resource/Indian_television_drama"><small>dbr</small>:Indian_television_drama</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Pramod_Moutho" href="http://dbpedia.org/resource/Pramod_Moutho"><small>dbr</small>:Pramod_Moutho</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Ekroop_Bedi" href="http://dbpedia.org/resource/Ekroop_Bedi"><small>dbr</small>:Ekroop_Bedi</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Riyanka_Chanda" href="http://dbpedia.org/resource/Riyanka_Chanda"><small>dbr</small>:Riyanka_Chanda</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/ZEE5" href="http://dbpedia.org/resource/ZEE5"><small>dbr</small>:ZEE5</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Manmeet_Singh" href="http://dbpedia.org/resource/Manmeet_Singh"><small>dbr</small>:Manmeet_Singh</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jodha_Akbar" href="http://dbpedia.org/resource/Jodha_Akbar"><small>dbr</small>:Jodha_Akbar</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/English_language" href="http://dbpedia.org/resource/English_language"><small>dbr</small>:English_language</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Sapne_Suhane_Ladakpan_Ke" href="http://dbpedia.org/resource/Sapne_Suhane_Ladakpan_Ke"><small>dbr</small>:Sapne_Suhane_Ladakpan_Ke</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/1080i" href="http://dbpedia.org/resource/1080i"><small>dbr</small>:1080i</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jamai_Raja_(2014_TV_series)" href="http://dbpedia.org/resource/Jamai_Raja_(2014_TV_series)"><small>dbr</small>:Jamai_Raja_(2014_TV_series)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Target_rating_point" href="http://dbpedia.org/resource/Target_rating_point"><small>dbr</small>:Target_rating_point</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Mansi_Srivastava" href="http://dbpedia.org/resource/Mansi_Srivastava"><small>dbr</small>:Mansi_Srivastava</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Mahesh_Pandey" href="http://dbpedia.org/resource/Mahesh_Pandey"><small>dbr</small>:Mahesh_Pandey</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jay_Mehta_(actor)" href="http://dbpedia.org/resource/Jay_Mehta_(actor)"><small>dbr</small>:Jay_Mehta_(actor)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Ashish_Sharma" href="http://dbpedia.org/resource/Ashish_Sharma"><small>dbr</small>:Ashish_Sharma</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Anjum_Abbas" href="http://dbpedia.org/resource/Anjum_Abbas"><small>dbr</small>:Anjum_Abbas</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Aparajita_Sharma" href="http://dbpedia.org/resource/Aparajita_Sharma"><small>dbr</small>:Aparajita_Sharma</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Kinnari_Mehta" href="http://dbpedia.org/resource/Kinnari_Mehta"><small>dbr</small>:Kinnari_Mehta</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Meesha_Gautam" href="http://dbpedia.org/resource/Meesha_Gautam"><small>dbr</small>:Meesha_Gautam</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Mohit_K_Jha" href="http://dbpedia.org/resource/Mohit_K_Jha"><small>dbr</small>:Mohit_K_Jha</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Mrinal_Tripathi" href="http://dbpedia.org/resource/Mrinal_Tripathi"><small>dbr</small>:Mrinal_Tripathi</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Rohit_Dwiwedi" href="http://dbpedia.org/resource/Rohit_Dwiwedi"><small>dbr</small>:Rohit_Dwiwedi</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Archita_Vishwas" href="http://dbpedia.org/resource/Archita_Vishwas"><small>dbr</small>:Archita_Vishwas</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Dilip_Jha" href="http://dbpedia.org/resource/Dilip_Jha"><small>dbr</small>:Dilip_Jha</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Roshaan_Khan" href="http://dbpedia.org/resource/Roshaan_Khan"><small>dbr</small>:Roshaan_Khan</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/caption"><small>dbp:</small>caption</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:caption" lang="en">Logo Of Rab Se Sohna Isshq</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/cinematography"><small>dbp:</small>cinematography</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:cinematography" resource="http://dbpedia.org/resource/Ashish_Sharma" href="http://dbpedia.org/resource/Ashish_Sharma"><small>dbr</small>:Ashish_Sharma</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/company"><small>dbp:</small>company</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:company" resource="http://dbpedia.org/resource/Jay_Production" href="http://dbpedia.org/resource/Jay_Production"><small>dbr</small>:Jay_Production</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/composer"><small>dbp:</small>composer</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:composer" resource="http://dbpedia.org/resource/Raju_Singh" href="http://dbpedia.org/resource/Raju_Singh"><small>dbr</small>:Raju_Singh</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/country"><small>dbp:</small>country</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:country" resource="http://dbpedia.org/resource/India" href="http://dbpedia.org/resource/India"><small>dbr</small>:India</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/creativeDirector"><small>dbp:</small>creativeDirector</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:creativeDirector" resource="http://dbpedia.org/resource/Mrinal_Tripathi" href="http://dbpedia.org/resource/Mrinal_Tripathi"><small>dbr</small>:Mrinal_Tripathi</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/creator"><small>dbp:</small>creator</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:creator" resource="http://dbpedia.org/resource/Jay_Production" href="http://dbpedia.org/resource/Jay_Production"><small>dbr</small>:Jay_Production</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/director"><small>dbp:</small>director</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:director" resource="http://dbpedia.org/resource/Mohit_K_Jha" href="http://dbpedia.org/resource/Mohit_K_Jha"><small>dbr</small>:Mohit_K_Jha</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:director" resource="http://dbpedia.org/resource/Rohit_Dwiwedi" href="http://dbpedia.org/resource/Rohit_Dwiwedi"><small>dbr</small>:Rohit_Dwiwedi</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/firstAired"><small>dbp:</small>firstAired</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:firstAired" datatype="xsd:date">2012-07-16</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/genre"><small>dbp:</small>genre</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:genre" resource="http://dbpedia.org/resource/Drama" href="http://dbpedia.org/resource/Drama"><small>dbr</small>:Drama</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:genre" resource="http://dbpedia.org/resource/Indian_television_drama" href="http://dbpedia.org/resource/Indian_television_drama"><small>dbr</small>:Indian_television_drama</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/imageSize"><small>dbp:</small>imageSize</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:imageSize" datatype="xsd:integer">150</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/language"><small>dbp:</small>language</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:language" resource="http://dbpedia.org/resource/Hindi" href="http://dbpedia.org/resource/Hindi"><small>dbr</small>:Hindi</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:language" resource="http://dbpedia.org/resource/Punjabi_language" href="http://dbpedia.org/resource/Punjabi_language"><small>dbr</small>:Punjabi_language</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:language" resource="http://dbpedia.org/resource/English_language" href="http://dbpedia.org/resource/English_language"><small>dbr</small>:English_language</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/lastAired"><small>dbp:</small>lastAired</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:lastAired" datatype="xsd:date">2013-06-14</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/location"><small>dbp:</small>location</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:location" resource="http://dbpedia.org/resource/Punjab" href="http://dbpedia.org/resource/Punjab"><small>dbr</small>:Punjab</a></span></li>
+	<li><span class="literal"><span property="dbp:location" lang="en">London</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/name"><small>dbp:</small>name</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:name" lang="en">Rab Se Sona Isshq</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/network"><small>dbp:</small>network</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:network" resource="http://dbpedia.org/resource/Zee_TV" href="http://dbpedia.org/resource/Zee_TV"><small>dbr</small>:Zee_TV</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/numEpisodes"><small>dbp:</small>numEpisodes</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:numEpisodes" datatype="xsd:integer">232</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/numSeasons"><small>dbp:</small>numSeasons</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:numSeasons" datatype="xsd:integer">1</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/pictureFormat"><small>dbp:</small>pictureFormat</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><span property="dbp:pictureFormat" datatype="xsd:integer">576</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:pictureFormat" datatype="xsd:integer">1080</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/producer"><small>dbp:</small>producer</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:producer" resource="http://dbpedia.org/resource/Jay_Mehta_(actor)" href="http://dbpedia.org/resource/Jay_Mehta_(actor)"><small>dbr</small>:Jay_Mehta_(actor)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:producer" resource="http://dbpedia.org/resource/Kinnari_Mehta" href="http://dbpedia.org/resource/Kinnari_Mehta"><small>dbr</small>:Kinnari_Mehta</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/starring"><small>dbp:</small>starring</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:starring" resource="http://dbpedia.org/resource/Ekta_Kaul" href="http://dbpedia.org/resource/Ekta_Kaul"><small>dbr</small>:Ekta_Kaul</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:starring" resource="http://dbpedia.org/resource/Kanan_Malhotra" href="http://dbpedia.org/resource/Kanan_Malhotra"><small>dbr</small>:Kanan_Malhotra</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:starring" resource="http://dbpedia.org/resource/Ashish_Sharma" href="http://dbpedia.org/resource/Ashish_Sharma"><small>dbr</small>:Ashish_Sharma</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/website"><small>dbp:</small>website</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:website nofollow" resource="http://www.zeetv.com/shows/rab-se-sohna-isshq" href="http://www.zeetv.com/shows/rab-se-sohna-isshq">http://www.zeetv.com/shows/rab-se-sohna-isshq</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/wikiPageUsesTemplate"><small>dbp:</small>wikiPageUsesTemplate</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Commons_category" href="http://dbpedia.org/resource/Template:Commons_category"><small>dbt</small>:Commons_category</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:End_date" href="http://dbpedia.org/resource/Template:End_date"><small>dbt</small>:End_date</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:IMDb_title" href="http://dbpedia.org/resource/Template:IMDb_title"><small>dbt</small>:IMDb_title</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Infobox_television" href="http://dbpedia.org/resource/Template:Infobox_television"><small>dbt</small>:Infobox_television</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Reflist" href="http://dbpedia.org/resource/Template:Reflist"><small>dbt</small>:Reflist</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Start_date" href="http://dbpedia.org/resource/Template:Start_date"><small>dbt</small>:Start_date</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Use_Indian_English" href="http://dbpedia.org/resource/Template:Use_Indian_English"><small>dbt</small>:Use_Indian_English</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Use_dmy_dates" href="http://dbpedia.org/resource/Template:Use_dmy_dates"><small>dbt</small>:Use_dmy_dates</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" resource="http://dbpedia.org/resource/Template:Zee_TV_Programmes" href="http://dbpedia.org/resource/Template:Zee_TV_Programmes"><small>dbt</small>:Zee_TV_Programmes</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://dbpedia.org/property/writer"><small>dbp:</small>writer</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:writer" resource="http://dbpedia.org/resource/Mahesh_Pandey" href="http://dbpedia.org/resource/Mahesh_Pandey"><small>dbr</small>:Mahesh_Pandey</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:writer" resource="http://dbpedia.org/resource/Anjum_Abbas" href="http://dbpedia.org/resource/Anjum_Abbas"><small>dbr</small>:Anjum_Abbas</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:writer" resource="http://dbpedia.org/resource/Aparajita_Sharma" href="http://dbpedia.org/resource/Aparajita_Sharma"><small>dbr</small>:Aparajita_Sharma</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:writer" resource="http://dbpedia.org/resource/Meesha_Gautam" href="http://dbpedia.org/resource/Meesha_Gautam"><small>dbr</small>:Meesha_Gautam</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:writer" resource="http://dbpedia.org/resource/Archita_Vishwas" href="http://dbpedia.org/resource/Archita_Vishwas"><small>dbr</small>:Archita_Vishwas</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:writer" resource="http://dbpedia.org/resource/Dilip_Jha" href="http://dbpedia.org/resource/Dilip_Jha"><small>dbr</small>:Dilip_Jha</a></span></li>
+	<li><span class="literal"><span property="dbp:writer" lang="en">Divya Nidhi Sharma</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:writer" lang="en">Priya Ramanathan</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://purl.org/dc/terms/subject"><small>dct:</small>subject</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:Television_shows_shot_in_London" href="http://dbpedia.org/resource/Category:Television_shows_shot_in_London"><small>dbc</small>:Television_shows_shot_in_London</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:Zee_TV_original_programming" href="http://dbpedia.org/resource/Category:Zee_TV_original_programming"><small>dbc</small>:Zee_TV_original_programming</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:2012_Indian_television_series_debuts" href="http://dbpedia.org/resource/Category:2012_Indian_television_series_debuts"><small>dbc</small>:2012_Indian_television_series_debuts</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" resource="http://dbpedia.org/resource/Category:Television_shows_set_in_London" href="http://dbpedia.org/resource/Category:Television_shows_set_in_London"><small>dbc</small>:Television_shows_set_in_London</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://purl.org/linguistics/gold/hypernym"><small>gold:</small>hypernym</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="gold:hypernym" resource="http://dbpedia.org/resource/Opera" prefix="gold: http://purl.org/linguistics/gold/" href="http://dbpedia.org/resource/Opera"><small>dbr</small>:Opera</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"><small>rdf:</small>type</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://www.w3.org/2002/07/owl#Thing" href="http://www.w3.org/2002/07/owl#Thing"><small>owl</small>:Thing</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://schema.org/CreativeWork" href="http://schema.org/CreativeWork"><small>schema</small>:CreativeWork</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/ontology/Work" href="http://dbpedia.org/ontology/Work"><small>dbo</small>:Work</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://www.wikidata.org/entity/Q15416" href="http://www.wikidata.org/entity/Q15416"><small>wikidata</small>:Q15416</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://www.wikidata.org/entity/Q386724" href="http://www.wikidata.org/entity/Q386724"><small>wikidata</small>:Q386724</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/ontology/TelevisionShow" href="http://dbpedia.org/ontology/TelevisionShow"><small>dbo</small>:TelevisionShow</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Artifact100021939" href="http://dbpedia.org/class/yago/Artifact100021939"><small>yago</small>:Artifact100021939</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Broadcasting106276697" href="http://dbpedia.org/class/yago/Broadcasting106276697"><small>yago</small>:Broadcasting106276697</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Instrumentality103575240" href="http://dbpedia.org/class/yago/Instrumentality103575240"><small>yago</small>:Instrumentality103575240</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Medium106254669" href="http://dbpedia.org/class/yago/Medium106254669"><small>yago</small>:Medium106254669</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Object100002684" href="http://dbpedia.org/class/yago/Object100002684"><small>yago</small>:Object100002684</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" href="http://dbpedia.org/class/yago/PhysicalEntity100001930"><small>yago</small>:PhysicalEntity100001930</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Telecommunication106271778" href="http://dbpedia.org/class/yago/Telecommunication106271778"><small>yago</small>:Telecommunication106271778</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Television106277280" href="http://dbpedia.org/class/yago/Television106277280"><small>yago</small>:Television106277280</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" resource="http://dbpedia.org/class/yago/Whole100003553" href="http://dbpedia.org/class/yago/Whole100003553"><small>yago</small>:Whole100003553</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://www.w3.org/2000/01/rdf-schema#comment"><small>rdfs:</small>comment</a>
+</td><td class="col-10 text-break"><ul>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="ar">سحر الغرام هو مسلسل هندي يحكي قصة فتاة تدعى صيبا التي تحب رانفير لكن في يوم زواجهم يتركها ذاهبا إلى لندن ، وتضطر صيبا للزواج من دالجيت كي تلحق به، ولكنها لا تدرك ان دالجيت يحبها، ومع مرور الوقت صيبا تحبه أيضا. رانفير يقتل شخصا عن طريق الخطأ ويتهم دالجيت بالجريمة، ويذهب إلى صيبا ويخبرها أنها إذا أرادت ان تحرر دالجيت عليها ان تتزوج، فتوافق على طلبه، فيتزوج صيبا ورانفير و يعودان إلى الهند ،و يرجع دالجيت من لندن وهدفه الوحيد هو الانتقام من رانفير. 
+* بوابة لندن 
+* بوابة الهند 
+* بوابة بوليوود 
+* بوابة تلفاز سحرألغرأم</span><small> (ar)</small></span></li>
+	<li><span class="literal"><span property="rdfs:comment" lang="en">Rab Se Sohna Isshq (English Title: Eternal Love) was an Indian soap opera produced by Jay Mehta's Jay Production, which aired on Zee TV from Monday to Friday. Ashish Sharma played the male lead along with Kanan Malhotra. Ekta Kaul made her debut as the female lead. The show revolves around the love triangle involving the characters played by the three actors with a large part of the story occurring in London. This was the first ever cross continental show in Indian Television.</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://www.w3.org/2000/01/rdf-schema#label"><small>rdfs:</small>label</a>
+</td><td class="col-10 text-break"><ul>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="ar">سحر الغرام (مسلسل هندي)</span><small> (ar)</small></span></li>
+	<li><span class="literal"><span property="rdfs:label" lang="en">Rab Se Sohna Isshq</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://www.w3.org/2002/07/owl#sameAs"><small>owl:</small>sameAs</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://rdf.freebase.com/ns/m.0k0k6d6" href="http://rdf.freebase.com/ns/m.0k0k6d6"><small>freebase</small>:Rab Se Sohna Isshq</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://www.wikidata.org/entity/Q7278463" href="http://www.wikidata.org/entity/Q7278463"><small>wikidata</small>:Rab Se Sohna Isshq</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://ar.dbpedia.org/resource/سحر_الغرام_(مسلسل_هندي)" href="http://ar.dbpedia.org/resource/سحر_الغرام_(مسلسل_هندي)"><small>dbpedia-ar</small>:Rab Se Sohna Isshq</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="http://hi.dbpedia.org/resource/रब_से_सोणा_इश्‍क" href="http://hi.dbpedia.org/resource/रब_से_सोणा_इश्‍क">http://hi.dbpedia.org/resource/रब_से_सोणा_इश्‍क</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" resource="https://global.dbpedia.org/id/4twwQ" href="https://global.dbpedia.org/id/4twwQ">https://global.dbpedia.org/id/4twwQ</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://www.w3.org/ns/prov#wasDerivedFrom"><small>prov:</small>wasDerivedFrom</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="prov:wasDerivedFrom" resource="http://en.wikipedia.org/wiki/Rab_Se_Sohna_Isshq?oldid=1055040408&amp;ns=0" href="http://en.wikipedia.org/wiki/Rab_Se_Sohna_Isshq?oldid=1055040408&amp;ns=0"><small>wikipedia-en</small>:Rab_Se_Sohna_Isshq?oldid=1055040408&amp;ns=0</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://xmlns.com/foaf/0.1/depiction"><small>foaf:</small>depiction</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="foaf:depiction" resource="http://commons.wikimedia.org/wiki/Special:FilePath/Rab_Se_Sohna_Isshq_Logo.png" href="http://commons.wikimedia.org/wiki/Special:FilePath/Rab_Se_Sohna_Isshq_Logo.png"><small>wiki-commons</small>:Special:FilePath/Rab_Se_Sohna_Isshq_Logo.png</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2"><a class="uri" href="http://xmlns.com/foaf/0.1/homepage"><small>foaf:</small>homepage</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="foaf:homepage nofollow" resource="http://www.zeetv.com/shows/rab-se-sohna-isshq" href="http://www.zeetv.com/shows/rab-se-sohna-isshq">http://www.zeetv.com/shows/rab-se-sohna-isshq</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2"><a class="uri" href="http://xmlns.com/foaf/0.1/isPrimaryTopicOf"><small>foaf:</small>isPrimaryTopicOf</a>
+</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rel="foaf:isPrimaryTopicOf" resource="http://en.wikipedia.org/wiki/Rab_Se_Sohna_Isshq" href="http://en.wikipedia.org/wiki/Rab_Se_Sohna_Isshq"><small>wikipedia-en</small>:Rab_Se_Sohna_Isshq</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2">is <a class="uri" href="http://dbpedia.org/ontology/wikiPageRedirects"><small>dbo:</small>wikiPageRedirects</a>
+ of</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" resource="http://dbpedia.org/resource/Rab_Se_Sona_Ishq" href="http://dbpedia.org/resource/Rab_Se_Sona_Ishq"><small>dbr</small>:Rab_Se_Sona_Ishq</a></span></li>
+</ul></td></tr><tr class="odd"><td class="col-2">is <a class="uri" href="http://dbpedia.org/ontology/wikiPageWikiLink"><small>dbo:</small>wikiPageWikiLink</a>
+ of</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Aryan_Vaid" href="http://dbpedia.org/resource/Aryan_Vaid"><small>dbr</small>:Aryan_Vaid</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Ginnie_Virdi" href="http://dbpedia.org/resource/Ginnie_Virdi"><small>dbr</small>:Ginnie_Virdi</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_Indian_television_actresses" href="http://dbpedia.org/resource/List_of_Indian_television_actresses"><small>dbr</small>:List_of_Indian_television_actresses</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Ekta_Kaul" href="http://dbpedia.org/resource/Ekta_Kaul"><small>dbr</small>:Ekta_Kaul</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Kanan_Malhotra" href="http://dbpedia.org/resource/Kanan_Malhotra"><small>dbr</small>:Kanan_Malhotra</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Zee_Nepal" href="http://dbpedia.org/resource/Zee_Nepal"><small>dbr</small>:Zee_Nepal</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Sukirti_Kandpal" href="http://dbpedia.org/resource/Sukirti_Kandpal"><small>dbr</small>:Sukirti_Kandpal</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jass_Bhatia" href="http://dbpedia.org/resource/Jass_Bhatia"><small>dbr</small>:Jass_Bhatia</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Neha_Janpandit" href="http://dbpedia.org/resource/Neha_Janpandit"><small>dbr</small>:Neha_Janpandit</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Jay_Production" href="http://dbpedia.org/resource/Jay_Production"><small>dbr</small>:Jay_Production</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Himmanshoo_A._Malhotra" href="http://dbpedia.org/resource/Himmanshoo_A._Malhotra"><small>dbr</small>:Himmanshoo_A._Malhotra</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Pramod_Moutho" href="http://dbpedia.org/resource/Pramod_Moutho"><small>dbr</small>:Pramod_Moutho</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Ekroop_Bedi" href="http://dbpedia.org/resource/Ekroop_Bedi"><small>dbr</small>:Ekroop_Bedi</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Gold_Award_for_Debut_in_a_Lead_Role_(Female)" href="http://dbpedia.org/resource/Gold_Award_for_Debut_in_a_Lead_Role_(Female)"><small>dbr</small>:Gold_Award_for_Debut_in_a_Lead_Role_(Female)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Indian_Telly_Award_for_Fresh_New_Face_-_Female" href="http://dbpedia.org/resource/Indian_Telly_Award_for_Fresh_New_Face_-_Female"><small>dbr</small>:Indian_Telly_Award_for_Fresh_New_Face_-_Female</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Suman_Shashi_Kant" href="http://dbpedia.org/resource/Suman_Shashi_Kant"><small>dbr</small>:Suman_Shashi_Kant</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Love_by_Chance_(Indian_TV_series)" href="http://dbpedia.org/resource/Love_by_Chance_(Indian_TV_series)"><small>dbr</small>:Love_by_Chance_(Indian_TV_series)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Mansi_Srivastava" href="http://dbpedia.org/resource/Mansi_Srivastava"><small>dbr</small>:Mansi_Srivastava</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/List_of_programmes_broadcast_by_Zee_TV" href="http://dbpedia.org/resource/List_of_programmes_broadcast_by_Zee_TV"><small>dbr</small>:List_of_programmes_broadcast_by_Zee_TV</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Ashish_Sharma" href="http://dbpedia.org/resource/Ashish_Sharma"><small>dbr</small>:Ashish_Sharma</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" resource="http://dbpedia.org/resource/Rab_Se_Sona_Ishq" href="http://dbpedia.org/resource/Rab_Se_Sona_Ishq"><small>dbr</small>:Rab_Se_Sona_Ishq</a></span></li>
+</ul></td></tr><tr class="even"><td class="col-2">is <a class="uri" href="http://xmlns.com/foaf/0.1/primaryTopic"><small>foaf:</small>primaryTopic</a>
+ of</td><td class="col-10 text-break"><ul>
+	<li><span class="literal"><a class="uri" rev="foaf:primaryTopic" resource="http://en.wikipedia.org/wiki/Rab_Se_Sohna_Isshq" href="http://en.wikipedia.org/wiki/Rab_Se_Sohna_Isshq"><small>wikipedia-en</small>:Rab_Se_Sohna_Isshq</a></span></li>
+</ul></td></tr>
+		    </tbody>
+		</table>
+	    </div>
+	</div>
+    </div>
+</section>
+<!-- property-table -->
+
+<!-- footer -->
+<section>
+    <div class="container-xl">
+	<div class="text-center p-4 bg-light">
+	    <a href="https://virtuoso.openlinksw.com/" title="OpenLink Virtuoso"><img class="powered_by" src="/statics/images/virt_power_no_border.png" alt="Powered by OpenLink Virtuoso"></a>&nbsp; &nbsp;
+	    <a href="http://linkeddata.org/"><img alt="This material is Open Knowledge" src="/statics/images/LoDLogo.gif"></a> &nbsp; &nbsp;
+	    <a href="http://dbpedia.org/sparql"><img alt="W3C Semantic Web Technology" src="/statics/images/sw-sparql-blue.png"></a> &nbsp;  &nbsp;
+	    <a href="https://opendefinition.org/"><img alt="This material is Open Knowledge" src="/statics/images/od_80x15_red_green.png"></a>&nbsp; &nbsp;
+	    <span style="display:none;" about="" resource="http://www.w3.org/TR/rdfa-syntax" rel="dc:conformsTo">
+		<a href="https://validator.w3.org/check?uri=referer">
+		    <img src="https://www.w3.org/Icons/valid-xhtml-rdfa" alt="Valid XHTML + RDFa">
+		</a>
+	    </span>
+	    <br>
+	    <small class="text-muted">
+		This content was extracted from <a href="http://en.wikipedia.org/wiki/Rab_Se_Sohna_Isshq">Wikipedia</a> and is licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>
+
+	    </small>
+	</div>
+    </div>
+</section>
+<!-- #footer -->
+
+<!-- scripts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/js/bootstrap.bundle.min.js" integrity="sha512-pax4MlgXjHEPfCwcJLQhigY7+N8rt6bVvWLFyUMuxShv170X53TRzGPmPkZmGBhk+jikR8WBM4yl7A9WMHHqvg==" crossorigin="anonymous">
+    </script>
+
+
+</body></html>
