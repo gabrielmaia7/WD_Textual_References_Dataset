@@ -81,6 +81,7 @@ class CachedWikidataAPI():
         if non_language_set:
             all_labels = list(labels.keys())
             if len(all_labels)>0:
+                # get first language not in the set
                 return (labels[all_labels[0]]['value'], all_labels[0])
         return ('no-label', 'none')
     
