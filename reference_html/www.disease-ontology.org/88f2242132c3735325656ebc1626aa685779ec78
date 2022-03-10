@@ -1,0 +1,161 @@
+<html><head>
+    <title>None</title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+    <!--[if IE]>
+    <link rel="stylesheet" type="text/css" href="/media/css/content.ie.css" media="screen,projection" />
+    <![endif]-->
+
+    <!--[if !IE]><!-->
+    <link rel="stylesheet" type="text/css" href="/media/css/content.css" media="screen,projection">
+    <!--<![endif]-->
+
+    <link rel="stylesheet" type="text/css" href="/media/css/bx_styles.css" media="screen,projection">
+
+    <script src="/media/javascript/jquery.js" type="text/javascript"></script>
+    <script src="/media/javascript/jquery.tools.min.js" type="text/javascript"></script>
+    <script src="/media/javascript/jquery.bxSlider.min.js" type="text/javascript"></script>
+    <script src="/media/javascript/content.js?ver=1" type="text/javascript"></script>
+        
+    
+  <script type="text/javascript">(function(){(window.hostMIF = parent.document.getElementById("ext-gen66").ownerCt)._windowContext={eval:function(s){return new Function("return ("+s+")")();}};})()</script></head>
+  <body class="term-body" id="ext-gen70">
+    
+    
+        <div id="meta-container">
+            <!-- <a href="" class="blue-button" id=""> -->
+                
+                <a href="#" class="button" id="arbor_button">
+                    <span id="6645_campylobacteriosis" class="visualize">Visualize</span>
+                </a>
+                <!-- <a href="/outreach/contact-us?termId=DOID:13622" class="button" id="submit_comment"> -->
+                <a target="_blank" href="/outreach/contact-us?termId=DOID:13622" class="button" id="submit_comment">
+                    <span id="submit_comment_DOID:13622">Submit Comment</span>
+                </a>
+
+            <table id="metadata">
+                <colgroup>
+                    <col class="key-col">
+                </colgroup>
+                <thead id="meta-header">
+                    <tr>
+                        <th id="tbl-header">Metadata</th>
+                    </tr>                    
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="field-label">ID</td>
+                        <td class="meta-val">DOID:13622</td>
+                    </tr>
+                    <tr>
+                        <td class="field-label">Name</td>
+                        <td class="meta-val">campylobacteriosis</td>
+                    </tr>
+                    
+                        <tr>
+                            <td class="field-label">Definition</td>
+                            <td class="meta-val">A primary bacterial infectious disease that results_in infection located_in intestine, has_material_basis_in Campylobacter jejuni, which is transmitted_by ingestion of contaminated food or water or transmitted_by contact with infected people or animals. The infection has_symptom diarrhea or has_symptom dysentery, has_symptom abdominal cramps and pain, and has_symptom fever. <br> <a target="_blank" href="http://en.wikipedia.org/wiki/Campylobacteriosis">http://en.wikipedia.org/wiki/Campylobacteriosis</a>, <a target="_blank" href="http://www.health.state.ny.us/diseases/communicable/campylobacteriosis/fact_sheet.htm">http://www.health.state.ny.us/diseases/communicable/campylobacteriosis/fact_sheet.htm</a></td>
+                        </tr>
+                    
+                    
+                        <tr>
+                            <td class="field-label"> Xrefs</td>
+                            <td>
+                                
+                                    
+                                        
+                                        <p class="attr-row"><a target="_blank" href="https://meshb.nlm.nih.gov/record/ui?ui=D002169">MESH:D002169</a></p>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        <p class="attr-row">SNOMEDCT_US_2021_09_01:86500004</p>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        <p class="attr-row"><a target="_blank" href="https://uts.nlm.nih.gov/uts/umls/concept/C0006818">UMLS_CUI:C0006818</a></p>
+                                        
+                                    
+                                
+                            </td>
+                        </tr><tr>
+                    
+                        </tr><tr>
+                            <td class="field-label"> Alternateids</td>
+                            <td>
+                                
+                                    
+                                        
+                                            
+                                            <p class="attr-row">DOID:13621</p>
+                                            
+                                        
+                                    
+                                
+                            </td>
+                        </tr><tr>
+                    
+                        </tr><tr>
+                            <td class="field-label"> Subsets</td>
+                            <td>
+                                
+                                    
+                                        
+                                            
+                                            <p class="attr-row">gram-negative_bacterial_infectious_disease</p>
+                                            
+                                        
+                                    
+                                
+                            </td>
+                        </tr><tr>
+                    
+                        </tr><tr>
+                            <td class="field-label"> Synonyms</td>
+                            <td>
+                                
+                                     
+                                        <p class="attr-row">Campylobacteriosis [EXACT]</p>
+                                    
+                                
+                            </td>
+                        </tr><tr>
+                    
+        
+                    
+                        </tr><tr>
+                            <td class="field-label">Parent Relationships</td>
+                            <td>
+                            
+                                <p class="attr-row">is_a <a href="/term/DOID:2326/obo" class="rel-link" id="DOID:2326">gastroenteritis</a></p>
+                            
+                                <p class="attr-row">is_a <a href="/term/DOID:104/obo" class="rel-link" id="DOID:104">bacterial infectious disease</a></p>
+                            
+                            </td>
+                         </tr>
+                    
+                    
+                    
+
+
+                    
+
+                    
+                    
+                    <!-- Tracker link -->
+                </tbody>
+            </table>    
+            <div id="tracker_div">
+                <span id="tracker"><a target="_blank" href="https://github.com/DiseaseOntology/HumanDiseaseOntology/issues">Add an item to the term tracker</a><a></a></span><a>     
+            </a></div><a>                
+        </a></div><a>
+        <p></p>
+        <p></p>
+            
+
+  
+
+</a></body></html>

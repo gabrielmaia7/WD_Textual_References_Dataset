@@ -1,0 +1,1064 @@
+<html xmlns="https://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+        
+        
+            
+            
+        
+        
+            
+            
+        
+        
+        
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+            <title>sufinpyrazone | Ligand page | IUPHAR/BPS Guide to PHARMACOLOGY</title>
+
+        <meta name="description" content="The IUPHAR/BPS Guide to Pharmacology. sufinpyrazone ligand page.">
+        <link rel="stylesheet" type="text/css" href="css/iuphar.css">
+        <link rel="stylesheet" type="text/css" href="css/grac.css">
+        <link rel="stylesheet" media="screen" href="superfish/css/superfish.css">
+        <link rel="stylesheet" href="css/font-awesome-4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="css/cookiecuttr.css">
+        <link rel="stylesheet" href="css/text.css">
+        <link rel="stylesheet" href="css/960.css">
+        <link rel="stylesheet" href="css/graceq.css">
+        <link rel="stylesheet" href="css/jquery-ui.min.css">
+        <link rel="shortcut icon" href="images/GTP_favicon_lg.ico">
+       
+        <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="js/toggleLayer.js" type="text/javascript"></script>
+       
+       
+        <script type="text/javascript" src="js/common.js"> </script>
+        <script src="js/jquery.min.js"></script>
+        <script src="js/jquery-ui.min.js"></script> 
+        <script src="js/autocomplete.categories.js"></script>
+        <script src="superfish/js/hoverIntent.js"></script> 
+        <script src="superfish/js/superfish.js"></script> 
+        <script src="superfish/js/supersubs.js"></script>
+        
+        <script> 
+            $(document).ready(function(){ 
+                $("ul.sf-menu").supersubs({ 
+                    minWidth:    12,   // minimum width of sub-menus in em units 
+                    maxWidth:    27,   // maximum width of sub-menus in em units 
+                    extraWidth:  1     // extra width can ensure lines don't sometimes turn over 
+                                       // due to slight rounding differences and font-family 
+                }).superfish();  // call supersubs first, then superfish, so that subs are 
+                                 // not display:none when measuring. Call before initialising 
+                                 // containing tabs for same reason. 
+            }); 
+        </script>
+        <script>
+            function loadTreespot(){
+                $('#treespot').show();
+            }
+        </script>
+        <script type="text/javascript" src="js/hideEmptyCols.js"></script>
+        <script type="text/javascript" src="js/jquery.tablesorter.min.js"></script>
+        <script type="text/javascript" src="js/tablesorterChildRow.js"></script>
+        <script type="text/javascript" src="js/tablesorterCustomParser.js"></script>
+        <script src="js/jquery.cookie.js" type="text/javascript"></script>
+        <script src="js/jquery.cookiecuttr.js" type="text/javascript"></script>
+        
+        <script src="js/GA_tracking.js" type="text/javascript"></script>
+        
+        
+    </head>
+    <body>
+        
+            <!-- ========== HEAD SECTION START - DO NOT ADD ANY CONTENT HERE ===================== -->
+            <div class="header">
+                <div id="header">
+              
+                    
+                    
+                    
+                        
+<div class="brandandsearchtest"> 
+<!-- <div class="brandandsearch"> -->
+<div class="newsearchright">
+
+ <form class="newmainsearch" method="get" action="/GRAC/DatabaseSearchForward">
+                
+                    <input type="text" id="quick_search" size="14" maxlength="200" name="searchString" class="ui-autocomplete-input" autocomplete="off">
+                    <input type="hidden" name="searchCategories" value="all">
+                    <input type="hidden" name="species" value="none">
+                    <input type="hidden" name="type" value="all">
+                    <input type="hidden" name="comments" value="includeComments">
+                    <input type="hidden" name="order" value="rank">
+                   <!-- <input type="submit" name="submit" value="Search Database" /> -->
+                    <button type="submit" aria-label="Search button"><i class="fa fa-search"></i></button>
+              
+ </form>
+
+</div>
+<img alt="gtopdb_logo_and_banner_iamge" width="720" style="margin-top:15px;margin-bottom:15px;" src="images/gtopdb_banner_2020.png"> 
+</div>
+<script>
+    $("#quick_search").catcomplete({delay: 300, minLength: 2, source: "/GRAC/autocompleteAll.jsp",
+       focus: function( event, ui ) {
+            // $( "#ligand_text" ).val( ui.item.label );
+            // do nothing on mouse over
+            return false;
+       },
+       select: function( event, ui ) {
+            //window.open(ui.item.value);
+            self.location.href = ui.item.value;
+            return false;
+       }  
+   });
+</script> 
+                                            
+           
+
+                    
+                
+            </div>
+            <!-- =========== END OF HEAD SECTION =================================================== -->
+            
+            <!-- ========== SUPERFISH NAV START ============================================================ -->
+            
+                    
+                            
+                    
+                        <div class="mainnavcont">
+                    
+            
+            
+            
+            <div class="mainnavtext">
+                
+                    
+                    
+                    
+                         <ul id="sample-menu-1" class="sf-menu sf-js-enabled sf-arrows">
+        <li class="current">
+            <a href="/">Home</a>
+        </li>
+        <li>
+            <a href="/about.jsp" class="sf-with-ul">About</a>
+            <ul style="display: none; float: none; width: 22.5em;">
+                <li style="white-space: normal; float: none; width: 100%;"><a href="/about.jsp" style="float: none; width: auto;">About The Guide to PHARMACOLOGY</a></li>
+                <li style="white-space: normal; float: none; width: 100%;"><a href="/nciuphar.jsp" style="float: none; width: auto;">About NC-IUPHAR</a></li>
+                <li style="white-space: normal; float: none; width: 100%;"><a href="/GRAC/ContributorListForward" style="float: none; width: auto;">Contributors</a></li>
+                <li style="white-space: normal; float: none; width: 100%;"><a href="/sponsors.jsp" style="float: none; width: auto;">Sponsors</a></li>
+                <li style="white-space: normal; float: none; width: 100%;"><a href="/citing.jsp" style="float: none; width: auto;">Citing</a></li>
+                <li style="white-space: normal; float: none; width: 100%;"><a href="/linking.jsp" style="float: none; width: auto;">Linking to us</a></li>
+                <li style="white-space: normal; float: none; width: 100%;"><a href="/faq.jsp" style="float: none; width: auto;">FAQ</a></li>
+                <li style="white-space: normal; float: none; width: 100%;"><a href="/disclaimer.jsp" style="float: none; width: auto;">Disclaimer</a></li>
+		<li style="white-space: normal; float: none; width: 100%;"><a href="/privacyPolicy.jsp" style="float: none; width: auto;">Privacy and Cookie Policy</a></li>
+            </ul>
+        </li>
+        <li>
+                <a href="/targets.jsp" class="sf-with-ul">Targets </a>
+                <ul style="display: none; float: none; width: 13.4167em;">
+                    <li style="white-space: normal; float: none; width: 100%;">
+                        <a href="/GRAC/ReceptorFamiliesForward?type=GPCR" style="float: none; width: auto;">GPCRs</a> 
+                    </li>
+                    <li style="white-space: normal; float: none; width: 100%;">
+                        <a href="/GRAC/ReceptorFamiliesForward?type=IC" class="sf-with-ul" style="float: none; width: auto;">Ion channels</a>
+                        <ul style="display: none; left: 100%; float: none; width: 13em;">
+                            <li style="white-space: normal; float: none; width: 100%;"><a href="/GRAC/ReceptorFamiliesForward?type=IC" style="float: none; width: auto;">LGICs</a></li>
+                            <li style="white-space: normal; float: none; width: 100%;"><a href="/GRAC/ReceptorFamiliesForward?type=IC" style="float: none; width: auto;">VGICs</a></li>
+                            <li style="white-space: normal; float: none; width: 100%;"><a href="/GRAC/ReceptorFamiliesForward?type=IC" style="float: none; width: auto;">Other channels</a></li>
+                        </ul>
+                    </li>
+                    <li style="white-space: normal; float: none; width: 100%;">
+                        <a href="/GRAC/ReceptorFamiliesForward?type=NHR" style="float: none; width: auto;">Nuclear receptors</a> 
+                    </li>
+                    <li style="white-space: normal; float: none; width: 100%;">
+                        <a href="/GRAC/FamilyDisplayForward?familyId=698&amp;familyType=ENZYME" style="float: none; width: auto;">Kinases</a>
+                    </li>
+                    <li style="white-space: normal; float: none; width: 100%;">
+                        <a href="/GRAC/ReceptorFamiliesForward?type=CATALYTICRECEPTOR" style="float: none; width: auto;">Catalytic receptors</a>
+                    </li>
+                    <li style="white-space: normal; float: none; width: 100%;">
+                        <a href="/GRAC/ReceptorFamiliesForward?type=TRANSPORTER" style="float: none; width: auto;">Transporters</a>
+                    </li>
+                    <li style="white-space: normal; float: none; width: 100%;">
+                        <a href="/GRAC/ReceptorFamiliesForward?type=ENZYME" style="float: none; width: auto;">Enzymes</a>
+                    </li>
+                    <li style="white-space: normal; float: none; width: 100%;">
+                        <a href="/GRAC/ReceptorFamiliesForward?type=OTHER" style="float: none; width: auto;">Other protein targets</a>
+                    </li>
+                    <li style="white-space: normal; float: none; width: 100%;"><a href="/GRAC/searchPage.jsp" class="sf-with-ul" style="float: none; width: auto;">Target search</a>
+                        <ul style="display: none; left: 100%; float: none; width: 13em;">
+                            <li style="white-space: normal; float: none; width: 100%;"><a href="/GRAC/searchPage.jsp" style="float: none; width: auto;">Target search tools</a></li>
+                            <li style="white-space: normal; float: none; width: 100%;"><a href="/blast" style="float: none; width: auto;">BLAST</a></li>
+                        </ul>
+                    </li>
+                </ul>
+        </li>
+        <li>
+            <a href="/GRAC/LigandListForward?database=all" class="sf-with-ul">Ligands</a>
+            <ul style="display: none; float: none; width: 13em;">
+                <li style="white-space: normal; float: none; width: 100%;"><a href="/GRAC/LigandListForward?database=all" style="float: none; width: auto;">Ligand list</a></li>
+                <li style="white-space: normal; float: none; width: 100%;"><a href="/GRAC/LigandFamiliesForward" style="float: none; width: auto;">Ligand families</a></li>
+                <li style="white-space: normal; float: none; width: 100%;"><a href="/GRAC/chemSearch.jsp" style="float: none; width: auto;">Ligand search</a></li>
+            </ul>
+        </li>
+        <li>
+            <a href="/GRAC/DiseaseListForward">Diseases</a>
+            
+        </li>
+        <li>
+            <a href="/helpPage.jsp" class="sf-with-ul">Resources</a>
+            <ul style="display: none; float: none; width: 21.5em;">
+                <li style="white-space: normal; float: none; width: 100%;"><a href="/helpPage.jsp" style="float: none; width: auto;">Help</a></li>
+                <li style="white-space: normal; float: none; width: 100%;"><a href="/GuidetoPHARMACOLOGY_Tutorial.pdf" target="_blank" onclick="recordEvent(this, 'Other files', 'View PDF', 'Tutorial');return false;" style="float: none; width: auto;">Tutorial</a></li>
+                <li style="white-space: normal; float: none; width: 100%;"><a href="/faq.jsp" style="float: none; width: auto;">FAQ</a></li>
+                <li style="white-space: normal; float: none; width: 100%;"><a href="/pdfs/termsAndSymbols.pdf" target="_blank" onclick="recordEvent(this, 'Other files', 'View PDF', 'Terms and Symbols');return false;" style="float: none; width: auto;">Terms and symbols</a></li>
+                <li style="white-space: normal; float: none; width: 100%;"><a href="/nomenclature.jsp" style="float: none; width: auto;">Nomenclature guidelines</a></li>
+                <li style="white-space: normal; float: none; width: 100%;"><a href="/nciupharPublications.jsp" style="float: none; width: auto;">Publications</a></li>
+                <li style="white-space: normal; float: none; width: 100%;"><a href="/download.jsp" class="sf-with-ul" style="float: none; width: auto;">Downloads</a>
+                    <ul style="display: none; left: 100%; float: none; width: 16.5em;">
+                        <li style="white-space: normal; float: none; width: 100%;"><a href="/download.jsp" style="float: none; width: auto;">Download data and reports</a></li>
+                        <li style="white-space: normal; float: none; width: 100%;"><a href="/webServices.jsp" style="float: none; width: auto;">Web services</a></li>
+                        
+                        <li style="white-space: normal; float: none; width: 100%;"><a href="/slides.jsp" style="float: none; width: auto;">Slides and posters</a></li>
+                    </ul>
+                </li>
+                <li style="white-space: normal; float: none; width: 100%;"><a href="/news.jsp" class="sf-with-ul" style="float: none; width: auto;">News</a>
+                    <ul style="display: none; left: 100%; float: none; width: 21.1667em;">
+                        <li style="white-space: normal; float: none; width: 100%;"><a href="/immuno/immuphar2018.jsp" style="float: none; width: auto;">Immunopharmacology Meeting 2018</a></li>
+                        <li style="white-space: normal; float: none; width: 100%;"><a href="/news.jsp" style="float: none; width: auto;">Latest news</a></li>
+                        <li style="white-space: normal; float: none; width: 100%;"><a href="/GRAC/HotTopicsForward" style="float: none; width: auto;">Hot topics</a></li>
+                        <li style="white-space: normal; float: none; width: 100%;"><a href="/latestPairings.jsp" style="float: none; width: auto;">Latest pairings</a></li>
+                    </ul>
+                </li>
+                <li style="white-space: normal; float: none; width: 100%;"><a href="https://bpspubs.onlinelibrary.wiley.com/hub/issue/10.1111/bph.v174.S1/" target="_blank" onclick="recordEvent(this, 'BJP links', 'https://bpspubs.onlinelibrary.wiley.com/hub/issue/10.1111/bph.v174.S1/', 'CGTP table of contents');return false;" style="float: none; width: auto;">Concise Guide to PHARMACOLOGY</a></li>
+                <li style="white-space: normal; float: none; width: 100%;"><a href="/links.jsp" style="float: none; width: auto;">Useful links</a></li>
+            </ul>
+        </li>
+        <li>
+            <a href="/GRAC/searchPage.jsp" class="sf-with-ul">Advanced search</a>
+            <ul style="display: none; float: none; width: 13.9167em;">
+                <li style="white-space: normal; float: none; width: 100%;"><a href="/GRAC/searchPage.jsp" class="sf-with-ul" style="float: none; width: auto;">Target search</a>
+                    <ul style="display: none; left: 100%; float: none; width: 13em;">
+                        <li style="white-space: normal; float: none; width: 100%;"><a href="/GRAC/searchPage.jsp" style="float: none; width: auto;">Target search tools</a></li>
+                        <li style="white-space: normal; float: none; width: 100%;"><a href="/blast" style="float: none; width: auto;">BLAST</a></li>
+                    </ul>
+                </li>
+                <li style="white-space: normal; float: none; width: 100%;"><a href="/GRAC/chemSearch.jsp" style="float: none; width: auto;">Ligand search</a></li>
+                <li style="white-space: normal; float: none; width: 100%;"><a href="/GRAC/pharmacologySearch.jsp" style="float: none; width: auto;">Pharmacology search</a></li>
+            </ul>
+        </li>
+           
+            <li class="immuno_portal">
+                <a href="/immuno/index.jsp" onclick="recordEvent(this, 'index', 'Menu Link to GtoImmuPdb', 'Link to GtoImmuPdb');return false;">Immuno Portal</a>
+            </li>
+            <li class="gtmp_portal">
+                <a href="/malaria/index.jsp" onclick="recordEvent(this, 'index', 'Menu Link to GtoMPdb', 'Link to GtoMPdb');return false;">Malaria Portal</a>
+            </li>
+       <!-- 
+        
+        
+        
+            <li class="immuno_portal">
+                <a href="http://www.guidetoimmunopharmacology.org/immuno/index.jsp">Guide to IMMUNOPHARMACOLOGY Portal</a>
+            </li>
+        
+         -->
+  
+    </ul>
+
+                    
+                
+                </div>
+            </div>
+                            <div id="dropbar" class="navbar">
+
+                
+
+
+        
+            
+            <a href="/">
+        
+        
+        <i class="fa fa-home fa-sm"></i> Home</a>
+        <a href="/about.jsp">About</a>
+        <a href="/helpPage.jsp">Help</a>
+ 
+  <div class="navbar-search-container">
+
+
+
+<form method="get" action="/GRAC/DatabaseSearchForward" class="search_box_dropbar">
+                
+                    <input type="text" title="Quick Search Box" id="quick_search_dropnav" size="14" maxlength="200" name="searchString" placeholder="Search GtoPdb..." class="ui-autocomplete-input" autocomplete="off">
+                    <input type="hidden" name="searchCategories" value="all">
+                    <input type="hidden" name="species" value="none">
+                    <input type="hidden" name="type" value="all">
+                    <input type="hidden" name="comments" value="includeComments">
+                    <input type="hidden" name="order" value="rank">
+                    
+				<button type="submit" aria-label="Search button"><i class="fa fa-search"></i></button>
+              
+ </form>
+  <script>
+    $("#quick_search_dropnav").catcomplete({delay: 300, minLength: 2, source: "/GRAC/autocompleteAll.jsp",
+       focus: function( event, ui ) {
+            // $( "#ligand_text" ).val( ui.item.label );
+            // do nothing on mouse over
+            return false;
+       },
+       select: function( event, ui ) {
+            //window.open(ui.item.value);
+            self.location.href = ui.item.value;
+            return false;
+       }  
+   });
+</script> 
+  </div>
+
+                                            
+           
+
+            </div>
+            </div><ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content" id="ui-id-1" tabindex="0" style="display: none;"></ul><span role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></span><ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content" id="ui-id-2" tabindex="0" style="display: none;"></ul><span role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></span>
+            <!-- ========== SUPERFISH NAV END  ============================================================ -->
+  
+            <div class="container_16">
+            <!-- ==================== BREADCRUMBS START - NEEDS TO BE UPDATED MANUALLY ==================== -->
+            <div class="breadcrumbscont">
+              <ul class="crumbtext">
+                <li><a href="/index.jsp">Home</a></li>
+                <li><a href="LigandListForward?database=all">Ligands</a></li>
+                <li>sufinpyrazone</li>
+              </ul>
+            </div>
+            <!-- ==================== BREADCRUMBS END ======================================== -->
+  
+            <!-- ==================== CONTENT START ==================== -->
+             <div class="grid_12">
+           
+            <!-- ==================== GRID 16 START ==================== -->
+        
+                      
+                   
+                    <!-- ==================== GRID 16 START ==================== -->
+                    <div class="grid_16 alpha">
+                        
+                        <div id="ligandheader">
+                            <h4 class="alignlefttitle">sufinpyrazone&nbsp;&nbsp;&nbsp;<a href="JavaScript:callRef('helpPagePopup.jsp#ligand', 800, 400)" title="Click here for help"><img style="vertical-align:middle; height:22px;" src="images/white_transparent_help_icon.png" alt="Click here for help"></a></h4>
+                            <h4 class="alignright">GtoPdb Ligand ID: 5826</h4>
+                        </div>
+                        <div style="clear: both;"></div>
+                        <div class="contentboxfullhelp">
+                            
+                            <table class="fullwidth" style="position:relative; margin-bottom: 10px;">
+                                <tbody><tr>
+                                    <td style="width:453px;min-width:453px;text-align:left;vertical-align:top;">
+                               
+                            
+                               <div class="textright_ligsum">
+                                                                <b>Synonyms:</b>&nbsp;Anturane®&nbsp;|&nbsp;Apo-sulfinpyrazone®&nbsp;|&nbsp;G 28315&nbsp;|&nbsp;NSC 75925&nbsp;|&nbsp;suphinpyrazone
+                                </div>
+                                                         
+                            <div class="textright_ligsum">
+                               
+                               <a style="color:white; padding-right:8px;" title="Approved drug"><img style="vertical-align:baseline;" src="images/approved.png" height="22px" alt="Approved drug"></a>
+                                
+                                 
+                                   
+                                
+                                
+                                
+                            </div>
+                            
+                            
+                                 
+                                
+                                <div class="textright_ligsum">sufinpyrazone&nbsp;is an <b>approved drug</b>&nbsp;(FDA (1959))</div>
+                                                        
+                                                    
+                                <div class="textright_ligsum"><b>Compound class:</b> <a href="LigandListForward?type=Synthetic-organic">
+                                                            Synthetic organic
+                                </a></div>
+                                <div class="textright_ligsum">
+                                    
+                                        <b>Comment:</b> Sufinpyrazone is a uricosuric anti-gout medication, <i>i.e.</i> it increases excretion of uric acid in the urine.
+                                    
+                                </div>
+                            
+                            
+                          
+                                
+                                    
+                             
+                                   <div class="imageleft" style="margin-top:10px;"><a class="popup-trigger" rel="nofollow" title="Ligand activity charts help"><img style="vertical-align:baseline; height:20px;" src="images/gtopblue_transparent_help_icon.png" alt="Click here for help" onmouseover="this.src='images/gtopblue_transparent_help_icon_hover.png';" onmouseout="this.src='images/gtopblue_transparent_help_icon.png';" )"=""></a> 
+                                   <div class="popup" style="text-align:left;">
+                                    <h3>Ligand Activity Visualisation Charts</h3>
+                                    <p>These are box plot that provide a unique visualisation, summarising all the activity data for a ligand taken from ChEMBL and GtoPdb across multiple targets and species. Click on a plot to see the median, interquartile range, low and high data points. A value of zero indicates that no data are available. A separate chart is created for each target, and where possible the algorithm tries to merge ChEMBL and GtoPdb targets by matching them on name and UniProt accession, for each available species. However, please note that inconsistency in naming of targets may lead to data for the same target being reported across multiple charts.</p>
+                                    <span class="popup-btn-close">✖</span>
+                            <!-- add wee help video 
+                            <p><video align="center" width="380" controls="true" autoplay="false" >
+                            <source src="videos/gtoimmupdb_processes_v1.mp4" type="video/mp4">
+                            </video></p> -->
+                                </div>                                </div>
+
+                                   
+                                  
+                            <div class="textright_ligactchr" style="margin-top:18px;"><p style="font-weight: bold;"><a href="LigandActivityRangeVisForward?ligandId=5826" target="_blank"><i class="fa fa-bar-chart fa-2x" style="color: #1e3363;"></i> View interactive charts of activity data across species</a></p>
+                            </div>
+                             
+                        
+                                
+                          
+                                    </td>
+                                    <td style="min-width:10px;width:10px;"></td>
+                                    
+                                    
+                                    <td style="width:453px;min-width:453px;text-align:left;vertical-align:top;">
+                                        
+                                         <table id="structure_and_props" class="tablesorter inner_receptor_data_tables" style="width:453px;margin:0px;">
+                                                <tbody>
+                                        
+
+                                           
+                                                <tr class="info">
+                                                    <td class="ligand_header_category" colspan="2"><div class="imageleft">2D Structure </div><div><a class="popup-trigger" rel="nofollow" title="2D structure help"><img style="vertical-align:middle; height:19px;margin-left:5px;" src="images/gtopblue_transparent_help_icon.png" alt="Click here for help" onmouseover="this.src='images/gtopblue_transparent_help_icon_hover.png';" onmouseout="this.src='images/gtopblue_transparent_help_icon.png';" )"=""></a> 
+                                   <div class="popup" style="text-align:left;">
+                                    <h3>2D Structure</h3>
+                                    <p>An image of the ligand's 2D structure. For small molecules with SMILES these are drawn using the NCI/CADD Chemical Identifier Resolver. Click on the image to access the chemical structure search tool with the ligand pre-loaded in the structure editor. For other types of ligands, e.g. longer nucleotides and peptides, a manually drawn representation of the molecule may be provided.</p>
+                                    <span class="popup-btn-close">✖</span>
+                            <!-- add wee help video 
+                            <p><video align="center" width="380" controls="true" autoplay="false" >
+                            <source src="videos/gtoimmupdb_processes_v1.mp4" type="video/mp4">
+                            </video></p> -->
+                                </div>                                </div></td>
+                                                </tr>
+                                                <tr class="info">
+                                                    <td style="vertical-align:middle;text-align:center;height:250px;" colspan="2">
+                                                        <a style="color:white;" href="RefineChemicalStructureSearchForward?ligandId=5826" title="Click here for structure editor">
+                                                            <img id="ligand_structure_display" src="https://www.guidetopharmacology.org/CHEMSTRUCT/iuphar/5826.gif" onerror="this.src='https://www.simolecule.com/cdkdepict/depict/cot/svg?smi=O%3DC1N%28c2ccccc2%29N%28C%28%3DO%29C1CCS%28%3DO%29c1ccccc1%29c1ccccc1&amp;abbr=on&amp;hdisp=bridgehead&amp;showtitle=false&amp;annotate=none'" alt="Click here for structure editor">
+                                                        </a>
+                                                    </td>
+                                                        </tr> 
+                                                    <tr class="info">
+                                                    <td class="ligand_header_category"><div class="imageleft">Physico-chemical Properties </div><div><a class="popup-trigger" rel="nofollow" title="Physico-chemical properties help"><img style="vertical-align:middle; height:19px;margin-left:5px;" src="images/gtopblue_transparent_help_icon.png" alt="Click here for help" onmouseover="this.src='images/gtopblue_transparent_help_icon_hover.png';" onmouseout="this.src='images/gtopblue_transparent_help_icon.png';" )"=""></a> 
+                                   <div class="popup" style="text-align:left;">
+                                    <h3>Physico-chemical Properties</h3>
+                                    <p>Calculated molecular properties are available for small molecules and natural products (not peptides). Properties were generated using the CDK toolkit. All properties were selected to enable the prediction of the Lipinski Rule-of-Five profile or ‘druglikeness’ for each ligand. For more info on each category see the <a href="JavaScript:callRef('helpPagePopup.jsp#ligProperties', 800, 400)">help pages</a>.</p>
+                                    <span class="popup-btn-close">✖</span>
+                            <!-- add wee help video 
+                            <p><video align="center" width="380" controls="true" autoplay="false" >
+                            <source src="videos/gtoimmupdb_processes_v1.mp4" type="video/mp4">
+                            </video></p> -->
+                                </div>                                </div></td>
+                                                    <td title="toggle" style="min-width:30px;width:30px;background-color:#CCCCCC" valign="middle">
+                                                       
+                                                            <a name="chemprops" title="view physico-chemical properties" class="toggle"><div class="arrow"></div></a>
+                                                       
+                                                    </td>
+                                                </tr>
+                                                    
+                                                    <tr class="tablesorter-childRow info">
+                                                        <td colspan="2" style="display: none;">
+                                                            <table style="width: 100%; border: none; border-collapse: collapse;" class="info">
+                                                    <tbody><tr class="info">
+                                                        <td style="display: none;">
+                                                            Hydrogen bond acceptors
+                                                        </td>
+                                                        <td style="text-align: center; display: none;">
+                                                            5
+                                                        </td>
+                                                    </tr>
+                                                   
+                                                
+                                                    <tr class="info">
+                                                        <td style="display: none;">
+                                                            Hydrogen bond donors
+                                                        </td>
+                                                        <td style="text-align: center; display: none;">
+                                                            0
+                                                        </td>
+                                                    </tr>
+                                                  
+                                                
+                                                    <tr class="info">
+                                                        <td style="display: none;">
+                                                            Rotatable bonds
+                                                        </td>
+                                                        <td style="text-align: center; display: none;">
+                                                            6
+                                                        </td>
+                                                    </tr>
+                                                 
+                                                
+                                                    <tr class="info">
+                                                        <td style="display: none;">
+                                                            Topological polar surface area
+                                                        </td>
+                                                        <td style="text-align: center; display: none;">
+                                                            76.9
+                                                        </td>
+                                                    </tr>
+                                                  
+                                                
+                                                    <tr class="info">
+                                                        <td style="display: none;">
+                                                            Molecular weight
+                                                        </td>
+                                                        <td style="text-align: center; display: none;">
+                                                            404.12
+                                                        </td>
+                                                    </tr>
+                                                    
+                                                
+                                                    <tr class="info">
+                                                        <td style="display: none;">
+                                                            XLogP
+                                                        </td>
+                                                        <td style="text-align: center; display: none;">
+                                                            2.4
+                                                        </td>
+                                                    </tr>
+                                                
+                                                
+                                                    <tr class="info">
+                                                        <td style="display: none;">
+                                                            No. Lipinski's rules broken
+                                                        </td>
+                                                        <td style="text-align: center; display: none;">
+                                                            0
+                                                        </td>
+                                                    </tr>
+                                                
+                                                                
+                                                            </tbody></table>
+                                                        </td>
+                                                    </tr>
+                                                     
+                                                     
+                                                        <tr class="info">
+                                                    <td class="ligand_header_category"><div class="imageleft">SMILES / InChI / InChIKey </div><div><a class="popup-trigger" rel="nofollow" title="SMILES and InChI help"><img style="vertical-align:middle; height:19px;margin-left:5px;" src="images/gtopblue_transparent_help_icon.png" alt="Click here for help" onmouseover="this.src='images/gtopblue_transparent_help_icon_hover.png';" onmouseout="this.src='images/gtopblue_transparent_help_icon.png';" )"=""></a> 
+                                   <div class="popup" style="text-align:left;">
+                                    <h3>SMILES / InChI / InChIKey</h3>
+                                    <p><b>SMILES</b> (Simplified Molecular Input Line Entry Specification)
+                                        A specification for unambiguously describing the structure of chemical molecules using short ASCII strings. Canonical SMILES specify a unique representation of the 2D structure without chiral or isotopic specifications. Isomeric SMILES include chiral specification and isotopes.<br><br>
+                                            <b>Standard InChI</b> (IUPAC International Chemical Identifier) and <b>InChIKey</b>
+InChI is a non-proprietary, standard, textual identifier for chemical substances designed to facilitate linking of information and database searching. An InChIKey is a simplified version of a full InChI, designed for easier web searching.</p>
+                                    <span class="popup-btn-close">✖</span>
+                            <!-- add wee help video 
+                            <p><video align="center" width="380" controls="true" autoplay="false" >
+                            <source src="videos/gtoimmupdb_processes_v1.mp4" type="video/mp4">
+                            </video></p> -->
+                                </div>                                </div></td>
+                                                    <td title="toggle" style="min-width:30px;width:30px;background-color:#CCCCCC" valign="middle">
+                                                       
+                                                            <a name="smilesinchi" title="view SMILES, InchI and InChI Key" class="toggle"><div class="arrow"></div></a>
+                                                       
+                                                    </td>
+                                                </tr>
+                                                        <tr class="tablesorter-childRow info">
+                                                        <td colspan="2" style="display: none;">
+                                                            <table style="width: 100%; border: none; border-collapse: collapse; word-break:break-word;" class="info">
+                                                              
+                                                                  <tbody><tr class="info">
+                                                            <td style="text-align: left; min-width: 60px; display: none;">
+                                                                Canonical SMILES
+                                                            </td>
+                                                            <td style="text-align: left; display: none;">
+                                                                O=C1N(c2ccccc2)N(C(=O)C1CCS(=O)c1ccccc1)c1ccccc1
+                                                            </td>
+                                                        </tr>
+                                                            
+                                                            
+                                                              
+                                                                  <tr class="info">
+                                                            <td style="text-align: left; min-width: 60px; display: none;">
+                                                                Isomeric SMILES
+                                                            </td>
+                                                            <td style="text-align: left; display: none;">
+                                                                O=C1N(c2ccccc2)N(C(=O)C1CCS(=O)c1ccccc1)c1ccccc1
+                                                            </td>
+                                                        </tr>
+                                                            
+                                                            
+                                                              
+                                                                
+                                                                  <tr class="info">
+                                                            <td style="text-align: left; min-width: 60px; display: none;">
+                                                                InChI
+                                                            </td>
+                                                            <td style="text-align: left; min-width: 60px; display: none;">
+                                                                InChI=1S/C23H20N2O3S/c26-22-21(16-17-29(28)20-14-8-3-9-15-20)23(27)25(19-12-6-2-7-13-19)24(22)18-10-4-1-5-11-18/h1-15,21H,16-17H2
+                                                            </td>
+                                                        </tr>
+                                                            
+                                                            
+                                                              
+                                                              
+                                                                  <tr class="info">
+                                                            <td style="text-align: left; display: none;">
+                                                                InChI Key
+                                                            </td>
+                                                            <td style="text-align: left; display: none;">
+                                                                MBGGBVCUIVRRBF-UHFFFAOYSA-N
+                                                            </td>
+                                                        </tr>
+                                                            
+                                                            
+                                                              
+                                                            </tbody></table>
+                                                        </td>
+                                                        </tr>
+                                                    
+                                                </tbody>
+                                            </table>
+                                                    <script type="text/javascript">  
+                                        $(function(){
+                                            $("#structure_and_props").tablesorter();
+                                        });
+                                    </script> 
+                                        
+                                    </td>
+                                
+                                </tr>
+                                                           
+                            </tbody></table>
+                        </div>
+                    </div>
+                
+                         
+                    <!-- ==================== GRID 16 START ==================== -->
+              
+               
+                    <div class="grid_16 alpha">
+                        <div class="contentboxfullhelp">
+                            <div id="cssmenu"> 
+                                    <ul>
+                                    <li class="active"><a href="LigandDisplayForward?tab=summary&amp;ligandId=5826">Summary</a></li>
+                                    <li><a href="LigandDisplayForward?tab=biology&amp;ligandId=5826">Biological activity</a></li>
+                                    
+                                    
+                                        <li><a href="LigandDisplayForward?tab=clinical&amp;ligandId=5826">Clinical data</a></li>
+                                    
+                                        
+                                        <li><a href="LigandDisplayForward?tab=refs&amp;ligandId=5826">References</a></li>
+                                    
+                                         
+                                        <li><a href="LigandDisplayForward?tab=structure&amp;ligandId=5826">Structure</a></li>
+                                    
+                                    
+                                        <li><a href="LigandDisplayForward?tab=similarity&amp;ligandId=5826">Similar ligands</a></li>
+                                    
+                                    
+                                  
+                                    
+                                    
+                                        
+                                    
+                                </ul>
+                            </div>    
+                                    
+                           <div class="clear"></div>  
+                           
+                                <div class="data_tables_container" style="padding-top:10px; padding-bottom: 10px;"><!-- === DATA TABLES START - this div is only needed to give some space around the tables === -->
+
+                                    
+
+                                                <table class="receptor_data_tables" style="width:100%;">
+                                                    <tbody><tr>
+                                                        <td class="category" colspan="2">Classification <a style="color:#CCCCCC;" href="JavaScript:callRef('helpPagePopup.jsp#ligClass', 800, 400)" title="Click here for help"><img style="vertical-align:baseline;" src="images/help_blue_small_transparent_bkground.png" alt="Click here for help"></a></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="info" align="left" style="min-width:250px;max-width:250px;width:250px;">Compound class</td>
+                                                        <td class="info">
+                                                            <a href="LigandListForward?type=Synthetic-organic">
+                                                            Synthetic organic
+                                                            </a>
+                                                        </td>
+
+                                                    </tr>
+                                                    
+                                                    
+                                                        <tr>
+                                                            <td class="info" align="left" style="min-width:250px;max-width:250px;width:250px;">Approved drug?</td>
+                                                            <td class="info">Yes&nbsp;(FDA (1959))</td>
+                                                        </tr>
+                                                    
+                                                    
+                                                        <tr>
+                                                            <td class="info" align="left" style="min-width:250px;max-width:250px;width:250px;">Withdrawn drug?</td>
+                                                            <td class="info">Yes</td>
+                                                        </tr>
+                                                    
+                                                    
+                                                    
+                                                    
+                                                 </tbody></table>
+                                                 
+                                                 
+                                                    <table class="receptor_data_tables" style="width:100%;">
+                                                        <tbody><tr>
+                                                            <td class="category">IUPAC Name <a style="color:#CCCCCC;" href="JavaScript:callRef('helpPagePopup.jsp#ligIUPAC', 800, 400)" title="Click here for help"><img style="vertical-align:baseline;" src="images/help_blue_small_transparent_bkground.png" alt="Click here for help"></a></td>
+                                                        </tr>
+                                                        <tr class="info">
+                                                            <td>1,2-di(phenyl)-4-(2-phenylsulfinylethyl)pyrazolidine-3,5-dione</td>
+                                                        </tr>
+                                                    </tbody></table>
+                                                
+
+                                                
+                                                    <table class="receptor_data_tables" style="width:100%;">
+                                                        <tbody><tr>
+                                                            <td class="category" colspan="2">International Nonproprietary Names <a style="color:#CCCCCC;" href="JavaScript:callRef('helpPagePopup.jsp#INN', 800, 400)" title="Click here for help"><img style="vertical-align:baseline;" src="images/help_blue_small_transparent_bkground.png" alt="Click here for help"></a></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="heading">INN number</td>
+                                                            <td class="heading">INN</td>
+                                                        </tr>
+                                                        
+                                                            <tr class="info">
+                                                                <td>777</td>
+                                                                <td>sulfinpyrazone
+                                                            </td></tr>
+                                                        
+                                                    </tbody></table>
+                                                
+                                                            
+                                                
+                                                    <table class="receptor_data_tables" style="width:100%;">
+                                                        <tbody><tr>
+                                                            <td class="category">Synonyms <a style="color:#CCCCCC;" href="JavaScript:callRef('helpPagePopup.jsp#ligSynonyms', 800, 400)" title="Click here for help"><img style="vertical-align:baseline;" src="images/help_blue_small_transparent_bkground.png" alt="Click here for help"></a></td>
+                                                        </tr>
+                                                        <tr class="info">
+                                                            <td>
+                                                                Anturane®&nbsp;|&nbsp;Apo-sulfinpyrazone®&nbsp;|&nbsp;G 28315&nbsp;|&nbsp;NSC 75925&nbsp;|&nbsp;suphinpyrazone
+                                                            </td>
+                                                        </tr>
+                                                    </tbody></table>
+                                                
+                                                            
+                                           
+
+                                                
+
+                                                
+
+                                                
+
+                                                
+                                                
+
+                                                   <a name="DatabaseLinks"></a>
+                                                    <table class="receptor_data_tables" style="width:100%;">
+                                                        <tbody><tr>
+                                                            <td class="category" colspan="2">Database Links <a style="color:#CCCCCC;" href="JavaScript:callRef('helpPagePopup.jsp#ligDBLinks', 800, 400)" title="Click here for help"><img style="vertical-align:baseline;" src="images/help_blue_small_transparent_bkground.png" alt="Click here for help"></a></td>
+                                                        </tr>
+                                                                      
+                                                        
+                                                            <tr>
+                                                                <td class="info" style="min-width:250px;max-width:250px;width:250px;">
+                                                                    CAS Registry No.
+                                                                </td>
+                                                                <td class="info">
+                                                                    57-96-5 (source: Scifinder)
+                                                                </td>
+                                                            </tr>
+                                                        
+                                                            <tr>
+                                                                <td class="info" style="min-width:250px;max-width:250px;width:250px;">
+                                                                    ChEMBL Ligand
+                                                                </td>
+                                                                <td class="info">
+                                                                    <a href="https://www.ebi.ac.uk/chembldb/compound/inspect/CHEMBL832" target="_blank" title="Database of bioactive drug-like small molecules and targets" onclick="recordEvent(this, 'Ligand database links', 'https://www.ebi.ac.uk/chembldb/compound/inspect/CHEMBL832', 'ChEMBL Ligand');return false;">CHEMBL832</a>
+                                                                </td>
+                                                            </tr>
+                                                        
+                                                            <tr>
+                                                                <td class="info" style="min-width:250px;max-width:250px;width:250px;">
+                                                                    DrugBank Ligand
+                                                                </td>
+                                                                <td class="info">
+                                                                    <a href="http://www.drugbank.ca/drugs/DB01138" target="_blank" title="Detailed drug (chemical, pharmacological and pharmaceutical) data with information on drug target/enzyme/transporter/carrier proteins" onclick="recordEvent(this, 'Ligand database links', 'http://www.drugbank.ca/drugs/DB01138', 'DrugBank Ligand');return false;">DB01138</a>
+                                                                </td>
+                                                            </tr>
+                                                        
+                                                            <tr>
+                                                                <td class="info" style="min-width:250px;max-width:250px;width:250px;">
+                                                                    DrugCentral Ligand
+                                                                </td>
+                                                                <td class="info">
+                                                                    <a href="http://drugcentral.org/drugcard/2528" target="_blank" title="DrugCentral is created and maintained by Division of Translational Informatics at University of New Mexico in collaboration with the IDG program. DrugCentral provides information on active ingredients chemical entities, pharmaceutical products, drug mode of action, indications, pharmacologic action." onclick="recordEvent(this, 'Ligand database links', 'http://drugcentral.org/drugcard/2528', 'DrugCentral Ligand');return false;">2528</a>
+                                                                </td>
+                                                            </tr>
+                                                        
+                                                            <tr>
+                                                                <td class="info" style="min-width:250px;max-width:250px;width:250px;">
+                                                                    GtoPdb PubChem SID
+                                                                </td>
+                                                                <td class="info">
+                                                                    <a href="http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?sid=178102451" target="_blank" title="Database of chemical structures and information on their biological activities. This link is to the GtoPdb-deposited PubChem Substance entry." onclick="recordEvent(this, 'Ligand database links', 'http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?sid=178102451', 'GtoPdb PubChem SID');return false;">178102451</a>
+                                                                </td>
+                                                            </tr>
+                                                        
+                                                            <tr>
+                                                                <td class="info" style="min-width:250px;max-width:250px;width:250px;">
+                                                                    PubChem CID
+                                                                </td>
+                                                                <td class="info">
+                                                                    <a href="http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5342" target="_blank" title="Database of chemical structures and information on their biological activities. The PubChem Compound Database contains validated chemical depiction information." onclick="recordEvent(this, 'Ligand database links', 'http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5342', 'PubChem CID');return false;">5342</a>
+                                                                </td>
+                                                            </tr>
+                                                        
+                                                            <tr>
+                                                                <td class="info" style="min-width:250px;max-width:250px;width:250px;">
+                                                                    Search Google for chemical match using the InChIKey
+                                                                </td>
+                                                                <td class="info">
+                                                                    <a href="https://www.google.com/search?q=MBGGBVCUIVRRBF-UHFFFAOYSA-N" target="_blank" title="Search Google for exact chemical matches using the InChI key" onclick="recordEvent(this, 'Ligand database links', 'https://www.google.com/search?q=MBGGBVCUIVRRBF-UHFFFAOYSA-N', 'Google InChIKey exact match search');return false;">MBGGBVCUIVRRBF-UHFFFAOYSA-N</a>
+                                                                </td>
+                                                            </tr>
+                                                        
+                                                            <tr>
+                                                                <td class="info" style="min-width:250px;max-width:250px;width:250px;">
+                                                                    Search Google for chemicals with the same backbone
+                                                                </td>
+                                                                <td class="info">
+                                                                    <a href="https://www.google.com/search?q=MBGGBVCUIVRRBF" target="_blank" title="Search Google for chemicals with the same backbone structure using the InChI key outer layer" onclick="recordEvent(this, 'Ligand database links', 'https://www.google.com/search?q=MBGGBVCUIVRRBF', 'Google InChIKey backbone search');return false;">MBGGBVCUIVRRBF</a>
+                                                                </td>
+                                                            </tr>
+                                                        
+                                                            <tr>
+                                                                <td class="info" style="min-width:250px;max-width:250px;width:250px;">
+                                                                    Search PubMed clinical trials
+                                                                </td>
+                                                                <td class="info">
+                                                                    <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=sulfinpyrazone[Title]+AND+(&quot;clinical+trial+phase+i&quot;[Filter]+OR+&quot;clinical+trial+phase+ii&quot;[Filter]+OR+&quot;clinical+trial+phase+iii&quot;[Filter]+OR+&quot;clinical+trial+phase+iv&quot;[Filter])" target="_blank" title="Search PubMed for articles describing phase I, II, III or IV clinical trials involving this drug" onclick="recordEvent(this, 'Ligand database links', 'NCBI PubMed Clinical Trials INN search: sulfinpyrazone', 'NCBI PubMed Clinical Trials INN search');return false;">sulfinpyrazone</a>
+                                                                </td>
+                                                            </tr>
+                                                        
+                                                            <tr>
+                                                                <td class="info" style="min-width:250px;max-width:250px;width:250px;">
+                                                                    Search PubMed titles
+                                                                </td>
+                                                                <td class="info">
+                                                                    <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=sulfinpyrazone[Title]&amp;cmd=DetailsSearch" target="_blank" title="Search PubMed for articles mentioning this chemical name in the title" onclick="recordEvent(this, 'Ligand database links', 'NCBI PubMed Title INN search: sulfinpyrazone', 'NCBI PubMed Title INN search');return false;">sulfinpyrazone</a>
+                                                                </td>
+                                                            </tr>
+                                                        
+                                                            <tr>
+                                                                <td class="info" style="min-width:250px;max-width:250px;width:250px;">
+                                                                    Search PubMed titles/abstracts
+                                                                </td>
+                                                                <td class="info">
+                                                                    <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=sulfinpyrazone[Title%2FAbstract]&amp;cmd=DetailsSearch" target="_blank" title="Search PubMed for articles mentioning this chemical name in the title or abstract" onclick="recordEvent(this, 'Ligand database links', 'NCBI PubMed Title and Abstract INN search: sulfinpyrazone', 'NCBI PubMed Title and Abstract INN search');return false;">sulfinpyrazone</a>
+                                                                </td>
+                                                            </tr>
+                                                        
+                                                            <tr>
+                                                                <td class="info" style="min-width:250px;max-width:250px;width:250px;">
+                                                                    Search UniChem for chemical match using the InChIKey
+                                                                </td>
+                                                                <td class="info">
+                                                                    <a href="https://www.ebi.ac.uk/unichem/widesearch/wideresults?queryText=MBGGBVCUIVRRBF-UHFFFAOYSA-N&amp;kind=InChIKey&amp;source=&amp;nameXA=&amp;kindXB=1&amp;kindXC=0&amp;DText=0&amp;EText=0&amp;kindXF=0&amp;kindXG=0" target="_blank" title="Search UniChem for exact chemical matches using the InChI key (UniChem cross-references chemical structure identifiers from different databases)" onclick="recordEvent(this, 'Ligand database links', 'https://www.ebi.ac.uk/unichem/widesearch/wideresults?queryText=MBGGBVCUIVRRBF-UHFFFAOYSA-N&amp;kind=InChIKey&amp;source=&amp;nameXA=&amp;kindXB=1&amp;kindXC=0&amp;DText=0&amp;EText=0&amp;kindXF=0&amp;kindXG=0', 'UniChem InChIKey exact match search');return false;">MBGGBVCUIVRRBF-UHFFFAOYSA-N</a>
+                                                                </td>
+                                                            </tr>
+                                                        
+                                                            <tr>
+                                                                <td class="info" style="min-width:250px;max-width:250px;width:250px;">
+                                                                    Search UniChem for chemicals with the same backbone
+                                                                </td>
+                                                                <td class="info">
+                                                                    <a href="https://www.ebi.ac.uk/unichem/widesearch/wideresults?queryText=MBGGBVCUIVRRBF&amp;kind=InChIKey&amp;source=&amp;nameXA=&amp;kindXB=0&amp;kindXC=0&amp;DText=0&amp;EText=0&amp;kindXF=0&amp;kindXG=0" target="_blank" title="Search UniChem for chemicals with the same backbone structure using the InChI key outer layer (UniChem cross-references chemical structure identifiers from different databases)" onclick="recordEvent(this, 'Ligand database links', 'https://www.ebi.ac.uk/unichem/widesearch/wideresults?queryText=MBGGBVCUIVRRBF&amp;kind=InChIKey&amp;source=&amp;nameXA=&amp;kindXB=0&amp;kindXC=0&amp;DText=0&amp;EText=0&amp;kindXF=0&amp;kindXG=0', 'UniChem InChIKey backbone search');return false;">MBGGBVCUIVRRBF</a>
+                                                                </td>
+                                                            </tr>
+                                                        
+                                                            <tr>
+                                                                <td class="info" style="min-width:250px;max-width:250px;width:250px;">
+                                                                    Wikipedia
+                                                                </td>
+                                                                <td class="info">
+                                                                    <a href="http://en.wikipedia.org/wiki/Sulfinpyrazone" target="_blank" title="The Free Encyclopedia" onclick="recordEvent(this, 'Ligand database links', 'http://en.wikipedia.org/wiki/Sulfinpyrazone', 'Wikipedia');return false;">Sulfinpyrazone</a>
+                                                                </td>
+                                                            </tr>
+                                                        
+                                                    </tbody></table>
+                                                   
+                                                
+                                                   
+                                                   
+                                                   
+                                                   
+                                                
+                                                   
+                                                   
+
+                                           
+                                
+                                
+                                
+                                                   
+                                                   
+                                
+                                                   
+                                
+
+                              
+                                                   
+                                
+                                                    
+                                 
+                               
+
+                               
+                               
+                                   
+
+                                
+
+                                
+                      
+                 </div>
+                
+            </div>
+       </div>
+       <!-- ==================== GRID 16 END ==================== -->
+        </div>
+        <!-- BioSchemas Mark-Up For Ligands -->
+        <script type="application/ld+json">
+            {   
+                "@context": "http://schema.org",
+                "@id": "https://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=5826",
+                
+                "@type": "DataRecord",
+                "dct:conformsTo": "https://bioschemas.org/profiles/MolecularEntity/0.5-RELEASE",
+                "includedInDataset" : {
+                    "@type": "Dataset",
+                    "@id": "https://www.guidetopharmacology.org/index.jsp#dataset"
+                },
+                "mainEntity": {
+                    "@id": "https://identifiers.org/iuphar.ligand:5826",
+                    "@type": "MolecularEntity",
+                    "name": "sufinpyrazone",
+                    "alternateName": ["Anturane&reg;","Apo-sulfinpyrazone&reg;","G 28315","NSC 75925","suphinpyrazone"],
+                    "description": "Sufinpyrazone is a uricosuric anti-gout medication, i.e. it increases excretion of uric acid in the urine.", 
+                    "identifier": "5826",
+                    "inChI": "InChI=1S/C23H20N2O3S/c26-22-21(16-17-29(28)20-14-8-3-9-15-20)23(27)25(19-12-6-2-7-13-19)24(22)18-10-4-1-5-11-18/h1-15,21H,16-17H2",
+                    "inChIKey": "MBGGBVCUIVRRBF-UHFFFAOYSA-N",
+                    "iupacName": "1,2-di(phenyl)-4-(2-phenylsulfinylethyl)pyrazolidine-3,5-dione",
+                    "molecularWeight": 404.12,
+                    "smiles":  "O=C1N(c2ccccc2)N(C(=O)C1CCS(=O)c1ccccc1)c1ccccc1",
+                    "url": "https://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=5826"
+                }
+            }
+        </script>
+        <script>
+             // Popup Window
+		var scrollTop = '';
+		var newHeight = '100';
+                
+		/* $(window).bind('scroll', function() {
+		   scrollTop = $( window ).scrollTop();
+		   newHeight = scrollTop + 100;
+		}); */
+
+		$('.popup-trigger').click(function(e) {
+  		 e.stopPropagation();
+		 if(jQuery(window).width() < 767) {
+		 $(this).after( $(this).nextAll('.popup:first') );
+		   $(this).nextAll('.popup:first').show().addClass('popup-mobile').css('top', 0);
+		   $('html, body').animate({
+				scrollTop: $(this).nextAll('.popup:first').offset().top
+			}, 500);
+		 } else {
+			 $('.popup').hide();
+			 $(this).nextAll('.popup:first').removeClass('popup-mobile').css('top', newHeight).toggle();
+		 };
+		});
+
+		$('html').click(function() {
+		 $('.popup').hide();
+		});
+
+		$('.popup-btn-close').click(function(e){
+		  $(this).parent().hide();
+		});
+
+		$('.popup').click(function(e){
+		  e.stopPropagation();
+		});
+		</script>   
+                               
+                               <script>
+// When the user scrolls down 20px from the top of the document, slide down the navbar
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 150 || document.documentElement.scrollTop > 150) {
+    document.getElementById("dropbar").style.top = "0";
+  } else {
+    document.getElementById("dropbar").style.top = "-66px";
+  }
+}
+</script>
+                <script>
+             // Popup Window
+		var scrollTop = '';
+		var newHeight = '100';
+                
+		/* $(window).bind('scroll', function() {
+		   scrollTop = $( window ).scrollTop();
+		   newHeight = scrollTop + 100;
+		}); */
+
+		$('.popup-trigger').click(function(e) {
+  		 e.stopPropagation();
+		 if(jQuery(window).width() < 767) {
+		 $(this).after( $(this).nextAll('.popup:first') );
+		   $(this).nextAll('.popup:first').show().addClass('popup-mobile').css('top', 0);
+		   $('html, body').animate({
+				scrollTop: $(this).nextAll('.popup:first').offset().top
+			}, 500);
+		 } else {
+			 $('.popup').hide();
+			 $(this).nextAll('.popup:first').removeClass('popup-mobile').css('top', newHeight).toggle();
+		 };
+		});
+
+		$('html').click(function() {
+		 $('.popup').hide();
+		});
+
+		$('.popup-btn-close').click(function(e){
+		  $(this).parent().hide();
+		});
+
+		$('.popup').click(function(e){
+		  e.stopPropagation();
+		});
+		</script>
+                               
+        <!-- ==================== CONTENT END  ============================================ -->  
+    
+        <!-- ============== FOOTER START ========================================================--> 
+
+        <div class="clear"></div>
+        <div id="footer">
+            <div>
+	<div style="display:table-cell; vertical-align:middle; max-width:200px;  float:left; display:inline;">
+		<p style="text-align:left;margin: 5px 0px 0px 10px;"><a href="/revealEmail.jsp" onclick="window.open('/revealEmail.jsp', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=550,height=300'); return false;" title="Reveal this e-mail address">Contact us</a></p>
+		<p style="text-align:left;margin: 5px 0px 5px 10px;"> <span class="invisible_link"><a href="https://twitter.com/#!/GuidetoPHARM" target="_blank" title="Follow us on Twitter"><img class="logo" style="vertical-align:middle;" src="/images/twitter.png" alt="Link to Guide to Pharmacology on Twitter"></a><a href="https://www.facebook.com/pages/Guide-to-PHARMACOLOGY/231393780304076" target="_blank" title="Like us on Facebook"><img class="logo" style="vertical-align:middle;margin-left:5px;" src="/images/facebook.png" alt="Link to Guide to Pharmacology on Facebook"></a><a href="http://www.linkedin.com/company/guide-to-pharmacology" target="_blank" title="Follow us on LinkedIn"><img class="logo" style="vertical-align:middle;margin-left:5px;" src="/images/LinkedIn.png" alt="Link to Guide to Pharmacology on LinkedIn"></a><a href="http://blog.guidetopharmacology.org/" target="_blank" title="Visit our blog"><img class="logo" style="vertical-align:middle;margin-left:5px;" src="/images/wpmini-blue.png" alt="Wordpress Logo link to Guide to Pharmacology blog"></a><a href="http://www.slideshare.net/GuidetoPHARM" target="_blank" title="View slide sets and posters on SlideShare"><img class="logo" style="vertical-align:middle;margin-left:5px;" src="/images/slideshare_no_name.png" alt="Link to Guide to Pharmacology on Slideshare"></a></span></p>
+    		<p style="text-align:left;margin: 8px 0px 0px 10px;"><small><a href="/privacyPolicy.jsp">Privacy and Cookie Policy</a></small></p>
+    	</div>
+
+	<div style="vertical-align:middle; display:table-cell; float:right; display:inline;">
+		<p style="text-align:right; margin: 5px 10px 0px 0px; font-weight:bold; font-size:12pt;"><a href="/sponsors.jsp">Sponsors list</a></p> 
+                <p style="text-align:right; margin: 5px 10px 0px 0px; "><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png"></a><br><small>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a></small></p>
+	</div>
+</div>
+      
+   
+
+        </div>
+        <!-- ============== FOOTER END ======================================================== --> 
+      </div>
+                        
+    
+
+
+<div class="cc-cookies " style="top: auto; bottom: 0px;">We use cookies on this website, you can <a href="/privacyPolicy.jsp" title="read about our cookies and change your preference">read about them and update your preference here</a>. To use the website as intended please... <a href="#" class="cc-cookie-accept">ACCEPT COOKIES</a> </div></body></html>

@@ -1,0 +1,255 @@
+<html><head>
+    <title>None</title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+    <!--[if IE]>
+    <link rel="stylesheet" type="text/css" href="/media/css/content.ie.css" media="screen,projection" />
+    <![endif]-->
+
+    <!--[if !IE]><!-->
+    <link rel="stylesheet" type="text/css" href="/media/css/content.css" media="screen,projection">
+    <!--<![endif]-->
+
+    <link rel="stylesheet" type="text/css" href="/media/css/bx_styles.css" media="screen,projection">
+
+    <script src="/media/javascript/jquery.js" type="text/javascript"></script>
+    <script src="/media/javascript/jquery.tools.min.js" type="text/javascript"></script>
+    <script src="/media/javascript/jquery.bxSlider.min.js" type="text/javascript"></script>
+    <script src="/media/javascript/content.js?ver=1" type="text/javascript"></script>
+        
+    
+  <script type="text/javascript">(function(){(window.hostMIF = parent.document.getElementById("ext-gen66").ownerCt)._windowContext={eval:function(s){return new Function("return ("+s+")")();}};})()</script></head>
+  <body class="term-body" id="ext-gen70">
+    
+    
+        <div id="meta-container">
+            <!-- <a href="" class="blue-button" id=""> -->
+                
+                <a href="#" class="button" id="arbor_button">
+                    <span id="6812_boutonneuse fever" class="visualize">Visualize</span>
+                </a>
+                <!-- <a href="/outreach/contact-us?termId=DOID:14095" class="button" id="submit_comment"> -->
+                <a target="_blank" href="/outreach/contact-us?termId=DOID:14095" class="button" id="submit_comment">
+                    <span id="submit_comment_DOID:14095">Submit Comment</span>
+                </a>
+
+            <table id="metadata">
+                <colgroup>
+                    <col class="key-col">
+                </colgroup>
+                <thead id="meta-header">
+                    <tr>
+                        <th id="tbl-header">Metadata</th>
+                    </tr>                    
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="field-label">ID</td>
+                        <td class="meta-val">DOID:14095</td>
+                    </tr>
+                    <tr>
+                        <td class="field-label">Name</td>
+                        <td class="meta-val">boutonneuse fever</td>
+                    </tr>
+                    
+                        <tr>
+                            <td class="field-label">Definition</td>
+                            <td class="meta-val">A spotted fever that has_material_basis_in Rickettsia conorii subsp conorii, which is transmitted_by dog tick (Rhipicephalus sanguineus). The infection has_symptom fever, has_symptom eschar (usually single), has_symptom regional adenopathy, has_symptom maculopapular rash on extremities. <br> <a target="_blank" href="http://en.wikipedia.org/wiki/Boutonneuse_fever">http://en.wikipedia.org/wiki/Boutonneuse_fever</a>, <a target="_blank" href="http://www.cdc.gov/otherspottedfever/index.html">http://www.cdc.gov/otherspottedfever/index.html</a></td>
+                        </tr>
+                    
+                    
+                        <tr>
+                            <td class="field-label"> Xrefs</td>
+                            <td>
+                                
+                                    
+                                        
+                                        <p class="attr-row"><a target="_blank" href="http://www.icd10data.com/Search.aspx?search=A77.1">ICD10CM:A77.1</a></p>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        <p class="attr-row"><a target="_blank" href="http://icd9cm.chrisendres.com/index.php?action=search&amp;srchtext=082.1">ICD9CM:082.1</a></p>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        <p class="attr-row"><a target="_blank" href="https://meshb.nlm.nih.gov/record/ui?ui=D001907">MESH:D001907</a></p>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        <p class="attr-row">SNOMEDCT_US_2021_09_01:186779000</p>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        <p class="attr-row"><a target="_blank" href="https://uts.nlm.nih.gov/uts/umls/concept/C0006060">UMLS_CUI:C0006060</a></p>
+                                        
+                                    
+                                
+                            </td>
+                        </tr><tr>
+                    
+                        </tr><tr>
+                            <td class="field-label"> Alternateids</td>
+                            <td>
+                                
+                                    
+                                        
+                                            
+                                            <p class="attr-row">DOID:0050039</p>
+                                            
+                                        
+                                    
+                                
+                                    
+                                        
+                                            
+                                            <p class="attr-row">DOID:0050040</p>
+                                            
+                                        
+                                    
+                                
+                                    
+                                        
+                                            
+                                            <p class="attr-row">DOID:0050044</p>
+                                            
+                                        
+                                    
+                                
+                                    
+                                        
+                                            
+                                            <p class="attr-row">DOID:0050045</p>
+                                            
+                                        
+                                    
+                                
+                            </td>
+                        </tr><tr>
+                    
+                        </tr><tr>
+                            <td class="field-label"> Subsets</td>
+                            <td>
+                                
+                                    
+                                        
+                                            
+                                            <p class="attr-row">gram-negative_bacterial_infectious_disease</p>
+                                            
+                                        
+                                    
+                                
+                                    
+                                        
+                                            
+                                            <p class="attr-row">tick-borne_infectious_disease</p>
+                                            
+                                        
+                                    
+                                
+                                    
+                                        
+                                            
+                                            <p class="attr-row">zoonotic_infectious_disease</p>
+                                            
+                                        
+                                    
+                                
+                            </td>
+                        </tr><tr>
+                    
+                        </tr><tr>
+                            <td class="field-label"> Synonyms</td>
+                            <td>
+                                
+                                     
+                                        <p class="attr-row">African tick typhus [EXACT]</p>
+                                    
+                                
+                                     
+                                        <p class="attr-row">african tick typhus [EXACT]</p>
+                                    
+                                
+                                     
+                                        <p class="attr-row">Boutonneuse disease [RELATED]</p>
+                                    
+                                
+                                     
+                                        <p class="attr-row">Conor and Bruch's disease [RELATED]</p>
+                                    
+                                
+                                     
+                                        <p class="attr-row">Kenya fever [RELATED]</p>
+                                    
+                                
+                                     
+                                        <p class="attr-row">kenya tick typhus [EXACT]</p>
+                                    
+                                
+                                     
+                                        <p class="attr-row">Kenyan tick typhus [RELATED]</p>
+                                    
+                                
+                                     
+                                        <p class="attr-row">marseilles fever [EXACT]</p>
+                                    
+                                
+                                     
+                                        <p class="attr-row">Mediterranean spotted fever [RELATED]</p>
+                                    
+                                
+                                     
+                                        <p class="attr-row">Mediterranean tick fever [RELATED]</p>
+                                    
+                                
+                                     
+                                        <p class="attr-row">Rickettsia conorii spotted fever [EXACT]</p>
+                                    
+                                
+                                     
+                                        <p class="attr-row">South African tick-bite fever [EXACT]</p>
+                                    
+                                
+                            </td>
+                        </tr><tr>
+                    
+        
+                    
+                        </tr><tr>
+                            <td class="field-label">Parent Relationships</td>
+                            <td>
+                            
+                                <p class="attr-row">is_a <a href="/term/DOID:11104/obo" class="rel-link" id="DOID:11104">spotted fever</a></p>
+                            
+                            </td>
+                         </tr>
+                    
+                    
+                    
+
+
+                    
+
+                    
+                    
+                    <!-- Tracker link -->
+                </tbody>
+            </table>    
+            <div id="tracker_div">
+                <span id="tracker"><a target="_blank" href="https://github.com/DiseaseOntology/HumanDiseaseOntology/issues">Add an item to the term tracker</a><a></a></span><a>     
+            </a></div><a>                
+        </a></div><a>
+        <p></p>
+        <p></p>
+            
+
+  
+
+</a></body></html>
