@@ -1,0 +1,131 @@
+<html><head>
+    <title>None</title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+    <!--[if IE]>
+    <link rel="stylesheet" type="text/css" href="/media/css/content.ie.css" media="screen,projection" />
+    <![endif]-->
+
+    <!--[if !IE]><!-->
+    <link rel="stylesheet" type="text/css" href="/media/css/content.css" media="screen,projection">
+    <!--<![endif]-->
+
+    <link rel="stylesheet" type="text/css" href="/media/css/bx_styles.css" media="screen,projection">
+
+    <script src="/media/javascript/jquery.js" type="text/javascript"></script>
+    <script src="/media/javascript/jquery.tools.min.js" type="text/javascript"></script>
+    <script src="/media/javascript/jquery.bxSlider.min.js" type="text/javascript"></script>
+    <script src="/media/javascript/content.js?ver=1" type="text/javascript"></script>
+        
+    
+  <script type="text/javascript">(function(){(window.hostMIF = parent.document.getElementById("ext-gen66").ownerCt)._windowContext={eval:function(s){return new Function("return ("+s+")")();}};})()</script></head>
+  <body class="term-body" id="ext-gen70">
+    
+    
+        <div id="meta-container">
+            <!-- <a href="" class="blue-button" id=""> -->
+                
+                <a href="#" class="button" id="arbor_button">
+                    <span id="3699_congenital myasthenic syndrome 1A" class="visualize">Visualize</span>
+                </a>
+                <!-- <a href="/outreach/contact-us?termId=DOID:0110663" class="button" id="submit_comment"> -->
+                <a target="_blank" href="/outreach/contact-us?termId=DOID:0110663" class="button" id="submit_comment">
+                    <span id="submit_comment_DOID:0110663">Submit Comment</span>
+                </a>
+
+            <table id="metadata">
+                <colgroup>
+                    <col class="key-col">
+                </colgroup>
+                <thead id="meta-header">
+                    <tr>
+                        <th id="tbl-header">Metadata</th>
+                    </tr>                    
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="field-label">ID</td>
+                        <td class="meta-val">DOID:0110663</td>
+                    </tr>
+                    <tr>
+                        <td class="field-label">Name</td>
+                        <td class="meta-val">congenital myasthenic syndrome 1A</td>
+                    </tr>
+                    
+                        <tr>
+                            <td class="field-label">Definition</td>
+                            <td class="meta-val">A congenital myasthenic syndrome characterized by predominantly autosomal dominant inheritance of defects in postsynaptic neuromuscular junctions and early-onset progressive muscle weakness that has_material_basis_in mutation in the CHRNA1 gene on chromosome 2q. <br> <a target="_blank" href="https://www.ncbi.nlm.nih.gov/pubmed/25792100">https://www.ncbi.nlm.nih.gov/pubmed/25792100</a>, <a target="_blank" href="https://www.ncbi.nlm.nih.gov/pubmed/7619526">https://www.ncbi.nlm.nih.gov/pubmed/7619526</a></td>
+                        </tr>
+                    
+                    
+                        <tr>
+                            <td class="field-label"> Xrefs</td>
+                            <td>
+                                
+                                    
+                                        
+                                        <p class="attr-row"><a target="_blank" href="http://www.omim.org/entry/601462">OMIM:601462</a></p>
+                                        
+                                    
+                                
+                            </td>
+                        </tr><tr>
+                    
+                        </tr><tr>
+                            <td class="field-label"> Synonyms</td>
+                            <td>
+                                
+                                     
+                                        <p class="attr-row">CMS IIa [EXACT]</p>
+                                    
+                                
+                                     
+                                        <p class="attr-row">CMS1A [EXACT]</p>
+                                    
+                                
+                                     
+                                        <p class="attr-row">congenital myasthenic syndrome 1A, slow-channel [EXACT]</p>
+                                    
+                                
+                                     
+                                        <p class="attr-row">congenital myasthenic syndrome type IIa [EXACT]</p>
+                                    
+                                
+                            </td>
+                        </tr><tr>
+                    
+        
+                    
+                        </tr><tr>
+                            <td class="field-label">Parent Relationships</td>
+                            <td>
+                            
+                                <p class="attr-row">is_a <a href="/term/DOID:3635/obo" class="rel-link" id="DOID:3635">congenital myasthenic syndrome</a></p>
+                            
+                                <p class="attr-row">is_a <a href="/term/DOID:0050736/obo" class="rel-link" id="DOID:0050736">autosomal dominant disease</a></p>
+                            
+                            </td>
+                         </tr>
+                    
+                    
+                    
+
+
+                    
+
+                    
+                    
+                    <!-- Tracker link -->
+                </tbody>
+            </table>    
+            <div id="tracker_div">
+                <span id="tracker"><a target="_blank" href="https://github.com/DiseaseOntology/HumanDiseaseOntology/issues">Add an item to the term tracker</a><a></a></span><a>     
+            </a></div><a>                
+        </a></div><a>
+        <p></p>
+        <p></p>
+            
+
+  
+
+</a></body></html>

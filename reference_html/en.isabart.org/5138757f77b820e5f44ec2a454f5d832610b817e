@@ -1,0 +1,280 @@
+<html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths" lang="en"><!--<![endif]--><head>
+		<!-- Google Tag Manager -->
+		<script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ua/linkid.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-K4XLCL8"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-K4XLCL8');</script>
+		<!-- End Google Tag Manager -->
+		<base href="https://en.isabart.org/">
+		
+		<meta charset="utf-8">
+
+		<!-- Use the .htaccess and remove these lines to avoid edge case issues.
+		More info: h5bp.com/b/378 -->
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+		<title>Josef  Hnilička  | abart</title>
+		
+		<meta name="description" content="">
+		<meta name="author" content="Sector 31 s.r.o.">
+
+		<!-- Mobile viewport optimized: j.mp/bplateviewport -->
+		<meta name="viewport" content="width=device-width,initial-scale=1">
+
+		<!-- Place favicon.ico and apple-touch-icon.png in the root directory: mathiasbynens.be/notes/touch-icons -->
+
+
+
+		<!-- More ideas for your <head> here: h5bp.com/d/head-Tips -->
+
+		<!-- All JavaScript at the bottom, except for Modernizr / Respond.
+		Modernizr enables HTML5 elements & feature detects; Respond is a polyfill for min/max-width CSS3 Media Queries
+		For optimal performance, use a custom Modernizr build: www.modernizr.com/download/ -->
+		<script src="js/libs/modernizr-2.0.6.min.js"></script>
+
+	
+		<script type="text/javascript" src="highslide/highslide-with-gallery.js"></script>
+		<link rel="stylesheet" type="text/css" href="highslide/highslide.css?1">
+		<!--[if lt IE 7]>
+		<link rel="stylesheet" type="text/css" href="highslide/highslide-ie6.css" />
+		<![endif]-->
+
+		<!-- CSS: implied media=all -->
+		<!-- CSS concatenated and minified via ant build script-->
+		<link rel="stylesheet" href="css/style.css?20210625">
+		<link rel="stylesheet" href="css/jquery-ui/jquery-ui-1.11.4-custom.min.css?20200203">
+		<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
+		<!-- end CSS-->
+		
+		<script type="text/javascript">
+		//<![CDATA[
+		hs.registerOverlay({
+		html: '<div class="closebutton" onclick="return hs.close(this)" title="Close"></div>',
+		position: 'top right',
+		fade: 2 // fading the semi-transparent overlay looks bad in IE
+		});
+		hs.graphicsDir = 'highslide/graphics/';
+		hs.align = 'center';
+		hs.transitions = ['fade'];
+		hs.outlineType = 'rounded-white';
+		hs.fadeInOut = true;
+//		hs.numberPosition = 'caption';
+		hs.wrapperClassName = 'wide-border';
+		hs.showCredits = false;
+	if (hs.addSlideshow) hs.addSlideshow({
+		//slideshowGroup: 'group1',
+		interval: 4000,
+		repeat: false,
+		useControls: true,
+		fixedControls: 'fit',
+		overlayOptions: {
+			opacity: .99,
+			position: 'bottom center',
+			hideOnMouseOut: false
+		}
+	});
+//		hs.captionId = 'theCaption';
+		//]]>
+
+		</script>
+	
+	<script async="" type="text/javascript" charset="utf-8" src="https://rec.smartlook.com/recorder.js"></script><style type="text/css">.highslide img {cursor: url(highslide/graphics/zoomin.cur), pointer !important;}.highslide-viewport-size {position: fixed; width: 100%; height: 100%; left: 0; top: 0}</style></head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K4XLCL8"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="container">
+<div class="wrap">
+	<div class="top">
+		<div class="logo-archiv">
+			<a href="/"><img src="img/top/logo_abart.png" alt="archiv"></a>
+		</div>
+		<div class="top-content">
+			<ul class="navigation">
+								<li><a class="act act2" href="/person">persons</a></li>
+				<li><a href="/document">documents</a></li>
+				<li><a href="/exhibition">events</a></li>
+				<li><a href="group">groups</a></li>
+				<li><a href="institution">institutions and locations</a></li>
+				<li><a href="term">terms</a></li>
+				<li><a href="./index">all</a></li>
+				
+				<li class="last"><a href="http://cs.isabart.org/person/65412">CS</a></li>			</ul>
+			<div class="search">
+				
+					<form action="./person/search" method="get">
+						<div class="buttons">
+							<input type="submit" name="search" class="searchButton mobileHidden" value="search">
+							<input type="button" name="filter" class="filterButton mobileHidden" value="filter">
+							<input type="submit" name="search" class="searchButton desktopHidden" value="Search">
+							<input type="button" name="filter" class="filterButton desktopHidden" value="Filter">
+						</div>
+						<div class="searchbar">
+							<input class="jmeno" type="text" name="data" value="" placeholder="artist, curator, author of the text, etc.">
+						</div>
+						<span>Hledat:</span>
+						<div class="filterWrapper person">
+							<input type="button" name="clear" class="filterClearButton" value="clear">
+							<div class="textInputs">
+								<label for="birth_date">date of birth</label>
+									<input class="date_day" id="birth_date" type="text" name="birth_date_day" placeholder="dd" value="" maxlength="2">
+									<input class="date_month" type="text" name="birth_date_month" placeholder="mm" value="" maxlength="2">
+									<input class="date_year" type="text" name="birth_date_year" placeholder="yyyy" value="" maxlength="4">
+						
+								<label for="death_date">date of death</label>
+									<input class="date_day" id="death_date" type="text" name="death_date_day" placeholder="dd" value="" maxlength="2">
+									<input class="date_month" type="text" name="death_date_month" placeholder="mm" value="" maxlength="2">
+									<input class="date_year" type="text" name="death_date_year" placeholder="yyyy" value="" maxlength="4">
+								
+								<label for="birth_place">birthplace</label>
+									<input id="birth_place" type="text" name="birth_place_municipality" placeholder="municipality" value=""><br>
+								<label></label>
+									<input type="text" name="birth_place_state" placeholder="state" value=""><br>
+					
+								<label for="death_place">deathplace</label>
+									<input id="death_place" type="text" name="death_place_municipality" placeholder="municipality" value=""><br>
+								<label></label>
+									<input type="text" name="death_place_state" placeholder="state" value=""><br>
+						
+								<label for="worked_place">place of activity</label>
+									<input id="worked_place" type="text" name="worked_place_municipality" placeholder="municipality" value=""><br>
+								<label></label>
+									<input type="text" name="worked_place_state" placeholder="state" value=""><br>
+						
+								<label for="branch">profession</label><input class="" id="branch" type="text" name="branch" value=""><br>
+							</div>
+							<div class="checkboxes full">
+								<div class="col"><br class="desktopHidden"><input type="checkbox" name="textauthor" id="textauthor">&nbsp;&nbsp;<label for="textauthor">author of the text</label><br><br class="desktopHidden"><input type="checkbox" name="author" id="author">&nbsp;&nbsp;<label for="author">author of the publication</label><br><br class="desktopHidden"><input type="checkbox" name="photographer" id="photographer">&nbsp;&nbsp;<label for="photographer">photographer</label><br><br class="desktopHidden"><input type="checkbox" name="illustrator" id="illustrator">&nbsp;&nbsp;<label for="illustrator">illustrator</label><br><br class="desktopHidden"><input type="checkbox" name="exhibition" id="exhibition">&nbsp;&nbsp;<label for="exhibition">installation of an exhibition</label><br><br class="desktopHidden"><input type="checkbox" name="curator" id="curator">&nbsp;&nbsp;<label for="curator">curator</label><br><br class="desktopHidden"><input type="checkbox" name="professor" id="professor">&nbsp;&nbsp;<label for="professor">professor</label><br><br class="desktopHidden"><input type="checkbox" name="translator" id="translator">&nbsp;&nbsp;<label for="translator">translator</label><br><br class="desktopHidden"><input type="checkbox" name="typographer" id="typographer">&nbsp;&nbsp;<label for="typographer">typographer</label><br><br class="desktopHidden"><input type="checkbox" name="mentioned" id="mentioned">&nbsp;&nbsp;<label for="mentioned">mentioned person</label><br><br class="desktopHidden"></div>
+							</div>
+						</div>
+					</form>
+
+						</div><!--/ end .search -->
+		</div><!--/ end .top-content -->
+	</div><!--/ end .top -->
+
+	<div class="page">
+		<div class="layout-width">
+		<div class="other">
+		<div class="navigationdiv">
+	<!-- <h2>Category</h2> -->
+	<ul class="detailnavigation">
+		<li><a class="act" href="./person/65412">Basic data</a></li>
+		<li><a href="./person/65412/artist">documents</a></li><li><a href="./person/65412/worked">activity/working</a></li>    </ul>
+</div>
+	<div class="historie">
+		<h2>History			<img class="arrow up show" src="img/historyArrowTop.jpg" alt="">
+			<img class="arrow down hide" src="img/historyArrow.jpg" alt="">
+		</h2>
+		<ul>
+			<li><a href="person/65412">Josef  Hnilička (person)</a></li>		</ul>
+		<div class="clr">&nbsp;</div>
+    </div>
+<div class="clr">&nbsp;</div>		</div><!--/ end .other -->
+
+<div class="main detail">
+    <div class="main-content">
+		<div class="detail-content">
+							<div class="detail-info">
+					<h2>Josef  Hnilička</h2>
+					<p>
+						* <span>1884</span>, <span>Vinaře (Kutná Hora)</span>, <span>Česká republika (Czech Republic)</span><br>† <span>31. 12. 1935</span>, <span>Znojmo (Znojmo)</span>, <span>Česká republika (Czech Republic)</span><br>					</p>
+				</div>
+				<div class="clr">&nbsp;</div>
+				<p>
+					<strong>sex:</strong> male<br>				</p>
+								<div class="clr">&nbsp;</div>
+						</div><!--/ end .detail-content -->
+
+		<div class="clr">&nbsp;</div>
+    </div><!--/ end .main-content -->
+</div><!--/ end .main -->
+<div class="clr">&nbsp;</div></div><!--/ end .layout-width -->
+
+<div id="navtxt" class="navtext" style="visibility: hidden; position: absolute; top: 0px; left: -400px; z-index: 10000; padding: 4px; text-align: center;"></div>
+</div><!--/ end .page -->
+
+</div><!--/ end .wrap -->
+
+<div class="footer">
+	<div class="layout-width">
+		<div class="footer-content">
+			<div class="footer-top-left"><a href="http://www.artarchiv.cz"><strong>Archive of Fine Arts</strong></a>
+				<p>Archive of Fine Arts collects, processes and makes available materials on contemporary art.</p>
+				<address>
+					Náměstí Smiřických 49, 281 63 Kostelec nad Černými lesy<br>
+					ID - 26639327, bank - 187566169/0300<br>
+					office phone – 222 942 718<br>
+					<a class="under" href="http://www.artarchiv.cz">www.artarchiv.cz</a><br><br>
+				</address>
+			</div>
+			<div class="footer-top-right">
+				<div class="line">
+					<span class="title">Alphabetical list of persons</span>
+					<a href="person/list/letter/A">A</a> <a href="person/list/letter/B">B</a> <a href="person/list/letter/C">C</a> <a href="person/list/letter/D">D</a> <a href="person/list/letter/E">E</a> <a href="person/list/letter/F">F</a> <a href="person/list/letter/G">G</a> <a href="person/list/letter/H">H</a> <a href="person/list/letter/CH">CH</a> <a href="person/list/letter/I">I</a> <a href="person/list/letter/J">J</a> <a href="person/list/letter/K">K</a> <a href="person/list/letter/L">L</a> <a href="person/list/letter/M">M</a> <a href="person/list/letter/N">N</a> <a href="person/list/letter/O">O</a> <a href="person/list/letter/P">P</a> <a href="person/list/letter/Q">Q</a> <a href="person/list/letter/R">R</a> <a href="person/list/letter/S">S</a> <a href="person/list/letter/T">T</a> <a href="person/list/letter/U">U</a> <a href="person/list/letter/V">V</a> <a href="person/list/letter/W">W</a> <a href="person/list/letter/X">X</a> <a href="person/list/letter/Y">Y</a> <a href="person/list/letter/Z">Z</a> 				</div>
+				<div class="line">
+					<span class="title">Alphabetical list of documents</span>
+					<a href="document/list/letter/A">A</a> <a href="document/list/letter/B">B</a> <a href="document/list/letter/C">C</a> <a href="document/list/letter/D">D</a> <a href="document/list/letter/E">E</a> <a href="document/list/letter/F">F</a> <a href="document/list/letter/G">G</a> <a href="document/list/letter/H">H</a> <a href="document/list/letter/CH">CH</a> <a href="document/list/letter/I">I</a> <a href="document/list/letter/J">J</a> <a href="document/list/letter/K">K</a> <a href="document/list/letter/L">L</a> <a href="document/list/letter/M">M</a> <a href="document/list/letter/N">N</a> <a href="document/list/letter/O">O</a> <a href="document/list/letter/P">P</a> <a href="document/list/letter/Q">Q</a> <a href="document/list/letter/R">R</a> <a href="document/list/letter/S">S</a> <a href="document/list/letter/T">T</a> <a href="document/list/letter/U">U</a> <a href="document/list/letter/V">V</a> <a href="document/list/letter/W">W</a> <a href="document/list/letter/X">X</a> <a href="document/list/letter/Y">Y</a> <a href="document/list/letter/Z">Z</a> 				</div>
+				<div class="line">
+					<span class="title">Alphabetical list of events</span>
+					<a href="exhibition/list/letter/A">A</a> <a href="exhibition/list/letter/B">B</a> <a href="exhibition/list/letter/C">C</a> <a href="exhibition/list/letter/D">D</a> <a href="exhibition/list/letter/E">E</a> <a href="exhibition/list/letter/F">F</a> <a href="exhibition/list/letter/G">G</a> <a href="exhibition/list/letter/H">H</a> <a href="exhibition/list/letter/CH">CH</a> <a href="exhibition/list/letter/I">I</a> <a href="exhibition/list/letter/J">J</a> <a href="exhibition/list/letter/K">K</a> <a href="exhibition/list/letter/L">L</a> <a href="exhibition/list/letter/M">M</a> <a href="exhibition/list/letter/N">N</a> <a href="exhibition/list/letter/O">O</a> <a href="exhibition/list/letter/P">P</a> <a href="exhibition/list/letter/Q">Q</a> <a href="exhibition/list/letter/R">R</a> <a href="exhibition/list/letter/S">S</a> <a href="exhibition/list/letter/T">T</a> <a href="exhibition/list/letter/U">U</a> <a href="exhibition/list/letter/V">V</a> <a href="exhibition/list/letter/W">W</a> <a href="exhibition/list/letter/X">X</a> <a href="exhibition/list/letter/Y">Y</a> <a href="exhibition/list/letter/Z">Z</a> 				</div>
+				<div class="line">
+					<span class="title">Alphabetical list of groups</span>
+					<a href="group/list/letter/A">A</a> <a href="group/list/letter/B">B</a> <a href="group/list/letter/C">C</a> <a href="group/list/letter/D">D</a> <a href="group/list/letter/E">E</a> <a href="group/list/letter/F">F</a> <a href="group/list/letter/G">G</a> <a href="group/list/letter/H">H</a> <a href="group/list/letter/CH">CH</a> <a href="group/list/letter/I">I</a> <a href="group/list/letter/J">J</a> <a href="group/list/letter/K">K</a> <a href="group/list/letter/L">L</a> <a href="group/list/letter/M">M</a> <a href="group/list/letter/N">N</a> <a href="group/list/letter/O">O</a> <a href="group/list/letter/P">P</a> <a href="group/list/letter/Q">Q</a> <a href="group/list/letter/R">R</a> <a href="group/list/letter/S">S</a> <a href="group/list/letter/T">T</a> <a href="group/list/letter/U">U</a> <a href="group/list/letter/V">V</a> <a href="group/list/letter/W">W</a> <a href="group/list/letter/X">X</a> <a href="group/list/letter/Y">Y</a> <a href="group/list/letter/Z">Z</a> 				</div>
+				<div class="line">
+					<span class="title">Alphabetical list of institutions</span>
+					<a href="institution/list/letter/A">A</a> <a href="institution/list/letter/B">B</a> <a href="institution/list/letter/C">C</a> <a href="institution/list/letter/D">D</a> <a href="institution/list/letter/E">E</a> <a href="institution/list/letter/F">F</a> <a href="institution/list/letter/G">G</a> <a href="institution/list/letter/H">H</a> <a href="institution/list/letter/CH">CH</a> <a href="institution/list/letter/I">I</a> <a href="institution/list/letter/J">J</a> <a href="institution/list/letter/K">K</a> <a href="institution/list/letter/L">L</a> <a href="institution/list/letter/M">M</a> <a href="institution/list/letter/N">N</a> <a href="institution/list/letter/O">O</a> <a href="institution/list/letter/P">P</a> <a href="institution/list/letter/Q">Q</a> <a href="institution/list/letter/R">R</a> <a href="institution/list/letter/S">S</a> <a href="institution/list/letter/T">T</a> <a href="institution/list/letter/U">U</a> <a href="institution/list/letter/V">V</a> <a href="institution/list/letter/W">W</a> <a href="institution/list/letter/X">X</a> <a href="institution/list/letter/Y">Y</a> <a href="institution/list/letter/Z">Z</a> 				</div>
+				<div class="line">
+					<span class="title">Alphabetical list of terms</span>
+					<a href="term/list/letter/A">A</a> <a href="term/list/letter/B">B</a> <a href="term/list/letter/C">C</a> <a href="term/list/letter/D">D</a> <a href="term/list/letter/E">E</a> <a href="term/list/letter/F">F</a> <a href="term/list/letter/G">G</a> <a href="term/list/letter/H">H</a> <a href="term/list/letter/CH">CH</a> <a href="term/list/letter/I">I</a> <a href="term/list/letter/J">J</a> <a href="term/list/letter/K">K</a> <a href="term/list/letter/L">L</a> <a href="term/list/letter/M">M</a> <a href="term/list/letter/N">N</a> <a href="term/list/letter/O">O</a> <a href="term/list/letter/P">P</a> <a href="term/list/letter/Q">Q</a> <a href="term/list/letter/R">R</a> <a href="term/list/letter/S">S</a> <a href="term/list/letter/T">T</a> <a href="term/list/letter/U">U</a> <a href="term/list/letter/V">V</a> <a href="term/list/letter/W">W</a> <a href="term/list/letter/X">X</a> <a href="term/list/letter/Y">Y</a> <a href="term/list/letter/Z">Z</a> 				</div>
+			</div>
+			<div class="clr">&nbsp;</div>
+		</div><!--/ end .footer-content -->
+
+		<br>
+
+		<div class="footer-content">
+			<div class="footer-bottom-left">
+				<span>
+					Work available under a Creative Commons license<br>
+					Give the author credit-Non-commercial use-Share-Alike 3.0 Unported licence Czech Republic				</span>
+				<a href="http://www.creativecommons.cz/"><img src="img/footer/logo_creative_commons.png" alt="Creative Commons"></a>
+			</div>
+			<div class="footer-bottom-right">
+				<span>Archiv supported by:</span>
+				<img src="img/footer/logo_statni_fond.png" alt="Státní fond kultury ČR"> &nbsp; &nbsp;
+				<img src="img/footer/logo_ministerstvo_kultury.png" alt="Ministry of Culture"> &nbsp; &nbsp;
+				<img src="img/footer/logo_praha.png" alt="Prague">
+			</div>
+			<div class="clr">&nbsp;</div>
+		</div><!--/ end .footer-content -->
+	</div><!--/ end .layout-width -->
+</div><!--/ end .footer -->
+</div>
+<!-- JavaScript at the bottom for fast page loading -->
+
+<!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if offline -->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+	<script>window.jQuery || document.write('<script src="js/libs/jquery-1.7.1.min.js"><\/script>')</script>
+
+	<script src="js/libs/jquery-ui-1.11.4-custom.min.js"></script>
+	<script src="js/libs/datepicker-cs.js"></script>
+
+<!-- scripts concatenated and minified via ant build script-->
+<script defer="" src="js/plugins.js"></script>
+<script defer="" src="js/script.js?20200203"></script>
+<script defer="" src="js/alttxt.js"></script>
+<!-- end scripts-->
+
+
+	<script>
+		$(document).ready(function() {
+			$(".datepicker").datepicker($.datepicker.regional["en"]);
+			$(".datepicker").datepicker('option', {dateFormat: 'dd.mm.yy'});
+
+		});
+	</script>
+
+<script type="text/javascript" id="">window.smartlook||function(a){var b=smartlook=function(){b.api.push(arguments)},c=a.getElementsByTagName("head")[0];a=a.createElement("script");b.api=[];a.async=!0;a.type="text/javascript";a.charset="utf-8";a.src="https://rec.smartlook.com/recorder.js";c.appendChild(a)}(document);smartlook("init","46fbdc81ab797c0199a062a131c67831c1c80959");</script><div class="highslide-container" style="padding: 0px; border: none; margin: 0px; position: absolute; left: 0px; top: 0px; width: 100%; z-index: 1001; direction: ltr;"><a class="highslide-loading" title="Click to cancel" href="javascript:;" style="position: absolute; top: -9999px; opacity: 0.75; z-index: 1;">Loading...</a><div style="display: none;"></div><div class="highslide-viewport highslide-viewport-size" style="padding: 0px; border: none; margin: 0px; visibility: hidden;"></div><table cellspacing="0" style="padding: 0px; border: none; margin: 0px; visibility: hidden; position: absolute; border-collapse: collapse; width: 0px;"><tbody style="padding: 0px; border: none; margin: 0px;"><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px; background: url(&quot;https://en.isabart.org/highslide/graphics/outlines/rounded-white.png&quot;) 0px 0px; height: 20px; width: 20px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px; background: url(&quot;https://en.isabart.org/highslide/graphics/outlines/rounded-white.png&quot;) 0px -40px; height: 20px; width: 20px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px; background: url(&quot;https://en.isabart.org/highslide/graphics/outlines/rounded-white.png&quot;) -20px 0px; height: 20px; width: 20px;"></td></tr><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px; background: url(&quot;https://en.isabart.org/highslide/graphics/outlines/rounded-white.png&quot;) 0px -80px; height: 20px; width: 20px;"></td><td class="rounded-white highslide-outline" style="padding: 0px; border: none; margin: 0px; position: relative;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px; background: url(&quot;https://en.isabart.org/highslide/graphics/outlines/rounded-white.png&quot;) -20px -80px; height: 20px; width: 20px;"></td></tr><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px; background: url(&quot;https://en.isabart.org/highslide/graphics/outlines/rounded-white.png&quot;) 0px -20px; height: 20px; width: 20px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px; background: url(&quot;https://en.isabart.org/highslide/graphics/outlines/rounded-white.png&quot;) 0px -60px; height: 20px; width: 20px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px; background: url(&quot;https://en.isabart.org/highslide/graphics/outlines/rounded-white.png&quot;) -20px -20px; height: 20px; width: 20px;"></td></tr></tbody></table></div></body></html>

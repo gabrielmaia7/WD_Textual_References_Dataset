@@ -1,0 +1,243 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta http-equiv="imagetoolbar" content="no">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+							<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="application/ld+json">
+				{"@context":"https://schema.org/","@type":"Article","about":{"@type":"Person","givenName":"Mary","familyName":"Hutton","name":"Mary Hutton","birthDate":"1883-10-28","birthPlace":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Hawthorn, Melbourne","addressRegion":"Victoria","addressCountry":"Australia"}},"deathDate":"1964-12-20","deathPlace":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Fitzroy, Melbourne","addressRegion":"Victoria","addressCountry":"Australia"}}},"author":{"@type":"Person","givenName":"Judith","familyName":"Biddington","name":"Judith Biddington"},"datePublished":"1996-01-01","description":"Mary Hutton (1883-1964), headmistress, was born on 28 October 1883 at Hawthorn, Melbourne, fourth daughter of Colin Fergusson Hutton, a gentleman from Scotland, and his Adelaide-born wife Isabel Jane, née Townsend.","headline":"Hutton, Mary (1883–1964)","keywords":"Mary Hutton, biography","isPartOf":{"@type":"Book","bookEdition":14,"bookFormat":"https://schema.org/Hardcover","datePublished":1996,"description":"The Australian Dictionary of Biography contains concise, informative and fascinating descriptions of the lives of significant and representative persons in Australian history.","image":"https://adb.anu.edu.au/images/covers/volume14.png","isbn":"052284717X","name":"Australian Dictionary of Biography","url":"https://adb.anu.edu.au","copyrightHolder":{"@type":"Organization","name":"The Australian National University","url":"https://www.anu.edu.au"},"copyrightYear":1996,"editor":{"@type":"Person","givenName":"John","familyName":"Ritchie","name":"John Ritchie"},"publisher":{"@type":"Organization","name":"Melbourne University Press","url":"https://www.mup.com.au"}}}
+			</script>
+				<title>Biography - Mary Hutton - Australian Dictionary of Biography</title>
+				
+		
+		
+		
+		
+		
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="/css/multi.php;reset.css,fixes.css,site/adb/generic.css,structure-common.css,site/adb/structure-site.css,infinite.css,shadowbox.css;e7e717f60037424327e10e7d4592e6b3">
+
+
+					<script type="text/javascript">
+				var settings = {"site_code":"adb","sites":{"adb":"adb.anu.edu.au","ia":"ia.anu.edu.au","la":"labouraustralia.anu.edu.au","oa":"oa.anu.edu.au","pa":"peopleaustralia.anu.edu.au","pib":"pib.anu.edu.au","wa":"womenaustralia.anu.edu.au"}};
+			</script>
+		
+		
+		
+		
+		
+		
+		
+		
+		<script type="text/javascript" src="/js/multi.php;jquery.min.js,jqueryui/jquery-ui.custom.min.js,clearFocus.js,searchBox.js,facets.js,common-utils.js,advanced-search.js,shadowbox/shadowbox.js;a755efc95b465829300a7f03107abe59"></script>
+
+
+						
+		
+						<link rel="stylesheet" href="/css/site/adb/print.css" type="text/css" media="print">
+		<link rel="shortcut icon" href="/images/site/adb/favicon.ico">
+				<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-21252809-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+			</head>
+<body class="site_adb js"><script type="text/javascript">document.body.className += " js";</script>
+<header>
+<div id="masthead">
+	<div class="clearFix" id="topNav">
+				<ul>
+							<li><a href="https://oa.anu.edu.au">Obituaries Australia</a></li>
+							<li><a href="https://peopleaustralia.anu.edu.au">People Australia</a></li>
+							<li><a href="https://ia.anu.edu.au">Indigenous Australia</a></li>
+							<li><a href="https://womenaustralia.anu.edu.au">Women Australia</a></li>
+							<li><a href="https://labouraustralia.anu.edu.au">Labour Australia</a></li>
+					</ul>
+	</div>
+	<div id="tileAndSearchContainer">
+		<div class="clearFix" id="titleAndSearchPage">
+			<h1 class="hideFromScreen">Australian Dictionary of Biography</h1>
+			<ul id="searchSubmitPage">
+				<li>
+										<form action="/biographies/search/" method="get" id="mastheadSearchForm">
+						<select id="scopeSelect" name="scope" onchange="searchBox.setTip();">
+						<option value="person">person</option>
+						<option value="all" selected="selected">text</option>
+						</select>
+						<input name="query" type="text" class="searchTextInput clearMeFocus" title="Quick search" value="">
+						<input name="" type="image" class="searchBttns" src="/images/site/adb/bttn_search.png" alt="Search">
+						<input name="rs" type="hidden" value="">
+					</form>
+				</li>
+				<li id="personTip" class="searchTip js-hide">
+				<span><strong>Tip:</strong> searches only the name field</span>
+				</li>
+				<li id="allTip" class="searchTip">
+				<span><strong>Tip:</strong> Use double quotes to search for a phrase</span></li>
+			</ul>
+			<!--p class="donate"><a href="/adb-endowment-fund/"><img src="/images/bttn_donate.png"/></a></p-->
+		</div>
+		<div class="clearFix" id="navTabs">
+						<ul id="mainNav">
+											<li class="fixedTab"><a href="/">Home</a></li>
+											<li class="fixedTab"><a href="/about-us/">About</a></li>
+											<li class="fixedTab"><a href="/faqs/">FAQs</a></li>
+											<li class="fixedTab"><a href="/contact-us/">Contact</a></li>
+							<li class="tab"><a href="/essays/browse/">Essays</a></li>
+				<li class="tab"><a href="/advanced-search/">Advanced Search</a></li>
+				<li class="tab"><a href="/facets/">Faceted Browse</a></li>
+				<li id="browseTab" class="tab"><a href="#browsePanel">Browse</a></li>
+				<li class="tab"><a href="/adb-endowment-fund/">Donate</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="panel js-hide" id="browsePanel">
+	<div class="panelInner clearFix">
+		<div class="column0203 noh3float">
+			<div class="browseLabelWrapper">
+				<h3 class="browseLabel">Browse by:</h3>
+			</div>
+			<div class="browseOptionWrapper">
+				<ul class="panelInnerNav clearFix">
+					<li><a href="/biographies/name/">Name</a></li>
+					<li><a href="/biographies/birth/">Date of Birth</a></li>
+					<li><a href="/biographies/death/">Date of Death</a></li>
+					<li><a href="/biographies/browse-author/">Author</a></li>
+					<li><a href="/entities/browse/?otype=map">Maps</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div id="culturalWarning" data-nosnippet="true" style="display: block;">
+   <h2 class="culturalWarning__heading"><span class="culturalWarning__heading--decoration">Cultural Advice</span></h2>
+   <div class="culturalWarning__message">
+      <p>Aboriginal and Torres Strait Islander people should be aware that this website contains names, images, and voices of deceased persons.</p>
+      <p>In addition, some articles contain terms or views that were acceptable within mainstream Australian culture in the period in which they were written, but may no longer be considered appropriate.</p>
+      <p>These articles do not necessarily reflect the views of The Australian National University.</p>
+            <p>Older articles are being reviewed with a view to bringing them into line with contemporary values but the original text will remain available for historical context.</p>
+         </div>
+   <div class="culturalWarning__control">
+      <button id="culturalWarningHide" class="culturalWarning__button">Hide message</button>
+   </div>
+</div>
+</header>
+
+<div id="pageContentContainer">
+		<div class="clearFix" id="pageContent">
+						<div id="pageColumnMain">
+
+		<h2>Hutton, Mary (1883–1964)</h2>
+		<p class="authorName">by <a href="/biographies/author/?author=422">Judith Biddington</a></p>		
+		<div class="publish-notice publish-notice--adb">
+<p>This article was published:</p>
+<ul>
+   <li>
+   in the
+   <a href="https://adb.anu.edu.au/biographies/search/?query=volume%3A%2214%22">
+      <span class="publish-notice__volume-name">Australian Dictionary of Biography</span>, Volume 14   </a>
+   , 1996   </li>
+   <li>online in 2006</li>
+</ul>
+</div>
+
+						
+		
+		<div class="biographyContent textContent" id="18799">
+		<!-- div used for printing only -->
+								<p>Mary Hutton (1883-1964), headmistress, was born on 28 October 1883 at Hawthorn, Melbourne, fourth daughter of Colin Fergusson Hutton, a gentleman from Scotland, and his Adelaide-born wife Isabel Jane, née Townsend. Mary was educated at Manningtree Road State School, Hawthorn. At the age of 15, under the instruction of a private tutor, she qualified for matriculation.</p>
+<p>A monitor (1899) and pupil-teacher (1900) at Hawksburn State School, she was recognized as 'promising, energetic and useful', and moved quickly through the ranks. At Melbourne Training College she won her trained teachers' certificate in 1904 and the <a title="Gladman, Frederick John (1839 - 1884)" href="gladman-frederick-john-3619">Gladman</a> prize. Appointed to Cobram in 1906, she gained her infant teachers' certificate that year. Over the next twenty months she taught at five country and city schools. In 1908 Miss Hutton became a secondary teacher at the Continuation School (from 1912 Melbourne High School) and enrolled at the University of Melbourne (Dip.Ed., 1911; B.A., 1914; M.A., 1916). She won the <a title="Dwight, Henry Tolman (1823? - 1871)" href="dwight-henry-tolman-3460">Dwight</a> prize for education and the Cobden medal for political economy.</p>
+<p>By 1918 Hutton was one of a small group of senior mistresses with limited opportunities, for there were then no head-teacher positions available to women within the state secondary system. The reclassification of domestic arts schools as girls' secondary schools in 1925 enabled her to be appointed (1927) headmistress of the Collingwood Domestic Arts School, a task she approached with 'vigour, capacity and ability'. Her job was daunting, for the school had little status and was housed in 'barrack like gloom' in a condemned building.</p>
+<p>Hutton succeeded <a title="Montgomery, Christina Smith (1870 - 1965)" href="montgomery-christina-smith-7628">Christina Montgomery</a> as headmistress of Melbourne Girls' High School in 1934. Following a bequest from <a title="Robertson, Sir Macpherson (1859 - 1945)" href="robertson-macpherson-8237">Sir Macpherson Robertson</a>, the school moved into new premises at Albert Park in November and its name was changed to Mac.Robertson Girls' High School. For fourteen years Hutton worked to consolidate her school's reputation for academic excellence and service. She promoted literature and science, a cultured mind, physical health and calm judgement, but had to balance her higher goals with vocational preparation for a world where there were unequal opportunities for girls. She also tried to maintain school spirit when the building was requisitioned during World War II and the pupils were dispersed. After they returned in 1943, she faced higher enrolments, staffing problems and increased traffic noise, but the school's reputation continued to grow.</p>
+<p>A tiny (4 ft 11 ins, 150 cm), quiet, reserved woman who served on the Schools Board and the university's committee of convocation, Hutton worked to improve pay and promotion for women secondary teachers. She was an executive-member of the High School Teachers' Association and a council-member of the Victorian Teachers' Union. Her own position illustrated the inequalities she fought: despite consistent assessment as an outstanding head, it was not until 1945 that she was classified as a principal, and even then she was still paid less than her male counterparts. Nevertheless, she considered teaching 'the noblest profession'. Following her retirement as headmistress in 1948, she taught part time at the school for six years.</p>
+<p>Hutton's other abiding interest was the Baptist Church, of which she had been a devout member since 1904. In 1951-63 she was a council-member of Kilvington Baptist Girls Grammar School. She died on 20 December 1964 at Fitzroy and was buried in Boroondara cemetery; her estate was sworn for probate at £486. MacRobertson Girls' High School holds her portrait by <a title="Colquhoun, Alexander (1862 - 1941)" href="colquhoun-alexander-5742">Alexander Colquhoun</a>.</p>
+							</div>
+
+		
+				<div class="infoList">
+		<h3>Select Bibliography</h3>
+		<ul>
+			<li>MacRobertson Girls' High School, <em>Pallas</em>, June 1948, Dec 1965</li><li><em>Victorian Baptist Witness</em>, 5 Mar 1965</li><li><em>Argus</em> (Melbourne), 30 Oct, 23 Nov 1948</li><li><em>Age</em> (Melbourne), 21 Dec 1964</li><li>Education Department (Victoria) personal record files and Teachers' Association files (Historical Services, Education Department, Melbourne)</li><li>Kilvington Baptist Girls School Council minutes</li><li>MacRobertson Girls' High School Archives</li><li>South Yarra and Armadale Baptist Church records</li><li>Education Dept (Victoria) Archives, series 6007, 10249, boxes 137, 138 and 150, 10274, box 4, 10537, boxes 62 and 64 (Public Record Office Victoria).</li>
+		</ul>
+		</div>
+				
+		
+		
+		
+		
+				
+		<div class="citation">
+			<h3>Citation details</h3>
+			<p>Judith Biddington, 'Hutton, Mary (1883–1964)', Australian Dictionary of Biography, National Centre of Biography, Australian National University, https://adb.anu.edu.au/biography/hutton-mary-10583/text18799, published first in hardcopy 1996, accessed online 11 March 2022.</p>
+						<p id="origPubDetails"><strong>This article was published in hardcopy in <em><strong>Australian Dictionary of Biography</strong></em>, Volume 14, (Melbourne University Press), 1996</strong></p>
+									<p style="margin-top: 20px;">View the <a href="/frontpages/fp14.pdf" target="_blank">front pages</a> for Volume 14</p>
+					</div>
+						
+		<div id="printFooter">
+			<p class="floatLeft">© Copyright Australian Dictionary of Biography, 2006-2022</p>
+		</div>
+		
+	</div>
+
+	
+	
+	<script type="text/javascript">
+	$(function() {
+		Shadowbox.init({
+			counterType: 'skip',
+			continuous: true,
+			overlayOpacity: 0.80
+		});
+	});
+	</script>
+	<div id="pageSidebar">
+		
+		
+				<div class="lifeSummary">
+			<h3>Life Summary <span><a href="/lifesummary/hutton-mary-10583" target="_blank">[details]</a></span></h3>
+
+			
+						<h5>Birth</h5>
+			<p>
+						<a href="/biographies/birth/?bdate=28101883">28 October 1883</a>			<br>			<a href="/biographies/search/?query=birthLocation%3A%22Hawthorn%2C+Melbourne%2C+Victoria%2C+Australia%22">Hawthorn, Melbourne</a><a href="/biographies/search/?query=birthLocation%3A%22Victoria%2C+Australia%22">, Victoria</a><a href="/biographies/search/?query=birthLocation%3A%22Australia%22">, Australia</a>
+						</p>
+						<h5>Death</h5>
+			<p>
+						<a href="/biographies/death/?ddate=20121964">20 December 1964</a>			<br>			<a href="/biographies/search/?query=deathLocation%3A%22Fitzroy%2C+Melbourne%2C+Victoria%2C+Australia%22">Fitzroy, Melbourne</a><a href="/biographies/search/?query=deathLocation%3A%22Victoria%2C+Australia%22">, Victoria</a><a href="/biographies/search/?query=deathLocation%3A%22Australia%22">, Australia</a>			</p>
+			
+						<h5>Cultural Heritage</h5>
+			<ul>			<li><a href="/biographies/search/?query=ethnicity:&quot;Scottish&quot;">Scottish</a></li>
+			</ul>
+			
+						<h5>Religious Influence</h5>
+			<ul>			<li><a href="/biographies/search/?query=religion:&quot;Baptist&quot;">Baptist</a></li>
+			</ul>
+																	
+							<h5>Occupation</h5><ul><li><a href="/biographies/occupation/?occupation=school+principal&amp;rpp=200">school principal</a></li><li><a href="/biographies/occupation/?occupation=schoolteacher&amp;rpp=200">schoolteacher</a></li></ul>
+					</div>
+</div>
+		</div>
+</div>
+<footer>
+<div class="clearFix" id="footer">
+	<h3>Australian Dictionary of Biography</h3>
+	<p>An initiative of the <a href="https://history.cass.anu.edu.au/centres/ncb">National Centre of Biography</a> at the <a href="https://www.anu.edu.au/">Australian National University</a></p>
+	<div class="clearFix">
+		<p class="floatLeft">© Copyright Australian Dictionary of Biography, 2006-2022</p>
+		<p class="floatLeft cdp"><a href="/copyright/">Copyright</a> · <a href="/disclaimer/">Disclaimer</a> · <a href="/privacy/">Privacy Policy</a> · <a href="/contact-us/">Contact Us</a></p>
+	</div>
+</div>
+</footer>
+
+
+<div id="sb-container"><div id="sb-overlay"></div><div id="sb-wrapper"><div id="sb-counter"></div><div id="sb-wrapper-inner"><div id="sb-body"><div id="sb-body-inner"></div><div id="sb-loading"><div id="sb-loading-inner"><span>loading</span></div></div></div></div><div id="sb-title"><div id="sb-title-inner"></div></div><div id="sb-info"><div id="sb-info-inner"><div id="sb-nav"><a id="sb-nav-close" title="Close" onclick="Shadowbox.close()"></a><a id="sb-nav-next" title="Next" onclick="Shadowbox.next()"></a><a id="sb-nav-play" title="Play" onclick="Shadowbox.play()"></a><a id="sb-nav-pause" title="Pause" onclick="Shadowbox.pause()"></a><a id="sb-nav-previous" title="Previous" onclick="Shadowbox.previous()"></a></div></div></div></div></div></body></html>

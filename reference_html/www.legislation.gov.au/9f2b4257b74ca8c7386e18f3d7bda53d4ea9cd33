@@ -1,0 +1,1342 @@
+<html xmlns="http://www.w3.org/1999/xhtml" class="t-chrome t-chrome99"><head id="Head1"><meta name="viewport" content="width=device-width,initial-scale=1, user-scalable=yes">
+    <script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="/Scripts/jquery-1.3.2.min.js"></script>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link id="linkCSS" type="text/css" rel="stylesheet" href="/Content/Site.css"><link type="text/css" rel="Stylesheet" media="print" href="/Content/PrintStyle.css"><link rel="alternate" type="application/rss+xml" title="ComLaw Rss feed" href="../rss"><link id="linkMenuCSS" rel="stylesheet" type="text/css" href="/Content/Skins/Comlaw/Menu.Comlaw.css"><link type="text/css" rel="Stylesheet" media="screen" href="/Content/Skins/ComlawRefresh/styles/styles.css">
+    <!--[if gte IE 9]>
+        <link rel="stylesheet" type="text/css" href="/Content/Skins/ComlawRefresh/styles/ie9.css" />
+    <![endif]-->
+    <script type="text/javascript">
+        function bookmarksite(title, url) {
+            if (window.sidebar && window.sidebar.addPanel) // firefox
+                window.sidebar.addPanel(title, url, "");
+            else if (window.opera && window.print) { // opera
+                var elem = document.createElement('a');
+                elem.setAttribute('href', url);
+                elem.setAttribute('title', title);
+                elem.setAttribute('rel', 'sidebar');
+                elem.click();
+            }
+            else if (window.external && ('AddFavorite' in window.external))// ie
+                window.external.AddFavorite(url, title);
+        }
+        function DoSearch() {
+            var searchtext = $find('ctl00_txtRegularSearch').get_value();
+            location.href = "/Search/" + replacestring(searchtext);
+            return false;
+        }
+        function replacestring(stringtoreplace) {
+            stringtoreplace = stringtoreplace.split("&").join("$A$");
+
+            stringtoreplace = stringtoreplace.split('*').join("$ST$");
+            stringtoreplace = stringtoreplace.split("'").join("$SQ$");
+            stringtoreplace = stringtoreplace.split('"').join("$DQ$");
+            stringtoreplace = stringtoreplace.split("/").join("$FS$");
+            stringtoreplace = stringtoreplace.split("\\").join("$BS$");
+            stringtoreplace = stringtoreplace.split(",").join("$C$");
+            stringtoreplace = stringtoreplace.split(";").join("$SC$");
+            stringtoreplace = stringtoreplace.split("(").join("$LB$");
+            stringtoreplace = stringtoreplace.split(")").join("$RB$");
+            stringtoreplace = stringtoreplace.split("{").join("$LCB$");
+            stringtoreplace = stringtoreplace.split("}").join("$RCB$");
+            stringtoreplace = stringtoreplace.split(":").join("$CO$");
+            stringtoreplace = stringtoreplace.split("#").join("$HA$");
+            stringtoreplace = stringtoreplace.split("+").join("$PL$");
+
+            return stringtoreplace
+        }
+
+        function forceLoginout(eventTarget, eventArgument) {
+            if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+                theForm.action = "/MyAccount";
+            }
+        }
+    </script>
+    
+    <title>
+	Cellulose Acetate Flake Bounty Act 1956
+</title><link rel="canonical" href="https://www.legislation.gov.au/Details/C1956A00038/Html/Text"><base href="https://www.legislation.gov.au/Details/C1956A00038/Html/Text"><meta name="DC.Title" content="Cellulose Acetate Flake Bounty Act 1956"><meta name="Title" content="Cellulose Acetate Flake Bounty Act 1956"><meta name="DC.Description" content="C1956A00038"><meta name="Description" content="C1956A00038"><meta name="DC.Creator"><meta name="Admin.Creator"><meta name="DC.Publisher" content="Attorney-General's Department"><meta name="DC.Type.Category" content="Act"><meta name="DC.Type.DocumentType" content="Act" scheme="JSMS.Category"><meta name="DC.Language" content="en" scheme="RFC3066"><meta name="DC.Coverage" content="au" scheme="ISO3166"><meta name="DC.Coverage.jurisdiction" content="au" scheme="AglsJuri"><meta name="AGLS.Audience" content="all" scheme="Agls-audience"><meta name="DC.Rights" content="https://www.legislation.gov.au/Content/Disclaimer"><meta name="DC.Format" content="text/html" scheme="IMT"><meta name="DC.Identifier" content="https://www.legislation.gov.au/Details/C1956A00038/" scheme="URI"><link href="http://www.legislation.gov.au/Details/C1956A00038" rel="canonical"><script src="/Scripts/hotjar/hotjar.js" type="text/javascript"></script><script async="" src="https://static.hotjar.com/c/hotjar-1389221.js?sv=6"></script><link href="/WebResource.axd?d=2UeCcYYN3zrt5oUzgnQQ8nZWQZriwhdOKjbl_nOACxLdCJLkDQUir23c2QhLLBN2xEEfnaRGW9jjqEL2CENXf575xAaBVlqZyL4LnPt7pHraLz_MWv_dVrqUb_OVpgx5e0v0qw2&amp;t=637759003071377708" type="text/css" rel="stylesheet" class="Telerik_stylesheet"><link href="/WebResource.axd?d=NjQekIEV7BvSQtoTqRF3dEGeqq1Fp3VTo_KHlrEsx_kKKejsdFk5iSHsCBhW2sEexAnCDTPd60Ay_wY-65X1FEv5rqqsYDQVFtr4jLAUtymNTwk44diQ6VdHFHtVngJ65Tg7JqxksYJd4LepBNZmnZ6Okms1&amp;t=637759003071377708" type="text/css" rel="stylesheet" class="Telerik_stylesheet"><link href="/WebResource.axd?d=TEewOyGjk6t3ZiJ7P2O9jJhB8pDcTwxW4sCcuDLHZ6Omf6YbmUpsb-RlpOMRndh-1j3Rk17QL79vgJPNuBhd24J_8X92r7cYISmwbwQ3gDokrU3idVcpUIlc2k9BRKbG-1y8wg2&amp;t=637759003071377708" type="text/css" rel="stylesheet" class="Telerik_stylesheet"><script async="" src="https://script.hotjar.com/modules.7d3f952308caf42c2b67.js" charset="utf-8"></script><style type="text/css">iframe#_hjRemoteVarsFrame {display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;}</style></head>
+<body>
+    <h1 class="sr-only">Federal Register of Legislation - Australian Government</h1>
+    <div class="skip-links">
+        <a href="#primary-nav" class="sr-only sr-only-focusable">Skip to primary navigation</a>
+        <a href="#primary-content" class="sr-only sr-only-focusable">Skip to primary content</a></div>
+    <div class="wrapper-1">
+        
+    </div>
+    <form method="post" action="./C1956A00038" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['Form1'];
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=xcP61nvxrwfVSt1xbTxnYB_0brWXHa3VRJEX_Erc37QzBhaxUeq00wI42TnRMb0Abxcju2qsYhjG5agtgHtCP-SPkSA1&amp;t=637745399198647016" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=OlPClH4HlcQeyfXN1_D3wOectzgQg-0UmEJpHJO3L-MMyQcU-JFh1oAzWqVtNMvMZ51SkkZ2Em3eSV-79o6AHEg1fIl6-aBVwm-yTjUoQY--NX8Z_FdxDvBZx30-THtq4K45DxanWtEPUymAMYhuLNrRcIztmV6rT1MkZ8lCYz8We-uo0&amp;t=795904aa" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=jqISC_YrhJgfyZZtVwj3Je18FTVegUFVypaPw2PJjGHeleVUy62aSZEP7ufVqFhdpJynTWqRDroWOIBQJSNg-jHasvIb2iv93Tb7udaRgyrL_zySJLoIsImuuGIvtXTifjqcemWrkbMFzg-UICrK5SMmlzylFwyuCK8NTeJSTlkaW6T20&amp;t=795904aa" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=mfmWOUfooKwFnHIL5rGvz4bmeUJ1sBbcCkXFs_5jXlFqstOlLmMTUH3_S7S9Y3-qBLJlZp3wtkvV-339dWI8zjjL1kvl4M2uHFHYJITj7A1XxxWi4utncAHVtJ1n_CKfT4bysw2&amp;t=ffffffffcd00b330" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=wt5B5v6CDwaH3fEdvIP-IXhSmtwv1moD0yMT6CRfNwi2So_Wdz404NdciHY_nqtwNiT6x9MAHPocMkOQ7YPScmL8vmjzSoF9TEcj6jUPoR84feguiN8HXZ6aCHEdt4GqnG760LJ0dZ6bCjBMZ-GTJjWCnINqCKkDIQ39XzhpYbu5fMQL0&amp;t=ffffffffcd00b330" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=XxsdmgXJ6IDbk1-tqm1wIyaC7P2fKRSxXqWOuKCT7PYj18tnuMKL2ETwHmn2A_6_DBHRMeTY6e5Z8T0JfGpW4JrHnY7Ib06VP_lpdCO_fsHXzW33J6fvXp9TZgzndvSqtgZSOrIaI61kZI6525JrG9tJRio1&amp;t=ffffffffcd00b330" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=zTjPpYMY0G2DK2lRii1tTLWuLP5nV2I2UAfOaCkpYSdcc6Ci_VYO60yfIQxJ6odrLEDkluQWfGFV62a37CVb-WKovCOyKZT95tRA5cp0lmPHYMrjH4qSBE9qeaGtNeoVgkJy8g2&amp;t=ffffffffcd00b330" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=-zqZzEhQ7AcBEjxF6Hhn_XNaN-4tNwOMUzcHkpNW_UxRuqML0wO812Zmk84Q6xeZo9p1qDNcHGyqPE04kfH026w6dDHHZ5qNA77YmSsOom4muBFN5ksfR6wvLlVGT3G5s5Qarw2&amp;t=ffffffffcd00b330" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=pYBrqdznNKEmX9AaAixPT-lMI0_AN7Nokp_vgeO6UA4C2C7zTlKY1dbWo0gF-lPX_9tcyX6FQWS-4ZJKIexm8Gz2da-LMWQNCCiUpGna6lHaEqxmYtQ6O57CWzhmnioaye4THZIbBAr6ZazS6ckyhlvFVFiusNQaqBjKrtbhdQu0vRrO0&amp;t=ffffffffcd00b330" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="C9F36B63">
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="iDx14cZiu5JWUEJE1uYEA8fmZz1csUetQr8iclXrcFt/W4bwLHNPw3dtaGOW5x3QACU8KYux3YQnEASnQl01ZSw/SqwViIYd2xcdZPNTafq0jTfCEYbJjDJgyDdx0xS8/m6FFlrm9o6u5sOU41lpCmvFYR8=">
+</div>
+        <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'Form1', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+        
+        <a id="linkForPopupWindow" href="javascript:void(0)" style="visibility: hidden; position: absolute;"></a>
+
+
+
+        <div class="site-container">
+            <div class="site-container__wrapper">
+
+
+                <div class="header-container">
+                    <div class="header-container__wrapper">
+                        <header>
+                            
+                            <a href="#" class="menu-button">
+                                <i class="icon-bars"></i>
+                                <i class="icon-cross"></i>
+                            </a>
+
+                            <div class="branding">
+                                <span class="branding__logo">
+                                    <a id="lnkimgaustgov" class=" " href="https://www.legislation.gov.au">
+                                        <img src="/Content/Skins/ComlawRefresh/images/logos/aus-gov-logo-stacked-black-70px.png" class="normal" alt="Australian Government Logo">
+                                        <img src="/Content/Skins/ComlawRefresh/images/logos/aus-gov-logo-stacked-black-hdpi.png" class="hdpi" alt="Australian Government Logo">
+                                        <span class="aus-gov">Australian Government</span>
+                                    </a>
+                                </span>
+                                <span class="branding__name"><a href="/"><span>Federal Register of<strong> Legislation</strong></span></a></span>
+                                <a href="#skipToContent" class="invisibleLink forcehide" accesskey="S">Skip to Content</a>
+                            </div>
+                            <div class="search-block">
+                              <div class="search">
+                                <div class="search__wrapper">
+                                    <a href="/AdvancedSearch" onclick="return false" class="search__trigger"><span class="search__trigger__text">
+                                        Search</span><span class="sr-only">Open search</span>
+                                        <span class="icon-search"></span>
+                                        <span class="icon-cross"></span>
+                                    </a>
+                                  <div class="search__input">
+                                       
+                                       <div id="Panel1" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'btnRegularSearch')" style="">
+	
+                                            <label visible="false" for="txtRegularSearch" title="Search"></label>
+                                            <!-- 2020.2.512.45 --><span id="ctl00_txtRegularSearch_wrapper" class="riSingle RadInput RadInput_Default" style="width:160px;"><input id="ctl00_txtRegularSearch" name="ctl00$txtRegularSearch" size="20" class="riTextBox riEnabled HeaderRegularSearch" accesskey="4" type="text" value=""><input id="ctl00_txtRegularSearch_ClientState" name="ctl00_txtRegularSearch_ClientState" type="hidden" autocomplete="off" value="{&quot;enabled&quot;:true,&quot;emptyMessage&quot;:&quot;&quot;,&quot;validationText&quot;:&quot;&quot;,&quot;valueAsString&quot;:&quot;&quot;,&quot;lastSetTextBoxValue&quot;:&quot;&quot;}"><div class="search-sub-title">Search by Register ID or in force titles</div></span>
+                                            <input type="submit" name="ctl00$btnRegularSearch" value="Search" onclick="return DoSearch();" id="btnRegularSearch">
+                                            <a id="lnkAdvancedSearch" class="advanced-search-link button" href="https://www.legislation.gov.au/AdvancedSearch">Advanced Search</a>
+
+                                        
+</div>
+
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+
+                            <div class="login">
+                                <span class="login__info">Get legislation updates </span>
+                                <span class="login__button">
+                                    <a id="lnkMyComlaw" causesvalidation="false" href="https://www.legislation.gov.au/MyAccount">My Account</a>
+                                </span>
+
+                            </div>
+
+                        </header>
+                    </div>
+                </div>
+
+
+                <div class="menu-container" style="height: 3595px;">
+
+
+
+                    <div id="menu" class="menu-container__wrapper" style="min-height: 668px; width: 160px; height: 668px; min-width: 160px;">
+                        <nav id="push-menu" class="push-menu__wrapper" style="height: 668px; min-height: 668px; min-width: 160px;">
+                            <a href="#" id="primary-nav" class="sr-only">
+                            <h1>Primary navigation</h1></a>
+
+                            
+
+                            
+
+
+                            
+                        <div class="levelHolderClass ltr" data-level="0" style="margin-left: 0px; width: 160px; min-width: 160px;"><ul class="menu menu-placeholder">
+                                
+                                
+
+    <script>
+        function clickStop(e){e.preventDefault();}
+    </script>
+
+
+    
+            <li>
+                <a href="/Home" onclick="">Home</a>
+                
+                    
+
+            </li>
+        
+            <li>
+                <a href="/WhatsNew" onclick="">What's new</a>
+                
+                    
+
+            </li>
+        
+            <li>
+                <a href="/Browse/ByTitle/Constitution/InForce#top" onclick="">Constitution</a>
+                
+                    
+
+            </li>
+        
+            <li>
+                <a href="#" onclick="clickStop(event);"><i class=" floatLeft iconSpacing_ltr icon-chevron-right"></i>Acts</a>
+                
+                    
+
+            <div class="levelHolderClass ltr" data-level="1" style="margin-left: -320px; width: 160px; min-width: 160px;"><h2 style="text-align: left"><span class="sub-menu__heading"><a href="">Acts</a></span></h2><div class="push-menu--back"><a href="#"><i class="floatRight icon-chevron-left"></i>Back</a></div><ul class="sub-menu">
+
+    <script>
+        function clickStop(e){e.preventDefault();}
+    </script>
+
+
+    
+            <li>
+                <a href="/Browse/ByTitle/Acts/InForce/0/0/Principal" onclick="">In force</a>
+                
+                    
+
+            </li>
+        
+            <li>
+                <a href="/Browse/ByTitle/Acts/NoLongerInForce/0/0/Principal" onclick="">No longer in force</a>
+                
+                    
+
+            </li>
+        
+            <li>
+                <a href="/Browse/ByTitle/Acts/Asmade/0/0/All" onclick="">As made</a>
+                
+                    
+
+            </li>
+        
+            <li>
+                <a href="/Content/FutureLaw#top" onclick="">Future law compilations</a>
+                
+                    
+
+            </li>
+        
+
+</ul></div></li>
+        
+            <li>
+                <a href="#" onclick="clickStop(event);"><i class=" floatLeft iconSpacing_ltr icon-chevron-right"></i>Legislative instruments</a>
+                
+                    
+
+            <div class="levelHolderClass ltr" data-level="1" style="margin-left: -320px; width: 160px; min-width: 160px;"><h2 style="text-align: left"><span class="sub-menu__heading"><a href="">Legislative instruments</a></span></h2><div class="push-menu--back"><a href="#"><i class="floatRight icon-chevron-left"></i>Back</a></div><ul class="sub-menu">
+
+    <script>
+        function clickStop(e){e.preventDefault();}
+    </script>
+
+
+    
+            <li>
+                <a href="/Browse/ByTitle/LegislativeInstruments/InForce/0/0/Principal" onclick="">In force</a>
+                
+                    
+
+            </li>
+        
+            <li>
+                <a href="/Browse/ByTitle/LegislativeInstruments/NoLongerInForce/0/0/Principal" onclick="">No longer in force</a>
+                
+                    
+
+            </li>
+        
+            <li>
+                <a href="/Browse/ByTitle/LegislativeInstruments/Asmade/0/0/All" onclick="">As made</a>
+                
+                    
+
+            </li>
+        
+            <li>
+                <a href="/Content/FutureLaw" onclick="">Future law compilations</a>
+                
+                    
+
+            </li>
+        
+            <li>
+                <a href="/Browse/ByTitle/LegislativeInstruments/OpentoDisallowance" onclick="">Currently open to disallowance</a>
+                
+                    
+
+            </li>
+        
+            <li>
+                <a href="/Browse/ByTitle/LegislativeInstruments/Disallowed" onclick="">Disallowed</a>
+                
+                    
+
+            </li>
+        
+            <li>
+                <a href="/Browse/BySunsetDate/LegislativeInstruments/SunsettingSoon/0/" onclick="">Sunsetting soon</a>
+                
+                    
+
+            </li>
+        
+
+</ul></div></li>
+        
+            <li>
+                <a href="#" onclick="clickStop(event);"><i class=" floatLeft iconSpacing_ltr icon-chevron-right"></i>Notifiable instruments</a>
+                
+                    
+
+            <div class="levelHolderClass ltr" data-level="1" style="margin-left: -320px; width: 160px; min-width: 160px;"><h2 style="text-align: left"><span class="sub-menu__heading"><a href="">Notifiable instruments</a></span></h2><div class="push-menu--back"><a href="#"><i class="floatRight icon-chevron-left"></i>Back</a></div><ul class="sub-menu">
+
+    <script>
+        function clickStop(e){e.preventDefault();}
+    </script>
+
+
+    
+            <li>
+                <a href="/Browse/ByTitle/NotifiableInstruments/InForce/0/0/Principal" onclick="">In force</a>
+                
+                    
+
+            </li>
+        
+            <li>
+                <a href="/Browse/ByTitle/NotifiableInstruments/NoLongerInForce/0/0/Principal" onclick="">No longer in force</a>
+                
+                    
+
+            </li>
+        
+            <li>
+                <a href="/Browse/ByTitle/NotifiableInstruments/Asmade/0/0/All" onclick="">As made</a>
+                
+                    
+
+            </li>
+        
+
+</ul></div></li>
+        
+            <li>
+                <a href="#" onclick="clickStop(event);"><i class=" floatLeft iconSpacing_ltr icon-chevron-right"></i>Gazettes</a>
+                
+                    
+
+            <div class="levelHolderClass ltr" data-level="1" style="margin-left: -320px; width: 160px; min-width: 160px;"><h2 style="text-align: left"><span class="sub-menu__heading"><a href="">Gazettes</a></span></h2><div class="push-menu--back"><a href="#"><i class="floatRight icon-chevron-left"></i>Back</a></div><ul class="sub-menu">
+
+    <script>
+        function clickStop(e){e.preventDefault();}
+    </script>
+
+
+    
+            <li>
+                <a href="/Browse/ByTitle/Gazettes/InForce/0/0/" onclick="">Individual Notices (From October 2012)</a>
+                
+                    
+
+            </li>
+        
+            <li>
+                <a href="/Content/HistoricGazettes" onclick="">Historical</a>
+                
+                    
+
+            </li>
+        
+
+</ul></div></li>
+        
+            <li>
+                <a href="#" onclick="clickStop(event);"><i class=" floatLeft iconSpacing_ltr icon-chevron-right"></i>Bills</a>
+                
+                    
+
+            <div class="levelHolderClass ltr" data-level="1" style="margin-left: -320px; width: 160px; min-width: 160px;"><h2 style="text-align: left"><span class="sub-menu__heading"><a href="">Bills</a></span></h2><div class="push-menu--back"><a href="#"><i class="floatRight icon-chevron-left"></i>Back</a></div><ul class="sub-menu">
+
+    <script>
+        function clickStop(e){e.preventDefault();}
+    </script>
+
+
+    
+            <li>
+                <a href="/Browse/ByTitle/Bills/Asmade/0/0" onclick="">As introduced A-Z</a>
+                
+                    
+
+            </li>
+        
+            <li>
+                <a href="/Browse/ByPrivateMembers/Bills/Asmade/0/0" onclick="">Private members' bills</a>
+                
+                    
+
+            </li>
+        
+            <li>
+                <a href="/Browse/ByPortfolio/Bills/Asmade/0/0" onclick="">Government bills</a>
+                
+                    
+
+            </li>
+        
+
+</ul></div></li>
+        
+            <li>
+                <a href="#" onclick="clickStop(event);"><i class=" floatLeft iconSpacing_ltr icon-chevron-right"></i>Other</a>
+                
+                    
+
+            <div class="levelHolderClass ltr" data-level="1" style="margin-left: -320px; width: 160px; min-width: 160px;"><h2 style="text-align: left"><span class="sub-menu__heading"><a href="">Other</a></span></h2><div class="push-menu--back"><a href="#"><i class="floatRight icon-chevron-left"></i>Back</a></div><ul class="sub-menu">
+
+    <script>
+        function clickStop(e){e.preventDefault();}
+    </script>
+
+
+    
+            <li>
+                <a href="/Browse/ByRegDate/AdministrativeArrangementsOrders/InForce" onclick="">Administrative arrangements orders</a>
+                
+                    
+
+            </li>
+        
+            <li>
+                <a href="/Browse/ByTitle/NorfolkIslandLegislation/InForce" onclick="">Norfolk Island legislation</a>
+                
+                    
+
+            </li>
+        
+            <li>
+                <a href="/Browse/ByTitle/PrerogativeInstruments/InForce/0/0" onclick="">Prerogative instruments</a>
+                
+                    
+
+            </li>
+        
+
+</ul></div></li>
+        
+
+
+                                
+                            </ul><ul class="menu-bottom">
+                              <li class="collapsed menu__item">
+                                  <a href="https://www.legislation.gov.au/Feedback" id="lnkFeedback" accesskey="9" class="menu__item__link">Feedback</a>
+                              </li>
+                              <li class="collapsed menu__item">
+                                  <a id="lnkHelp" accesskey="6" class="menu__item__link" href="https://www.legislation.gov.au/Content/Help">Information</a>
+                              </li>
+                              
+                              <li class="menu--terms collapsed menu__item">
+                                  <a id="lnkDisclaimer" accesskey="8" class="" href="https://www.legislation.gov.au/Content/Disclaimer">Terms governing the use of this website.</a>
+                              </li>
+                            </ul></div></nav>
+                    </div>
+                </div>
+
+
+               
+                <div class="page-container">
+                    <div class="menu-overlay"></div>
+                    <section>
+                        <a class="sr-only" id="primary-content" href="#">
+                            <h1>Primary content</h1>
+                        </a>
+
+                        
+        
+    <style>
+        .site-container .details-page__wrapper {
+            padding: 0px 15px 0px 17px;
+            font-size: 0.875em
+        }
+        .site-container .details-page__wrapper .left a,
+        .site-container .details-page__wrapper .headroom__menu a{
+            text-decoration: none;
+            display: inline-block;
+            text-transform: none ;
+        }
+        .site-container .details-page__wrapper .left ul,
+        .site-container .details-page__wrapper .headroom__menu ul {
+            list-style: none;
+            padding: 0px;
+            margin: 0px
+        }
+        .RadTreeView .rtUL .rtUL {
+            padding-left: 20px !important;
+        }
+        .site-container .details-page__wrapper .left ul li,
+        .site-container .details-page__wrapper .headroom__menu ul li {
+            float: left
+        }
+
+        .site-container .details-page__wrapper .clear-float {
+            clear: both
+        }
+        .site-container .details-page__wrapper .softradius {
+            border-radius: 4px
+        }
+        .site-container .details-page__wrapper .whiteback {
+            background: #fff
+        }
+        .site-container .details-page__wrapper .column {
+            float: left
+        }
+        .site-container .details-page__wrapper .temphidden {
+            display: none
+        }
+        .site-container .details-page__wrapper .breadcrumbs {
+            margin-bottom: 15px
+        }
+        @media only screen and (max-width: 1280px) {
+            .site-container .details-page__wrapper .breadcrumbs {
+                margin-top: -20px
+            }
+        }
+        .site-container .details-page__wrapper .left {
+            width: 40%;
+            float: left
+        }
+        @media only screen and (max-width: 1280px) {
+            .site-container .details-page__wrapper .left {
+                width: 100%;
+                float: none
+            }
+        }
+
+        .site-container .details-page__wrapper .left detail-meta-info .has-sticky-now{
+            margin-top: 82px;
+        }
+        .site-container .details-page__wrapper .left.has-sticky-now {
+            margin-top: 80px;
+        }
+        .site-container .details-page__wrapper .left .left-top {
+            border-radius: 4px 4px 0 0;
+            background: white;
+            clear: both;
+            padding: 10px 15px
+        }
+        .site-container .details-page__wrapper .left .left-top h2 {
+            margin: 0 0 15px;
+            font: normal 700 1.5em/1.08333em "Open Sans", sans-serif;
+            padding-bottom: 15px;
+            border-bottom: 1px solid #efefef;
+            font-size: 1.3em;
+            line-height: 1.3em;
+            text-align: left;
+            text-transform: none;
+            color: black;
+            background: none;
+            text-decoration: none;
+        }
+        .site-container .details-page__wrapper .left .left-top h2.wraptext {
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            overflow: hidden
+        }
+        .site-container .details-page__wrapper .left .left-top h2.wraptext:hover,
+        .site-container .details-page__wrapper .left .left-top h2.wraptext:focus,
+        .site-container .details-page__wrapper .left .left-top h2.wraptext:active {
+            white-space: normal
+        }
+        .site-container .details-page__wrapper .left .left-top h2:hover .wraptext,
+        .site-container .details-page__wrapper .left .left-top h2:focus .wraptext,
+        .site-container .details-page__wrapper .left .left-top h2:active .wraptext {
+            white-space: normal
+        }
+        .site-container .details-page__wrapper .left .left-top .wraptext {
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            overflow: hidden;
+            display: block
+        }
+        .site-container .details-page__wrapper .left .left-top .left-top__image {
+            float: left;
+            width: 50px
+        }
+        .site-container .details-page__wrapper .left .left-top .left-top__image img {
+            width: 70%
+        }
+        .site-container .details-page__wrapper .left .left-top .left-top__moreinfo {
+            float: left
+        }
+        .site-container .details-page__wrapper .left .left-top .left-top__moreinfo li {
+            float: none;
+            font-weight: 600
+        }
+        .site-container .details-page__wrapper .left .left-top .left-top__moreinfo li.info1 {
+            color: #747474
+        }
+        .site-container .details-page__wrapper .left .left-top .left-top__moreinfo li.info2 {
+            color: #009300
+        }
+        .site-container .details-page__wrapper .left .left-top .left-top__moreinfo li {
+            display: block
+        }
+        .site-container .details-page__wrapper .left .left-top .left-top__moreinfo li span,
+        .site-container .details-page__wrapper .left .left-top .left-top__moreinfo li a {
+            font: normal 400 16px/24px "Open Sans", sans-serif !important;
+            font-weight: 600 !important;
+            font-size: 1em !important;
+        }
+        .site-container .details-page__wrapper .left .left-top .left-top__moreinfo li.info2 span.LegStatus {
+            display: inline;
+            color: #747474;
+        }
+        .site-container .details-page__wrapper .left .left-top .left-top__moreinfo li #MainContent_ucItemPane_lblViewSeriesPipe {
+            display: none
+        }
+        .site-container .details-page__wrapper .left .left-details {
+            background: white none repeat scroll 0 0;
+            box-shadow: 0 0 6px #efefef inset;
+            padding: 20px;
+            display: none;
+            overflow-x: auto;
+            max-height: 60vh;
+        }
+        .site-container .details-page__wrapper .left .left-details fieldset {
+            border: none !important
+        }
+        .site-container .details-page__wrapper .left .left-middle a{
+            text-transform: uppercase;
+        }
+        .site-container .details-page__wrapper .left .left-middle {
+            background: #e1f2ff none repeat scroll 0 0;
+            border-radius: 0 0 4px 4px;
+            margin-bottom: 10px;
+            min-height: 30px;
+            padding: 5px 10px;
+            font-weight: 600;
+            font-size: 0.9em;
+            text-transform: uppercase;
+            cursor: pointer
+        }
+        @media only screen and (max-width: 768px) {
+            .site-container .details-page__wrapper .left .left-middle {
+                padding: 12px 10px;
+                height: 44px
+            }
+            .site-container .details-page__wrapper .left .left-bottom .left-bottom__header {
+                padding-bottom: 25px !important;
+            }
+        }
+        .site-container .details-page__wrapper .left .left-middle .legislation {
+            float: left
+        }
+        .site-container .details-page__wrapper .left .left-middle .expand {
+            float: right
+        }
+        .site-container .details-page__wrapper .left .left-bottom {
+            background: white;
+            /*min-height: 400px;*/
+            border-radius: 4px 4px 0 0;
+            padding: 15px;
+        }
+        .site-container .details-page__wrapper .left .left-bottom .left-bottom__header {
+            padding-bottom: 10px;
+            margin-bottom: 10px;
+            border-bottom: 1px solid #efefef
+        }
+        .site-container .details-page__wrapper .left .left-bottom .left-bottom__header .title,
+        .site-container .details-page__wrapper .left .left-bottom .left-bottom__header .expand {
+            font-weight: 600;
+            text-transform: uppercase
+        }
+        .site-container .details-page__wrapper .left .left-bottom .left-bottom__header .title span,
+        .site-container .details-page__wrapper .left .left-bottom .left-bottom__header .expand span {
+            margin-top: 10px;
+            line-height: 10px
+        }
+        .site-container .details-page__wrapper .left .left-bottom .left-bottom__header .title span:nth-child(2),
+        .site-container .details-page__wrapper .left .left-bottom .left-bottom__header .expand span:nth-child(2) {
+            margin-left: 10px;
+            padding-left: 10px;
+            border-left: 1px solid #747474
+        }
+        .site-container .details-page__wrapper .left .left-bottom .left-bottom__header .title span input,
+        .site-container .details-page__wrapper .left .left-bottom .left-bottom__header .expand span input {
+            background: transparent none repeat scroll 0 0;
+            padding: 0
+        }
+        .site-container .details-page__wrapper .left .left-bottom .left-bottom__content {
+            max-height: 40vh;
+            overflow-y: auto;
+            overflow-x: auto;
+            font-size: 0.9em
+        }
+
+
+
+        .site-container .details-page__wrapper .left .left-top h2 a {
+                  display: inline;
+                  color: black; 
+        }
+
+        .site-container .details-page__wrapper .left .left-top h2 a {
+                  display: inline;
+                  color: black; 
+        }
+        .site-container .details-page__wrapper .left .left-top h2 a:hover .wraptext, 
+        .site-container .details-page__wrapper .left .left-top h2 a:focus .wraptext, 
+        .site-container .details-page__wrapper .left .left-top h2 a:active .wraptext {
+                    white-space: normal; 
+        }
+
+        .site-container .details-page__wrapper .left .left-bottom .left-bottom__content a {
+            color: #747474
+        }
+        .site-container .details-page__wrapper .left .left-bottom .left-bottom__content .icon-minus,
+        .site-container .details-page__wrapper .left .left-bottom .left-bottom__content .icon-plus {
+            border: 1px solid;
+            border-radius: 100px;
+            float: left;
+            font-size: 5px;
+            line-height: 5px;
+            margin-right: 5px;
+            margin-top: 9px;
+            padding: 3px
+        }
+        .site-container .details-page__wrapper .left .left-bottom .left-bottom__content .wrapper {
+            padding-right: 10px
+        }
+        .site-container .details-page__wrapper .right {
+            width: 60%;
+            float: left;
+        }
+        @media only screen and (max-width: 1280px) {
+            .site-container .details-page__wrapper .right {
+                width: 100%;
+                float: none;
+                margin: 20px 0px
+            }
+        }
+
+        /*.site-container .details-page__wrapper .right a {
+            display: inline;
+        }*/
+
+        .site-container .details-page__wrapper .right .wrapper {
+            background: #fff;
+            border-radius: 4px;
+            margin: 0px 10px;
+            padding: 50px 0px;
+            min-height: 400px;
+            overflow:auto;
+        }
+
+        .site-container .details-page__wrapper .right .wrapper .htmlOuterDiv {
+            width:615px; 
+            margin-left:auto; 
+            margin-right:auto
+        }
+
+        .site-container .details-page__wrapper .right .wrapper .htmlInnerDiv {
+            padding: 10px;
+            width: 100%;
+        }
+
+        @media only screen and (max-width: 1280px) {
+            .site-container .details-page__wrapper .right .wrapper {
+                margin: 0px;
+                padding: 30px 0px
+            }
+        }
+        @media only screen and (max-width: 640px) {
+            .site-container .details-page__wrapper .right .wrapper {
+                margin: 0px;
+                padding: 10px 0px;
+                min-height: 200px
+            }
+        }
+        @media only screen and (max-width: 640px) {
+            .site-container .details-page__wrapper .right .wrapper div {
+                text-indent: 0px !important
+            }
+        }
+
+        .site-container .details-page__wrapper .right .wrapper .PodSubmit {
+            cursor: pointer;
+            margin: 20px 0;
+            font-weight: bold;
+            color: #fff;
+            border: 0px;
+            line-height: 23px;
+            background: #0d4a88;
+            padding: 5px 10px;
+            border-radius: 4px
+        }
+
+        .details-page .RedButton {
+            color: #10418E;
+            font-weight: bold;
+            border: none;
+            height: 22px;
+            margin-left: 2px;
+            margin-top: 1px;
+            cursor: pointer;
+        }
+
+        td{
+            white-space:normal;
+        }
+    </style>    
+    
+    <script>
+            $(function () {
+                if (window.innerWidth <= 1280) {
+                    $('#MainContent_leftDetailMeta').trigger("sticky_kit:detach");
+                    //alert('here1');
+                    $('#MainContent_divLeftBottom').stick_in_parent({ sticky_class: 'tocStikyNow', parent: '.page-container' });
+                    if (typeof displayContents === 'function')
+                    {
+                        displayContents(false);
+                    }
+                } // Set sticky for mobile device
+                else
+                {
+                    $('#MainContent_divLeftBottom').trigger("sticky_kit:detach");
+                    $('#MainContent_leftDetailMeta').stick_in_parent({ sticky_class: 'has-sticky-now' });
+                    if (typeof displayContents === 'function') {
+                        displayContents(true);
+                    }
+                } // Set sticky for non mobile device
+            });
+
+
+            $(window).resize(function () {
+                if ($('.tablet').length > 0 || $('.mobile').length > 0 ||  $('.desktop').length > 0 ) {
+                        $('#MainContent_leftDetailMeta').trigger("sticky_kit:detach");
+                    //alert('here1');
+                    $('#MainContent_divLeftBottom').stick_in_parent({ sticky_class: 'tocStikyNow', parent: '.page-container' });
+                    if (typeof displayContents === 'function') {
+                        displayContents(false);
+                    }
+                } // Set sticky for mobile device
+                else
+                {
+                    $('#MainContent_divLeftBottom').trigger("sticky_kit:detach");
+                    $('#MainContent_leftDetailMeta').stick_in_parent({ sticky_class: 'has-sticky-now' });
+                    if (typeof displayContents === 'function') {
+                        displayContents(true);
+                    }
+                    
+                } // Set sticky for non mobile device
+            });
+            
+        </script>
+        <section class="details-page">
+        <div class="details-page__wrapper">
+            
+        <header class="headroom headroom--top">
+            <div class="wrapper">
+                <div class="headroom__menu">
+                    <div class="rtsLevel rtsLevel1">
+                        <ul>
+                            
+                                    <li>
+                                        <a class="rtsSelected" href="https://www.legislation.gov.au/Details/C1956A00038"> Text </a>                                  
+
+                                    </li>                                    
+                                
+                                    <li>
+                                        <a class="" href="https://www.legislation.gov.au/Details/C1956A00038/Download"> Download </a>                                  
+
+                                    </li>                                    
+                                
+                                    <li>
+                                        <a class="" href="https://www.legislation.gov.au/Details/C1956A00038/BuyPrintCopy"> Buy print copy </a>                                  
+
+                                    </li>                                    
+                                
+                        </ul>
+                    </div>
+                </div>
+                    
+                
+
+                <div class="clear-float"></div>
+            </div>
+            <div class="bookmark">
+            <div class="bookmark__wrapper">
+                <h4>Bookmark</h4>
+
+                <a href="javascript:bookmarksite('Cellulose Acetate Flake Bounty Act 1956 permalink', 'https://www.legislation.gov.au/Details/C1956A00038')" id="MainContent_linkThisBookmark" title="Bookmark this version to add to your Favourites/Bookmarks list.">this version</a> <span id="MainContent_bookmarkPipe"> | </span>
+                <a href="https://www.legislation.gov.au/Latest/C1956A00038" id="MainContent_linkLatestBookmark" title="Go to the latest version and click on Bookmark to add to Favourites/Bookmarks.">go to latest</a>
+                        
+            </div>
+            <div class="clear-float"></div>
+            </div>
+        </header>
+
+        <div id="MainContent_leftDetailMeta" class="left detail-meta-info">
+            <div class="wrapper">
+                
+
+
+<div class="bredcrumbs_container">
+    <div class="breadcrumbs">
+        <ul>
+            
+            
+                    <li><a href="https://www.legislation.gov.au"><span>Home</span><i class="icon-chevron-right"></i></a></li>
+                
+                    <li><a href="https://www.legislation.gov.au/Browse/ByTitle/Acts/InForce/0/0/Principal"><span>Acts</span><i class="icon-chevron-right"></i></a></li>
+                
+                    <li><a href="https://www.legislation.gov.au/Browse/ByTitle/Acts/NoLongerInForce/0/0/Principal"><span>No longer in force</span><i class="icon-chevron-right"></i></a></li>
+                
+                    <li><a href="https://www.legislation.gov.au/Browse/ByTitle/Acts/AsMade/0/0/All"><span>As Made</span><i class="icon-chevron-right"></i></a></li>
+                
+                    <li><a href="https://www.legislation.gov.au/Details/C1956A00038"><span>Details: C1956A00038</span></a></li>
+                
+        </ul>
+    </div>
+</div>
+
+                
+<script>
+    $(function () {
+        var $legislation_title = $('#MainContent_ucLegItemPane_legTitle').html();
+        var $legislation_title_full = '';
+        if ($legislation_title.length > 99) {
+            
+            $legislation_title_full = "<a href='#' onclick='return false' >" + $legislation_title + "</a>";
+
+            $legislation_title = "<a href='#' onclick='return false' >" + $legislation_title.substring(0, 99) + "..." + "</a>";
+            $('.left-top h2').hover(
+            function () {
+                $(this).html($legislation_title_full);
+            },
+            function () {
+                $(this).html($legislation_title);
+            }
+        );
+        }
+
+        $('.left-top h2').html($legislation_title);
+    });
+
+    $(function ()
+    {
+        $('#MainContent_ucLegItemPane_divLeftMiddle').click(
+            function (event)
+            {
+                event.preventDefault();
+                $('#MainContent_ucLegItemPane_divLeftDetails').slideToggle(
+                    function ()
+                    {
+                        if($('#MainContent_ucLegItemPane_divLeftDetails').is(":visible"))
+                        {
+                            $('#MainContent_ucLegItemPane_aExpandCollapse').html('COLLAPSE');                            
+                        }
+                        else
+                        {
+                             $('#MainContent_ucLegItemPane_aExpandCollapse').html('EXPAND');
+                        }
+                        $('#MainContent_ucLegItemPane_aExpandCollapse').attr('href', '');
+                    });
+            });
+    });
+
+</script>
+<div class="left-top">
+    
+    <h2 class="">Cellulose Acetate Flake Bounty Act 1956</h2>
+    <div class="left-top__image">
+        <img id="MainContent_ucLegItemPane_Image1" src="https://www.legislation.gov.au/images/AusLittleTickEmbossed.gif" alt="Authoritative Version">
+    </div>
+    <div class="left-top__moreinfo">
+    <ul>
+        <li class="info1">
+            <span id="MainContent_ucLegItemPane_lblLegTypeComlawID" class="LegSubTitle"> - C1956A00038</span>
+        </li>
+        <li id="MainContent_ucLegItemPane_liStatus" class="info2">
+            <span id="MainContent_ucLegItemPane_lblTitleStatus" class="RedText">No longer in force</span>
+            
+            <span id="MainContent_ucLegItemPane_lblVersionStatus" class="RedText"></span>
+        </li>
+        <li class="info2">
+            <a id="MainContent_ucLegItemPane_hlViewSeries" class="LegBookmark" href="https://www.legislation.gov.au/Series/C1956A00038">View Series</a>
+        </li>
+    </ul>
+    </div>
+
+                    
+
+
+    <div class="clear-float"></div>
+    </div>
+    <div id="MainContent_ucLegItemPane_divLeftDetails" class="left-details">                       
+        <fieldset>
+            <table width="100%" class="mytable">
+                <tbody><tr id="MainContent_ucLegItemPane_trNumberYearClassification">
+	<td>
+                        <span id="MainContent_ucLegItemPane_lblNumberYear">Act No. 38 of 1956 as made</span>
+                        <span id="MainContent_ucLegItemPane_lblClassification"></span>
+                    </td>
+</tr>
+
+                
+                
+                <tr id="MainContent_ucLegItemPane_trBD">
+	<td>
+                        <i>
+                            <span id="MainContent_ucLegItemPane_lblBD">An Act to provide for the Payment of a Bounty on the Production of certain Cellulose Acetate Flake.</span></i>
+                    </td>
+</tr>
+
+                
+                
+                
+                
+                
+                <tr id="MainContent_ucLegItemPane_trIncorporatedAmendments">
+	<td>
+                        
+
+
+<div style="display:inline-block; width:100%">
+    
+</div>
+
+<div style="display:block; width:100%">
+    
+</div>
+
+<div style="display:block; width:100%">
+    
+</div>
+
+<div style="display:block; width:100%">
+    
+</div>
+                    </td>
+</tr>
+
+                <tr id="MainContent_ucLegItemPane_trSunsetHistoryViewer">
+	<td>
+                        
+<script type="text/javascript">
+    function ClientNodeClicked(sender, eventArgs) {
+        var node = eventArgs.get_node();
+        node.toggle();
+    }
+
+    
+
+    $(function(){
+        $('#MainContent_ucLegItemPane_ucSunsetHistoryViewer_divSunsetExpand').click(
+            function (event){
+                event.preventDefault();
+                $('#MainContent_ucLegItemPane_ucSunsetHistoryViewer_divSunsetInfo').slideToggle(
+                    function ()
+                    {
+                        if($('#MainContent_ucLegItemPane_ucSunsetHistoryViewer_divSunsetInfo').is(":visible"))
+                        {
+                            $('#MainContent_ucLegItemPane_ucSunsetHistoryViewer_spExansionSym').html('-');                            
+                        }
+                        else
+                        {
+                            $('#MainContent_ucLegItemPane_ucSunsetHistoryViewer_spExansionSym').html('+');
+                        }
+                        $('#MainContent_ucLegItemPane_ucSunsetHistoryViewer_aExpandSunset').attr('href', '');
+                    });
+            });
+    });
+</script>
+
+
+
+
+<style>
+    .sunset-field-reason{
+        width:70%;
+        display:inline-block;
+        padding:2px;        
+        vertical-align:top;
+    }
+
+    .sunset-field-date{
+        width:20%;
+        display:inline-block;
+        padding:2px;        
+        vertical-align:top;
+    }
+
+</style>
+
+
+                    </td>
+</tr>
+
+                
+            </tbody></table>
+        </fieldset>    
+        <fieldset>
+            <table width="100%" class="myitem">
+                
+                
+                
+                <tbody><tr id="MainContent_ucLegItemPane_trACTAssent">
+	<td style="vertical-align: top">
+                        Date of Assent
+                    </td>
+	<td style="vertical-align: top">
+                        <span id="MainContent_ucLegItemPane_lblAssent">27 Jun 1956</span>
+                    </td>
+</tr>
+
+                 <tr id="MainContent_ucLegItemPane_tr1">
+	<td colspan="2">
+                        
+                    </td>
+</tr>
+                                 
+                
+                
+                
+                
+                
+                
+                <tr id="MainContent_ucLegItemPane_trRepealed">
+	<td style="vertical-align: top">
+                        
+                        <span id="MainContent_ucLegItemPane_lblRepealedFieldLabel">Date of repeal</span>
+                    </td>
+	<td style="vertical-align: top">
+                        <span id="MainContent_ucLegItemPane_lblRepealed">12 Jun 1981</span>
+                    </td>
+</tr>
+
+                <tr id="MainContent_ucLegItemPane_trRepealingReason">
+	<td style="vertical-align: top">
+                        Repealed by
+                    </td>
+	<td style="vertical-align: top">
+                        <span id="MainContent_ucLegItemPane_lblRepealingReason"><a href="https://www.legislation.gov.au/Details/C2004A02439">Statute Law Revision Act 1981</a></span>
+                        <div class="default">
+                            <a id="MainContent_ucLegItemPane_hlRepealingTitle" style="text-decoration: none"></a>
+                        </div>
+                    </td>
+</tr>
+
+                
+                
+            </tbody></table>
+        </fieldset>   
+         
+             
+    </div>
+                
+<div id="MainContent_ucLegItemPane_divLeftMiddle" class="left-middle">
+    <div class="legislation"><a href="">Details</a></div>
+    <div class="expand"><a href="../Controls/#" id="MainContent_ucLegItemPane_aExpandCollapse">Expand</a></div>
+</div>
+
+<div style="display:none">
+
+
+    <noscript>
+        <style>
+                .left .wrapper .left-details{display: block !important;}
+                .left .wrapper .left-middle{display: none !important;}
+            </style>
+    </noscript>
+</div>
+                
+
+                
+            </div>
+        </div>
+        <div class="right">
+            <div class="wrapper">
+                <div id="ctl00_MainContent_RadMultiPage1" class="RadMultiPage RadMultiPage_Default">
+	<div id="MainContent_RadPageHTML" class="rmpView">
+		
+                                <div class="htmlOuterDiv">
+                                        <div id="MainContent_Panel1" style="background-color:White;">
+			
+                                            <div id="MainContent_pnlHtmlControls" class="htmlInnerDiv">
+				
+                                            
+
+
+    <script type="text/javascript">
+        $(function onLoaded(sender, eventArgs) {
+            
+            var urllocation = location.href; //find url parameter
+            if (urllocation.indexOf("#") > -1) {
+                
+                //var headerContainerHeight = $('.header-container').outerHeight(true);
+                //var headroomHeight = $('.headroom headroom--not-top').outerHeight(true);
+                window.location.hash = self.document.location.hash;
+                //alert(headerContainerHeight);
+                //alert(headroomHeight);
+                $(window).scrollTop($(window).scrollTop() - 150);
+                
+            }
+        });
+    </script>
+
+
+
+<a name="Text"></a><style> <!--  /* Font Definitions */  @font-face 	{font-family:"Cambria Math"; 	panose-1:2 4 5 3 5 4 6 3 2 4;} @font-face 	{font-family:Calibri; 	panose-1:2 15 5 2 2 2 4 3 2 4;} @font-face 	{font-family:Tahoma; 	panose-1:2 11 6 4 3 5 4 4 2 4;}  /* Style Definitions */  p.MsoNormal, li.MsoNormal, div.MsoNormal 	{margin-top:0cm; 	margin-right:0cm; 	margin-bottom:10.0pt; 	margin-left:0cm; 	line-height:115%; 	font-size:11.0pt; 	font-family:"Calibri","sans-serif";} p.MsoHeader, li.MsoHeader, div.MsoHeader 	{mso-style-link:"Header Char"; 	margin:0cm; 	margin-bottom:.0001pt; 	font-size:11.0pt; 	font-family:"Calibri","sans-serif";} p.MsoFooter, li.MsoFooter, div.MsoFooter 	{mso-style-link:"Footer Char"; 	margin:0cm; 	margin-bottom:.0001pt; 	font-size:11.0pt; 	font-family:"Calibri","sans-serif";} p.MsoAcetate, li.MsoAcetate, div.MsoAcetate 	{mso-style-link:"Balloon Text Char"; 	margin:0cm; 	margin-bottom:.0001pt; 	font-size:8.0pt; 	font-family:"Tahoma","sans-serif";} p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph 	{margin-top:0cm; 	margin-right:0cm; 	margin-bottom:10.0pt; 	margin-left:36.0pt; 	line-height:115%; 	font-size:11.0pt; 	font-family:"Calibri","sans-serif";} p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst 	{margin-top:0cm; 	margin-right:0cm; 	margin-bottom:0cm; 	margin-left:36.0pt; 	margin-bottom:.0001pt; 	line-height:115%; 	font-size:11.0pt; 	font-family:"Calibri","sans-serif";} p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle 	{margin-top:0cm; 	margin-right:0cm; 	margin-bottom:0cm; 	margin-left:36.0pt; 	margin-bottom:.0001pt; 	line-height:115%; 	font-size:11.0pt; 	font-family:"Calibri","sans-serif";} p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast 	{margin-top:0cm; 	margin-right:0cm; 	margin-bottom:10.0pt; 	margin-left:36.0pt; 	line-height:115%; 	font-size:11.0pt; 	font-family:"Calibri","sans-serif";} p.Style0, li.Style0, div.Style0 	{mso-style-name:Style0; 	margin:0cm; 	margin-bottom:.0001pt; 	font-size:10.0pt; 	font-family:"Times New Roman","serif";} p.Style1, li.Style1, div.Style1 	{mso-style-name:Style1; 	margin:0cm; 	margin-bottom:.0001pt; 	font-size:10.0pt; 	font-family:"Times New Roman","serif";} p.Style2, li.Style2, div.Style2 	{mso-style-name:Style2; 	margin:0cm; 	margin-bottom:.0001pt; 	font-size:10.0pt; 	font-family:"Times New Roman","serif";} p.Style3, li.Style3, div.Style3 	{mso-style-name:Style3; 	margin:0cm; 	margin-bottom:.0001pt; 	font-size:10.0pt; 	font-family:"Times New Roman","serif";} p.Style4, li.Style4, div.Style4 	{mso-style-name:Style4; 	margin:0cm; 	margin-bottom:.0001pt; 	font-size:10.0pt; 	font-family:"Times New Roman","serif";} p.Style5, li.Style5, div.Style5 	{mso-style-name:Style5; 	margin:0cm; 	margin-bottom:.0001pt; 	font-size:10.0pt; 	font-family:"Times New Roman","serif";} p.Style17, li.Style17, div.Style17 	{mso-style-name:Style17; 	margin:0cm; 	margin-bottom:.0001pt; 	font-size:10.0pt; 	font-family:"Times New Roman","serif";} p.Style7, li.Style7, div.Style7 	{mso-style-name:Style7; 	margin:0cm; 	margin-bottom:.0001pt; 	font-size:10.0pt; 	font-family:"Times New Roman","serif";} p.Style9, li.Style9, div.Style9 	{mso-style-name:Style9; 	margin:0cm; 	margin-bottom:.0001pt; 	font-size:10.0pt; 	font-family:"Times New Roman","serif";} p.Style20, li.Style20, div.Style20 	{mso-style-name:Style20; 	margin:0cm; 	margin-bottom:.0001pt; 	font-size:10.0pt; 	font-family:"Times New Roman","serif";} p.Style11, li.Style11, div.Style11 	{mso-style-name:Style11; 	margin:0cm; 	margin-bottom:.0001pt; 	font-size:10.0pt; 	font-family:"Times New Roman","serif";} p.Style47, li.Style47, div.Style47 	{mso-style-name:Style47; 	margin:0cm; 	margin-bottom:.0001pt; 	font-size:10.0pt; 	font-family:"Times New Roman","serif";} p.Style81, li.Style81, div.Style81 	{mso-style-name:Style81; 	margin:0cm; 	margin-bottom:.0001pt; 	font-size:10.0pt; 	font-family:"Times New Roman","serif";} p.Style72, li.Style72, div.Style72 	{mso-style-name:Style72; 	margin:0cm; 	margin-bottom:.0001pt; 	font-size:10.0pt; 	font-family:"Times New Roman","serif";} p.Style46, li.Style46, div.Style46 	{mso-style-name:Style46; 	margin:0cm; 	margin-bottom:.0001pt; 	font-size:10.0pt; 	font-family:"Times New Roman","serif";} p.Style42, li.Style42, div.Style42 	{mso-style-name:Style42; 	margin:0cm; 	margin-bottom:.0001pt; 	font-size:10.0pt; 	font-family:"Times New Roman","serif";} span.CharStyle1 	{mso-style-name:CharStyle1; 	font-family:"Times New Roman","serif"; 	font-variant:normal !important; 	font-weight:normal; 	font-style:normal;} span.CharStyle2 	{mso-style-name:CharStyle2; 	font-family:"Times New Roman","serif"; 	font-variant:normal !important; 	font-weight:bold; 	font-style:normal;} span.CharStyle3 	{mso-style-name:CharStyle3; 	font-family:"Times New Roman","serif"; 	font-variant:normal !important; 	font-weight:bold; 	font-style:normal;} span.CharStyle4 	{mso-style-name:CharStyle4; 	font-family:"Times New Roman","serif"; 	font-variant:normal !important; 	font-weight:bold; 	font-style:normal;} span.CharStyle5 	{mso-style-name:CharStyle5; 	font-family:"Times New Roman","serif"; 	font-variant:normal !important; 	font-weight:normal; 	font-style:normal;} span.CharStyle10 	{mso-style-name:CharStyle10; 	font-family:"Times New Roman","serif"; 	font-variant:normal !important; 	font-weight:bold; 	font-style:normal;} span.CharStyle28 	{mso-style-name:CharStyle28; 	font-family:"Times New Roman","serif"; 	font-variant:normal !important; 	font-weight:bold; 	font-style:normal;} span.CharStyle33 	{mso-style-name:CharStyle33; 	font-family:"Times New Roman","serif"; 	font-variant:normal !important; 	letter-spacing:1.0pt; 	font-weight:normal; 	font-style:italic;} span.CharStyle38 	{mso-style-name:CharStyle38; 	font-family:"Times New Roman","serif"; 	font-variant:normal !important; 	font-weight:bold; 	font-style:normal;} span.CharStyle43 	{mso-style-name:CharStyle43; 	font-family:"Times New Roman","serif"; 	font-variant:normal !important; 	letter-spacing:.5pt; 	font-weight:bold; 	font-style:normal;} span.CharStyle47 	{mso-style-name:CharStyle47; 	font-family:"Times New Roman","serif"; 	font-variant:normal !important; 	font-weight:bold; 	font-style:italic;} span.HeaderChar 	{mso-style-name:"Header Char"; 	mso-style-link:Header;} span.FooterChar 	{mso-style-name:"Footer Char"; 	mso-style-link:Footer;} span.BalloonTextChar 	{mso-style-name:"Balloon Text Char"; 	mso-style-link:"Balloon Text"; 	font-family:"Tahoma","sans-serif";} .MsoChpDefault 	{font-family:"Calibri","sans-serif";} .MsoPapDefault 	{margin-bottom:10.0pt; 	line-height:115%;}  /* Page Definitions */  @page WordSection1 	{size:595.3pt 841.9pt; 	margin:72.0pt 72.0pt 72.0pt 72.0pt;} div.WordSection1 	{page:WordSection1;} --> </style><div lang="EN-US">  <div class="WordSection1">  <p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt; text-align:center;line-height:normal"><span style="font-size:18.0pt;font-family: &quot;Times New Roman&quot;,&quot;serif&quot;">CELLULOSE ACETATE FLAKE BOUNTY.</span></p>  <div style="border:none;border-bottom:solid windowtext 1.0pt;padding:0cm 0cm 1.0pt 0cm; margin-left:194.4pt;margin-right:187.2pt">  <p class="MsoNormal" align="center" style="margin-top:6.0pt;margin-right:0cm; margin-bottom:6.0pt;margin-left:0cm;text-align:center;line-height:normal; border:none;padding:0cm"><span style="font-size:1.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p>  </div>  <p class="MsoNormal" align="center" style="text-align:center;line-height:normal"><b><span style="font-size:14.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">No. 38 of 1956.</span></b></p>  <p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm; margin-left:21.6pt;margin-bottom:.0001pt;text-align:justify;text-justify:inter-ideograph; text-indent:-21.6pt;line-height:normal"><span style="font-size:13.0pt; font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">An Act to provide for the Payment of a Bounty on the Production of certain Cellulose Acetate Flake.</span></p>  <p class="MsoNormal" align="right" style="margin-top:6.0pt;margin-right:0cm; margin-bottom:6.0pt;margin-left:0cm;text-align:right;line-height:normal"><span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">[Assented to 27th June, 1956.]</span></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align: justify;text-justify:inter-ideograph;line-height:normal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">BE it enacted by the Queen’s Most Excellent Majesty, the Senate, and the House of Representatives of the Commonwealth of Australia, for the purpose of appropriating the grant originated in the House of Representatives, as follows:—</span></p>  <p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:3.0pt; margin-left:0cm;text-align:justify;text-justify:inter-ideograph;line-height: normal"><b><span style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Short title.</span></b></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align: justify;text-justify:inter-ideograph;text-indent:21.6pt;line-height:normal"><b><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.</span></b><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp; This Act may be cited as the <i>Cellulose Acetate Flake Bounty Act </i>1956.</span></p>  <p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:3.0pt; margin-left:0cm;text-align:justify;text-justify:inter-ideograph;line-height: normal"><b><span style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Commencement.</span></b></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align: justify;text-justify:inter-ideograph;text-indent:21.6pt;line-height:normal"><b><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2.</span></b><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp; This Act shall come into operation on the day on which it receives the Royal Assent.</span></p>  <p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:3.0pt; margin-left:0cm;text-align:justify;text-justify:inter-ideograph;line-height: normal"><b><span style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Definitions.</span></b></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align: justify;text-justify:inter-ideograph;text-indent:21.6pt;line-height:normal"><b><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">3.</span></b><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp; In this Act, unless the contrary intention appears—</span></p>  <p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm; margin-left:50.4pt;margin-bottom:.0001pt;text-align:justify;text-justify:inter-ideograph; text-indent:-21.6pt;line-height:normal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">“authorized person” means a person appointed by the Minister under section eleven of this Act to be an authorized person for the purposes of the provision in which the expression occurs;</span></p>  <p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm; margin-left:50.4pt;margin-bottom:.0001pt;text-align:justify;text-justify:inter-ideograph; text-indent:-21.6pt;line-height:normal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">“bounty” means bounty under this Act;</span></p>  <p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm; margin-left:50.4pt;margin-bottom:.0001pt;text-align:justify;text-justify:inter-ideograph; text-indent:-21.6pt;line-height:normal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">“Collector” means Collector of Customs for a State;</span></p>  <p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm; margin-left:50.4pt;margin-bottom:.0001pt;text-align:justify;text-justify:inter-ideograph; text-indent:-21.6pt;line-height:normal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">“factory” means premises registered by the Minister as a factory under section ten of this Act;</span></p>  <p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm; margin-left:50.4pt;margin-bottom:.0001pt;text-align:justify;text-justify:inter-ideograph; text-indent:-21.6pt;line-height:normal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">“the Comptroller-General” means the Comptroller-General of Customs;</span></p>  <p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm; margin-left:50.4pt;margin-bottom:.0001pt;text-align:justify;text-justify:inter-ideograph; text-indent:-21.6pt;line-height:normal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">“year to which this Act applies” means the year that commenced on the first day of July, One thousand nine hundred and fifty-five, or either of the next two succeeding years.</span></p>  <p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:3.0pt; margin-left:0cm;text-align:justify;text-justify:inter-ideograph;line-height: normal"><b><span style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Appropriation.</span></b></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align: justify;text-justify:inter-ideograph;text-indent:21.6pt;line-height:normal"><b><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">4.</span></b><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp; The bounty specified in this Act is payable out of the Consolidated Revenue Fund, which is appropriated accordingly.</span></p>  <p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:3.0pt; margin-left:0cm;text-align:justify;text-justify:inter-ideograph;line-height: normal"><b><span style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Specification of bounty.</span></b></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align: justify;text-justify:inter-ideograph;text-indent:21.6pt;line-height:normal"><b><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">5.</span></b><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp; The bounty is payable in respect of cellulose acetate flake produced at a factory and, in a year to which this Act applies, sold for use in the manufacture in Australia of cellulose acetate rayon yarn.</span></p>  <p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:3.0pt; margin-left:0cm;text-align:justify;text-justify:inter-ideograph;line-height: normal"><b><span style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">To whom bounty payable.</span></b></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align: justify;text-justify:inter-ideograph;text-indent:21.6pt;line-height:normal"><b><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">6.&nbsp; </span></b><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Bounty is payable to the producer of the cellulose acetate flake.</span></p>  <p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:3.0pt; margin-left:0cm;text-align:justify;text-justify:inter-ideograph;line-height: normal"><b><span style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Rate of bounty.</span></b></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align: justify;text-justify:inter-ideograph;text-indent:21.6pt;line-height:normal"><b><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">7.</span></b><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp; The rate of the bounty is Tenpence per pound of cellulose acetate flake.</span></p>  <b><span style="font-size:10.0pt;line-height:115%;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><br clear="all" style="page-break-before:always"> </span></b>  <p class="MsoNormal"><b><span style="font-size:10.0pt;line-height:115%; font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></b></p>  <p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:3.0pt; margin-left:0cm;text-align:justify;text-justify:inter-ideograph;line-height: normal"><b><span style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Limit of annual bounty.</span></b></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align: justify;text-justify:inter-ideograph;text-indent:21.6pt;line-height:normal"><b><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">8.</span></b><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">—(1.)&nbsp; The amount available for payment of bounty in respect of cellulose acetate flake sold in each year to which this Act applies is One hundred and forty-two thousand pounds.</span></p>  <p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:6.0pt; margin-left:0cm;text-align:justify;text-justify:inter-ideograph;text-indent: 21.6pt;line-height:normal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">(2.)&nbsp; Where the amount available for the payment of bounty in respect of cellulose acetate flake sold in a year to which this Act applies is insufficient for the payment in full of all valid claims, the bounty otherwise payable in respect of each of those claims shall be reduced to an amount which bears the same proportion to the amount of the claim as the amount so available bears to the total amount of all such claims.</span></p>  <p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:6.0pt; margin-left:0cm;text-align:justify;text-justify:inter-ideograph;text-indent: 21.6pt;line-height:normal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">(3.)&nbsp; If the Minister is of the opinion that the amount available for the payment of bounty in respect of cellulose acetate flake sold in a year to which this Act applies will be insufficient for the payment in full of all valid claims, he may withhold payment of the whole or any part of the bounty otherwise payable upon any such claim until he has ascertained the total amount of all such claims.</span></p>  <p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:3.0pt; margin-left:0cm;text-align:justify;text-justify:inter-ideograph;line-height: normal"><b><span style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Good quality essential.</span></b></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align: justify;text-justify:inter-ideograph;text-indent:21.6pt;line-height:normal"><b><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">9.</span></b><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp; Bounty shall not be paid in respect of any cellulose acetate flake unless the Comptroller-General is satisfied that it is of good and merchantable quality.</span></p>  <p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:3.0pt; margin-left:0cm;text-align:justify;text-justify:inter-ideograph;line-height: normal"><b><span style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Registration of factories.</span></b></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align: justify;text-justify:inter-ideograph;text-indent:21.6pt;line-height:normal"><b><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">10.</span></b><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">—(1.)&nbsp;&nbsp; A person may apply to the Minister for the registration as a factory of premises at which he carries on, or proposes to carry on, the production of cellulose acetate flake.</span></p>  <p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:6.0pt; margin-left:0cm;text-align:justify;text-justify:inter-ideograph;text-indent: 21.6pt;line-height:normal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">(2.)&nbsp; The Minister may require an applicant under this section to furnish such information as the Minister considers necessary for the purposes of this Act, and may refuse to register the premises until the information is furnished to his satisfaction.</span></p>  <p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:6.0pt; margin-left:0cm;text-align:justify;text-justify:inter-ideograph;text-indent: 21.6pt;line-height:normal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">(3.)&nbsp; Subject to the last preceding sub-section, if, in the opinion of the Minister, cellulose acetate flake is, or is proposed to be, produced in accordance with the prescribed conditions (if any) at the premises in respect of which the application is made, he shall register those premises as a factory for the purposes of this Act.</span></p>  <p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:6.0pt; margin-left:0cm;text-align:justify;text-justify:inter-ideograph;text-indent: 21.6pt;line-height:normal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">(4.)&nbsp; Where the Minister is satisfied that cellulose acetate flake is not being produced at a factory, or is not being so produced in accordance with the prescribed conditions (if any), he may, by notice in writing served by post on the occupier of the factory, cancel the registration of the factory.</span></p>  <p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:6.0pt; margin-left:0cm;text-align:justify;text-justify:inter-ideograph;text-indent: 21.6pt;line-height:normal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">(5.)&nbsp; If the Minister so determines, the registration of a factory shall be deemed to have taken effect from a date specified by the Minister, being a date before the date upon which the registration is effected.</span></p>  <p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:3.0pt; margin-left:0cm;text-align:justify;text-justify:inter-ideograph;line-height: normal"><b><span style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Appointment of authorized persons.</span></b></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align: justify;text-justify:inter-ideograph;text-indent:21.6pt;line-height:normal"><b><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">11.</span></b><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"> The Minister may, by writing under his hand, appoint a person to be an authorized person for the purposes of a provision of this Act.</span></p>  <b><span style="font-size:10.0pt;line-height:115%;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><br clear="all" style="page-break-before:always"> </span></b>  <p class="MsoNormal"><b><span style="font-size:10.0pt;line-height:115%; font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></b></p>  <p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:3.0pt; margin-left:0cm;text-align:justify;text-justify:inter-ideograph;line-height: normal"><b><span style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Stocktaking and inspection of production and accounts.</span></b></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align: justify;text-justify:inter-ideograph;text-indent:21.6pt;line-height:normal"><b><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">12.</span></b><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">—(1.)&nbsp;&nbsp; An authorized person may, at all reasonable times, enter a factory, or premises where cellulose acetate flake in respect of which bounty has been paid or claimed is stored, and may—</span></p>  <p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm; margin-left:43.2pt;margin-bottom:.0001pt;text-align:justify;text-justify:inter-ideograph; text-indent:-21.6pt;line-height:normal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">(<i>a</i>) inspect or take stock of any cellulose acetate flake;</span></p>  <p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm; margin-left:43.2pt;margin-bottom:.0001pt;text-align:justify;text-justify:inter-ideograph; text-indent:-21.6pt;line-height:normal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">(<i>b</i>) inspect the processes of production of cellulose acetate flake;</span></p>  <p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm; margin-left:43.2pt;margin-bottom:.0001pt;text-align:justify;text-justify:inter-ideograph; text-indent:-21.6pt;line-height:normal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">(<i>c</i>) take samples of cellulose acetate flake; and</span></p>  <p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm; margin-left:52.75pt;margin-bottom:.0001pt;text-align:justify;text-justify:inter-ideograph; text-indent:-31.2pt;line-height:normal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">(<i>d</i>) inspect the accounts, books and documents relating to the production and sale of cellulose acetate flake.</span></p>  <p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:6.0pt; margin-left:0cm;text-align:justify;text-justify:inter-ideograph;text-indent: 21.6pt;line-height:normal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">(2.)&nbsp; The producer and the owner or occupier of the factory or premises shall provide the authorized person with all reasonable facilities and assistance for the effective exercise of his powers under this section.</span></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align: justify;text-justify:inter-ideograph;text-indent:21.6pt;line-height:normal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Penalty: Fifty pounds.</span></p>  <p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:3.0pt; margin-left:0cm;text-align:justify;text-justify:inter-ideograph;line-height: normal"><b><span style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Power to require persons to answer questions and produce documents.</span></b></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align: justify;text-justify:inter-ideograph;text-indent:21.6pt;line-height:normal"><b><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">13.</span></b><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">—(1.)&nbsp;&nbsp; The Comptroller-General, a Collector or an authorized person may, by notice in writing, require a person whom he believes to be capable of giving information, relevant to the operation of this Act, in relation to the production, storage or sale of cellulose acetate flake to attend before him at the time and place specified in the notice and then and there to answer questions and to produce to him such accounts, books and documents in relation to the production, storage or sale of cellulose acetate flake as are referred to in the notice.</span></p>  <p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:6.0pt; margin-left:0cm;text-align:justify;text-justify:inter-ideograph;text-indent: 21.6pt;line-height:normal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">(2.)&nbsp; The Comptroller-General, the Collector or the authorized person to whom any accounts, books or documents are produced in pursuance of this section may make and retain copies of, or extracts from, those accounts, books or documents.</span></p>  <p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:6.0pt; margin-left:0cm;text-align:justify;text-justify:inter-ideograph;text-indent: 21.6pt;line-height:normal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">(3.)&nbsp; A person is not excused from answering a question or producing any accounts, books or documents when required so to do under this section on the ground that the answer to the question or the production of the accounts, books or documents might tend to incriminate him or make him liable to a penalty, but his answer to any such question is not admissible in evidence against him in proceedings other than proceedings for an offence against paragraph (<i>c</i>) of section fifteen, or paragraph (<i>c</i>) of sub-section (1.) of section eighteen, of this Act.</span></p>  <p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:6.0pt; margin-left:0cm;text-align:justify;text-justify:inter-ideograph;text-indent: 21.6pt;line-height:normal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">(4.)&nbsp; Where a producer or a person employed by a producer has failed to attend or to answer a question, or to produce any account, book or document, when required so to do under this section, the Minister may, if he thinks fit, withhold payment of any bounty payable to the producer until the producer or that person has attended, answered the question or produced the account, book or document, as the case may be.</span></p>  <p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:3.0pt; margin-left:0cm;text-align:justify;text-justify:inter-ideograph;line-height: normal"><b><span style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Power to examine on oath.</span></b></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align: justify;text-justify:inter-ideograph;text-indent:21.6pt;line-height:normal"><b><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">14.</span></b><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">—(1.)&nbsp;&nbsp; The Comptroller-General, a Collector or an authorized person may administer an oath to a person required to attend before him in pursuance of the last preceding section and may examine that person on oath.</span></p>  <span style="font-size:11.0pt;line-height:115%;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><br clear="all" style="page-break-before:always"> </span>  <p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p>  <p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:6.0pt; margin-left:0cm;text-align:justify;text-justify:inter-ideograph;text-indent: 21.6pt;line-height:normal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">(2.)&nbsp; Where any such person conscientiously objects to take an oath, he may make an affirmation that he conscientiously objects to take an oath and that he will state the truth, the whole truth and nothing but the truth to all questions asked him.</span></p>  <p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:6.0pt; margin-left:0cm;text-align:justify;text-justify:inter-ideograph;text-indent: 21.6pt;line-height:normal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">(3.)&nbsp; An affirmation so made is of the same force and effect, and entails the same penalities, as an oath.</span></p>  <p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:3.0pt; margin-left:0cm;text-align:justify;text-justify:inter-ideograph;line-height: normal"><b><span style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Penalty for refusing to answer questions, &amp;c.</span></b></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align: justify;text-justify:inter-ideograph;text-indent:21.6pt;line-height:normal"><b><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">15.</span></b><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"> A person shall not refuse or fail—</span></p>  <p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm; margin-left:43.2pt;margin-bottom:.0001pt;text-align:justify;text-justify:inter-ideograph; text-indent:-21.6pt;line-height:normal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">(<i>a</i>) to attend before the Comptroller-General, a Collector or an authorized person;</span></p>  <p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm; margin-left:43.2pt;margin-bottom:.0001pt;text-align:justify;text-justify:inter-ideograph; text-indent:-21.6pt;line-height:normal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">(<i>b</i>) to be sworn or to make an affirmation; or</span></p>  <p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm; margin-left:43.2pt;margin-bottom:.0001pt;text-align:justify;text-justify:inter-ideograph; text-indent:-21.6pt;line-height:normal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">(<i>c</i>) to answer a question or produce an account, book or document,</span></p>  <p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm; margin-left:1.0cm;margin-bottom:.0001pt;text-align:justify;text-justify:inter-ideograph; text-indent:-21.6pt;line-height:normal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">when so required in pursuance of this Act.</span></p>  <p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm; margin-left:-5.65pt;margin-bottom:.0001pt;text-align:justify;text-justify:inter-ideograph; text-indent:21.6pt;line-height:normal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Penalty: Fifty pounds.</span></p>  <p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:3.0pt; margin-left:0cm;text-align:justify;text-justify:inter-ideograph;line-height: normal"><b><span style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Security for compliance with Act.</span></b></p>  <p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:6.0pt; margin-left:0cm;text-align:justify;text-justify:inter-ideograph;text-indent: 21.6pt;line-height:normal"><b><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">16.</span></b><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;&nbsp; The Minister may require a producer to give security by bond, guarantee or cash deposit, or by all or any of those methods, for compliance by him with the provisions of this Act and the regulations or for the performance of an undertaking given by him for the purposes of this Act or the regulations, and the producer shall give security accordingly.</span></p>  <p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:3.0pt; margin-left:0cm;text-align:justify;text-justify:inter-ideograph;line-height: normal"><b><span style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Bounty not payable unless Act complied with.</span></b></p>  <p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:6.0pt; margin-left:0cm;text-align:justify;text-justify:inter-ideograph;text-indent: 21.6pt;line-height:normal"><b><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">17.&nbsp;&nbsp; </span></b><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Bounty is not payable to a producer unless he satisfies the Minister that the requirements of this Act and the regulations have been substantially complied with.</span></p>  <p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:3.0pt; margin-left:0cm;text-align:justify;text-justify:inter-ideograph;line-height: normal"><b><span style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Offences.</span></b></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align: justify;text-justify:inter-ideograph;text-indent:21.6pt;line-height:normal"><b><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">18.</span></b><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">—(1.)&nbsp;&nbsp; A person shall not—</span></p>  <p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm; margin-left:43.2pt;margin-bottom:.0001pt;text-align:justify;text-justify:inter-ideograph; text-indent:-21.6pt;line-height:normal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">(<i>a</i>) obtain bounty which is not payable;</span></p>  <p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm; margin-left:43.2pt;margin-bottom:.0001pt;text-align:justify;text-justify:inter-ideograph; text-indent:-21.6pt;line-height:normal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">(<i>b</i>) obtain payment of bounty by means of a false or misleading statement; or</span></p>  <p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm; margin-left:43.2pt;margin-bottom:.0001pt;text-align:justify;text-justify:inter-ideograph; text-indent:-21.6pt;line-height:normal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">(<i>c</i>) present to an officer or other person doing duty in relation to this Act or the regulations an account, book or document, or make to such an officer or person a statement, which is false or misleading in a particular.</span></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align: justify;text-justify:inter-ideograph;text-indent:21.6pt;line-height:normal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Penalty: Five hundred pounds or imprisonment for twelve months.</span></p>  <p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:6.0pt; margin-left:0cm;text-align:justify;text-justify:inter-ideograph;text-indent: 21.6pt;line-height:normal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">(2.)&nbsp; Where a person is convicted under the last preceding sub-section, the court may, in addition to imposing a penalty under that sub-section, order the person to refund to the Commonwealth the amount of any bounty wrongfully obtained.</span></p>  <p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:6.0pt; margin-left:0cm;text-align:justify;text-justify:inter-ideograph;text-indent: 21.6pt;line-height:normal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">(3.)&nbsp; Where a court has made an order under the last preceding sub-section, a certificate under the hand of the clerk or other appropriate officer of the court, specifying the amount ordered to be refunded and the person by whom the amount is payable, may be filed in a court having civil jurisdiction to the extent of that amount and is thereupon enforceable in all respects as a final judgment of that court.</span></p>  <b><span style="font-size:10.0pt;line-height:115%;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><br clear="all" style="page-break-before:always"> </span></b>  <p class="MsoNormal"><b><span style="font-size:10.0pt;line-height:115%; font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></b></p>  <p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:3.0pt; margin-left:0cm;text-align:justify;text-justify:inter-ideograph;line-height: normal"><b><span style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Return for Parliament.</span></b></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align: justify;text-justify:inter-ideograph;text-indent:21.6pt;line-height:normal"><b><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">19.</span></b><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">—(1.)&nbsp;&nbsp; The Comptroller-General shall, as soon as practicable after the end of each year to which this Act applies, furnish to the Minister a return setting forth—</span></p>  <p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm; margin-left:49.9pt;margin-bottom:.0001pt;text-align:justify;text-justify:inter-ideograph; text-indent:-1.0cm;line-height:normal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">(<i>a</i>) the name and address of each producer to whom bounty was paid in respect of cellulose acetate flake sold in that year;</span></p>  <p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm; margin-left:49.9pt;margin-bottom:.0001pt;text-align:justify;text-justify:inter-ideograph; text-indent:-1.0cm;line-height:normal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">(<i>b</i>) the quantity of cellulose acetate flake in respect of which bounty was paid to each producer;</span></p>  <p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm; margin-left:49.9pt;margin-bottom:.0001pt;text-align:justify;text-justify:inter-ideograph; text-indent:-1.0cm;line-height:normal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">(<i>c</i>) the amount of bounty paid to each producer; and</span></p>  <p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm; margin-left:49.9pt;margin-bottom:.0001pt;text-align:justify;text-justify:inter-ideograph; text-indent:-1.0cm;line-height:normal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">(<i>d</i>) such other particulars (if any) as are prescribed.</span></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align: justify;text-justify:inter-ideograph;text-indent:21.6pt;line-height:normal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">(2.) The Minister shall cause a copy of the return to be tabled in each House of the Parliament within fifteen sitting days of that House after the return is received by him.</span></p>  <p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:3.0pt; margin-left:0cm;text-align:justify;text-justify:inter-ideograph;line-height: normal"><b><span style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Regulations.</span></b></p>  <p class="MsoNormal" style="margin-top:6.0pt;margin-right:0cm;margin-bottom:6.0pt; margin-left:0cm;text-align:justify;text-justify:inter-ideograph;text-indent: 21.6pt;line-height:normal"><b><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">20.</span></b><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;&nbsp; The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters which by this Act are required or permitted to be prescribed, or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and in particular for prescribing—</span></p>  <p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm; margin-left:49.9pt;margin-bottom:.0001pt;text-align:justify;text-justify:inter-ideograph; text-indent:-1.0cm;line-height:normal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">(<i>a</i>) the form and manner in which, and the time within which, applications for bounty shall be made;</span></p>  <p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm; margin-left:49.9pt;margin-bottom:.0001pt;text-align:justify;text-justify:inter-ideograph; text-indent:-1.0cm;line-height:normal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">(<i>b</i>) the notice to be given by producers of their intention to claim bounty; and</span></p>  <p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm; margin-left:49.9pt;margin-bottom:.0001pt;text-align:justify;text-justify:inter-ideograph; text-indent:-1.0cm;line-height:normal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">(<i>c</i>) penalties not </span><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">exceeding</span><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"> Fifty pounds for breaches of the regulations.</span></p>  <div style="border:none;border-bottom:solid windowtext 1.0pt;padding:0cm 0cm 1.0pt 0cm; margin-left:158.4pt;margin-right:180.0pt">  <p class="Style46" align="center" style="margin-top:12.0pt;text-align:center; border:none;padding:0cm"><span lang="EN-IN" style="font-size:11.0pt">&nbsp;</span></p>  </div>  </div>  </div>
+
+
+			</div>
+                                        
+		</div>
+                                        
+                                        <div class="default">
+                                        </div>
+                                 </div>
+                            
+	</div><input id="ctl00_MainContent_RadMultiPage1_ClientState" name="ctl00_MainContent_RadMultiPage1_ClientState" type="hidden" autocomplete="off">
+</div>
+                </div>
+        </div>
+        <div class="clear-float"></div>
+        </div>
+    </section>
+
+    <div style="background-color: White">
+        
+       
+
+    </div>
+
+
+    <noscript>
+
+            
+
+    </noscript>
+
+   
+
+
+
+                    </section>
+             
+                </div>
+                
+
+                <div class="footer-container">
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+
+    
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadTextBox, {"_displayText":"","_focused":false,"_initialValueAsText":"","_postBackEventReferenceScript":"setTimeout(\"__doPostBack(\\\u0027ctl00$txtRegularSearch\\\u0027,\\\u0027\\\u0027)\", 0)","_skin":"Default","_validationText":"","clientStateFieldID":"ctl00_txtRegularSearch_ClientState","enabled":true,"styles":{HoveredStyle: ["width:160px;", "riTextBox riHover HeaderRegularSearch"],InvalidStyle: ["width:160px;", "riTextBox riError HeaderRegularSearch"],DisabledStyle: ["width:160px;", "riTextBox riDisabled HeaderRegularSearch"],FocusedStyle: ["width:160px;", "riTextBox riFocused HeaderRegularSearch"],EmptyMessageStyle: ["width:160px;", "riTextBox riEmpty HeaderRegularSearch"],ReadOnlyStyle: ["width:160px;", "riTextBox riRead HeaderRegularSearch"],EnabledStyle: ["width:160px;", "riTextBox riEnabled HeaderRegularSearch"]}}, null, null, $get("ctl00_txtRegularSearch"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadMultiPage, {"clientStateFieldID":"ctl00_MainContent_RadMultiPage1_ClientState","pageViewData":[{"id":"MainContent_RadPageDownload"},{"id":"MainContent_RadPagePod"},{"id":"MainContent_RadPageAmends"},{"id":"MainContent_RadPageEnabledBy"},{"id":"MainContent_RadPageModifysEffects"},{"id":"MainContent_RadPageRepeals"},{"id":"MainContent_RadPagePrint"},{"id":"MainContent_RadPageHTML"}],"selectedIndex":7}, null, null, $get("ctl00_MainContent_RadMultiPage1"));
+});
+//]]>
+</script>
+</form> <!-- AD: This form tag is wrapping everything in.-->
+
+        <!-- Google Analytics -->
+    <script type="text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        var googleCode = 'UA-56105577-1';
+        ga('create', googleCode, 'auto', {
+            anonymizeIp: true
+        });
+        ga('send', 'pageview');
+
+    </script>
+    <!-- End Google Analytics -->
+
+    <!--[if IE]>
+        <script src="/Content/Skins/ComlawRefresh/scripts/media.match.min.js"></script>
+    <![endif]-->
+
+    <script src="/Content/Skins/ComlawRefresh/scripts/main.js"></script>
+    <script src="/Content/Skins/ComlawRefresh/scripts/responsive.js"></script>
+
+
+
+    <noscript>
+            <style>
+                .menu-container {position:absolute !important;bottom: auto; z-index: 1;width:160px;}
+                .menu-container .menu-bottom{position:relative !important; text-align: left}
+                .menu-container .menu-bottom a{padding: 14px 15px !important;}
+                .menu li a{padding:10px !important;}
+                .menu li {display:block; }
+                .sub-menu {visibility:visible !important; display:block !important;}
+                .sub-menu li a:link{font-weight:200 !important;}
+            </style>
+    </noscript>
+
+
+<iframe name="_hjRemoteVarsFrame" title="_hjRemoteVarsFrame" id="_hjRemoteVarsFrame" src="https://vars.hotjar.com/box-acca23410e696f2ca3087d947271c3d0.html" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe></body></html>
