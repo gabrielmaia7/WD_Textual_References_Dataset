@@ -9,4 +9,4 @@ all_url_df_*
 
 #python
 .ipynb_checkpoints
-.ipynb_checkpoints/*
+__pycache__
