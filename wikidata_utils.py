@@ -13,6 +13,8 @@ import pdb
 import pickle
 from qwikidata.linked_data_interface import get_entity_dict_from_api
 from qwikidata.sparql import return_sparql_query_results
+import ast
+from datetime import datetime
 
 from urllib3.exceptions import MaxRetryError, ConnectionError
 from qwikidata.linked_data_interface import LdiResponseNotOk
@@ -117,8 +119,8 @@ class CachedWikidataAPI():
                 return ([alias['value'] for alias in aliases[l]], l)
         if non_language_set:
             all_aliases = list(aliases.keys())
-            if len(all_aliases)>0:            
-                return (aliases[all_aliases[0]]['value'], all_aliases[0])
+            if len(all_aliases)>0:          
+                #return (aliases[all_aliases[0]]['value'], all_aliases[0])
                 return ([alias['value'] for alias in aliases[all_aliases[0]]], all_aliases[0])
         return ('no-alias', 'none')
 
@@ -178,4 +180,206 @@ class CachedWikidataAPI():
             except json.JSONDecodeError as e:
                 #pdb.set_trace()
                 print(res, res.__dict__)
-                raise e            
+                raise e         
+                
+    def get_object_label_given_datatype(self, datatype, datavalue):
+        dt = datatype#row['datatype']
+        dv = datavalue#row['datavalue']
+
+        dt_types = ['wikibase-item', 'monolingualtext', 'quantity', 'time', 'string']
+        if dv in ['somevalue', 'novalue']:
+            return (dv, 'no_lan')
+        if dt not in dt_types:
+            print(dt)
+            raise ValueError
+        else:
+            try:
+                if dt == dt_types[0]:
+                    return self.get_label(ast.literal_eval(dv)['value']['id'], True) #get label here
+                elif dt == dt_types[1]:
+                    dv = ast.literal_eval(dv)
+                    return (dv['value']['text'], dv['value']['language'])
+                elif dt == dt_types[2]:
+                    dv = ast.literal_eval(dv)
+                    amount, unit = dv['value']['amount'], dv['value']['unit']
+                    if amount[0] == '+':
+                        amount = amount[1:]
+                    if str(unit) == '1':
+                        return (str(amount), 'en')
+                    else:
+                        unit_entity_id = unit.split('/')[-1]
+                        unit = self.get_label(unit_entity_id, True)#get label here
+                        return (' '.join([amount, unit[0]]), unit[1])
+                elif dt == dt_types[3]:
+                    dv = ast.literal_eval(dv)
+                    time = dv['value']['time']
+                    timezone = dv['value']['timezone']
+                    precision = dv['value']['precision']
+                    assert dv['value']['after'] == 0 and dv['value']['before'] == 0
+
+                    sufix = 'BC' if time[0] == '-' else ''
+                    time = time[1:]
+
+                    if precision == 11: #date
+                        return (datetime.strptime(time, '%Y-%m-%dT00:00:%SZ').strftime('%d/%m/%Y') + sufix, 'en')
+                    elif precision == 10: #month
+                        try:
+                            return (datetime.strptime(time, '%Y-%m-00T00:00:%SZ').strftime("%B of %Y") + sufix, 'en')
+                        except ValueError:
+                            return (datetime.strptime(time, '%Y-%m-%dT00:00:%SZ').strftime("%B of %Y") + sufix, 'en')
+                    elif precision == 9: #year
+                        try:
+                            return (datetime.strptime(time, '%Y-00-00T00:00:%SZ').strftime('%Y') + sufix, 'en')
+                        except ValueError:
+                            return (datetime.strptime(time, '%Y-%m-%dT00:00:%SZ').strftime('%Y') + sufix, 'en')
+                    elif precision == 8: #decade
+                        try:
+                            return (datetime.strptime(time, '%Y-00-00T00:00:%SZ').strftime('%Y')[:-1] +'0s' + sufix, 'en')
+                        except ValueError:
+                            return (datetime.strptime(time, '%Y-%m-%dT00:00:%SZ').strftime('%Y')[:-1] +'0s' + sufix, 'en')
+                    elif precision == 7: #century
+                        try:
+                            parsed_time = datetime.strptime(time, '%Y-00-00T00:00:%SZ')
+                        except ValueError:
+                            parsed_time = datetime.strptime(time, '%Y-%m-%dT00:00:%SZ')
+                        finally:                        
+                            return (self.__turn_to_century_or_millennium(
+                                parsed_time.strftime('%Y'), mode='C'
+                            ) + sufix, 'en')
+                    elif precision == 6: #millennium
+                        try:
+                            parsed_time = datetime.strptime(time, '%Y-00-00T00:00:%SZ')
+                        except ValueError:
+                            parsed_time = datetime.strptime(time, '%Y-%m-%dT00:00:%SZ')
+                        finally:                        
+                            return (self.__turn_to_century_or_millennium(
+                                parsed_time.strftime('%Y'), mode='M'
+                            ) + sufix, 'en')
+                    elif precision == 4: #hundred thousand years 
+                        timeint = int(datetime.strptime(time, '%Y-00-00T00:00:%SZ').strftime('%Y'))
+                        timeint = round(timeint/1e5,1)
+                        return (str(timeint) + 'hundred thousand years' + sufix, 'en')
+                    elif precision == 3: #million years 
+                        timeint = int(datetime.strptime(time, '%Y-00-00T00:00:%SZ').strftime('%Y'))
+                        timeint = round(timeint/1e6,1)
+                        return (str(timeint) + 'million years' + sufix, 'en')
+                    elif precision == 0: #billion years 
+                        timeint = int(datetime.strptime(time, '%Y-00-00T00:00:%SZ').strftime('%Y'))
+                        timeint = round(timeint/1e9,1)
+                        return (str(timeint) + 'billion years' +sufix, 'en')
+                elif dt == dt_types[4]:
+                    return (ast.literal_eval(dv)['value'], 'en')
+            except ValueError as e:
+                pdb.set_trace()
+                raise e
+            
+    def __turn_to_century_or_millennium(self, y, mode):
+        y = str(y)
+        if mode == 'C':
+            div = 100
+            group = int(y.rjust(3, '0')[:-2])
+            mode_name = 'century'
+        elif mode == 'M':
+            div = 1000
+            group = int(y.rjust(4, '0')[:-3])
+            mode_name = 'millenium'
+        else:        
+            raise ValueError('Use mode = C for century and M for millennium')
+
+        if int(y)%div != 0:
+            group += 1
+        group = str(group)
+
+        group_suffix = (
+            'st' if group[-1] == '1' else (
+                'nd' if group[-1] == '2' else (
+                    'rd' if group[-1] == '3' else 'th'
+                )
+            )
+        )
+
+        return ' '.join([group+group_suffix, mode_name])
+    
+    def get_object_desc_given_datatype(self, datatype, datavalue):
+        dt = datatype#row['datatype']
+        dv = datavalue#row['datavalue']
+
+        dt_types = ['wikibase-item', 'monolingualtext', 'quantity', 'time', 'string']
+        if dv in ['somevalue', 'novalue']:
+            return (dv, 'no_lan')
+        if dt not in dt_types:
+            print(dt)
+            raise ValueError
+        else:
+            try:
+                if dt == dt_types[0]:
+                    return self.get_desc(ast.literal_eval(dv)['value']['id']) #get label here
+                elif dt == dt_types[1]:
+                    return ('no-desc', 'none')
+                elif dt == dt_types[2]:
+                    dv = ast.literal_eval(dv)
+                    amount, unit = dv['value']['amount'], dv['value']['unit']
+                    if amount[0] == '+':
+                        amount = amount[1:]
+                    if str(unit) == '1':
+                        return ('no-desc', 'none')
+                    else:
+                        unit_entity_id = unit.split('/')[-1]
+                        return self.get_desc(unit_entity_id)
+                elif dt == dt_types[3]:
+                    return ('no-desc', 'none')
+                elif dt == dt_types[4]:
+                    return ('no-desc', 'none')
+            except ValueError as e:
+                #pdb.set_trace()
+                raise e
+                
+    def get_object_alias_given_datatype(self, datatype, datavalue):
+        dt = datatype#row['datatype']
+        dv = datavalue#row['datavalue']
+
+        dt_types = ['wikibase-item', 'monolingualtext', 'quantity', 'time', 'string']
+        if dv in ['somevalue', 'novalue']:
+            return (dv, 'no_lan')
+        if dt not in dt_types:
+            print(dt)
+            raise ValueError
+        else:
+            try:
+                if dt == dt_types[0]:
+                    return self.get_alias(ast.literal_eval(dv)['value']['id']) #get label here
+                elif dt == dt_types[1]:
+                    return ('no-alias', 'none')
+                elif dt == dt_types[2]:
+                    dv = ast.literal_eval(dv)
+                    amount, unit = dv['value']['amount'], dv['value']['unit']
+                    if amount[0] == '+':
+                        amount = amount[1:]
+                    if str(unit) == '1':
+                        return ('no-alias', 'none')
+                    else:
+                        unit_entity_id = unit.split('/')[-1]
+                        return amount + ' ' + self.get_alias(unit_entity_id)
+                elif dt == dt_types[3]:
+                    dv = ast.literal_eval(dv)
+                    time = dv['value']['time']
+                    timezone = dv['value']['timezone']
+                    precision = dv['value']['precision']
+                    assert dv['value']['after'] == 0 and dv['value']['before'] == 0
+
+                    sufix = 'BC' if time[0] == '-' else ''
+                    time = time[1:]
+
+                    if precision == 11: #date
+                        return ([
+                            datetime.strptime(time, '%Y-%m-%dT00:00:%SZ').strftime('%-d of %B, %Y') + sufix,
+                            datetime.strptime(time, '%Y-%m-%dT00:00:%SZ').strftime('%d/%m/%Y (dd/mm/yyyy)') + sufix,
+                            datetime.strptime(time, '%Y-%m-%dT00:00:%SZ').strftime('%b %-d, %Y') + sufix
+                        ], 'en')
+                    else: #month
+                        return ('no-alias', 'none')
+                elif dt == dt_types[4]:
+                    return ('no-alias', 'none')
+            except ValueError as e:
+                #pdb.set_trace()
+                raise e
