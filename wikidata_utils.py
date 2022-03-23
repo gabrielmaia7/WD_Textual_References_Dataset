@@ -355,11 +355,13 @@ class CachedWikidataAPI():
                     amount, unit = dv['value']['amount'], dv['value']['unit']
                     if amount[0] == '+':
                         amount = amount[1:]
+                        
                     if str(unit) == '1':
                         return ('no-alias', 'none')
                     else:
                         unit_entity_id = unit.split('/')[-1]
-                        return amount + ' ' + self.get_alias(unit_entity_id)
+                        unit_alias = self.get_alias(unit_entity_id)
+                        return ([(amount + ' ' + u) for u in unit_alias[0]], unit_alias[1])
                 elif dt == dt_types[3]:
                     dv = ast.literal_eval(dv)
                     time = dv['value']['time']
